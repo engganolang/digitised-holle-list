@@ -46,13 +46,13 @@ bibliography: references.bib
 csl: unified-style-sheet-for-linguistics.csl
 ---
 
-<br><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank"><img src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" alt="Creative Commons License" style="border-width:0"/></a> <a href="https://doi.org/10.5281/zenodo.7972274" target="_blank"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.7972274.svg" alt="DOI"></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<br><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank"><img src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" alt="Creative Commons License" style="border-width:0"/></a> <a href="https://doi.org/10.5281/zenodo.7972274" target="_blank"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.7972274.svg" alt="DOI"/></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 ## Introduction {#sec-intro}
 
 The Holle List (hereafter HL) consists of approximately 1000 lexical items designed by K. F. Holle (1829-1896), an "eminent authority and lover of the Netherlands Indies and their people" [@holleli1980, 1]. The HL was prepared to be dispersed across the Indonesian archipelago to gather knowledge about the linguistic situation of Indonesia, the then Dutch colony.
 
-The HL exists in three variants (versions 1894, 1904/1911, and 1931) differing slightly in content and the order of the items. The HL in this [`engganolang`](https://github.com/engganolang/digitised-holle-list) GitHub repository is the "new basic list (NBL)" set up by Stokhof [-@holleli1980, 17] "to facilitate comparative work" across the three different variants of the HL (see @fig-table for the interactive version and the [raw file here](https://github.com/engganolang/digitised-holle-list/blob/main/data/digitised-holle-list-in-stokhof-1980.tsv)). The NBL captures all lexical items appearing in the three variants of the HL, except those items "which never or hardly ever appeared to be filled in by the researchers" [@holleli1980, 17]. These exception items appear as footnotes in the word list of each target language.
+The HL exists in three variants (versions 1894, 1904/1911, and 1931) differing slightly in content and the order of the items. The HL in this [`engganolang`](https://github.com/engganolang/digitised-holle-list) GitHub repository is the "new basic list (NBL)" set up by Stokhof [-@holleli1980, 17, 22-72] "to facilitate comparative work" across the three different variants of the HL (see @fig-table for the interactive version and the [raw file here](https://github.com/engganolang/digitised-holle-list/blob/main/data/digitised-holle-list-in-stokhof-1980.tsv)). The NBL captures all lexical items appearing in the three variants of the HL, except those items "which never or hardly ever appeared to be filled in by the researchers" [@holleli1980, 17]. These exception items appear as footnotes in the word list of each target language.
 
 ## The rationale for the digitisation of the Holle List {#sec-rational}
 
@@ -70,12 +70,12 @@ An additional column after the `Swadesh` column is the `Swadesh_orig` column. It
 
 We hope that the digitised NBL of the Holle List can be helpful for, and escalate the workflow of, other researchers with computational orientation. Readers/users are also encouraged to check the original PDF list in Stokhof [-@holleli1980].
 
+
+
 ```{r}
 #| message: false
 #| warning: false
 #| echo: false
-#| fig-cap: The digitised, new basic list of the Holle List in Stokhof [-@holleli1980]
-#| label: fig-table
 
 # code to process the digitised Holle's list in Stokhof and Almanar (1987)
 # load the package =====
@@ -98,13 +98,32 @@ holle_tb <- read_xlsx("data/stokhof_1980_holle_lists_v1.xlsx",
 holle_tb |> 
   write_tsv("data/digitised-holle-list-in-stokhof-1980.tsv",
             na = "")
+```
+
+::: {.column-page}
+
+::: {.panel-tabset}
+
+### The new basic list (NBL)
+
+```{r}
+#| fig-cap: The digitised, new basic list of the Holle List in Stokhof [-@holleli1980, 22-72]
+#| label: fig-table
+
+#| message: false
+#| warning: false
+#| echo: false
+
+
 holle_tb |> 
   reactable(style = list(fontFamily = "Canela Text"),
+            elementId = "digitised-holle-list",
             filterable = TRUE,
             highlight = TRUE,
             resizable = TRUE,
             bordered = TRUE,
             borderless = TRUE,
+            defaultPageSize = 20,
             wrap = FALSE,
             columns = list(
               Index = colDef(align = "center",
@@ -118,4 +137,83 @@ holle_tb |>
               Swadesh = colDef(align = "center"),
               Swadesh_orig = colDef(minWidth = 150)
             ))
+
 ```
+
+### Additional list (1904/1911 edition)
+
+```{r}
+#| fig-cap: The additional list from the 1904/1911 edition [@holleli1980, 73-74]
+#| label: fig-1904
+
+#| message: false
+#| warning: false
+#| echo: false
+
+
+holle_1904_tb <- read_xlsx("data/stokhof_1980_holle_lists_v1.xlsx", 
+                      sheet = 4)
+holle_1904_tb |> 
+  write_tsv("data/digitised-holle-list-in-stokhof-1980-add-1904.tsv",
+            na = "")
+
+holle_1904_tb |> 
+  reactable(style = list(fontFamily = "Canela Text"),
+            elementId = "1904-edition",
+            filterable = TRUE,
+            highlight = TRUE,
+            resizable = TRUE,
+            bordered = TRUE,
+            borderless = TRUE,
+            defaultPageSize = 10,
+            wrap = FALSE,
+            columns = list(
+              Index = colDef(align = "center",
+                             sticky = "left"),
+              Dutch = colDef(minWidth = 150),
+              English = colDef(minWidth = 150),
+              Indonesian = colDef(minWidth = 150)
+            ))
+
+```
+
+
+### Additional list (1931 edition)
+
+```{r}
+#| fig-cap: The additional list from the 1931 edition [@holleli1980, 72-73]
+#| label: fig-1930
+
+#| message: false
+#| warning: false
+#| echo: false
+
+
+holle_1931_tb <- read_xlsx("data/stokhof_1980_holle_lists_v1.xlsx", 
+                      sheet = 3)
+holle_1931_tb |> 
+  write_tsv("data/digitised-holle-list-in-stokhof-1980-add-1931.tsv",
+            na = "")
+holle_1931_tb |> 
+  reactable(style = list(fontFamily = "Canela Text"),
+            elementId = "1931-edition",
+            filterable = TRUE,
+            highlight = TRUE,
+            resizable = TRUE,
+            bordered = TRUE,
+            borderless = TRUE,
+            defaultPageSize = 10,
+            wrap = FALSE,
+            columns = list(
+              Index = colDef(align = "center",
+                             sticky = "left"),
+              Dutch = colDef(minWidth = 150),
+              English = colDef(minWidth = 150),
+              Indonesian = colDef(minWidth = 150)
+            ))
+
+```
+
+::: 
+
+:::
