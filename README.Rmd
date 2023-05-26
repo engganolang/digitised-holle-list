@@ -19,8 +19,12 @@ knitr::opts_chunk$set(
 
 <!-- badges: start -->
 
-<br><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" alt="Creative Commons License" style="border-width:0"/></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<br><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank"><img src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" alt="Creative Commons License" style="border-width:0"/></a> <a href="https://doi.org/10.5281/zenodo.7972274" target="_blank"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.7972274.svg" alt="DOI"></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 <!-- badges: end -->
+
+Please cite as:
+
+> Rajeg, Gede Primahadi Wijaya. (2023). Digitised, searchable Holle List in Stokhof (1980) (1.0.0). Zenodo. https://doi.org/10.5281/zenodo.7972274
 
 ## Reference
