@@ -27,4 +27,6 @@ Please cite as:
 
 > Rajeg, Gede Primahadi Wijaya. (2023). Digitised, searchable Holle List in Stokhof (1980) (1.0.0). Zenodo. https://doi.org/10.5281/zenodo.7972274
 
+The digitised, Holle List table is available for download from within the [`data`](https://github.com/engganolang/digitised-holle-list/tree/main/data) directory as a [tab-separated file](https://github.com/engganolang/digitised-holle-list/blob/main/data/digitised-holle-list-in-stokhof-1980.tsv).
+
 ## Reference
