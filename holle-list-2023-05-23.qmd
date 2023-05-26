@@ -23,7 +23,6 @@ affiliations:
 title-prefix: "Holle List"
 date: 2023-05-23
 date-modified: now
-toc: true
 crossref: 
   fig-title: "**Table**"
   fig-prefix: "Table"
@@ -36,8 +35,12 @@ number-sections: true
 google-scholar: true
 appendix-cite-as: display
 license: "CC BY-SA"
+doi: 10.5281/zenodo.7972274
+cap-location: top
 format: 
   html:
+    toc: true
+    toc-location: right
     theme:
       - default
       - custom.scss
@@ -46,7 +49,7 @@ bibliography: references.bib
 csl: unified-style-sheet-for-linguistics.csl
 ---
 
-<br><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank"><img src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" alt="Creative Commons License" style="border-width:0"/></a> <a href="https://doi.org/10.5281/zenodo.7972274" target="_blank"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.7972274.svg" alt="DOI"/></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<br>[![](file-oxweb-logo.gif){width="84"}](https://www.ox.ac.uk/) [![](file-lingphil.png){width="83"}](https://www.ling-phil.ox.ac.uk/) [![Arts and Humanities Research Council](file-ahrc.png){width="325"}](https://www.ukri.org/councils/ahrc/) <br><br><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank"><img src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" alt="Creative Commons License" style="border-width:0"/></a> <a href="https://doi.org/10.5281/zenodo.7972274" target="_blank"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.7972274.svg" alt="DOI"/></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 ## Introduction {#sec-intro}
 
@@ -69,8 +72,6 @@ We added several new columns after the version years columns. One of these is th
 An additional column after the `Swadesh` column is the `Swadesh_orig` column. It lists the English forms/labels given in the Swadesh appendix [@holleli1980, 141-143], which could be phrased differently in the `English` column in the NBL. When the forms in the `Swadesh` and the `English` columns are exact matches, the `Swadesh_orig` column is left empty. Moreover, typo corrections were done for the entries of the three language columns (either typo from the original PDF or typo due to the first-pass OCR error) (listed in the `Remark` column).
 
 We hope that the digitised NBL of the Holle List can be helpful for, and escalate the workflow of, other researchers with computational orientation. Readers/users are also encouraged to check the original PDF list in Stokhof [-@holleli1980].
-
-
 
 ```{r}
 #| message: false
@@ -100,10 +101,8 @@ holle_tb |>
             na = "")
 ```
 
-::: {.column-page}
-
-::: {.panel-tabset}
-
+::: column-page
+::: panel-tabset
 ### The new basic list (NBL)
 
 ```{r}
@@ -154,7 +153,7 @@ holle_tb |>
 holle_1904_tb <- read_xlsx("data/stokhof_1980_holle_lists_v1.xlsx", 
                       sheet = 4)
 holle_1904_tb |> 
-  write_tsv("data/digitised-holle-list-in-stokhof-1980-add-1904.tsv",
+  write_tsv("data/digitised-holle-list-in-stokhof-1980-add-1904_1911.tsv",
             na = "")
 
 holle_1904_tb |> 
@@ -177,12 +176,11 @@ holle_1904_tb |>
 
 ```
 
-
 ### Additional list (1931 edition)
 
 ```{r}
 #| fig-cap: The additional list from the 1931 edition [@holleli1980, 72-73]
-#| label: fig-1930
+#| label: fig-1931
 
 #| message: false
 #| warning: false
@@ -213,7 +211,5 @@ holle_1931_tb |>
             ))
 
 ```
-
-::: 
-
+:::
 :::
