@@ -41,7 +41,7 @@ Index	Dutch	English	Indonesian	v1894	v1904/1911	v1931	Swadesh	Swadesh_orig	remar
 39	adamsappel	Adam's apple	jakun	-	-	34	FALSE		
 40	nek	nape	tengkuk	-	-	35	FALSE		
 41	borsten (mannen)	chest, breast (male)	dada (laki-laki, jamak)	34	36	-	TRUE	breast	
-42	borsten (vrouwen)	breasts (female)	dada (perempuan, jamak)	34	36	-	TRUE	breast	typo: originally ""perenpuan"" in the Indonesian gloss
+42	borsten (vrouwen)	breasts (female)	dada (perempuan, jamak)	34	36	-	TRUE	breast	typo: originally <perenpuan> in the Indonesian gloss
 41/42	borsten < unsp. >			34	36	-	TRUE		
 43	borst	breast	dada (tunggal)	-	-	36	TRUE		
 44	vrouwenborst	breast (female)	dada (perempuan, tunggal) susu, payudara	-	-	37	FALSE		
@@ -1122,7 +1122,7 @@ Index	Dutch	English	Indonesian	v1894	v1904/1911	v1931	Swadesh	Swadesh_orig	remar
 1026-1028	maten en gewichten <unsp.>			660	674	-	FALSE		
 1029	schip (koopvaardij)	ship (trading vessel)	kapal dagang	661	675	-	FALSE		
 1030	schip (oorlog)	ship (warship)	kapal perang	661	675	-	FALSE		
-1029/1030	schip <unsp.>			661	675	-	FALSE		originally: “unps.”, which should be “unsp.” (typo)
+1029/1030	schip <unsp.>			661	675	-	FALSE		originally: <unps.>, which should be <unsp.> (typo)
 1031	stoomboot	steamboat	kapal uap	662	676	-	FALSE		
 1032	sloep	rowboat	kapal (sampan)	663	677	-	FALSE		
 1033	prauw	proa, canoe	perahu	664	678	707	FALSE		
