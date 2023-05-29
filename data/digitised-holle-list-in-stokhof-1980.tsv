@@ -49,7 +49,7 @@ Index	Dutch	English	Indonesian	v1894	v1904/1911	v1931	Swadesh	Swadesh_orig	remar
 46	melk	breast milk	air susu	36	38	39	FALSE		
 47	zog	breast milk	air susu	37	-	-	FALSE		
 48	zuigen «aan de borst>	to suck at the breast	menyusu	38	39	40	FALSE		
-49	zogen	to suckle	menyusul	-	-	41	FALSE		
+49	zogen	to suckle	menyusui	-	-	41	FALSE		ocr error as menyusul
 50	rib	rib	tulang rusuk	69	70	42	FALSE		
 51	long	lung	paru-paru	-	-	43	FALSE		
 52	hart	heart	jantung	29	31	44	TRUE		
@@ -58,17 +58,17 @@ Index	Dutch	English	Indonesian	v1894	v1904/1911	v1931	Swadesh	Swadesh_orig	remar
 55	darmen	intestines	usus	-	-	46	TRUE	guts	
 56	lever	liver	hati	30	32	47	TRUE		
 57	gal	bile	empedu	-	29	48	FALSE		
-58	milt	spleen	linpa	-	-	49	FALSE		
+58	milt	spleen	limpa	-	-	49	FALSE		ocr error as linpa
 59	nier	kidney	buah pinggang, ginjal	-	-	50	FALSE		
 60	zijde	side	sisi badan	-	-	51	FALSE		
 61	navel	navel	pusat	32	34	52	FALSE		
-62	navelstreng	umbilical cord	tall pusat	33	35	53	FALSE		
+62	navelstreng	umbilical cord	tali pusat	33	35	53	FALSE		ocr error as tall pusat
 63	rug	back	belakang, punggung	39	40	54	TRUE		
 64	ruggegraat	backbone, spine	tulang belakang	-	-	55	FALSE		
 65	schouder	shoulder	bahu	-	-	56	FALSE		
 66	schouderblad	shoulderblade	tulang belikat	43	44	-	FALSE		
 67	achterste, billen	buttocks	pantat posterior	-	-	58	FALSE		
-68	bil	buttock	pantat beglan kirl atau kanan	45	46	-	FALSE		
+68	bil	buttock	pantat beglan kiri atau kanan	45	46	-	FALSE		
 69	achterste	posterior, buttocks	pantat	44	45	-	FALSE		
 70	stuit	tailbone, coccyx	tulang tungging, tulang ekor	46	47	57	FALSE		
 71	aars	anus	dubur, lubang pantat	-	-	59	FALSE		
@@ -96,7 +96,7 @@ Index	Dutch	English	Indonesian	v1894	v1904/1911	v1931	Swadesh	Swadesh_orig	remar
 92	knieholte	back of the knee	(pe)lipatan lutut	-	-	77	FALSE		
 93	knit	calf	betis	52	53	78	FALSE		
 94	scheen	shin	tulang kering	53	54	79	FALSE		
-95	aim	aim	lengan	40	41	-	FALSE		
+95	arm	arm	lengan	40	41	-	FALSE		
 96	hand (met beneden aim)	hand plus fore-arm	tangan (sebelah bawah)	-	-	80	FALSE		
 97	hand	hand	tangan	56	57	-	TRUE		
 98	bovenann	upper arm	pangkal lengan	-	-	81	FALSE		
@@ -141,7 +141,7 @@ Index	Dutch	English	Indonesian	v1894	v1904/1911	v1931	Swadesh	Swadesh_orig	remar
 136	doorslikken	to swallow down	telan	-	-	113	FALSE		
 137	slikken	to swallow	telan	118	120	-	FALSE		
 138	slapen	to sleep	tidur	119	121	114	TRUE	sleep	
-139	dromen	to dream	bermiupi	120	122	115	FALSE		
+139	dromen	to dream	bermimpi	120	122	115	FALSE		ocr error as bermiupi
 140	droom	dream	impian	120	122	116	FALSE		
 139/140	dromen, droom <unsp.>			120	122	-	FALSE		
 141	slaperig	sleepy	mengantuk	-	-	117	FALSE		
@@ -177,8 +177,8 @@ Index	Dutch	English	Indonesian	v1894	v1904/1911	v1931	Swadesh	Swadesh_orig	remar
 171	hikken	to hiccup	bersedu	-	-	145	FALSE		
 172	hik	hiccups	tersedu	-	146	-	FALSE		
 173	zich verslikken	to choke	tersedak	-	147	146	FALSE		
-174	boer (oprisping)	belch	serdawa	-	148	147	FALSE		
-175	boeren	to belch	beserdawa	-	-	148	FALSE		
+174	boer (oprisping)	belch	sendawa	-	148	147	FALSE		typo in the original as serdawa; should be sendawa
+175	boeren	to belch	bersendawa	-	-	148	FALSE		typo in the original as beserdawa; should be bersendawa
 176	gapen	to yawn	menguap	144	149	149	FALSE		
 177	knikken	to nod	mengangguk	145	150	-	FALSE		
 178	zwanger	pregnant	hamil	-	-	150	FALSE		
