@@ -87,6 +87,7 @@ We hope that the digitised NBL of the Holle List can be helpful for, and escalat
 library(tidyverse)
 library(readxl)
 library(reactable)
+library(tippy)
 ```
 
 ::: column-page
@@ -115,9 +116,12 @@ holle_tb |>
             columns = list(
               Index = colDef(align = "center",
                              sticky = "left"),
-              Dutch = colDef(minWidth = 150),
-              English = colDef(minWidth = 150),
-              Indonesian = colDef(minWidth = 150),
+              Dutch = colDef(minWidth = 150,
+                             cell = function(value, index, name) {tippy(text = value, tooltip = value)}),
+              English = colDef(minWidth = 150,
+                               cell = function(value, index, name) {tippy(text = value, tooltip = value)}),
+              Indonesian = colDef(minWidth = 150,
+                                  cell = function(value, index, name) {tippy(text = value, tooltip = value)}),
               v1894 = colDef(align = "center"),
               `v1904/1911` = colDef(align = "center"),
               v1931 = colDef(align = "center"),
@@ -152,9 +156,12 @@ holle_1904_tb |>
             columns = list(
               Index = colDef(align = "center",
                              sticky = "left"),
-              Dutch = colDef(minWidth = 150),
-              English = colDef(minWidth = 150),
-              Indonesian = colDef(minWidth = 150)
+              Dutch = colDef(minWidth = 150,
+                             cell = function(value, index, name) {tippy(text = value, tooltip = value)}),
+              English = colDef(minWidth = 150,
+                               cell = function(value, index, name) {tippy(text = value, tooltip = value)}),
+              Indonesian = colDef(minWidth = 150,
+                                  cell = function(value, index, name) {tippy(text = value, tooltip = value)})
             ))
 
 ```
@@ -185,9 +192,12 @@ holle_1931_tb |>
             columns = list(
               Index = colDef(align = "center",
                              sticky = "left"),
-              Dutch = colDef(minWidth = 150),
-              English = colDef(minWidth = 150),
-              Indonesian = colDef(minWidth = 150)
+              Dutch = colDef(minWidth = 150,
+                             cell = function(value, index, name) {tippy(text = value, tooltip = value)}),
+              English = colDef(minWidth = 150,
+                               cell = function(value, index, name) {tippy(text = value, tooltip = value)}),
+              Indonesian = colDef(minWidth = 150,
+                                  cell = function(value, index, name) {tippy(text = value, tooltip = value)})
             ))
 
 ```
