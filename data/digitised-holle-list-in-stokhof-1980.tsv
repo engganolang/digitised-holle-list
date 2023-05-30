@@ -391,7 +391,7 @@ Index	Dutch	English	Indonesian	v1894	v1904/1911	v1931	Swadesh	Swadesh_orig	remar
 346	geloof	religion	agama	216	-	-	FALSE		
 347	aanbidden	to worship	menyembah	217	219	-	FALSE		
 348	levensgeest, levenskracht	vital spirit, vitality	semangat	-	-	233	FALSE		
-349	god	god	allah	-	-	234	FALSE		
+349	god	god	allah ; tuhan	-	-	234	FALSE		I add a generic term tuhan for god
 350	voorouderbeeld	statue representing an ancestor/ancestors	patung nenek moyang	-	-	235	FALSE		
 351	schrift	writing	tulisan	218	220	-	FALSE		
 352	letter	letter	huruf	219	221	-	FALSE		
@@ -423,7 +423,7 @@ Index	Dutch	English	Indonesian	v1894	v1904/1911	v1931	Swadesh	Swadesh_orig	remar
 377	raadhuis	town hall	balai kota	591	601	-	FALSE		
 378	koning	king	raja	593	603	-	FALSE		
 379	patih	a sort of first minister	patih	594	604	-	FALSE		
-380	mantri	mantri	mantrl	595	605	-	FALSE		
+380	mantri	mantri	mantri	595	605	-	FALSE		
 381	hulubalang	guard	hulubalang	596	607	-	FALSE		
 382	plaats (die gevreesd wordt)	(sacred) place (held In awe)	tempat (menyeramkan)	243	241	-	FALSE		
 383	dorphuis	village hall	balai dusun	-	-	242	FALSE		
