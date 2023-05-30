@@ -87,25 +87,6 @@ We hope that the digitised NBL of the Holle List can be helpful for, and escalat
 library(tidyverse)
 library(readxl)
 library(reactable)
-
-holle_tb <- read_xlsx("data/stokhof_1980_holle_lists_v1.xlsx", 
-                      sheet = 1, 
-                      range = "A1:K1632") |> 
-  select(-SortingIndex) |> 
-  select(Index, 
-         Dutch, 
-         English, 
-         Indonesian, 
-         v1894, `v1904/1911`, v1931, 
-         Swadesh, 
-         Swadesh_orig = Swadesh_words_original, 
-         remark)
-holle_tb |> 
-  write_tsv("data/digitised-holle-list-in-stokhof-1980.tsv",
-            na = "")
-read_xlsx("data/stokhof_1980_holle_lists_v1.xlsx", sheet = "swadesh-unindex") |> 
-  pull(word) |> 
-  write_lines("data/swadesh-unindexed-in-NBL.txt")
 ```
 
 ::: column-page
@@ -120,7 +101,7 @@ read_xlsx("data/stokhof_1980_holle_lists_v1.xlsx", sheet = "swadesh-unindex") |>
 #| warning: false
 #| echo: false
 
-
+holle_tb <- read_tsv("data/digitised-holle-list-in-stokhof-1980.tsv")
 holle_tb |> 
   reactable(style = list(fontFamily = "Canela Text"),
             elementId = "digitised-holle-list",
@@ -156,12 +137,7 @@ holle_tb |>
 #| warning: false
 #| echo: false
 
-
-holle_1904_tb <- read_xlsx("data/stokhof_1980_holle_lists_v1.xlsx", 
-                      sheet = 4)
-holle_1904_tb |> 
-  write_tsv("data/digitised-holle-list-in-stokhof-1980-add-1904_1911.tsv",
-            na = "")
+holle_1904_tb <- read_tsv("data/digitised-holle-list-in-stokhof-1980-add-1904_1911.tsv")
 
 holle_1904_tb |> 
   reactable(style = list(fontFamily = "Canela Text"),
@@ -194,11 +170,8 @@ holle_1904_tb |>
 #| echo: false
 
 
-holle_1931_tb <- read_xlsx("data/stokhof_1980_holle_lists_v1.xlsx", 
-                      sheet = 3)
-holle_1931_tb |> 
-  write_tsv("data/digitised-holle-list-in-stokhof-1980-add-1931.tsv",
-            na = "")
+holle_1931_tb <- read_tsv("data/digitised-holle-list-in-stokhof-1980-add-1931.tsv")
+
 holle_1931_tb |> 
   reactable(style = list(fontFamily = "Canela Text"),
             elementId = "1931-edition",
