@@ -1,0 +1,2885 @@
+GLOSS	NUMBER	CONCEPTICON_ID	CONCEPTICON_GLOSS	SIMILARITY
+body	1	1480	BODY	2
+#<<<				
+head	2	1256	HEAD	2
+head	2	2992	TIP (OF OBJECT)	2
+#>>>				
+face	3	1560	FACE	2
+forehead	4	123	FOREHEAD	2
+skull	5	1605	SKULL	2
+#<<<				
+hair	6	2648	HAIR (HEAD)	2
+hair	6	2678	HAIR OR FUR	2
+hair	6	2381	FEATHER OR FUR OR HAIR	2
+hair	6	1040	HAIR	2
+#>>>				
+bald	7	1125	BALD	2
+crown	8	1943	CROWN (OF HEAD)	2
+ear	9	1247	EAR	2
+earwax	10	32	EARWAX	2
+eye	11	1248	EYE	2
+eyelid	12	17	EYELID	2
+eyelashes	13	1540	EYELASH	2
+eyebrows	14	1173	EYEBROW	2
+eyebrow	15	1173	EYEBROW	2
+tears	16	1651	TEAR (OF EYE)	2
+#<<<				
+tear	17	1651	TEAR (OF EYE)	2
+tear	17	1735	TEAR (SHRED)	2
+#>>>				
+nose	18	1221	NOSE	2
+nostril	19	1178	NOSTRIL	2
+mucus	20	208	NASAL MUCUS (SNOT)	2
+cheek	21	1730	CHEEK	2
+mouth	22	674	MOUTH	2
+exterior part of the mouth	23		???	
+interior part of the mouth	24		???	
+lips	25	478	LIP	2
+lip	26	478	LIP	2
+moustache	27	1165	MOUSTACHE	2
+goatee	28	678	BEARD	4
+chin	29	1510	CHIN	2
+beard	30	678	BEARD	2
+tongue	31	1205	TONGUE	2
+palate	32	540	PALATE	2
+tooth	33	1380	TOOTH	2
+molar	34	1049	MOLAR TOOTH	2
+gums	35	139	GUMS	2
+brains	36	1583	BRAIN	2
+throat	37	1346	THROAT	2
+neck	38	1333	NECK	2
+Adam's apple	39	802	ADAM'S APPLE	2
+nape	40	1347	NAPE (OF NECK)	2
+#<<<				
+chest, breast (male)	41	1402	BREAST	4
+chest, breast (male)	41	3150	BOX OR CHEST	4
+chest, breast (male)	41	1592	CHEST	4
+chest, breast (male)	41	1836	VAGINA	4
+chest, breast (male)	41	2472	SUCKLE (BREASTFEED, NURSE)	4
+chest, breast (male)	41	2129	BREAST OR MILK	4
+#>>>				
+#<<<				
+breasts (female)	42	1402	BREAST	4
+breasts (female)	42	2129	BREAST OR MILK	4
+#>>>				
+#<<<				
+breast	43	1402	BREAST	2
+breast	43	1592	CHEST	2
+#>>>				
+breast (female)	44	1402	BREAST	2
+nipple	45	796	NIPPLE	2
+breast milk	46	3912	BREAST MILK	4
+breast milk	47	3912	BREAST MILK	4
+to suck at the breast	48		???	
+to suckle	49	2472	SUCKLE (BREASTFEED, NURSE)	3
+rib	50	801	RIB	2
+lung	51	688	LUNG	2
+heart	52	1223	HEART	2
+#<<<				
+stomach	53	1251	BELLY	2
+stomach	53	819	STOMACH	2
+#>>>				
+belly	54	1251	BELLY	2
+intestines	55	1991	INTESTINES	2
+liver	56	1224	LIVER	2
+bile	57	1780	BILE	2
+spleen	58	1744	SPLEEN	2
+kidney	59	489	KIDNEY	2
+#<<<				
+side	60	682	SIDE	2
+side	60	866	WIN	2
+#>>>				
+navel	61	1838	NAVEL	2
+umbilical cord	62	2663	UMBILICAL CORD	2
+#<<<				
+back	63	1291	BACK	2
+back	63	2910	BACK (DIRECTION)	2
+back	63	2323	BACK (PART)	2
+back	63	2911	BACKWARD	2
+#>>>				
+backbone, spine	64	805	SPINE	4
+shoulder	65	1482	SHOULDER	2
+shoulderblade	66	172	SHOULDERBLADE	2
+buttocks	67	834	BUTTOCKS	2
+buttock	68	834	BUTTOCKS	2
+#<<<				
+posterior, buttocks	69	834	BUTTOCKS	4
+posterior, buttocks	69	1935	ANUS	4
+posterior, buttocks	69	1220	TAIL	4
+#>>>				
+tailbone, coccyx	70		???	
+anus	71	1935	ANUS	2
+to defecate	72	676	SHIT (DEFECATE)	1
+faeces	73	675	FAECES (EXCREMENT)	2
+fart	74	1159	FART	2
+to fart	75	1159	FART	1
+#<<<				
+to stink, to smell	76	1587	SMELL (STINK)	3
+to stink, to smell	76	42	STINKING	3
+#>>>				
+penis	77	1222	PENIS	2
+vagina	78	1836	VAGINA	2
+testicle	79	797	TESTICLES	2
+to have intercourse	80	549	COPULATE	4
+to couple	81	1888	PAIR	4
+to urinate	82	592	PISS	1
+#<<<				
+piss, urine	83	592	PISS	4
+piss, urine	83	1142	URINE	4
+#>>>				
+leg	84	1297	LEG	2
+#<<<				
+foot (plus lower leg)	85	1019	RIGHT	4
+foot (plus lower leg)	85	2688	FOOT (UNIT)	4
+foot (plus lower leg)	85	2098	FOOT OR LEG	4
+foot (plus lower leg)	85	2450	FOOT OR WALK	4
+foot (plus lower leg)	85	1301	FOOT	4
+#>>>				
+#<<<				
+foot	86	1301	FOOT	2
+foot	86	2098	FOOT OR LEG	2
+#>>>				
+sole of the foot	87		???	
+ankle	88	803	ANKLE	2
+heel	89	980	HEEL	2
+thigh	90	471	UPPER LEG (THIGH)	2
+knee	91	1371	KNEE	2
+back of the knee	92		???	
+#<<<				
+calf	93	1989	CALF	2
+calf	93	498	CALF OF LEG	2
+#>>>				
+shin	94	186	SHIN	2
+arm	95	1673	ARM	2
+hand plus fore-arm	96		???	
+hand	97	1277	HAND	2
+upper arm	98	431	UPPER ARM	2
+armpit	99	1886	ARMPIT	2
+elbow	100	981	ELBOW	2
+wrist	101	799	WRIST	2
+palm of the hand	102	1183	PALM OF HAND	2
+lines in the palm of the hand	103		???	
+finger	104	1303	FINGER	2
+fingers	105	1303	FINGER	2
+toe	106	1389	TOE	2
+#<<<				
+(finger)nail	107	2128	CLAW OR NAIL	4
+(finger)nail	107	502	NAIL (TOOL)	4
+(finger)nail	107	3306	NAIL	4
+(finger)nail	107	1896	FINGERNAIL OR TOENAIL	4
+(finger)nail	107	72	CLAW	4
+(finger)nail	107	1258	FINGERNAIL	4
+#>>>				
+thumb	108	1781	THUMB	2
+index finger	109	577	FOREFINGER	2
+middle finger	110	3387	MIDDLE FINGER	2
+ring finger	111		???	
+little finger	112	2774	LITTLE FINGER	2
+the big toe	113		???	
+the little toe	114		???	
+bone	115	1394	BONE	2
+blood	116	946	BLOOD	2
+#<<<				
+flesh	117	2259	FLESH	2
+flesh	117	2615	FLESH OR MEAT	2
+#>>>				
+tendon	118	1137	TENDON	2
+nerve	119	2626	NERVE	2
+#<<<				
+sinew, nerve	120	1137	TENDON	4
+sinew, nerve	120	2626	NERVE	4
+#>>>				
+#<<<				
+skin	121	763	SKIN	2
+skin	121	291	PULL OFF (SKIN)	2
+skin	121	2614	SKIN (ANIMAL)	2
+skin	121	2613	SKIN (HUMAN)	2
+#>>>				
+body hair	122	189	HAIR (BODY)	2
+#<<<				
+body hair (animal)	123	189	HAIR (BODY)	4
+body hair (animal)	123	2381	FEATHER OR FUR OR HAIR	4
+body hair (animal)	123	2678	HAIR OR FUR	4
+body hair (animal)	123	2648	HAIR (HEAD)	4
+#>>>				
+#<<<				
+sweat	124	2458	PERSPIRE OR SWEAT	2
+sweat	124	125	SWEAT (SUBSTANCE)	2
+#>>>				
+saliva	125	1503	SALIVA	2
+phlegm	126	3061	PHLEGM	2
+to breath	127	3183	BREATH OR BREATHE	3
+to eat	128	1336	EAT	1
+hungry	129	1533	BE HUNGRY	2
+to drink	130	1401	DRINK	1
+drunk	131	1463	DRUNK	2
+thirsty	132	847	THIRSTY	2
+#<<<				
+satisfied	133	1429	FULL	4
+satisfied	133	1495	HAPPY	4
+#>>>				
+#<<<				
+replete, satisfied	134	1429	FULL	4
+replete, satisfied	134	1495	HAPPY	4
+#>>>				
+to bite	135	1403	BITE	1
+to swallow down	136		???	
+to swallow	137	897	SWALLOW	1
+to sleep	138	1585	SLEEP	1
+to dream	139	1920	DREAM (SOMETHING)	1
+#<<<				
+dream	140	1920	DREAM (SOMETHING)	2
+dream	140	2455	DREAMING OR DREAM	2
+dream	140	2374	DREAM	2
+#>>>				
+sleepy	141	3620	SLEEPY	2
+to wake up	142	1602	WAKE UP	1
+to get up	143	1512	RISE (ONESELF)	1
+to stand	144	1442	STAND	1
+#<<<				
+to walk	145	1443	WALK	1
+to walk	145	2890	WALK (TAKE A WALK)	1
+#>>>				
+to lie supine	146		???	
+to lie prone	147		???	
+#<<<				
+to lie	148	215	LIE DOWN	1
+to lie	148	601	LIE (MISLEAD)	1
+to lie	148	1411	LIE (REST)	1
+#>>>				
+#<<<				
+to sit (on a chair)	149	1649	SIT DOWN	3
+to sit (on a chair)	149	1416	SIT	3
+#>>>				
+#<<<				
+to sit (with the legs crossed)	150	1649	SIT DOWN	3
+to sit (with the legs crossed)	150	1416	SIT	3
+#>>>				
+#<<<				
+to sit (with the knees bent to one side)	151	1649	SIT DOWN	3
+to sit (with the knees bent to one side)	151	1416	SIT	3
+#>>>				
+to squat	152	296	CROUCH	1
+to swim	153	1439	SWIM	1
+to take a bath	154	1453	WASH	4
+to wash	155	1453	WASH	1
+to stammer	156	1866	STUTTER	3
+to speak with a burr	157		???	
+voice	158	1363	VOICE	2
+hoarse	159		???	
+to shout	160	715	SHOUT	1
+to laugh	161	1355	LAUGH	1
+to laugh at	162		???	
+to weep	163	1839	CRY	1
+to weep for	164		???	
+to smile	165	1451	SMILE	1
+to sigh	166		???	
+to spit	167	1440	SPIT	1
+to vomit	168	1278	VOMIT	1
+to sneeze	169	1621	SNEEZE	1
+to cough	170	879	COUGH	1
+to hiccup	171	162	HICCOUGH	3
+hiccups	172		???	
+to choke	173	129	CHOKE	1
+belch	174	2245	BELCH	2
+to belch	175	2245	BELCH	1
+to yawn	176	1028	YAWN	1
+to nod	177		???	
+#<<<				
+pregnant	178	1123	PREGNANT	2
+pregnant	178	3827	PREGNANT (OF ANIMALS)	2
+#>>>				
+to be born	179	1090	BE BORN	1
+after birth	180		???	
+twins	181	1005	TWINS	2
+to live (alive)	182	1422	BE ALIVE	1
+to die	183	1494	DIE	1
+death	184	910	DEATH	2
+dead	185	1625	DEAD	2
+the deceased	186		???	
+liquid formed during decomposition of body	187		???	
+corpse	188	767	CORPSE	2
+coffin	189	2011	COFFIN	2
+to bury	190	1719	BURY	1
+grave	191	1773	GRAVE	2
+to kill	192	1417	KILL	1
+to inherit	193	3664	INHERIT	1
+inheritance	194		???	
+#<<<				
+to wound	195	51	SORE	4
+to wound	195	1109	WOUND	4
+to wound	195	44	INJURE	4
+#>>>				
+wound	196	1109	WOUND	2
+an infected wound	197		???	
+#<<<				
+scar	198	497	SCAR	2
+scar	198	1109	WOUND	2
+#>>>				
+ill	199	1847	SICK	2
+to be ill	200	1847	SICK	1
+to (be in) pain	201	2561	HURT (SENSE PAIN)	3
+healthy	202	1364	HEALTHY	2
+#<<<				
+boil	203	793	BOIL (OF SKIN)	2
+boil	203	2492	BOIL (SOMETHING)	2
+boil	203	792	BOIL (OF LIQUID)	2
+boil	203	2493	BOIL	2
+#>>>				
+to be feverish	204	1847	SICK	4
+fever	205	1534	FEVER	2
+to have a stomach ache	206		???	
+stomach ache	207		???	
+to have diarrhoea	208		???	
+diarrhoea	209	1177	DIARRHEA	2
+small pox	210		???	
+measles	211	3389	MEASLES	2
+#<<<				
+swelling, swollen	212	1573	SWELL	4
+swelling, swollen	212	1903	SWELLING	4
+#>>>				
+goitre	213	1957	GOITER	2
+eruption (of rash)	214		???	
+#<<<				
+ichthyosis, tinea	215	1189	ULCER	4
+ichthyosis, tinea	215	3171	RINGWORM	4
+#>>>				
+framboesia	216		???	
+scabies	217	3172	SCABIES	2
+leprosy	218	3624	LEPROSY	2
+headache	219	3625	HEADACHE	2
+rheumatism	220		???	
+to have a cold	221		???	
+#<<<				
+a cold	222	102	COMMON COLD (DISEASE)	3
+a cold	222	2932	COLD (CHILL)	3
+#>>>				
+gone to sleep (limbs)	223		???	
+cramp	224		???	
+paralysed	225		???	
+crippled	226	320	LAME	4
+#<<<				
+mute	227	2320	MUTE PERSON	2
+mute	227	1666	MUTE	2
+#>>>				
+#<<<				
+deaf	228	458	DEAF PERSON	2
+deaf	228	996	DEAF	2
+#>>>				
+blind	229	1653	BLIND	2
+to shut the eyes	230		???	
+squinting	231		???	
+cured	232		???	
+medicine	233	1372	MEDICINE	2
+#<<<				
+medicine (with magic power)	234	2268	POTION	4
+medicine (with magic power)	234	1372	MEDICINE	4
+medicine (with magic power)	234	392	MAGIC	4
+#>>>				
+#<<<				
+doctor (medicine man)	235	597	PHYSICIAN	4
+doctor (medicine man)	235	394	SHAMAN (FOLK HEALER)	4
+#>>>				
+#<<<				
+man, mankind	236	2106	MALE PERSON	4
+man, mankind	236	683	PERSON	4
+man, mankind	236	1553	MALE	4
+man, mankind	236	2645	MAN OR PERSON	4
+man, mankind	236	2646	HUSBAND OR MALE PERSON	4
+man, mankind	236	1554	MAN	4
+#>>>				
+people	237	789	PEOPLE	2
+people	238	789	PEOPLE	2
+#<<<				
+name	239	180	CALL BY NAME	2
+name	239	1405	NAME	2
+#>>>				
+nickname	240		???	
+#<<<				
+man	241	683	PERSON	2
+man	241	1554	MAN	2
+man	241	2106	MALE PERSON	2
+#>>>				
+woman	242	962	WOMAN	2
+#<<<				
+male (human)	243	1961	NECKLACE	4
+male (human)	243	2106	MALE PERSON	4
+male (human)	243	1553	MALE	4
+male (human)	243	1936	DEER	4
+male (human)	243	2646	HUSBAND OR MALE PERSON	4
+male (human)	243	1554	MAN	4
+male (human)	243	1344	RAM	4
+male (human)	243	771	HAT	4
+male (human)	243	809	TROUSERS	4
+male (human)	243	2263	MALE (OF ANIMAL)	4
+male (human)	243	2261	MALE (OF PERSON)	4
+#>>>				
+male (animal)	244	2263	MALE (OF ANIMAL)	2
+#<<<				
+female (human)	245	962	WOMAN	4
+female (human)	245	2262	FEMALE (OF ANIMAL)	4
+female (human)	245	2260	FEMALE (OF PERSON)	4
+female (human)	245	3923	FEMALE ANIMAL	4
+female (human)	245	2476	FEMALE GOAT	4
+female (human)	245	2800	FEMALE PERSON OR MOTHER	4
+female (human)	245	2105	FEMALE PERSON	4
+female (human)	245	1551	FEMALE	4
+female (human)	245	1043	BRAID	4
+female (human)	245	812	SLAVE	4
+female (human)	245	2320	MUTE PERSON	4
+female (human)	245	1153	CATTLE	4
+#>>>				
+#<<<				
+female (animal)	246	962	WOMAN	4
+female (animal)	246	2262	FEMALE (OF ANIMAL)	4
+female (animal)	246	2260	FEMALE (OF PERSON)	4
+female (animal)	246	3923	FEMALE ANIMAL	4
+female (animal)	246	2476	FEMALE GOAT	4
+female (animal)	246	2800	FEMALE PERSON OR MOTHER	4
+female (animal)	246	2105	FEMALE PERSON	4
+female (animal)	246	1551	FEMALE	4
+female (animal)	246	1043	BRAID	4
+female (animal)	246	812	SLAVE	4
+female (animal)	246	2320	MUTE PERSON	4
+female (animal)	246	1153	CATTLE	4
+#>>>				
+#<<<				
+youth (male)	247	1366	BOY	4
+youth (male)	247	76	YOUNG MAN	4
+#>>>				
+virgin	248	2298	VIRGIN	2
+virginity	249		???	
+#<<<				
+boy, lad	250	2391	BOY OR SON	4
+boy, lad	250	1366	BOY	4
+boy, lad	250	76	YOUNG MAN	4
+#>>>				
+young girl	251	1646	GIRL	2
+girl	252	1646	GIRL	2
+#<<<				
+old man	253	406	OLD MAN	2
+old man	253	1229	OLD	2
+#>>>				
+old woman	254	907	OLD WOMAN	2
+father	255	1217	FATHER	2
+mother	256	1216	MOTHER	2
+oldest child	257		???	
+youngest child	258		???	
+#<<<				
+child	259	1801	CHILD (DESCENDANT)	2
+child	259	2099	CHILD	2
+child	259	1304	CHILD (YOUNG HUMAN)	2
+#>>>				
+little child (male)	260		???	
+little child (female)	261		???	
+son	262	1620	SON	2
+daughter	263	1357	DAUGHTER	2
+grandfather	264	1383	GRANDFATHER	2
+grandmother	265	1496	GRANDMOTHER	2
+great-great-grandparents	266		???	
+great-grandparents	267		???	
+ancestors	268	1669	ANCESTORS	2
+#<<<				
+brother	269	1262	BROTHER	2
+brother	269	559	BROTHER (OF MAN)	2
+#>>>				
+sister	270	1263	SISTER	2
+older brother	271	1759	OLDER BROTHER	2
+older sister	272	1758	OLDER SISTER	2
+younger brother	273	1760	YOUNGER BROTHER	2
+younger sister	274	1761	YOUNGER SISTER	2
+#<<<				
+grandchild	275	1618	GRANDSON	2
+grandchild	275	1617	GRANDCHILD	2
+#>>>				
+uncle FB	276		???	
+uncle MB	277		???	
+uncle FBo	278		???	
+uncle FBy	279		???	
+uncle MBo	280		???	
+uncle MBy	281		???	
+aunt FZ	282		???	
+aunt MZ	283		???	
+aunt FZo	284		???	
+aunt FZy	285		???	
+aunt MZo	286		???	
+#<<<				
+aunt <unsp.>	287	2691	PATERNAL AUNT (FATHER'S SISTER)	4
+aunt <unsp.>	287	2170	PATERNAL AUNT (WIFE OF FATHER'S OLDER BROTHER)	4
+aunt <unsp.>	287	2171	PATERNAL AUNT (WIFE OF FATHER'S YOUNGER BROTHER)	4
+aunt <unsp.>	287	2175	PATERNAL AUNT	4
+aunt <unsp.>	287	3042	MATERNAL AUNT (MOTHER'S OLDER SISTER)	4
+aunt <unsp.>	287	2172	MATERNAL AUNT (WIFE OF MOTHER'S BROTHER)	4
+aunt <unsp.>	287	2176	MATERNAL AUNT	4
+aunt <unsp.>	287	2383	AUNT OR MOTHER-IN-LAW	4
+aunt <unsp.>	287	2682	AUNT OR UNCLE	4
+aunt <unsp.>	287	1272	AUNT	4
+#>>>				
+aunt MZy	288		???	
+#<<<				
+aunt <unsp.>	289	2691	PATERNAL AUNT (FATHER'S SISTER)	4
+aunt <unsp.>	289	2170	PATERNAL AUNT (WIFE OF FATHER'S OLDER BROTHER)	4
+aunt <unsp.>	289	2171	PATERNAL AUNT (WIFE OF FATHER'S YOUNGER BROTHER)	4
+aunt <unsp.>	289	2175	PATERNAL AUNT	4
+aunt <unsp.>	289	3042	MATERNAL AUNT (MOTHER'S OLDER SISTER)	4
+aunt <unsp.>	289	2172	MATERNAL AUNT (WIFE OF MOTHER'S BROTHER)	4
+aunt <unsp.>	289	2176	MATERNAL AUNT	4
+aunt <unsp.>	289	2383	AUNT OR MOTHER-IN-LAW	4
+aunt <unsp.>	289	2682	AUNT OR UNCLE	4
+aunt <unsp.>	289	1272	AUNT	4
+#>>>				
+#<<<				
+aunt <unsp.>	290	2691	PATERNAL AUNT (FATHER'S SISTER)	4
+aunt <unsp.>	290	2170	PATERNAL AUNT (WIFE OF FATHER'S OLDER BROTHER)	4
+aunt <unsp.>	290	2171	PATERNAL AUNT (WIFE OF FATHER'S YOUNGER BROTHER)	4
+aunt <unsp.>	290	2175	PATERNAL AUNT	4
+aunt <unsp.>	290	3042	MATERNAL AUNT (MOTHER'S OLDER SISTER)	4
+aunt <unsp.>	290	2172	MATERNAL AUNT (WIFE OF MOTHER'S BROTHER)	4
+aunt <unsp.>	290	2176	MATERNAL AUNT	4
+aunt <unsp.>	290	2383	AUNT OR MOTHER-IN-LAW	4
+aunt <unsp.>	290	2682	AUNT OR UNCLE	4
+aunt <unsp.>	290	1272	AUNT	4
+#>>>				
+#<<<				
+aunt <unsp.>	291	2691	PATERNAL AUNT (FATHER'S SISTER)	4
+aunt <unsp.>	291	2170	PATERNAL AUNT (WIFE OF FATHER'S OLDER BROTHER)	4
+aunt <unsp.>	291	2171	PATERNAL AUNT (WIFE OF FATHER'S YOUNGER BROTHER)	4
+aunt <unsp.>	291	2175	PATERNAL AUNT	4
+aunt <unsp.>	291	3042	MATERNAL AUNT (MOTHER'S OLDER SISTER)	4
+aunt <unsp.>	291	2172	MATERNAL AUNT (WIFE OF MOTHER'S BROTHER)	4
+aunt <unsp.>	291	2176	MATERNAL AUNT	4
+aunt <unsp.>	291	2383	AUNT OR MOTHER-IN-LAW	4
+aunt <unsp.>	291	2682	AUNT OR UNCLE	4
+aunt <unsp.>	291	1272	AUNT	4
+#>>>				
+nephew BoS	292		???	
+nephew ByS	293		???	
+nephew ZoS	294		???	
+nephew ZyS	295		???	
+niece BoD	296		???	
+niece ByD	297		???	
+niece ZoD	298		???	
+niece ZyD	299		???	
+cousin FB/FZS MB/MZS	300		???	
+cousin FB/FZD MB/MZD	301		???	
+parents-in-law	302	306	PARENTS-IN-LAW	2
+respective parents of the married couple	303		???	
+son-in-law	304	1056	SON-IN-LAW	2
+daughter-in-law	305	1057	DAUGHTER-IN-LAW	2
+#<<<				
+son or daughter-in-law	306	2265	DAUGHTER-IN-LAW (OF MAN)	4
+son or daughter-in-law	306	2264	DAUGHTER-IN-LAW (OF WOMAN)	4
+son or daughter-in-law	306	1057	DAUGHTER-IN-LAW	4
+son or daughter-in-law	306	3779	SON (OF MALE EGO)	4
+son or daughter-in-law	306	2391	BOY OR SON	4
+son or daughter-in-law	306	1620	SON	4
+#>>>				
+stepson	307	1059	STEPSON	2
+stepdaughter	308	1058	STEPDAUGHTER	2
+stepparents	309		???	
+adopted child	310		???	
+brother-in-law WB	311		???	
+brother-in-law HB	312		???	
+brother-in-law WZH	313		???	
+brother-in-law HZH	314		???	
+brother-in-law	315	2314	BROTHER-IN-LAW	2
+sister-in-law HZ	316		???	
+sister-in-law WZ	317		???	
+sister-in-law HBW	318		???	
+sister-in-law WBW	319		???	
+related	320		???	
+unrelated	321		???	
+husband	322	1200	HUSBAND	2
+wife	323	1199	WIFE	2
+friend	324	1325	FRIEND	2
+comrade, friend	325	1325	FRIEND	4
+#<<<				
+comrade, mate	326	3978	COMPANION	4
+comrade, mate	326	549	COPULATE	4
+#>>>				
+friend (female)	327	1325	FRIEND	4
+guest	328	1782	GUEST	2
+#<<<				
+guest, stranger	329	791	STRANGER	4
+guest, stranger	329	2908	GUEST OR STRANGER	4
+guest, stranger	329	1782	GUEST	4
+#>>>				
+village	330	930	VILLAGE	2
+country	331	1300	COUNTRY	2
+#<<<				
+town (capital)	332	3609	TOWN OR VILLAGE	4
+town (capital)	332	1391	TOWN	4
+town (capital)	332	930	VILLAGE	4
+#>>>				
+main village	333		???	
+hamlet	334		???	
+#<<<				
+people (tribe)	335	2661	PEOPLE OR PERSON	4
+people (tribe)	335	302	CLAN	4
+people (tribe)	335	789	PEOPLE	4
+people (tribe)	335	3612	INDIGENOUS PEOPLES OF THE AMERICAS	4
+people (tribe)	335	1645	SHORT	4
+#>>>				
+sorcerer	336	823	SORCERER	2
+talisman	337		???	
+incantation	338		???	
+magic wand	339		???	
+magic book	340		???	
+sacred, magic writings	341	1702	HOLY	4
+#<<<				
+idol	342	1945	IDOL	2
+idol	342	3205	GRAVEN IMAGE	2
+#>>>				
+omen	343	107	OMEN	2
+#<<<				
+ghost	344	1175	GHOST	2
+ghost	344	53	SPIRIT	2
+#>>>				
+#<<<				
+spirit	345	811	SOUL	2
+spirit	345	53	SPIRIT	2
+spirit	345	3231	DEITY	2
+#>>>				
+evil spirit	346	1973	DEMON	2
+vampire (witch, werewolf)	347		???	
+soul, spirit	348	811	SOUL	2
+#<<<				
+soul, ghost	349	53	SPIRIT	4
+soul, ghost	349	1944	GOD	4
+soul, ghost	349	1175	GHOST	4
+soul, ghost	349	811	SOUL	4
+#>>>				
+the supreme being	350		???	
+religion	351	661	RELIGION	2
+to worship	352	257	WORSHIP	1
+vital spirit, vitality	353		???	
+#<<<				
+god	354	3231	DEITY	2
+god	354	1944	GOD	2
+#>>>				
+statue representing an ancestor/ancestors	355	1669	ANCESTORS	4
+writing	356		???	
+letter	357	1612	LETTER	2
+paper	358	648	PAPER	2
+letter	359	1612	LETTER	2
+book	360	963	BOOK	2
+story	361	2060	STORY	2
+history, legend	362		???	
+poem	363		???	
+tune, melody	364	2968	REASON	4
+#<<<				
+heaven	365	1732	SKY	2
+heaven	365	1565	HEAVEN	2
+#>>>				
+hell	366	878	HELL	2
+underworld	367		???	
+underworld	368		???	
+the upper world	369		???	
+population	370		???	
+the afterlife	371		???	
+virtue	372		???	
+sin	373	2971	SIN	2
+forbidden	374		???	
+forbidden, taboo	375		???	
+priest	376	852	PRIEST	2
+priestess	377		???	
+shaman	378	394	SHAMAN (FOLK HEALER)	2
+#<<<				
+temple	379	911	TEMPLE	2
+temple	379	1604	TEMPLES	2
+#>>>				
+holy place	380		???	
+settlement	381	1391	TOWN	4
+town hall	382		???	
+king	383	1508	KING	2
+a sort of first minister	384		???	
+mantri	385		???	
+guard	386	1940	GUARD	2
+#<<<				
+(sacred) place (held In awe)	387	998	PUT	4
+(sacred) place (held In awe)	387	2248	KNOW (SOMEBODY)	4
+(sacred) place (held In awe)	387	850	SQUARE	4
+(sacred) place (held In awe)	387	1237	WHERE	4
+(sacred) place (held In awe)	387	723	PLACE (POSITION)	4
+#>>>				
+village hall	388		???	
+men's house	389	408	MEN'S HOUSE	2
+women's house	390		???	
+village head	391		???	
+chieftain	392	301	CHIEFTAIN	2
+nobleman	393	482	NOBLE	4
+village elders	394		???	
+warrior	395	3608	WARRIOR	2
+happiness	396	2941	HAPPINESS	2
+unhappiness	397		???	
+free man	398	384	FREEMAN	2
+slave	399	812	SLAVE	2
+custom	400	1747	CUSTOM	2
+common law	401		???	
+criminal	402	3875	CRIMINAL	2
+to judge	403	1818	ADJUDICATE	3
+to punish	404	3649	PUNISH	1
+#<<<				
+fine	405	218	FINE (PENALTY)	2
+fine	405	2157	FINE OR THIN	2
+#>>>				
+witness	406	1144	WITNESS	2
+#<<<				
+judge	407	1818	ADJUDICATE	2
+judge	407	861	JUDGE	2
+#>>>				
+credit bondsman	408		???	
+funeral ceremony	409		???	
+to circumcise	410		???	
+filing of the teeth	411		???	
+#<<<				
+to marry, to take a wife, marriage	412	203	MARRY	3
+to marry, to take a wife, marriage	412	2164	MARRY (AS MAN)	3
+to marry, to take a wife, marriage	412	2163	MARRY (AS WOMAN)	3
+#>>>				
+#<<<				
+to marry, to take a husband, marriage	413	203	MARRY	3
+to marry, to take a husband, marriage	413	2164	MARRY (AS MAN)	3
+to marry, to take a husband, marriage	413	2163	MARRY (AS WOMAN)	3
+#>>>				
+to give in marriage	414		???	
+to divorce	415	3672	DIVORCE (SEPARATE)	3
+bride price	416	3024	BRIDE PRICE	2
+betrothal	417		???	
+to give birth to	418		???	
+midwife	419	3859	MIDWIFE	2
+to commit adultery	420		???	
+prostitute	421	1610	PROSTITUTE	2
+dancing girl	422		???	
+mask	423	2005	MASK	2
+violin	424		???	
+flute	425	777	FLUTE	2
+drum	426	908	DRUM	2
+tambourine	427	3141	TAMBOURINE	2
+xylophone	428		???	
+gong	429	2502	GONG	2
+conch shell	430		???	
+Jew's harp	431	3319	JEW’S HARP	2
+#<<<				
+horn	432	1393	HORN (ANATOMY)	2
+horn	432	939	HORN (INSTRUMENT)	2
+#>>>				
+to dance	433	1879	DANCE	1
+song	434	1096	SONG	2
+riddle	435	2970	RIDDLE	2
+to ask a riddle	436		???	
+to play	437	1413	PLAY	1
+#<<<				
+top	438	1614	SUMMIT	2
+top	438	1753	TOP	2
+#>>>				
+to spin a top	439		???	
+to hop	440		???	
+to kick/to hit a person on the calves (k.o. play)	441	1135	KICK	3
+house	442	1252	HOUSE	2
+#<<<				
+hut, shelter	443	1678	HUT	4
+hut, shelter	443	1252	HOUSE	4
+#>>>				
+roof	444	769	ROOF	2
+ridge of roof	445		???	
+#<<<				
+roofing: thatch	446	279	THATCH	4
+roofing: thatch	446	2100	THATCH OR ROOF	4
+#>>>				
+roofing: bamboo lath	447		???	
+#<<<				
+roofing: wood	448	2141	TREE OR WOOD	4
+roofing: wood	448	1803	WOOD	4
+roofing: wood	448	1295	STICK	4
+roofing: wood	448	906	TREE	4
+roofing: wood	448	10	FIREWOOD	4
+#>>>				
+#<<<				
+roofing: bark	449	3865	BARK OR SHELL	4
+roofing: bark	449	2127	BARK OR SKIN	4
+roofing: bark	449	1204	BARK	4
+roofing: bark	449	1206	BARKING	4
+#>>>				
+roofing: other materials	450		???	
+rafter	451	829	RAFTER	2
+porch	452	3269	PORCH	2
+door opening	453		???	
+door	454	1567	DOOR	2
+window opening	455		???	
+window	456	1375	WINDOW	2
+corner	457	192	CORNER	2
+staircase, steps	458	1158	STEP	4
+ladder	459	1464	LADDER	2
+to climb into a house	460		???	
+floor (made from bamboo lath)	461	1632	FLOOR	4
+floor (made from wood)	462	1632	FLOOR	4
+#<<<				
+wall (plank wall)	463	933	WALL (OF HOUSE)	4
+wall (plank wall)	463	3830	WALL	4
+#>>>				
+#<<<				
+wall (bamboo wall)	464	933	WALL (OF HOUSE)	4
+wall (bamboo wall)	464	3830	WALL	4
+#>>>				
+midrib of palm frond	465		???	
+main posts	466		???	
+ceiling beams	467		???	
+bed	468	1663	BED	2
+curtain	469	2621	CURTAIN	2
+sleeping place	470		???	
+small room	471		???	
+cylindrical bolster	472		???	
+sleeping mat	473	105	MATTRESS	2
+pillow	474	1044	PILLOW	2
+couch	475	3099	SOFA	2
+front verandah	476		???	
+attic (under the roof)	477		???	
+rack above the  fireplace	478		???	
+hearth, fireplace	479	185	FIREPLACE	2
+fire	480	221	FIRE	2
+fire	481	221	FIRE	2
+to make a fire	482	737	LIGHT (IGNITE)	3
+to extinguish (with water)	483	127	EXTINGUISH	3
+to extinguish	484	127	EXTINGUISH	1
+to blow on a fire	485		???	
+extinguished	486	2209	BECOME EXTINGUISHED	4
+#<<<				
+smoke	487	1689	SMOKE (INHALE)	2
+smoke	487	2859	SMOKE (EMIT SMOKE)	2
+smoke	487	778	SMOKE (EXHAUST)	2
+#>>>				
+ashes	488	646	ASH	2
+fire wood	489		???	
+to put on (light)	490	158	PUT ON	3
+to put off (light)	491		???	
+space under the house	492		???	
+bed curtain	493		???	
+bench, seat	494	2584	BENCH	2
+to build	495	1840	BUILD	1
+to pull down (house)	496		???	
+coconut shell	497		???	
+#<<<				
+pot (iron)	498	3653	COOKING POT	4
+pot (iron)	498	2056	WOK	4
+pot (iron)	498	1462	POT	4
+pot (iron)	498	3765	STORING POT	4
+pot (iron)	498	854	KETTLE	4
+#>>>				
+#<<<				
+pot (earthenware)	499	3653	COOKING POT	4
+pot (earthenware)	499	2056	WOK	4
+pot (earthenware)	499	1462	POT	4
+pot (earthenware)	499	3765	STORING POT	4
+pot (earthenware)	499	854	KETTLE	4
+#>>>				
+rice kettle (copper)	500		???	
+rice kettle (earthenware)	501		???	
+#<<<				
+dish	502	3542	PREPARED FOOD	2
+dish	502	481	DISH	2
+dish	502	480	PLATE	2
+#>>>				
+cup	503	476	CUP	2
+drinking bowl	504		???	
+#<<<				
+(tea) pot	505	3653	COOKING POT	4
+(tea) pot	505	2056	WOK	4
+(tea) pot	505	1462	POT	4
+(tea) pot	505	3765	STORING POT	4
+(tea) pot	505	854	KETTLE	4
+#>>>				
+saucer (earthenware)	506	271	SAUCER	4
+small saucer (earthenware)	507		???	
+copper saucer	508		???	
+copper dish	509		???	
+knife	510	1352	KNIFE	2
+#<<<				
+chopper	511	3067	CLEAVER	2
+chopper	511	2772	KITCHEN KNIFE	2
+#>>>				
+kris	512		???	
+dagger	513		???	
+#<<<				
+axe, hatchet	514	677	AXE	4
+axe, hatchet	514	2083	AXE (CLASSIFIER)	4
+#>>>				
+spoon	515	1378	SPOON	2
+#<<<				
+ladle	516	2657	LADLE	2
+ladle	516	2649	COCONUT SHELL LADLE	2
+#>>>				
+bamboo water container	517		???	
+to fetch water	518		???	
+basket (all sorts of)	519	1539	BASKET	4
+#<<<				
+lamp	520	2131	TORCH OR LAMP	2
+lamp	520	625	LAMP	2
+#>>>				
+lamp wick	521		???	
+torch	522	1919	TORCH	2
+case	523	1465	BOX	2
+#<<<				
+box, case	524	1465	BOX	4
+box, case	524	3108	BOX (SOMEBODY OR SOMETHING)	4
+box, case	524	3150	BOX OR CHEST	4
+#>>>				
+case for cloth	525		???	
+cooking pot	526	3653	COOKING POT	2
+#<<<				
+pot, jar	527	3653	COOKING POT	4
+pot, jar	527	2056	WOK	4
+pot, jar	527	270	JUG	4
+pot, jar	527	1462	POT	4
+pot, jar	527	3409	EARTHEN JUG	4
+pot, jar	527	3765	STORING POT	4
+pot, jar	527	854	KETTLE	4
+#>>>				
+to fire pottery	528		???	
+earthen water barrel	529		???	
+to cook in bamboo container	530		???	
+to cook (in pot)	531	1100	COOK (SOMETHING)	3
+to steam	532	2067	STEAM (VERB)	1
+#<<<				
+to bake, to grill, to fry	533	183	BAKE	3
+to bake, to grill, to fry	533	2162	STIR FRY	3
+#>>>				
+#<<<				
+to roast (in ashes)	534	1962	ROAST (SOMETHING)	3
+to roast (in ashes)	534	2146	ROAST OR FRY	3
+#>>>				
+to grill, to roast	535	1962	ROAST (SOMETHING)	4
+to bake	536	183	BAKE	1
+done	537	813	DO	2
+half done	538		???	
+food	539	256	FOOD	2
+provisions	540		???	
+side-dish	541		???	
+vegetables	542	924	VEGETABLES	2
+#<<<				
+meat	543	2615	FLESH OR MEAT	2
+meat	543	634	MEAT	2
+#>>>				
+#<<<				
+meat (raw)	544	3393	LEAN MEAT	4
+meat (raw)	544	634	MEAT	4
+meat (raw)	544	2615	FLESH OR MEAT	4
+meat (raw)	544	2492	BOIL (SOMETHING)	4
+meat (raw)	544	2096	ANIMAL OR MEAT	4
+#>>>				
+dried meat	545		???	
+#<<<				
+fish	546	227	FISH	2
+fish	546	2638	FISHING	2
+#>>>				
+#<<<				
+rice plant	547	2026	RICE PLANT	2
+rice plant	547	3390	WILD RICE	2
+#>>>				
+harvested rice	548		???	
+husked rice	549	926	RICE	2
+cooked rice	550	1191	COOKED RICE	2
+unhusked rice	551	2749	UNHUSKED RICE	2
+stalk	552	2628	PLANT STEM	2
+#<<<				
+ear of rice, corn	553	506	MAIZE	4
+ear of rice, corn	553	605	GRAIN	4
+#>>>				
+rice barn	554		???	
+#<<<				
+rice pounder, mortar	555	1731	MORTAR BINDER	4
+rice pounder, mortar	555	224	MORTAR	4
+#>>>				
+pounder	556	2459	GRINDSTONE	2
+#<<<				
+to pound	557	354	POUND	1
+to pound	557	3768	POUND (FOOD)	1
+#>>>				
+sieve for rice	558		???	
+chaff	559	2363	CHAFF (HUSK)	2
+to grind	560	1033	GRIND	1
+rice porridge	561		???	
+sago flour	562		???	
+sago porridge	563		???	
+baked sago	564		???	
+cake	565	2408	CAKE	2
+#<<<				
+porridge	566	3651	MUSH (FOOD)	2
+porridge	566	2049	CONGEE	2
+#>>>				
+black pepper	567		???	
+salt	568	1274	SALT	2
+coconut pulp	569		???	
+#<<<				
+sarong	570	2413	SARONG	2
+sarong	570	1965	LOINCLOTH	2
+#>>>				
+cloth	571	1616	CLOTH	2
+trousers	572	809	TROUSERS	2
+kebaya	573		???	
+jacket (for women)	574	2770	JACKET	4
+jacket (for men)	575	2770	JACKET	4
+head cloth (for women)	576		???	
+head cloth (for men)	577		???	
+#<<<				
+comb	578	1475	COMB	2
+comb	578	2070	COMB (VERB)	2
+comb	578	188	COMB OF BIRD	2
+#>>>				
+fine tooth comb	579		???	
+finger ring	580	1374	RING	2
+#<<<				
+ring	581	1374	RING	2
+ring	581	2875	RING (MAKE SOUND)	2
+#>>>				
+waist belt/band	582		???	
+metal waist band	583		???	
+arm ring, bracelet	584	1754	BRACELET	4
+anklet	585		???	
+arm ring (upper arm)	586		???	
+earring	587	770	EARRING	2
+earclip	588		???	
+necklace	589	1961	NECKLACE	2
+bead	590	1860	BEAD	2
+shawl	591	2771	SHAWL	2
+sarong used as a sling	592		???	
+loin cloth	593		???	
+cotton fabric (local, European)	594		???	
+silk	595	1641	SILK	2
+woollen fabric	596		???	
+flannel	597		???	
+to weave	598	133	WEAVE	1
+#<<<				
+loom (meed)	599	133	WEAVE	4
+loom (meed)	599	1787	LOOM	4
+#>>>				
+#<<<				
+loom (weaving spool)	600	133	WEAVE	4
+loom (weaving spool)	600	1787	LOOM	4
+#>>>				
+#<<<				
+loom (warp)	601	133	WEAVE	4
+loom (warp)	601	1787	LOOM	4
+#>>>				
+#<<<				
+loom (weft)	602	133	WEAVE	4
+loom (weft)	602	1787	LOOM	4
+#>>>				
+bark cloth	603		???	
+to pound bark cloth	604		???	
+#<<<				
+to weave, to plait	605	133	WEAVE	3
+to weave, to plait	605	3294	BRAID (VERB) OR WEAVE (BASKET)	3
+to weave, to plait	605	3295	BRAID (VERB)	3
+to weave, to plait	605	1729	PLAIT OR BRAID OR WEAVE	3
+to weave, to plait	605	3296	WEAVE (BASKET)	3
+#>>>				
+to twine a rope	606		???	
+rope	607	1218	ROPE	2
+#<<<				
+thread, yarn	608	1161	THREAD	4
+thread, yarn	608	3445	YARN	4
+#>>>				
+to knot, to knit	609	760	KNOT	4
+bag (woven bag)	610	2468	BAG	4
+bag (made from rope)	611	2468	BAG	4
+sword	612	1535	SWORD	2
+sabre	613		???	
+sheath	614	3424	SHEATH	2
+#<<<				
+to chip, cut, slash	615	1432	CUT	3
+to chip, cut, slash	615	2156	CUT (WITH KNIFE)	3
+to chip, cut, slash	615	3889	CUT OR HACK	3
+to chip, cut, slash	615	190	MOW	3
+to chip, cut, slash	615	2155	CUT (WITH SCISSORS)	3
+to chip, cut, slash	615	3151	CUT (WITH AXE)	3
+#>>>				
+#<<<				
+pike, lance, javelin	616	945	SPEAR	4
+pike, lance, javelin	616	2967	PIKE (FISH)	4
+#>>>				
+blow-pipe	617		???	
+bow	618	994	BOW	2
+bowstring	619	2119	BOW STRING	2
+arrow	620	977	ARROW	2
+quiver	621	995	QUIVER (FOR ARROWS)	2
+shield	622	1064	SHIELD	2
+flag	623	2623	FLAG	2
+kind of small cannon	624		???	
+rifle	625	3881	PISTOL	2
+gun powder	626		???	
+bullet	627	1114	BULLET	2
+to shoot	628	1172	SHOOT	1
+sling	629	387	SLING	2
+to wage war	630		???	
+war	631	935	WAR	2
+enemy	632	1358	ENEMY	2
+cannon	633	3202	CANNON	2
+to go head hunting	634		???	
+peace	635	1338	PEACE	2
+fortification	636		???	
+defeated	637	3535	BE DEFEATED	2
+to gain the victory, to win	638		???	
+to surrender	639	1696	SURRENDER	1
+victory	640	783	VICTORY	2
+prisoner of war	641		???	
+delegate	642		???	
+#<<<				
+tribute	643	873	TAX	4
+tribute	643	2062	INTEREST	4
+#>>>				
+#<<<				
+tribute <as a mark of respect >	644	873	TAX	4
+tribute <as a mark of respect >	644	2062	INTEREST	4
+#>>>				
+tax	645	873	TAX	2
+to farm	646	1541	CULTIVATE	3
+#<<<				
+plough	647	2154	PLOUGH (INSTRUMENT)	2
+plough	647	1921	PLOUGH	2
+#>>>				
+coulter	648		???	
+#<<<				
+rake	649	338	RAKE	2
+rake	649	3127	RAKE (SOMETHING)	2
+#>>>				
+dibble	650		???	
+to make a hole (with a dibble in the ground)	651		???	
+spade	652	1176	SPADE	2
+trowel (a small trowel)	653		???	
+knife for cutting grass	654		???	
+sickle	655	341	SICKLE	2
+knife for cutting rice plant	656		???	
+hoe	657	284	HOE	2
+garden	658	586	GARDEN	2
+rice-field (wet, sawah)	659		???	
+rice-field (dry)	660		???	
+small dike in rice-field	661		???	
+irrigation	662		???	
+water-course channel	663		???	
+#<<<				
+fence, hedge	664	1690	FENCE	4
+fence, hedge	664	3403	HORSE BARN	4
+fence, hedge	664	3400	COWSHED	4
+#>>>				
+vegetation	665	653	PLANT (VEGETATION)	2
+planting, recently planted crop, a newly established garden	666		???	
+#<<<				
+to sow (placing the seeds in holes in the ground)	667	748	SOW SEEDS	3
+to sow (placing the seeds in holes in the ground)	667	1486	PLANT (SOMETHING)	3
+#>>>				
+#<<<				
+to sow (scattering the seeds about)	668	748	SOW SEEDS	3
+to sow (scattering the seeds about)	668	1486	PLANT (SOMETHING)	3
+#>>>				
+seed	669	714	SEED	2
+to plant	670	1486	PLANT (SOMETHING)	1
+to thresh with the feet	671		???	
+seed-rice	672	714	SEED	2
+ripe	673	178	RIPE	2
+unripe	674	1958	UNRIPE	2
+#<<<				
+to harvest	675	1827	HARVEST CROPS	4
+to harvest	675	3541	HARVEST OR HARVEST SEASON	4
+to harvest	675	611	HARVEST	4
+to harvest	675	3327	AUTUMN OR HARVEST SEASON	4
+#>>>				
+to reap	676	190	MOW	1
+to gather	677	7	GATHER	1
+to pick	678	2148	PICK	1
+maize, corn	679	506	MAIZE	2
+millet	680	931	MILLET	2
+beans and peas	681		???	
+beans	682	832	BEAN	2
+#<<<				
+bean	683	2574	BEAN OR PEA	2
+bean	683	832	BEAN	2
+#>>>				
+cucumber	684	496	CUCUMBER	2
+pumpkin	685	864	PUMPKIN	2
+tobacco	686	974	TOBACCO	2
+sugarcane	687	146	SUGAR CANE	2
+peanut	688	595	GROUNDNUT (PEANUT)	2
+onion	689	2366	ONION	2
+gourd	690	411	GOURD	2
+species of tuber	691		???	
+sweet potato	692	159	SWEET POTATO	2
+cassava	693	925	CASSAVA	2
+taro	694	351	TARO	2
+red pepper	695	919	CHILI PEPPER	2
+coconut (tree)	696	970	COCONUT	4
+coconut (fruit)	697	970	COCONUT	2
+coconut (other parts of the tree)	698	970	COCONUT	4
+breadfruit tree and breadfruit	699		???	
+sugarpalm, aren tree	700		???	
+lontar tree	701		???	
+palm Juice (unfermented)	702		???	
+palm wine (fermented)	703	404	ALCOHOL (FERMENTED DRINK)	4
+palmwine	704		???	
+syrup	705		???	
+sugar	706	862	SUGAR	2
+nipa palm	707		???	
+sago tree	708		???	
+sago	709	2270	SAGO	2
+cotton	710	1850	COTTON	2
+kapok	711	2499	KAPOK TREE	2
+pandanus	712	469	PANDANUS	2
+mango	713	2398	MANGO	2
+Artocarpus integrifolia, Jack fruit	714	2655	JACKFRUIT	4
+Nephelium lappaceum	715		???	
+Durio zibethinus	716		???	
+Eugenia	717		???	
+Lansium domesticum	718		???	
+Averrhoa carambola, carambola	719		???	
+Averrhoa blimbi	720		???	
+#<<<				
+banana	721	868	BANANA	2
+banana	721	399	PLANTAIN	2
+#>>>				
+#<<<				
+banana (wild)	722	868	BANANA	4
+banana (wild)	722	399	PLANTAIN	4
+#>>>				
+banana (fruit)	723	868	BANANA	2
+species of citrus fruit	724		???	
+#<<<				
+orange	725	2627	ORANGE (FRUIT)	2
+orange	725	3328	ORANGE (COLOR)	2
+#>>>				
+grape fruit	726		???	
+lemon	727	3091	LEMON	2
+coffee	728	1299	COFFEE	2
+indigo (plant)	729		???	
+indigo (dye)	730		???	
+Uncaria gambir	731		???	
+Morinda atrocarpus	732		???	
+#<<<				
+lime	733	982	LIME (FRUIT)	2
+lime	733	2540	LIME (MATERIAL)	2
+#>>>				
+Curcuma domestica	734		???	
+ginger	735	2500	GINGER	2
+#<<<				
+rattan, cane	736	1296	WALKING STICK	4
+rattan, cane	736	659	REED	4
+rattan, cane	736	2497	RATTAN	4
+rattan, cane	736	1295	STICK	4
+rattan, cane	736	146	SUGAR CANE	4
+rattan, cane	736	343	VINE	4
+rattan, cane	736	1763	CLUB	4
+#>>>				
+bamboo	737	1927	BAMBOO	2
+bamboo shoot, young sprout	738	2494	BAMBOO SHOOT	4
+tree	739	906	TREE	2
+wood	740	1803	WOOD	2
+to climb a tree	741		???	
+to climb	742	1102	CLIMB	1
+to cut down	743	355	CUT DOWN	1
+#<<<				
+branch	744	1531	BRANCH	2
+branch	744	3223	BRANCH OR TWIG	2
+#>>>				
+twig	745	3222	TWIG	2
+the heart of the tree	746		???	
+main root, taproot	747		???	
+side-root	748		???	
+fibrous root	749		???	
+liana	750	2388	LIANA	2
+#<<<				
+leaf	751	2250	LEAF (LEAFLIKE OBJECT)	2
+leaf	751	628	LEAF	2
+#>>>				
+falling of the leaves	752		???	
+#<<<				
+bark	753	1204	BARK	2
+bark	753	3865	BARK OR SHELL	2
+bark	753	1206	BARKING	2
+#>>>				
+#<<<				
+thorn, spine	754	124	THORN	4
+thorn, spine	754	805	SPINE	4
+#>>>				
+sap	755	345	SAP	2
+gum	756	139	GUMS	2
+Areca catechu LINN	757		???	
+betel	758	177	BETEL PEPPER VINE	2
+resin	759	664	RESIN	2
+resin (from the damar tree)	760	664	RESIN	4
+damar tree	761		???	
+#<<<				
+sprout	762	3358	SPROUT (SHOOT)	2
+sprout	762	2076	SPROUT (VERB)	2
+#>>>				
+flower	763	239	FLOWER	2
+fruit	764	1507	FRUIT	2
+to bear fruit	765	3054	BEAR FRUIT	1
+#<<<				
+rind, peel	766	275	PEEL	4
+rind, peel	766	3660	SHELL (SOMETHING)	4
+rind, peel	766	2373	SKIN (OF FRUIT)	4
+#>>>				
+to peel	767	275	PEEL	1
+#<<<				
+pip, stone	768	3419	STONE (CLASSIFIER)	4
+pip, stone	768	1762	STONE (OF FRUIT)	4
+pip, stone	768	224	MORTAR	4
+pip, stone	768	2125	STONE OR ROCK	4
+pip, stone	768	857	STONE	4
+pip, stone	768	668	ROCK	4
+pip, stone	768	1945	IDOL	4
+#>>>				
+the flesh of the fruit	769		???	
+bunch	770	1966	BUNCH	2
+#<<<				
+oil	771	2556	OIL (HYDROPHOBIC LIQUID)	2
+oil	771	1484	OIL (ORGANIC SUBSTANCE)	2
+#>>>				
+moss	772	637	MOSS	2
+mushroom	773	641	MUSHROOM	2
+ferns	774	3802	FERN	4
+grass	775	606	GRASS	2
+weeds	776	3288	WEED	2
+Imperata cylindria (Kunai grass)	777		???	
+Saccharum spontaneum	778		???	
+#<<<				
+animal, beast	779	3056	ANIMAL (CLASSIFIER)	4
+animal, beast	779	958	WILD ANIMAL	4
+animal, beast	779	2096	ANIMAL OR MEAT	4
+animal, beast	779	619	ANIMAL	4
+animal, beast	779	631	LIVESTOCK	4
+#>>>				
+#<<<				
+young of animal (calf, foal, chicken, etc.)	780	1318	CHICKEN	4
+young of animal (calf, foal, chicken, etc.)	780	1840	BUILD	4
+young of animal (calf, foal, chicken, etc.)	780	2017	MIX	4
+young of animal (calf, foal, chicken, etc.)	780	1514	HEN	4
+young of animal (calf, foal, chicken, etc.)	780	2628	PLANT STEM	4
+young of animal (calf, foal, chicken, etc.)	780	3080	SPLIT OPEN	4
+young of animal (calf, foal, chicken, etc.)	780	178	RIPE	4
+young of animal (calf, foal, chicken, etc.)	780	460	BREAK (OF ROPE)	4
+young of animal (calf, foal, chicken, etc.)	780	1201	FEATHER	4
+young of animal (calf, foal, chicken, etc.)	780	1647	FOAL	4
+young of animal (calf, foal, chicken, etc.)	780	2512	CHICK	4
+young of animal (calf, foal, chicken, etc.)	780	265	FOWL	4
+young of animal (calf, foal, chicken, etc.)	780	3044	BOVINE	4
+young of animal (calf, foal, chicken, etc.)	780	2081	CHICKEN (CLASSIFIER)	4
+young of animal (calf, foal, chicken, etc.)	780	718	PAY	4
+young of animal (calf, foal, chicken, etc.)	780	285	THRESH	4
+#>>>				
+to bleat	781		???	
+to keep animals	782		???	
+tail	783	1220	TAIL	2
+paw	784	2965	PAW	2
+hoof	785	152	HOOF	2
+claw	786	72	CLAW	2
+udder	787	154	UDDER	2
+#<<<				
+mouth, snout	788	674	MOUTH	4
+mouth, snout	788	2200	SNOUT	4
+mouth, snout	788	1701	RIVER MOUTH	4
+#>>>				
+snout, muzzle	789	2200	SNOUT	4
+#<<<				
+bill, beak	790	1081	BILL	4
+bill, beak	790	73	BEAK	4
+#>>>				
+wing	791	1257	WING	2
+feather	792	1201	FEATHER	2
+to fly	793	1441	FLY (MOVE THROUGH AIR)	1
+#<<<				
+nest	794	3549	BIRD NEST	2
+nest	794	539	NEST	2
+#>>>				
+egg	795	744	EGG	2
+to lay eggs	796	2464	LAY EGGS	1
+to brood	797	2075	BROOD (VERB)	3
+to hatch	798	3116	HATCH (OUT)	1
+domesticated pig	799		???	
+piggery	800		???	
+wild pig	801	3154	WILD BOAR	2
+to grunt	802		???	
+#<<<				
+sheep	803	1331	SHEEP	2
+sheep	803	1344	RAM	2
+#>>>				
+#<<<				
+goat	804	1502	GOAT	2
+goat	804	2684	CAPRINE (GOAT OR SHEEP)	2
+goat	804	2476	FEMALE GOAT	2
+#>>>				
+#<<<				
+buffalo (female)	805	2516	WATER BUFFALO	4
+buffalo (female)	805	3142	BISON	4
+buffalo (female)	805	934	BUFFALO	4
+#>>>				
+#<<<				
+buffalo (male)	806	2516	WATER BUFFALO	4
+buffalo (male)	806	3142	BISON	4
+buffalo (male)	806	934	BUFFALO	4
+#>>>				
+#<<<				
+buffalo (calf)	807	2516	WATER BUFFALO	4
+buffalo (calf)	807	3142	BISON	4
+buffalo (calf)	807	934	BUFFALO	4
+#>>>				
+#<<<				
+cow	808	1007	COW	2
+cow	808	3044	BOVINE	2
+#>>>				
+bull	809	1008	BULL	2
+to bleat, to moo	810		???	
+#<<<				
+to low, to bellow	811	2191	LOW (HEIGHT)	4
+to low, to bellow	811	3348	LOW (POSITION OR HEIGHT)	4
+to low, to bellow	811	2484	SMALL (NOT TALL)	4
+to low, to bellow	811	536	LOW VOICE	4
+to low, to bellow	811	1485	BELOW OR UNDER	4
+to low, to bellow	811	721	LOW	4
+#>>>				
+horse	812	615	HORSE	2
+to neigh, to whinny	813		???	
+#<<<				
+deer	814	1936	DEER	2
+deer	814	3826	ROE DEER	2
+#>>>				
+#<<<				
+horn	815	1393	HORN (ANATOMY)	2
+horn	815	939	HORN (INSTRUMENT)	2
+#>>>				
+dog	816	2009	DOG	2
+#<<<				
+to bark	817	1204	BARK	1
+to bark	817	1206	BARKING	1
+#>>>				
+#<<<				
+cat	818	3825	MALE CAT	2
+cat	818	1208	CAT	2
+#>>>				
+to miaow	819		???	
+tiger	820	846	TIGER	2
+to roar	821	3896	ROAR	1
+bear	822	1820	BEAR	2
+porcupine	823	2510	PORCUPINE	2
+marsupial	824		???	
+marten (paradaxurus)	825	3739	MARTEN	4
+half-ape	826		???	
+ant-eater (manis javanica)	827	181	ANTEATER	4
+cassowary	828	466	CASSOWARY	2
+pigeon	829	1853	DOVE	2
+#<<<				
+crow	830	913	CROW	2
+crow	830	2074	CROW (VERB)	2
+#>>>				
+#<<<				
+hen, chicken	831	1318	CHICKEN	4
+hen, chicken	831	1514	HEN	4
+hen, chicken	831	1201	FEATHER	4
+hen, chicken	831	265	FOWL	4
+hen, chicken	831	2512	CHICK	4
+hen, chicken	831	2081	CHICKEN (CLASSIFIER)	4
+#>>>				
+chick	832	2512	CHICK	2
+#<<<				
+hen	833	1514	HEN	2
+hen	833	1318	CHICKEN	2
+#>>>				
+mother hen	834		???	
+cock, rooster	835	1511	ROOSTER	2
+fighting cock	836		???	
+cock-fighting	837		???	
+duck	838	1360	DUCK	2
+parrot	839	882	PARROT	2
+#<<<				
+parakeet, budgerigar	840	3720	BUDGERIGAR	4
+parakeet, budgerigar	840	886	PARAKEET	4
+#>>>				
+#<<<				
+swallow	841	897	SWALLOW	2
+swallow	841	3077	SWALLOW (BIRD)	2
+#>>>				
+rice-bird	842		???	
+hornbill	843	3260	HORNBILL	2
+quail	844	1893	QUAIL	2
+heron	845	758	HERON	2
+birds of prey	846		???	
+owl	847	735	OWL	2
+kite (bird)	848	307	HAWK	4
+bird	849	937	BIRD	2
+squirrel	850	1628	SQUIRREL	2
+bat	851	1793	BAT	2
+bat	852	1793	BAT	2
+flying fox	853	235	FLYING FOX	2
+#<<<				
+deer	854	1936	DEER	2
+deer	854	3826	ROE DEER	2
+#>>>				
+cherrotain mousedeer	855		???	
+#<<<				
+mouse	856	1491	MOUSE	2
+mouse	856	2139	MUROID (MOUSE OR RAT)	2
+#>>>				
+#<<<				
+rat	857	1490	RAT	2
+rat	857	1491	MOUSE	2
+rat	857	2139	MUROID (MOUSE OR RAT)	2
+#>>>				
+shrew	858	3676	SHREW	2
+monkey	859	1350	MONKEY	2
+to hunt	860	1435	HUNT	1
+trap for catching large game	861		???	
+#<<<				
+trap	862	1075	TRAP (PITFALL)	2
+trap	862	3320	SNARE (TRAP)	2
+#>>>				
+bamboo spikes	863		???	
+to fish	864	2638	FISHING	1
+fish trap	865	389	FISH TRAP	2
+#<<<				
+net	866	2653	NET (FOR CATCHING)	2
+net	866	2963	NET	2
+#>>>				
+#<<<				
+fish	867	227	FISH	2
+fish	867	2638	FISHING	2
+#>>>				
+shark	868	1110	SHARK	2
+ray	869		???	
+eel	870	1013	FRESHWATER EEL	2
+#<<<				
+louse	871	1392	LOUSE	2
+louse	871	310	HEAD LOUSE	2
+#>>>				
+to delouse	872		???	
+#<<<				
+louse	873	1392	LOUSE	2
+louse	873	310	HEAD LOUSE	2
+#>>>				
+nit	874	267	NIT	2
+flea	875	232	FLEA	2
+spider	876	843	SPIDER	2
+#<<<				
+fly	877	1504	FLY (INSECT)	2
+fly	877	1441	FLY (MOVE THROUGH AIR)	2
+#>>>				
+bluebottle fly	878		???	
+wasp	879	1517	WASP	2
+bee	880	665	BEE	2
+honey	881	942	HONEY	2
+mosquito	882	1509	MOSQUITO	2
+butterfly	883	1791	BUTTERFLY	2
+caterpillar	884	2247	CATERPILLAR	2
+firefly	885	206	FIREFLY	2
+grasshopper	886	607	GRASSHOPPER	2
+beetle	887	2242	BEETLE	2
+cockroach	888	1575	COCKROACH	2
+ant	889	587	ANT	2
+white ant, termite	890	883	TERMITE	4
+snake	891	730	SNAKE	2
+python	892	1563	PYTHON	2
+centipede	893	1974	CENTIPEDE	2
+#<<<				
+leech	894	949	WATER LEECH	2
+leech	894	2273	LEECH	2
+#>>>				
+snail, slug	895	1543	SNAIL	2
+#<<<				
+worm	896	2350	EARTHWORM	2
+worm	896	1219	WORM	2
+#>>>				
+#<<<				
+shrimp	897	238	PRAWNS	2
+shrimp	897	2349	SHRIMP	2
+#>>>				
+crab	898	2348	CRAB	2
+shell	899	598	SHELL	2
+crustacean	900		???	
+frog	901	503	FROG	2
+toad	902	894	TOAD	2
+lizard	903	632	LIZARD	2
+iguana	904	1578	IGUANA	2
+crocodile	905	1857	CROCODILE	2
+tortoise	906	895	TORTOISE	2
+#<<<				
+turtle	907	112	TURTLE	2
+turtle	907	3949	RED-FOOTED TORTOISE	2
+turtle	907	895	TORTOISE	2
+#>>>				
+universe	908		???	
+firmament	909		???	
+sky	910	1732	SKY	2
+sun	911	1343	SUN	2
+sun eclipse	912		???	
+moon	913	1313	MOON	2
+one month	914		???	
+#<<<				
+month (name of the months)	915	1370	MONTH	4
+month (name of the months)	915	2463	MOON OR MONTH	4
+#>>>				
+moon eclipse	916		???	
+star	917	1430	STAR	2
+sunrise	918	2296	SUNRISE	2
+moonrise	919		???	
+sunset	920	2295	SUNSET	2
+moonset	921		???	
+#<<<				
+earth (globe)	922	212	FIELD	4
+earth (globe)	922	1228	EARTH (SOIL)	4
+earth (globe)	922	2159	GROUND	4
+earth (globe)	922	626	LAND	4
+earth (globe)	922	3603	EARTH OR LAND	4
+earth (globe)	922	965	WORLD	4
+#>>>				
+air	923	27	AIR	2
+#<<<				
+rain	924	658	RAIN (PRECIPITATION)	2
+rain	924	2108	RAINING OR RAIN	2
+rain	924	1253	RAIN (RAINING)	2
+#>>>				
+dew	925	1977	DEW	2
+#<<<				
+cloud	926	1489	CLOUD	2
+cloud	926	448	STORM CLOUDS	2
+#>>>				
+#<<<				
+fog, mist	927	249	FOG	4
+fog, mist	927	3275	CLOUD OR FOG	4
+#>>>				
+rainbow	928	1733	RAINBOW	2
+#<<<				
+thunder	929	1150	THUNDER	2
+thunder	929	2378	THUNDER (VERB)	2
+#>>>				
+thunderstone	930		???	
+#<<<				
+(flash of) lightning	931	2377	FLASH (VERB)	4
+(flash of) lightning	931	1654	LIGHTNING	4
+(flash of) lightning	931	2007	BOLT (OF LIGHTNING)	4
+#>>>				
+earthquake	932	6	EARTHQUAKE	2
+wind	933	960	WIND	2
+storm	934	858	STORM	2
+#<<<				
+water	935	3078	IRRIGATE	2
+water	935	2516	WATER BUFFALO	2
+water	935	948	WATER	2
+#>>>				
+sea	936	1474	SEA	2
+ebb	937		???	
+lake	938	624	LAKE	2
+#<<<				
+flood, tide	939	947	STREAM	4
+flood, tide	939	613	HIGH TIDE	4
+flood, tide	939	1026	LOW TIDE	4
+flood, tide	939	891	TIDE	4
+#>>>				
+#<<<				
+wave	940	978	WAVE	2
+wave	940	3544	WAVE (VERB)	2
+#>>>				
+breakers, surf	941	3132	SURF	4
+bay	942	663	BAY	2
+#<<<				
+beach	943	113	SHORE	2
+beach	943	3460	BEACH	2
+#>>>				
+strait(s)	944	1661	STRAIT	4
+sandbank	945		???	
+coral reef	946		???	
+#<<<				
+land	947	626	LAND	2
+land	947	166	MAINLAND	2
+#>>>				
+#<<<				
+land (state)	948	1300	COUNTRY	4
+land (state)	948	1228	EARTH (SOIL)	4
+land (state)	948	166	MAINLAND	4
+land (state)	948	1922	LAND (DESCEND)	4
+land (state)	948	2159	GROUND	4
+land (state)	948	626	LAND	4
+land (state)	948	3603	EARTH OR LAND	4
+land (state)	948	2273	LEECH	4
+#>>>				
+island	949	622	ISLAND	2
+isthmus	950		???	
+cape	951	1662	CAPE	2
+mountain	952	639	MOUNTAIN	2
+hill	953	614	HILL	2
+mountain-climbing, to ascend	954	705	GO UP (ASCEND)	3
+to go down, to descend	955	2014	GO DOWN (DESCEND)	3
+plain	956	652	PLAIN	2
+valley	957	921	VALLEY	2
+grassy plain	958		???	
+swamp	959	1145	SWAMP	2
+#<<<				
+forest, woods	960	420	FOREST	4
+forest, woods	960	2141	TREE OR WOOD	4
+forest, woods	960	1803	WOOD	4
+forest, woods	960	3808	JUNGLE	4
+#>>>				
+jungle	961	3808	JUNGLE	2
+#<<<				
+bush	962	201	FARM	2
+bush	962	1683	BUSH	2
+#>>>				
+volcano	963	2291	VOLCANO	2
+#<<<				
+way, road	964	667	ROAD	4
+way, road	964	2457	PATH OR ROAD	4
+way, road	964	2252	PATH	4
+way, road	964	488	MANNER	4
+#>>>				
+mud	965	640	MUD	2
+footstep (footprint)	966	318	FOOTPRINT	4
+#<<<				
+border, boundary	967	1010	BOUNDARY	4
+border, boundary	967	2546	BORDER	4
+#>>>				
+#<<<				
+river	968	666	RIVER	2
+river	968	3311	FLOWING BODY OF WATER	2
+#>>>				
+bridge	969	1011	BRIDGE	2
+to go upstream	970		???	
+to go downstream	971		???	
+#<<<				
+spring, source	972	849	SPRING (OF WATER)	4
+spring, source	972	2144	SPRING OR WELL	4
+spring, source	972	1537	SPRINGTIME	4
+spring, source	972	1829	JUMP	4
+spring, source	972	954	WELL	4
+#>>>				
+flood	973	613	HIGH TIDE	2
+#<<<				
+stone	974	668	ROCK	2
+stone	974	1762	STONE (OF FRUIT)	2
+stone	974	857	STONE	2
+#>>>				
+#<<<				
+earth (ground)	975	212	FIELD	4
+earth (ground)	975	1228	EARTH (SOIL)	4
+earth (ground)	975	2159	GROUND	4
+earth (ground)	975	626	LAND	4
+earth (ground)	975	3603	EARTH OR LAND	4
+earth (ground)	975	965	WORLD	4
+#>>>				
+#<<<				
+sand	976	671	SAND	2
+sand	976	3460	BEACH	2
+#>>>				
+gravel	977	3028	GRAVEL	2
+#<<<				
+iron	978	621	IRON	2
+iron	978	3118	IRON (CLOTHES)	2
+#>>>				
+copper	979	1825	COPPER	2
+bronze	980	2313	BRONZE	2
+silver	981	759	SILVER	2
+gold	982	1369	GOLD	2
+tin	983	893	TIN (METAL)	2
+#<<<				
+lead	984	43	LEAD (GUIDE)	2
+lead	984	627	LEAD (CHEMICAL ELEMENT)	2
+#>>>				
+sulphur	985	3386	SULPHUR	2
+smith	986	1001	BLACKSMITH	2
+smithy	987		???	
+to forge, weld	988	288	FORGE	3
+charcoal	989	1188	CHARCOAL	2
+#<<<				
+hammer	990	3306	NAIL	2
+hammer	990	3115	HAMMER (SOMETHING)	2
+hammer	990	1481	HAMMER	2
+#>>>				
+anvil	991	1648	ANVIL	2
+tongs	992	272	TONGS	2
+cinders, glowing coals	993		???	
+#<<<				
+to sharpen, to grind	994	251	SHARPEN (SOMETHING)	3
+to sharpen, to grind	994	1033	GRIND	3
+#>>>				
+grindstone	995	2459	GRINDSTONE	2
+#<<<				
+gift, present	996	1376	NOW	4
+gift, present	996	2982	GIFT	4
+gift, present	996	196	DONATE	4
+gift, present	996	1460	IN	4
+#>>>				
+to negotiate	997		???	
+to make peace	998		???	
+to sign a treaty	999		???	
+merchant	1000	1082	MERCHANT	2
+farmer	1001	979	FARMER	2
+craftsmen	1002		???	
+servant	1003	255	SERVANT	2
+follower	1004		???	
+ally	1005		???	
+shop	1006	746	SHOP	2
+market	1007	633	MARKET	2
+#<<<				
+to trade	1008	898	TRADE	1
+to trade	1008	2135	TRADE OR BARTER	1
+#>>>				
+merchandise	1009	3406	MERCHANDISE	4
+needle	1010	1382	NEEDLE (FOR SEWING)	2
+to sew	1011	1457	SEW	1
+price	1012	657	PRICE	2
+profit	1013	2929	BENEFIT	2
+loss	1014	2947	DAMAGE (INJURY)	4
+to buy	1015	1869	BUY	1
+expensive	1016	1426	EXPENSIVE	2
+cheap	1017	1887	CHEAP	2
+debt	1018	1914	DEBT	2
+to dun	1019		???	
+to pay	1020	718	PAY	1
+to sell	1021	1571	SELL	1
+to borrow	1022	1823	BORROW	1
+to lend to	1023		???	
+to exchange	1024	2509	EXCHANGE	1
+to offer	1025		???	
+to pawn	1026		???	
+to bargain	1027		???	
+to fill	1028	2006	FILL	1
+steelyard, weigh-beam	1029	2687	STEELYARD (BALANCE)	4
+a pair of scales	1030		???	
+measures and weights (length)	1031		???	
+measures and weights (mass)	1032		???	
+measures and weights (volume and capacity)	1033		???	
+#<<<				
+ship (trading vessel)	1034	740	SHIP	4
+ship (trading vessel)	1034	1844	BOAT	4
+ship (trading vessel)	1034	2736	SHIP (CLASSIFIER)	4
+#>>>				
+#<<<				
+ship (warship)	1035	740	SHIP	4
+ship (warship)	1035	1844	BOAT	4
+ship (warship)	1035	2736	SHIP (CLASSIFIER)	4
+#>>>				
+steamboat	1036		???	
+rowboat	1037		???	
+#<<<				
+proa, canoe	1038	2189	DUGOUT	4
+proa, canoe	1038	1970	CANOE	4
+#>>>				
+all sorts of vessels	1039		???	
+mast	1040	184	MAST	2
+#<<<				
+sail	1041	786	SAILCLOTH	2
+sail	1041	787	SAIL	2
+#>>>				
+to sail	1042	787	SAIL	1
+rudder, helm	1043	108	RUDDER	4
+to sail	1044	787	SAIL	1
+#<<<				
+oar, paddle	1045	696	STIR	4
+oar, paddle	1045	108	RUDDER	4
+oar, paddle	1045	3668	PADDLE (MOVEMENT)	4
+oar, paddle	1045	234	PADDLE	4
+oar, paddle	1045	3318	OAR OR PADDLE	4
+oar, paddle	1045	3137	OAR	4
+oar, paddle	1045	1849	ROW	4
+#>>>				
+#<<<				
+paddle	1046	3668	PADDLE (MOVEMENT)	2
+paddle	1046	234	PADDLE	2
+paddle	1046	3137	OAR	2
+#>>>				
+to paddle	1047	3668	PADDLE (MOVEMENT)	3
+to row, to pull	1048	1849	ROW	3
+outrigger	1049	416	OUTRIGGER	2
+thwarts	1050		???	
+#<<<				
+stem, bows	1051	2628	PLANT STEM	4
+stem, bows	1051	994	BOW	4
+#>>>				
+stern	1052		???	
+to take on cargo	1053		???	
+anchor	1054	1870	ANCHOR	2
+raft	1055	1664	RAFT	2
+harbour	1056		???	
+to be wrecked	1057		???	
+pirate	1058		???	
+landing-stage	1059		???	
+to disembark	1060		???	
+to sail away	1061		???	
+to capsize	1062		???	
+kidnapper	1063		???	
+to ill-treat, to mishandle	1064		???	
+to ransom	1065		???	
+great, big	1066	1202	BIG	2
+small	1067	1246	SMALL	2
+#<<<				
+long (things)	1068	2143	LONG OR TALL	4
+long (things)	1068	1203	LONG	4
+long (things)	1068	1352	KNIFE	4
+long (things)	1068	2085	STICK (CLASSIFIER)	4
+long (things)	1068	418	FOR A LONG TIME	4
+long (things)	1068	3473	LONG (FOR SOMETHING)	4
+#>>>				
+#<<<				
+long (time)	1069	2143	LONG OR TALL	4
+long (time)	1069	1203	LONG	4
+long (time)	1069	1352	KNIFE	4
+long (time)	1069	2085	STICK (CLASSIFIER)	4
+long (time)	1069	418	FOR A LONG TIME	4
+long (time)	1069	3473	LONG (FOR SOMETHING)	4
+#>>>				
+short (things)	1070	1645	SHORT	2
+short (time)	1071	3312	SHORT (TIME)	2
+#<<<				
+big, fat	1072	1282	FAT (FROM ANIMALS)	4
+big, fat	1072	2555	OIL (FROM PLANTS)	4
+big, fat	1072	1244	THICK	4
+big, fat	1072	2095	FAT (FOR NOURISHMENT)	4
+big, fat	1072	1202	BIG	4
+big, fat	1072	1279	FAT (OBESE)	4
+big, fat	1072	2449	FAT (OF MEAT AND FOOD)	4
+big, fat	1072	2719	FAT (OILY)	4
+big, fat	1072	323	FAT (ORGANIC SUBSTANCE)	4
+big, fat	1072	3436	FAT MEAT	4
+big, fat	1072	666	RIVER	4
+big, fat	1072	2551	ORGANIC FAT OR OIL	4
+#>>>				
+#<<<				
+thick	1073	1244	THICK	2
+thick	1073	2239	DENSE	2
+thick	1073	2151	COARSE	2
+#>>>				
+#<<<				
+thick	1074	1244	THICK	2
+thick	1074	2239	DENSE	2
+thick	1074	2151	COARSE	2
+#>>>				
+#<<<				
+thin	1075	2308	THIN	2
+thin	1075	2249	THIN (OF SHAPE OF OBJECT)	2
+thin	1075	2219	LEAN (MEAT)	2
+thin	1075	1400	THIN (SLIM)	2
+thin	1075	2305	THIN (OF HAIR AND THREAD)	2
+thin	1075	2157	FINE OR THIN	2
+thin	1075	2306	THIN (OF LEAF AND CLOTH)	2
+#>>>				
+#<<<				
+thin, meagre, skinny	1076	2308	THIN	4
+thin, meagre, skinny	1076	1400	THIN (SLIM)	4
+thin, meagre, skinny	1076	2219	LEAN (MEAT)	4
+thin, meagre, skinny	1076	3545	WATERY	4
+thin, meagre, skinny	1076	2305	THIN (OF HAIR AND THREAD)	4
+thin, meagre, skinny	1076	2306	THIN (OF LEAF AND CLOTH)	4
+thin, meagre, skinny	1076	207	SPARSE	4
+thin, meagre, skinny	1076	2249	THIN (OF SHAPE OF OBJECT)	4
+thin, meagre, skinny	1076	2157	FINE OR THIN	4
+#>>>				
+fat (adj.)	1077	1279	FAT (OBESE)	2
+fat, grease (noun)	1078	323	FAT (ORGANIC SUBSTANCE)	3
+greasy	1079	955	GREASY	2
+slim	1080	1400	THIN (SLIM)	2
+dwarf	1081		???	
+diminished in size, boiled down, shrunken	1082		???	
+#<<<				
+to grow	1083	479	GROW	1
+to grow	1083	1486	PLANT (SOMETHING)	1
+to grow	1083	3461	GROW PLANTS	1
+#>>>				
+tame	1084	2838	TAME	2
+wild	1085	2230	UNTAMED OR WILD	2
+#<<<				
+wary, shy, timid	1086	3805	SHY OR ASHAMED	4
+wary, shy, timid	1086	487	SHY	4
+#>>>				
+#<<<				
+shy, ashamed	1087	487	SHY	2
+shy, ashamed	1087	3805	SHY OR ASHAMED	2
+#>>>				
+deep (river)	1088	1593	DEEP	4
+deep (dish)	1089	1593	DEEP	4
+shallow (river)	1090	193	SHALLOW	4
+shallow (dish)	1091	193	SHALLOW	4
+#<<<				
+high	1092	2790	HIGH OR TALL	2
+high	1092	3347	HIGH OR UP	2
+high	1092	1265	HIGH	2
+#>>>				
+#<<<				
+low	1093	721	LOW	2
+low	1093	3348	LOW (POSITION OR HEIGHT)	2
+low	1093	2191	LOW (HEIGHT)	2
+#>>>				
+straight	1094	1404	STRAIGHT	2
+#<<<				
+crooked, bent	1095	1698	CURVED	4
+crooked, bent	1095	297	CROOKED	4
+#>>>				
+#<<<				
+curved, winding	1096	1698	CURVED	4
+curved, winding	1096	297	CROOKED	4
+#>>>				
+flat	1097	1633	FLAT	2
+#<<<				
+even	1098	1633	FLAT	4
+even	1098	98	ALL	4
+#>>>				
+smooth	1099	1234	SMOOTH	2
+heavy	1100	1210	HEAVY	2
+#<<<				
+light	1101	1052	LIGHT (WEIGHT)	2
+light	1101	250	LIGHT (COLOR)	2
+light	1101	630	LIGHT (RADIATION)	2
+light	1101	737	LIGHT (IGNITE)	2
+#>>>				
+slanting, sloping	1102	3075	SLANTED	4
+sharp	1103	1396	SHARP	2
+blunt	1104	379	BLUNT	2
+pointed	1105	372	POINTED	2
+#<<<				
+hard	1106	1884	HARD	2
+hard	1106	584	DIFFICULT	2
+#>>>				
+weak	1107	1601	WEAK	2
+soft	1108	1856	SOFT	2
+#<<<				
+warm (persons)	1109	2110	WARM (OF WEATHER)	4
+warm (persons)	1109	2032	WARM UP	4
+warm (persons)	1109	1232	WARM	4
+warm (persons)	1109	2272	HOT OR WARM	4
+warm (persons)	1109	1286	HOT	4
+#>>>				
+#<<<				
+warm (things)	1110	2110	WARM (OF WEATHER)	4
+warm (things)	1110	2032	WARM UP	4
+warm (things)	1110	1232	WARM	4
+warm (things)	1110	2272	HOT OR WARM	4
+warm (things)	1110	1286	HOT	4
+#>>>				
+#<<<				
+cold (persons)	1111	2932	COLD (CHILL)	4
+cold (persons)	1111	3819	COLD (FEELING COLD)	4
+cold (persons)	1111	2483	COLD (OF WEATHER)	4
+cold (persons)	1111	1287	COLD	4
+cold (persons)	1111	102	COMMON COLD (DISEASE)	4
+#>>>				
+#<<<				
+cold (things)	1112	2932	COLD (CHILL)	4
+cold (things)	1112	3819	COLD (FEELING COLD)	4
+cold (things)	1112	2483	COLD (OF WEATHER)	4
+cold (things)	1112	1287	COLD	4
+cold (things)	1112	102	COMMON COLD (DISEASE)	4
+#>>>				
+to shiver	1113	52	SHIVER	1
+#<<<				
+round, circular (as a stick)	1114	2303	SPHERICAL (ROUND IN THREE DIMENSIONS)	4
+round, circular (as a stick)	1114	2302	CIRCULAR (ROUND IN TWO DIMENSIONS)	4
+round, circular (as a stick)	1114	1395	ROUND	4
+round, circular (as a stick)	1114	1979	CHISEL	4
+#>>>				
+#<<<				
+round, circular (as a dish)	1115	2303	SPHERICAL (ROUND IN THREE DIMENSIONS)	4
+round, circular (as a dish)	1115	2302	CIRCULAR (ROUND IN TWO DIMENSIONS)	4
+round, circular (as a dish)	1115	1395	ROUND	4
+round, circular (as a dish)	1115	1979	CHISEL	4
+#>>>				
+#<<<				
+globular, round	1116	2303	SPHERICAL (ROUND IN THREE DIMENSIONS)	4
+globular, round	1116	2302	CIRCULAR (ROUND IN TWO DIMENSIONS)	4
+globular, round	1116	1395	ROUND	4
+globular, round	1116	1979	CHISEL	4
+#>>>				
+#<<<				
+square	1117	850	SQUARE	2
+square	1117	2757	ANGULAR (SQUAREFORMED)	2
+#>>>				
+#<<<				
+broad	1118	1243	WIDE	2
+broad	1118	2531	BROAD	2
+#>>>				
+small	1119	1246	SMALL	2
+narrow	1120	1267	NARROW	2
+#<<<				
+wide	1121	2531	BROAD	2
+wide	1121	1243	WIDE	2
+wide	1121	1244	THICK	2
+#>>>				
+strong	1122	785	STRONG	2
+weak	1123	1601	WEAK	2
+#<<<				
+brave, bold	1124	91	INSOLENT	4
+brave, bold	1124	3	BRAVE	4
+#>>>				
+cowardly	1125	3812	COWARDLY	2
+lazy	1126	1564	LAZY	2
+diligent	1127	2077	DILIGENT	2
+stingy	1128	1774	STINGY	2
+#<<<				
+mild, tender	1129	1954	GENTLE	4
+mild, tender	1129	1856	SOFT	4
+#>>>				
+#<<<				
+dry	1130	1398	DRY	2
+dry	1130	1786	DRY UP	2
+#>>>				
+to dry in the sun	1131	3364	DRY IN SUN	4
+wet	1132	1726	WET	2
+humid	1133	143	HUMID	2
+rotten	1134	1728	ROTTEN	2
+good	1135	1035	GOOD	2
+bad	1136	1292	BAD	2
+#<<<				
+beautiful (persons)	1137	2410	GOOD-LOOKING	4
+beautiful (persons)	1137	1427	BEAUTIFUL	4
+beautiful (persons)	1137	1035	GOOD	4
+#>>>				
+#<<<				
+beautiful (male)	1138	2410	GOOD-LOOKING	4
+beautiful (male)	1138	1427	BEAUTIFUL	4
+beautiful (male)	1138	1035	GOOD	4
+#>>>				
+#<<<				
+beautiful (fem.)	1139	2410	GOOD-LOOKING	4
+beautiful (fem.)	1139	1427	BEAUTIFUL	4
+beautiful (fem.)	1139	1035	GOOD	4
+#>>>				
+#<<<				
+beautiful (things)	1140	2410	GOOD-LOOKING	4
+beautiful (things)	1140	1427	BEAUTIFUL	4
+beautiful (things)	1140	1035	GOOD	4
+#>>>				
+#<<<				
+ugly (persons)	1141	1548	UGLY	4
+ugly (persons)	1141	1923	ROUGH	4
+#>>>				
+#<<<				
+ugly (male)	1142	1548	UGLY	4
+ugly (male)	1142	1923	ROUGH	4
+#>>>				
+#<<<				
+ugly (female)	1143	1548	UGLY	4
+ugly (female)	1143	1923	ROUGH	4
+#>>>				
+#<<<				
+ugly (things)	1144	1548	UGLY	4
+ugly (things)	1144	1923	ROUGH	4
+#>>>				
+#<<<				
+wrong, false	1145	3069	FALSE	4
+wrong, false	1145	1390	WRONG	4
+wrong, false	1145	839	ERR	4
+#>>>				
+#<<<				
+true, right	1146	2183	RIGHT HAND	4
+true, right	1146	1019	RIGHT	4
+true, right	1146	1725	CORRECT (RIGHT)	4
+true, right	1146	2231	CORRECT (SOMETHING OR SOMEBODY)	4
+true, right	1146	1657	TRUE	4
+#>>>				
+empty	1147	1624	EMPTY	2
+full	1148	1429	FULL	2
+#<<<				
+angry	1149	1826	ANGRY	2
+angry	1149	2223	BE ANGRY	2
+#>>>				
+mad	1150	1899	MAD	2
+tightly bound	1151		???	
+tightly fitting	1152		???	
+#<<<				
+loose	1153	2506	LOOSE	2
+loose	1153	1933	LOOSEN	2
+#>>>				
+loosely fitting	1154		???	
+#<<<				
+old	1155	2112	OLD (AGED)	2
+old	1155	2113	OLD (USED)	2
+old	1155	1229	OLD	2
+old	1155	406	OLD MAN	2
+#>>>				
+#<<<				
+old, worn	1156	725	OLD PERSON	4
+old, worn	1156	1229	OLD	4
+old, worn	1156	2112	OLD (AGED)	4
+old, worn	1156	565	OLD (OF MAN)	4
+old, worn	1156	566	OLD (OF WOMAN)	4
+old, worn	1156	2113	OLD (USED)	4
+old, worn	1156	406	OLD MAN	4
+#>>>				
+#<<<				
+young	1157	1207	YOUNG	2
+young	1157	2512	CHICK	2
+young	1157	564	YOUNG (OF MAN)	2
+#>>>				
+new	1158	1231	NEW	2
+poor	1159	1674	POOR	2
+wealthy	1160	712	RICH	2
+tired	1161	1757	TIRED	2
+#<<<				
+fast	1162	1631	FAST	2
+fast	1162	3331	FASTING	2
+fast	1162	303	ABSTAIN FROM FOOD	2
+#>>>				
+slow	1163	701	SLOW	2
+#<<<				
+dumb	1164	1492	DUMB	2
+dumb	1164	1666	MUTE	2
+#>>>				
+clever	1165	1310	CLEVER	2
+sweet	1166	717	SWEET	2
+#<<<				
+sour	1167	1906	SOUR	2
+sour	1167	1923	ROUGH	2
+#>>>				
+bitter	1168	887	BITTER	2
+astringent	1169	3837	ASTRINGENT	2
+hot, spicy	1170	544	SPICY	2
+salty	1171	1091	SALTY	2
+white	1172	1335	WHITE	2
+black	1173	163	BLACK	2
+red	1174	156	RED	2
+brown	1175	2409	BROWN	2
+yellow	1176	1424	YELLOW	2
+blue	1177	837	BLUE	2
+#<<<				
+green	1178	1425	GREEN	2
+green	1178	2382	BLUE OR GREEN	2
+#>>>				
+to look for	1179	1468	LOOK FOR	1
+to find	1180	719	FIND	1
+to give	1181	1447	GIVE	1
+to hand, to pass	1182	1447	GIVE	3
+to accept	1183	3898	ACCEPT	1
+to take	1184	1749	TAKE	1
+to get	1185	694	GET	1
+to take away	1186		???	
+to take along	1187		???	
+to bring	1188	692	BRING	1
+to accompany	1189	1542	ACCOMPANY	1
+to grip, to hold, to seize	1190	1448	HOLD	3
+to lead by the hand	1191		???	
+to make, to do	1192	2575	DO OR MAKE	1
+to prepare, to make ready	1193	2909	PREPARE	3
+#<<<				
+to wash up (dishes, spoons, etc.)	1194	2017	MIX	4
+to wash up (dishes, spoons, etc.)	1194	1378	SPOON	4
+to wash up (dishes, spoons, etc.)	1194	2628	PLANT STEM	4
+to wash up (dishes, spoons, etc.)	1194	3044	BOVINE	4
+to wash up (dishes, spoons, etc.)	1194	718	PAY	4
+to wash up (dishes, spoons, etc.)	1194	178	RIPE	4
+to wash up (dishes, spoons, etc.)	1194	460	BREAK (OF ROPE)	4
+to wash up (dishes, spoons, etc.)	1194	3080	SPLIT OPEN	4
+to wash up (dishes, spoons, etc.)	1194	285	THRESH	4
+to wash up (dishes, spoons, etc.)	1194	1840	BUILD	4
+#>>>				
+to wash (clothes)	1195	2503	LAUNDER (WASH CLOTHES)	1
+#<<<				
+to wash (face)	1196	1453	WASH	3
+to wash (face)	1196	3371	WASH (ONESELF)	3
+to wash (face)	1196	2503	LAUNDER (WASH CLOTHES)	3
+#>>>				
+#<<<				
+to wash (hair)	1197	1453	WASH	3
+to wash (hair)	1197	3371	WASH (ONESELF)	3
+to wash (hair)	1197	2503	LAUNDER (WASH CLOTHES)	3
+#>>>				
+#<<<				
+to know	1198	3626	KNOW	1
+to know	1198	1410	KNOW (SOMETHING)	1
+#>>>				
+#<<<				
+to think	1199	2271	THINK	1
+to think	1199	1415	THINK (REFLECT)	1
+#>>>				
+#<<<				
+to know	1200	3626	KNOW	1
+to know	1200	1410	KNOW (SOMETHING)	1
+#>>>				
+to remember	1201	707	REMEMBER	1
+to have forgotten something	1202		???	
+to deny	1203	755	DENY	1
+to confess	1204	2022	ADMIT	4
+to be silent	1205	48	BE SILENT	1
+to mumble	1206	128	MUMBLE	1
+to speak	1207	1623	SPEAK	1
+to sing	1208	1261	SING	1
+to whisper	1209	55	WHISPER	1
+#<<<				
+to say	1210	1623	SPEAK	1
+to say	1210	1458	SAY	1
+#>>>				
+to call	1211	1084	CALL	1
+to abuse, to scold	1212	1953	ABUSE	3
+to be able to	1213	972	BE ABLE	1
+to be allowed	1214		???	
+to work	1215	1086	WORK (ACTIVITY)	1
+#<<<				
+to shoulder	1216	3432	SHOULDER POLE	4
+to shoulder	1216	1482	SHOULDER	4
+#>>>				
+to carry on the head	1217		???	
+to carry something hanging from the hand	1218		???	
+to carry on the hip	1219		???	
+to carry under the arm	1220	415	CARRY UNDER ARM	1
+to carry in the hand	1221		???	
+to carry on the back (with strap over the shoulder or head)	1222	465	CARRY ON BACK	3
+to carry in a sarong	1223		???	
+to carry	1224	700	CARRY	1
+to carry on the back	1225	465	CARRY ON BACK	1
+to carry in front of oneself	1226		???	
+#<<<				
+to wake, to watch	1227	1602	WAKE UP	3
+to wake, to watch	1227	3174	WAKE UP (SOMEONE)	3
+#>>>				
+to be awake	1228	825	AWAKE	1
+to guard, to watch	1229	1940	GUARD	3
+to spy	1230		???	
+to wait	1231	1590	WAIT (FOR)	1
+#<<<				
+to hear	1232	1608	LISTEN	1
+to hear	1232	1408	HEAR	1
+#>>>				
+to see	1233	1409	SEE	1
+#<<<				
+to smell	1234	1586	SMELL (PERCEIVE)	1
+to smell	1234	2124	SMELL	1
+#>>>				
+to feel	1235	1079	FEEL	1
+#<<<				
+to feel, to touch	1236	1079	FEEL	3
+to feel, to touch	1236	2559	FEEL (TACTUALLY)	3
+#>>>				
+to taste	1237	21	TASTE (SOMETHING)	1
+to slurp	1238		???	
+to blow the nose	1239		???	
+#<<<				
+to suck	1240	1421	SUCK	1
+to suck	1240	2472	SUCKLE (BREASTFEED, NURSE)	1
+#>>>				
+to kiss	1241	578	KISS	1
+to sniff	1242	375	SNIFF	1
+to love	1243	923	LOVE	1
+to hate	1244	1607	HATE	1
+jealous	1245	2821	JEALOUS	2
+to approve	1246		???	
+to wish	1247	2117	DESIRE	1
+to want	1248	1784	WANT	1
+to want something	1249		???	
+to open	1250	1156	OPEN	1
+to close	1251	1046	SHUT	1
+to cut off	1252		???	
+to multiply, to add, to increase	1253	1041	INCREASE	3
+to spring, to jump	1254	1829	JUMP	3
+to jump down	1255		???	
+#<<<				
+to hit, to touch	1256	353	STRIKE	3
+to hit, to touch	1256	1433	HIT	3
+to hit, to touch	1256	1665	BEAT	3
+to hit, to touch	1256	2133	STRIKE OR BEAT	3
+to hit, to touch	1256	3307	HIT (A TARGET)	3
+#>>>				
+#<<<				
+hit, touched	1257	353	STRIKE	4
+hit, touched	1257	3309	STRIKE (SOMETHING)	4
+hit, touched	1257	111	DRUMMING	4
+hit, touched	1257	2133	STRIKE OR BEAT	4
+hit, touched	1257	1665	BEAT	4
+hit, touched	1257	3307	HIT (A TARGET)	4
+hit, touched	1257	1433	HIT	4
+#>>>				
+#<<<				
+to break (a stick)	1258	681	DESTROY	3
+to break (a stick)	1258	2558	BREAK (CLEAVE)	3
+to break (a stick)	1258	1520	CRUSH	3
+to break (a stick)	1258	460	BREAK (OF ROPE)	3
+to break (a stick)	1258	680	BREAK (DESTROY OR GET DESTROYED)	3
+to break (a stick)	1258	3020	BREAK (BREAKING)	3
+#>>>				
+#<<<				
+to break (a rope)	1259	681	DESTROY	3
+to break (a rope)	1259	2558	BREAK (CLEAVE)	3
+to break (a rope)	1259	1520	CRUSH	3
+to break (a rope)	1259	460	BREAK (OF ROPE)	3
+to break (a rope)	1259	680	BREAK (DESTROY OR GET DESTROYED)	3
+to break (a rope)	1259	3020	BREAK (BREAKING)	3
+#>>>				
+to shatter	1260		???	
+#<<<				
+broken (a stick)	1261	3190	BROKEN (NOT WORKING)	4
+broken (a stick)	1261	3191	BROKEN (SHATTERED)	4
+broken (a stick)	1261	588	BROKEN	4
+broken (a stick)	1261	1292	BAD	4
+#>>>				
+#<<<				
+broken (rope)	1262	3190	BROKEN (NOT WORKING)	4
+broken (rope)	1262	3191	BROKEN (SHATTERED)	4
+broken (rope)	1262	588	BROKEN	4
+broken (rope)	1262	1292	BAD	4
+#>>>				
+shattered	1263		???	
+#<<<				
+to pinch, to squeeze	1264	378	PINCH	3
+to pinch, to squeeze	1264	1414	SQUEEZE	3
+#>>>				
+to begin (tr.)	1265	1806	BEGIN	1
+#<<<				
+to begin (intr.)	1266	3447	BEGIN OR START	3
+to begin (intr.)	1266	1806	BEGIN	3
+#>>>				
+#<<<				
+to finish (tr.)	1267	1766	FINISH	3
+to finish (tr.)	1267	2115	CEASE OR FINISH	3
+#>>>				
+#<<<				
+to finish (intr.)	1268	1766	FINISH	3
+to finish (intr.)	1268	2115	CEASE OR FINISH	3
+#>>>				
+to bind, to tie	1269	1917	TIE	3
+#<<<				
+to hide (something to hide)	1270	2486	HIDE	3
+to hide (something to hide)	1270	602	HIDE (CONCEAL)	3
+to hide (something to hide)	1270	2485	HIDE (ONESELF)	3
+#>>>				
+#<<<				
+to hide	1271	602	HIDE (CONCEAL)	1
+to hide	1271	2486	HIDE	1
+#>>>				
+to ask	1272	1309	ASK (INQUIRE)	1
+to answer	1273	1275	ANSWER	1
+to ask for	1274	1828	ASK (REQUEST)	1
+to refuse	1275	49	REFUSE	1
+to cheat, to deceive	1276	3230	DECEIVE	3
+to tell lies	1277	601	LIE (MISLEAD)	4
+to steal	1278	713	STEAL	1
+to throw away	1279	3696	THROW AWAY	1
+to throw	1280	1456	THROW	1
+to burn (tr.)	1281	141	BURN (SOMETHING)	1
+to burn (intr.)	1282	1428	BURNING	1
+to dig	1283	1418	DIG	1
+to go	1284	695	GO	1
+to go there	1285		???	
+#<<<				
+to send (out), to order, to command	1286	1127	SEND	3
+to send (out), to order, to command	1286	1998	COMMAND	3
+#>>>				
+to send	1287	1127	SEND	1
+to come	1288	1446	COME	1
+to arrive	1289	1387	ARRIVE	1
+to be coming	1290		???	
+to depart	1291	1752	LEAVE	4
+to meet	1292	1831	MEET	1
+to meet one another	1293		???	
+to collect	1294	7	GATHER	3
+#<<<				
+to gather, to meet	1295	7	GATHER	3
+to gather, to meet	1295	3638	ASSEMBLE (GET TOGETHER)	3
+#>>>				
+#<<<				
+to hit (to beat, to slap, etc.)	1296	353	STRIKE	3
+to hit (to beat, to slap, etc.)	1296	1433	HIT	3
+to hit (to beat, to slap, etc.)	1296	1665	BEAT	3
+to hit (to beat, to slap, etc.)	1296	2133	STRIKE OR BEAT	3
+to hit (to beat, to slap, etc.)	1296	3307	HIT (A TARGET)	3
+#>>>				
+to take revenge	1297	495	REVENGE	4
+one	1298	1493	ONE	2
+#<<<				
+two	1299	1498	TWO	2
+two	1299	1384	SECOND	2
+#>>>				
+three	1300	492	THREE	2
+four	1301	1500	FOUR	2
+five	1302	493	FIVE	2
+six	1303	1703	SIX	2
+seven	1304	1704	SEVEN	2
+eight	1305	1705	EIGHT	2
+nine	1306	1483	NINE	2
+ten	1307	1515	TEN	2
+eleven	1308	1706	ELEVEN	2
+twelve	1309	1707	TWELVE	2
+thirteen	1310	1708	THIRTEEN	2
+fourteen	1311	2451	FOURTEEN	2
+fifteen	1312	1709	FIFTEEN	2
+sixteen	1313	2454	SIXTEEN	2
+seventeen	1314	2453	SEVENTEEN	2
+eighteen	1315	1713	EIGHTEEN	2
+nineteen	1316	1714	NINETEEN	2
+twenty	1317	1710	TWENTY	2
+twenty one	1318	1734	TWENTY ONE	2
+#<<<				
+twenty one, twenty two, etc.	1319	2017	MIX	4
+twenty one, twenty two, etc.	1319	2628	PLANT STEM	4
+twenty one, twenty two, etc.	1319	3044	BOVINE	4
+twenty one, twenty two, etc.	1319	718	PAY	4
+twenty one, twenty two, etc.	1319	1734	TWENTY ONE	4
+twenty one, twenty two, etc.	1319	178	RIPE	4
+twenty one, twenty two, etc.	1319	460	BREAK (OF ROPE)	4
+twenty one, twenty two, etc.	1319	3080	SPLIT OPEN	4
+twenty one, twenty two, etc.	1319	285	THRESH	4
+twenty one, twenty two, etc.	1319	3166	TWENTY TWO	4
+twenty one, twenty two, etc.	1319	1840	BUILD	4
+#>>>				
+twenty five	1320	1738	TWENTY FIVE	2
+thirty	1321	1715	THIRTY	2
+fourty	1322		???	
+fifty	1323	1717	FIFTY	2
+sixty	1324	1718	SIXTY	2
+seventy	1325	1721	SEVENTY	2
+eighty	1326	1722	EIGHTY	2
+ninety	1327	1724	NINETY	2
+hundred	1328	1634	HUNDRED	2
+thousand	1329	1843	THOUSAND	2
+ten thousand	1330	2078	TEN THOUSAND	2
+a half	1331	816	HALF	1
+a quarter	1332		???	
+#<<<				
+once	1333	374	ONE TIME	2
+once	1333	2914	ONCE (IN THE PAST)	2
+#>>>				
+twice	1334	1546	TWICE	2
+#<<<				
+first (in space)	1335	2915	AT FIRST	4
+first (in space)	1335	1882	BEFORE	4
+first (in space)	1335	728	FIRST	4
+#>>>				
+#<<<				
+first (in time)	1336	2915	AT FIRST	4
+first (in time)	1336	1882	BEFORE	4
+first (in time)	1336	728	FIRST	4
+#>>>				
+#<<<				
+second (in space)	1337	3387	MIDDLE FINGER	4
+second (in space)	1337	1384	SECOND	4
+#>>>				
+#<<<				
+second (in time)	1338	3387	MIDDLE FINGER	4
+second (in time)	1338	1384	SECOND	4
+#>>>				
+#<<<				
+third (in space)	1339	3842	ONE THIRD	4
+third (in space)	1339	1859	THIRD	4
+#>>>				
+#<<<				
+third (in time)	1340	3842	ONE THIRD	4
+third (in time)	1340	1859	THIRD	4
+#>>>				
+#<<<				
+the last (in space)	1341	514	LAST YEAR	4
+the last (in space)	1341	1186	LAST (ENDURE)	4
+the last (in space)	1341	1529	LAST (FINAL)	4
+#>>>				
+#<<<				
+the last (in time)	1342	514	LAST YEAR	4
+the last (in time)	1342	1186	LAST (ENDURE)	4
+the last (in time)	1342	1529	LAST (FINAL)	4
+#>>>				
+#<<<				
+how much, how many	1343	531	HOW MUCH	4
+how much, how many	1343	3450	HOW MANY PIECES	4
+how much, how many	1343	822	HOW MANY	4
+#>>>				
+many, much	1344	1198	MANY	2
+few, a little	1345	2924	A LITTLE	3
+finished	1346		???	
+there are	1347	2152	THERE IS OR THERE ARE	4
+there are not	1348		???	
+there is something	1349		???	
+there is nothing	1350		???	
+there is nothing left	1351		???	
+more	1352	1992	MORE	2
+most	1353	1198	MANY	2
+less	1354		???	
+all	1355	98	ALL	2
+whole	1356	2277	WHOLE	2
+together	1357	2482	TOGETHER	2
+alike, similar	1358	1558	SIMILAR	4
+enough	1359	1881	ENOUGH	2
+#<<<				
+only, some	1360	1580	ONLY	4
+only, some	1360	1241	SOME	4
+only, some	1360	3863	OTHER OR SOME	4
+#>>>				
+a few, some	1361	1242	FEW	3
+I	1362	1209	I	2
+I myself	1363		???	
+you (sing.)	1364	1215	THOU	2
+you (pl.)	1365	1213	YOU	2
+you all (excluding those absent)	1366	1213	YOU	4
+#<<<				
+you	1367	2312	YOU (OBLIQUE CASE OF YOU)	2
+you	1367	1213	YOU	2
+you	1367	1215	THOU	2
+#>>>				
+#<<<				
+he	1368	1211	HE	2
+he	1368	2642	HE OR SHE	2
+#>>>				
+she	1369	1834	SHE	2
+we (inclusive)	1370	1131	WE (INCLUSIVE)	2
+we (exclusive)	1371	1130	WE (EXCLUSIVE)	2
+#<<<				
+they (female)	1372	817	THEY	4
+they (female)	1372	2642	HE OR SHE	4
+#>>>				
+#<<<				
+they (male)	1373	817	THEY	4
+they (male)	1373	2642	HE OR SHE	4
+#>>>				
+my (sing.)	1374	2090	MY	4
+my (pl.)	1375	2090	MY	4
+our (inclusive)	1376	780	OUR	4
+our (exclusive)	1377	780	OUR	4
+#<<<				
+your (sing.)	1378	732	YOUR (SINGULAR)	4
+your (sing.)	1378	2274	YOUR (PLURAL)	4
+#>>>				
+#<<<				
+your (pl.)	1379	732	YOUR (SINGULAR)	4
+your (pl.)	1379	2274	YOUR (PLURAL)	4
+#>>>				
+their (female)	1380	2400	THEIR	4
+their (male)	1381	2400	THEIR	4
+her	1382	2474	HER (GENITIVE OF SHE)	2
+#<<<				
+his	1383	2473	HIS (GENITIVE OF HE)	2
+his	1383	2092	HIS OR HER	2
+#>>>				
+who?	1384	1235	WHO	2
+what?	1385	1236	WHAT	2
+which house?	1386		???	
+which?	1387	727	WHICH	2
+this	1388	1214	THIS	2
+that	1389	78	THAT	2
+#<<<				
+that (nearby)	1390	78	THAT	4
+that (nearby)	1390	3414	IN THAT WAY	4
+#>>>				
+#<<<				
+that (faraway)	1391	78	THAT	4
+that (faraway)	1391	3414	IN THAT WAY	4
+#>>>				
+overthere, yonder	1392	1937	THERE	4
+here	1393	136	HERE	2
+#<<<				
+there (near hearer)	1394	1937	THERE	4
+there (near hearer)	1394	3411	OVER THERE	4
+there (near hearer)	1394	136	HERE	4
+#>>>				
+there	1395	1937	THERE	2
+#<<<				
+which, who, that	1396	2147	WHO OR WHAT	4
+which, who, that	1396	1235	WHO	4
+which, who, that	1396	3414	IN THAT WAY	4
+which, who, that	1396	727	WHICH	4
+which, who, that	1396	78	THAT	4
+#>>>				
+#<<<				
+early, soon	1397	672	EARLY	4
+early, soon	1397	703	SOON	4
+early, soon	1397	1963	IMMEDIATELY	4
+#>>>				
+#<<<				
+late	1398	477	LATE	2
+late	1398	425	BE LATE	2
+#>>>				
+#<<<				
+day	1399	1260	DAY (24 HOURS)	2
+day	1399	1225	DAY (NOT NIGHT)	2
+#>>>				
+week	1400	1469	WEEK	2
+the day of the week	1401		???	
+#<<<				
+daylight	1402	1225	DAY (NOT NIGHT)	2
+daylight	1402	630	LIGHT (RADIATION)	2
+#>>>				
+#<<<				
+light	1403	1052	LIGHT (WEIGHT)	2
+light	1403	250	LIGHT (COLOR)	2
+light	1403	630	LIGHT (RADIATION)	2
+light	1403	737	LIGHT (IGNITE)	2
+#>>>				
+hour	1404	1353	HOUR	2
+twenty four hours	1405		???	
+#<<<				
+night (darkness)	1406	1233	NIGHT	4
+night (darkness)	1406	1629	EVENING	4
+night (darkness)	1406	706	DARK	4
+#>>>				
+#<<<				
+night (time of the night)	1407	1233	NIGHT	4
+night (time of the night)	1407	1629	EVENING	4
+night (time of the night)	1407	706	DARK	4
+#>>>				
+dark	1408	706	DARK	2
+dry season	1409	452	DRY SEASON	2
+#<<<				
+rainy season, wet season	1410	1342	SUMMER	4
+rainy season, wet season	1410	453	RAINY SEASON	4
+#>>>				
+year	1411	1226	YEAR	2
+monsoon	1412		???	
+now	1413	1376	NOW	2
+shortly	1414		???	
+#<<<				
+now, at present	1415	2097	NOW OR TODAY	4
+now, at present	1415	1376	NOW	4
+now, at present	1415	196	DONATE	4
+now, at present	1415	2982	GIFT	4
+now, at present	1415	1460	IN	4
+#>>>				
+formerly	1416	2914	ONCE (IN THE PAST)	2
+#<<<				
+before (place)	1417	1882	BEFORE	4
+before (place)	1417	2915	AT FIRST	4
+before (place)	1417	1883	IN FRONT OF	4
+#>>>				
+before (time)	1418	1882	BEFORE	2
+formerly	1419	2914	ONCE (IN THE PAST)	2
+later	1420	477	LATE	2
+a moment ago	1421		???	
+a moment	1422		???	
+yesterday	1423	1174	YESTERDAY	2
+the day before yesterday	1424	1180	DAY BEFORE YESTERDAY	1
+today	1425	1283	TODAY	2
+this morning	1426	1339	MORNING	2
+tomorrow	1427	1329	TOMORROW	2
+the day after tomorrow	1428	1179	DAY AFTER TOMORROW	1
+morning	1429	1339	MORNING	2
+evening	1430	1629	EVENING	2
+now and then, occasionally	1431		???	
+when	1432	1238	WHEN	2
+already	1433	2576	ALREADY	2
+not yet	1434		???	
+not again	1435		???	
+north	1436	1598	NORTH	2
+south	1437	1595	SOUTH	2
+east	1438	1877	EAST	2
+west	1439	1817	WEST	2
+#<<<				
+left	1440	244	LEFT	2
+left	1440	1752	LEAVE	2
+left	1440	2182	LEFT HAND	2
+#>>>				
+#<<<				
+right	1441	1725	CORRECT (RIGHT)	2
+right	1441	2183	RIGHT HAND	2
+right	1441	1019	RIGHT	2
+#>>>				
+#<<<				
+up, upper, above	1442	2379	UP OR ABOVE	4
+up, upper, above	1442	3347	HIGH OR UP	4
+up, upper, above	1442	1591	UP	4
+up, upper, above	1442	1741	ABOVE	4
+up, upper, above	1442	431	UPPER ARM	4
+up, upper, above	1442	1265	HIGH	4
+up, upper, above	1442	705	GO UP (ASCEND)	4
+up, upper, above	1442	3345	ATOP OR UP	4
+up, upper, above	1442	2325	PULL OUT	4
+up, upper, above	1442	1753	TOP	4
+#>>>				
+on the road	1443		???	
+from above	1444		???	
+#<<<				
+under	1445	1485	BELOW OR UNDER	2
+under	1445	415	CARRY UNDER ARM	2
+#>>>				
+from underneath	1446		???	
+from-to (place)	1447		???	
+from-to (time)	1448		???	
+#<<<				
+below, beneath	1449	1485	BELOW OR UNDER	4
+below, beneath	1449	2094	DOWN OR BELOW	4
+below, beneath	1449	721	LOW	4
+below, beneath	1449	690	BOTTOM	4
+#>>>				
+at	1450	1461	AT	2
+from	1451	693	FROM	2
+until	1452	2753	UNTIL	2
+#<<<				
+at, in	1453	1233	NIGHT	4
+at, in	1453	1606	INSIDE	4
+at, in	1453	1461	AT	4
+at, in	1453	1629	EVENING	4
+at, in	1453	1460	IN	4
+at, in	1453	373	LONG AGO	4
+at, in	1453	1529	LAST (FINAL)	4
+#>>>				
+#<<<				
+on	1454	998	PUT	4
+on	1454	1461	AT	4
+on	1454	3345	ATOP OR UP	4
+on	1454	57	ATOP	4
+on	1454	1741	ABOVE	4
+#>>>				
+#<<<				
+in, inside	1455	1606	INSIDE	2
+in, inside	1455	1460	IN	2
+#>>>				
+#<<<				
+out, outside	1456	3459	PUT IN ORDER	4
+out, outside	1456	1107	GO OUT	4
+out, outside	1456	762	OUTSIDE	4
+#>>>				
+nearby	1457	1942	NEAR	2
+far	1458	1406	FAR	2
+around, surrounding	1459	1443	WALK	4
+outside	1460	762	OUTSIDE	2
+to go outside	1461	1107	GO OUT	1
+#<<<				
+inside, within	1462	1460	IN	4
+inside, within	1462	1606	INSIDE	4
+inside, within	1462	3305	INSIDE A HOUSE	4
+#>>>				
+to go inside	1463		???	
+#<<<				
+many	1464	1198	MANY	2
+many	1464	3453	MANY PIECES	2
+#>>>				
+where	1465	1237	WHERE	2
+how	1466	1239	HOW	2
+like this, like that	1467	1558	SIMILAR	4
+like this	1468	1558	SIMILAR	2
+like that	1469		???	
+why	1470	1270	WHY	2
+certainly, sure	1471	509	CERTAIN	4
+maybe	1472		???	
+very	1473	1311	VERY	2
+and	1474	1577	AND	2
+with	1475	1340	WITH	2
+no	1476	1269	NO	2
+yes	1477	1268	YES	2
+#<<<				
+not, no	1478	2279	NO OR NOT	2
+not, no	1478	1240	NOT	2
+#>>>				
+#<<<				
+not, no	1479	2279	NO OR NOT	2
+not, no	1479	1240	NOT	2
+#>>>				
+#<<<				
+not, no	1480	2279	NO OR NOT	2
+not, no	1480	1240	NOT	2
+#>>>				
+#<<<				
+yes, right, indeed	1481	2183	RIGHT HAND	4
+yes, right, indeed	1481	1019	RIGHT	4
+yes, right, indeed	1481	1268	YES	4
+yes, right, indeed	1481	1725	CORRECT (RIGHT)	4
+yes, right, indeed	1481	2231	CORRECT (SOMETHING OR SOMEBODY)	4
+#>>>				
+only	1482	1580	ONLY	2
+almost	1483		???	
+#<<<				
+but	1484	506	MAIZE	2
+but	1484	3843	BUT	2
+#>>>				
+however, nevertheless	1485	3843	BUT	4
+however, nevertheless	1486	3843	BUT	4
+#<<<				
+yet, still	1487	2919	STILL (CONTINUING)	4
+yet, still	1487	2577	YET	4
+#>>>				
+if	1488	1459	IF	2
+although	1489		???	
+because	1490	1157	BECAUSE	2
+#<<<				
+no, not a, none	1491	1269	NO	4
+no, not a, none	1491	1240	NOT	4
+no, not a, none	1491	687	NOTHING	4
+no, not a, none	1491	2279	NO OR NOT	4
+#>>>				
+#	1111/1491	75%	
+
