@@ -1,18 +1,10 @@
 GLOSS	NUMBER	CONCEPTICON_ID	CONCEPTICON_GLOSS	SIMILARITY
 body	1	1480	BODY	2
-#<<<				
 head	2	1256	HEAD	2
-head	2	2992	TIP (OF OBJECT)	2
-#>>>				
 face	3	1560	FACE	2
 forehead	4	123	FOREHEAD	2
 skull	5	1605	SKULL	2
-#<<<				
-hair	6	2648	HAIR (HEAD)	2
-hair	6	2678	HAIR OR FUR	2
-hair	6	2381	FEATHER OR FUR OR HAIR	2
 hair	6	1040	HAIR	2
-#>>>				
 bald	7	1125	BALD	2
 crown	8	1943	CROWN (OF HEAD)	2
 ear	9	1247	EAR	2
@@ -2881,5 +2873,4 @@ no, not a, none	1491	1240	NOT	4
 no, not a, none	1491	687	NOTHING	4
 no, not a, none	1491	2279	NO OR NOT	4
 #>>>				
-#	1111/1491	75%	
-
+#	1111/1491	75%		
