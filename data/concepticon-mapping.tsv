@@ -83,18 +83,9 @@ to couple	81	1888	PAIR	4
 to urinate	82	592	PISS	1
 piss, urine	83	1142	URINE	4
 leg	84	1297	LEG	2
-#<<<				
-foot (plus lower leg)	85	1019	RIGHT	4
-foot (plus lower leg)	85	2688	FOOT (UNIT)	4
 foot (plus lower leg)	85	2098	FOOT OR LEG	4
-foot (plus lower leg)	85	2450	FOOT OR WALK	4
-foot (plus lower leg)	85	1301	FOOT	4
-#>>>				
-#<<<				
 foot	86	1301	FOOT	2
-foot	86	2098	FOOT OR LEG	2
-#>>>				
-sole of the foot	87		???	
+sole of the foot	87	2666	SOLE (FOOT)	
 ankle	88	803	ANKLE	2
 heel	89	980	HEEL	2
 thigh	90	471	UPPER LEG (THIGH)	2
