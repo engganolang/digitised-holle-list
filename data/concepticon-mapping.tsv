@@ -139,35 +139,18 @@ to swallow	137	897	SWALLOW	1
 to sleep	138	1585	SLEEP	1
 to dream	139	1920	DREAM (SOMETHING)	1
 dream	140	2374	DREAM	2
-#>>>				
 sleepy	141	3620	SLEEPY	2
 to wake up	142	1602	WAKE UP	1
 to get up	143	1512	RISE (ONESELF)	1
 to stand	144	1442	STAND	1
-#<<<				
 to walk	145	1443	WALK	1
-to walk	145	2890	WALK (TAKE A WALK)	1
-#>>>				
-to lie supine	146		???	
-to lie prone	147		???	
-#<<<				
+to lie supine	146	1411	LIE (REST)	
+to lie prone	147	215	LIE DOWN	
 to lie	148	215	LIE DOWN	1
-to lie	148	601	LIE (MISLEAD)	1
-to lie	148	1411	LIE (REST)	1
-#>>>				
-#<<<				
 to sit (on a chair)	149	1649	SIT DOWN	3
-to sit (on a chair)	149	1416	SIT	3
-#>>>				
-#<<<				
-to sit (with the legs crossed)	150	1649	SIT DOWN	3
-to sit (with the legs crossed)	150	1416	SIT	3
-#>>>				
-#<<<				
-to sit (with the knees bent to one side)	151	1649	SIT DOWN	3
-to sit (with the knees bent to one side)	151	1416	SIT	3
-#>>>				
-to squat	152	296	CROUCH	1
+to sit (with the legs crossed)	150			3
+to sit (with the knees bent to one side)	151			3
+to squat	152	3163	SQUAT	1
 to swim	153	1439	SWIM	1
 to take a bath	154	1453	WASH	4
 to wash	155	1453	WASH	1
