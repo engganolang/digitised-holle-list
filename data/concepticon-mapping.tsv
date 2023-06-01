@@ -15,17 +15,14 @@ eyelashes	13	1540	EYELASH	2
 eyebrows	14	1173	EYEBROW	2
 eyebrow	15	1173	EYEBROW	2
 tears	16	1651	TEAR (OF EYE)	2
-#<<<				
 tear	17	1651	TEAR (OF EYE)	2
-tear	17	1735	TEAR (SHRED)	2
-#>>>				
 nose	18	1221	NOSE	2
 nostril	19	1178	NOSTRIL	2
 mucus	20	208	NASAL MUCUS (SNOT)	2
 cheek	21	1730	CHEEK	2
 mouth	22	674	MOUTH	2
-exterior part of the mouth	23		???	
-interior part of the mouth	24		???	
+exterior part of the mouth	23			
+interior part of the mouth	24	2674	ORAL CAVITY	
 lips	25	478	LIP	2
 lip	26	478	LIP	2
 moustache	27	1165	MOUSTACHE	2
@@ -42,53 +39,29 @@ throat	37	1346	THROAT	2
 neck	38	1333	NECK	2
 Adam's apple	39	802	ADAM'S APPLE	2
 nape	40	1347	NAPE (OF NECK)	2
-#<<<				
-chest, breast (male)	41	1402	BREAST	4
-chest, breast (male)	41	3150	BOX OR CHEST	4
 chest, breast (male)	41	1592	CHEST	4
-chest, breast (male)	41	1836	VAGINA	4
-chest, breast (male)	41	2472	SUCKLE (BREASTFEED, NURSE)	4
-chest, breast (male)	41	2129	BREAST OR MILK	4
-#>>>				
-#<<<				
 breasts (female)	42	1402	BREAST	4
-breasts (female)	42	2129	BREAST OR MILK	4
-#>>>				
-#<<<				
 breast	43	1402	BREAST	2
-breast	43	1592	CHEST	2
-#>>>				
-breast (female)	44	1402	BREAST	2
+breast (female)	44	2129	BREAST OR MILK	2
 nipple	45	796	NIPPLE	2
 breast milk	46	3912	BREAST MILK	4
 breast milk	47	3912	BREAST MILK	4
-to suck at the breast	48		???	
+to suck at the breast	48	2472	SUCKLE (BREASTFEED, NURSE)	
 to suckle	49	2472	SUCKLE (BREASTFEED, NURSE)	3
 rib	50	801	RIB	2
 lung	51	688	LUNG	2
 heart	52	1223	HEART	2
-#<<<				
-stomach	53	1251	BELLY	2
 stomach	53	819	STOMACH	2
-#>>>				
 belly	54	1251	BELLY	2
 intestines	55	1991	INTESTINES	2
 liver	56	1224	LIVER	2
 bile	57	1780	BILE	2
 spleen	58	1744	SPLEEN	2
 kidney	59	489	KIDNEY	2
-#<<<				
-side	60	682	SIDE	2
-side	60	866	WIN	2
-#>>>				
+side	60	3344	SIDE (BODY)	2
 navel	61	1838	NAVEL	2
 umbilical cord	62	2663	UMBILICAL CORD	2
-#<<<				
 back	63	1291	BACK	2
-back	63	2910	BACK (DIRECTION)	2
-back	63	2323	BACK (PART)	2
-back	63	2911	BACKWARD	2
-#>>>				
 backbone, spine	64	805	SPINE	4
 shoulder	65	1482	SHOULDER	2
 shoulderblade	66	172	SHOULDERBLADE	2
