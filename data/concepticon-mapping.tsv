@@ -90,32 +90,22 @@ ankle	88	803	ANKLE	2
 heel	89	980	HEEL	2
 thigh	90	471	UPPER LEG (THIGH)	2
 knee	91	1371	KNEE	2
-back of the knee	92		???	
-#<<<				
-calf	93	1989	CALF	2
+back of the knee	92			
 calf	93	498	CALF OF LEG	2
-#>>>				
 shin	94	186	SHIN	2
 arm	95	1673	ARM	2
-hand plus fore-arm	96		???	
+hand plus fore-arm	96	2121	ARM OR HAND	
 hand	97	1277	HAND	2
 upper arm	98	431	UPPER ARM	2
 armpit	99	1886	ARMPIT	2
 elbow	100	981	ELBOW	2
 wrist	101	799	WRIST	2
 palm of the hand	102	1183	PALM OF HAND	2
-lines in the palm of the hand	103		???	
+lines in the palm of the hand	103			
 finger	104	1303	FINGER	2
 fingers	105	1303	FINGER	2
 toe	106	1389	TOE	2
-#<<<				
-(finger)nail	107	2128	CLAW OR NAIL	4
-(finger)nail	107	502	NAIL (TOOL)	4
-(finger)nail	107	3306	NAIL	4
 (finger)nail	107	1896	FINGERNAIL OR TOENAIL	4
-(finger)nail	107	72	CLAW	4
-(finger)nail	107	1258	FINGERNAIL	4
-#>>>				
 thumb	108	1781	THUMB	2
 index finger	109	577	FOREFINGER	2
 middle finger	110	3387	MIDDLE FINGER	2
