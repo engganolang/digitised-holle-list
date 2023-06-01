@@ -109,39 +109,20 @@ toe	106	1389	TOE	2
 thumb	108	1781	THUMB	2
 index finger	109	577	FOREFINGER	2
 middle finger	110	3387	MIDDLE FINGER	2
-ring finger	111		???	
+ring finger	111			
 little finger	112	2774	LITTLE FINGER	2
-the big toe	113		???	
-the little toe	114		???	
+the big toe	113			
+the little toe	114			
 bone	115	1394	BONE	2
 blood	116	946	BLOOD	2
-#<<<				
-flesh	117	2259	FLESH	2
 flesh	117	2615	FLESH OR MEAT	2
-#>>>				
 tendon	118	1137	TENDON	2
 nerve	119	2626	NERVE	2
-#<<<				
 sinew, nerve	120	1137	TENDON	4
-sinew, nerve	120	2626	NERVE	4
-#>>>				
-#<<<				
 skin	121	763	SKIN	2
-skin	121	291	PULL OFF (SKIN)	2
-skin	121	2614	SKIN (ANIMAL)	2
-skin	121	2613	SKIN (HUMAN)	2
-#>>>				
 body hair	122	189	HAIR (BODY)	2
-#<<<				
-body hair (animal)	123	189	HAIR (BODY)	4
-body hair (animal)	123	2381	FEATHER OR FUR OR HAIR	4
-body hair (animal)	123	2678	HAIR OR FUR	4
-body hair (animal)	123	2648	HAIR (HEAD)	4
-#>>>				
-#<<<				
-sweat	124	2458	PERSPIRE OR SWEAT	2
+body hair (animal)	123	580	FUR	4
 sweat	124	125	SWEAT (SUBSTANCE)	2
-#>>>				
 saliva	125	1503	SALIVA	2
 phlegm	126	3061	PHLEGM	2
 to breath	127	3183	BREATH OR BREATHE	3
@@ -150,22 +131,13 @@ hungry	129	1533	BE HUNGRY	2
 to drink	130	1401	DRINK	1
 drunk	131	1463	DRUNK	2
 thirsty	132	847	THIRSTY	2
-#<<<				
 satisfied	133	1429	FULL	4
-satisfied	133	1495	HAPPY	4
-#>>>				
-#<<<				
-replete, satisfied	134	1429	FULL	4
-replete, satisfied	134	1495	HAPPY	4
-#>>>				
+replete, satisfied	134	106	SATIATED	4
 to bite	135	1403	BITE	1
-to swallow down	136		???	
+to swallow down	136	897	SWALLOW	
 to swallow	137	897	SWALLOW	1
 to sleep	138	1585	SLEEP	1
 to dream	139	1920	DREAM (SOMETHING)	1
-#<<<				
-dream	140	1920	DREAM (SOMETHING)	2
-dream	140	2455	DREAMING OR DREAM	2
 dream	140	2374	DREAM	2
 #>>>				
 sleepy	141	3620	SLEEPY	2
