@@ -67,21 +67,14 @@ shoulder	65	1482	SHOULDER	2
 shoulderblade	66	172	SHOULDERBLADE	2
 buttocks	67	834	BUTTOCKS	2
 buttock	68	834	BUTTOCKS	2
-#<<<				
 posterior, buttocks	69	834	BUTTOCKS	4
-posterior, buttocks	69	1935	ANUS	4
-posterior, buttocks	69	1220	TAIL	4
-#>>>				
-tailbone, coccyx	70		???	
+tailbone, coccyx	70			
 anus	71	1935	ANUS	2
 to defecate	72	676	SHIT (DEFECATE)	1
 faeces	73	675	FAECES (EXCREMENT)	2
 fart	74	1159	FART	2
 to fart	75	1159	FART	1
-#<<<				
 to stink, to smell	76	1587	SMELL (STINK)	3
-to stink, to smell	76	42	STINKING	3
-#>>>				
 penis	77	1222	PENIS	2
 vagina	78	1836	VAGINA	2
 testicle	79	797	TESTICLES	2
