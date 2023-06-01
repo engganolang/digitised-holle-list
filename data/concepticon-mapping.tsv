@@ -155,31 +155,28 @@ to swim	153	1439	SWIM	1
 to take a bath	154	1453	WASH	4
 to wash	155	1453	WASH	1
 to stammer	156	1866	STUTTER	3
-to speak with a burr	157		???	
+to speak with a burr	157			
 voice	158	1363	VOICE	2
-hoarse	159		???	
+hoarse	159			
 to shout	160	715	SHOUT	1
 to laugh	161	1355	LAUGH	1
-to laugh at	162		???	
+to laugh at	162			
 to weep	163	1839	CRY	1
-to weep for	164		???	
+to weep for	164			
 to smile	165	1451	SMILE	1
-to sigh	166		???	
+to sigh	166			
 to spit	167	1440	SPIT	1
 to vomit	168	1278	VOMIT	1
 to sneeze	169	1621	SNEEZE	1
 to cough	170	879	COUGH	1
 to hiccup	171	162	HICCOUGH	3
-hiccups	172		???	
+hiccups	172	162	HICCOUGH	
 to choke	173	129	CHOKE	1
 belch	174	2245	BELCH	2
 to belch	175	2245	BELCH	1
 to yawn	176	1028	YAWN	1
-to nod	177		???	
-#<<<				
+to nod	177			
 pregnant	178	1123	PREGNANT	2
-pregnant	178	3827	PREGNANT (OF ANIMALS)	2
-#>>>				
 to be born	179	1090	BE BORN	1
 after birth	180		???	
 twins	181	1005	TWINS	2
