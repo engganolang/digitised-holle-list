@@ -302,23 +302,23 @@ daughter-in-law	300	1057	DAUGHTER-IN-LAW	2	y
 son or daughter-in-law	301			4	y
 stepson	302	1059	STEPSON	2	y
 stepdaughter	303	1058	STEPDAUGHTER	2	y
-stepparents	304		???		
-adopted child	305		???		
-brother-in-law WB	306		???		
-brother-in-law HB	307		???		
-brother-in-law WZH	308		???		
-brother-in-law HZH	309		???		
-brother-in-law	310	2314	BROTHER-IN-LAW	2	
-sister-in-law HZ	311		???		
-sister-in-law WZ	312		???		
-sister-in-law HBW	313		???		
-sister-in-law WBW	314		???		
-related	315		???		
-unrelated	316		???		
-husband	317	1200	HUSBAND	2	
-wife	318	1199	WIFE	2	
-friend	319	1325	FRIEND	2	
-comrade, friend	320	1325	FRIEND	4	
+stepparents	304				y
+adopted child	305				y
+brother-in-law WB	306	2380	BROTHER-IN-LAW (OF MAN)		y
+brother-in-law HB	307				y
+brother-in-law WZH	308				y
+brother-in-law HZH	309				y
+brother-in-law	310	2314	BROTHER-IN-LAW	2	y
+sister-in-law HZ	311	2317	SISTER-IN-LAW		y
+sister-in-law WZ	312	2317	SISTER-IN-LAW		y
+sister-in-law HBW	313				y
+sister-in-law WBW	314				y
+related	315	194	FAMILY		y
+unrelated	316				y
+husband	317	1200	HUSBAND	2	y
+wife	318	1199	WIFE	2	y
+friend	319	1325	FRIEND	2	y
+comrade, friend	320	1325	FRIEND	4	y
 #<<<					
 comrade, mate	321	3978	COMPANION	4	
 comrade, mate	321	549	COPULATE	4	
@@ -2608,51 +2608,3 @@ no, not a, none	1486	687	NOTHING	4
 no, not a, none	1486	2279	NO OR NOT	4	
 #>>>					
 #	1106/1486	74%			
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
