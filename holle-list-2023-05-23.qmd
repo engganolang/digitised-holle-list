@@ -117,7 +117,8 @@ concepticon <- read_tsv("data/concepticon-mapping.tsv") |>
                              sep = ""))
 concepticon_checked <- concepticon |> 
   filter(CHECKED == "y") |> 
-  select(English, Index, Concepticon_Gloss, concept_url)
+  select(English, Index, Concepticon_Gloss, concept_url) |> 
+  mutate(Index = as.character(Index))
 
 holle_tb <- read_tsv("data/digitised-holle-list-in-stokhof-1980.tsv")
 holle_tb <- holle_tb |> 
