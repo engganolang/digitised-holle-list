@@ -71,7 +71,11 @@ Given that the CC-BY license allows us to copy, adapt and build upon the materia
 
 The digitised, NBL Holle List (HL) preserves the original columns, with the renaming of the columns containing the years for the three versions of the Holle List so that these columns do not begin with numbers. Note that the first four columns are not labelled in the original PDF. These columns here are the `Index`, `Dutch`, `English`, and `Indonesian`. The Indonesian glosses were taken from the 1931 version of the HL [@holleli1980, 18]. It is the values in the `Index` column that can be computationally matched with the Index in the (also digitised) word lists of the target languages (published as subsequent volumes after Stokhof [-@holleli1980]).
 
-We added several new columns after the version years columns. One of these is the `Swadesh` columns (Boolean `true`/`false`), indicating whether the entries are part of the Swadesh items (`true`) or not (`false`) [see @holleli1980, 141-143]^[There are also Swadesh items that do not have number index in the NBL. These items are marked with "`--`" in the PDF [@holleli1980, 141-143]; they can be viewed and downloaded [here](https://github.com/engganolang/digitised-holle-list/blob/main/data/swadesh-unindexed-in-NBL.txt)]. From this table, it is then possible to easily filter out the Swadesh items, something that is not possible in the PDF version, since the NBL table does not directly include a column marking which items are from the Swadesh list; we then hand-coded this Swadesh column.
+The values of the `English` column in @fig-table are hyperlinked to the [Concept sets](https://concepticon.clld.org/parameters) in the [Concepticon](https://concepticon.clld.org/) catalogue [@list]. The initial mapping of the English glosses to the Concepticon Concept sets was programmatically performed using [pyconcepticon](https://pypi.org/project/pyconcepticon/ "pyconcepticon") [@forkel2022], a Python package to access and curate the Concepticon data, following the tutorial in Tjuka [-@tjuka2020]. The output of the mapping is currently being manually curated and checked (track the changes [here](https://github.com/engganolang/digitised-holle-list/commits/main/data/concepticon-mapping.tsv))^[There are cases where the English glosses cannot be linked to the relevant Concept sets because they are not yet mapped in the Concepticon data. For this case, the glosses are not hyperlinked.]. Therefore, NOT ALL of the English glosses in @fig-table are linked. **The Concepticon link will be continuously integrated and updated into the webpage periodically**.
+
+We added several new columns after the version years columns. One of these is the `Swadesh` columns (Boolean `true`/`false`), indicating whether the entries are part of the Swadesh items (`true`) or not (`false`) [see @holleli1980, 141-143][^1]. From this table, it is then possible to easily filter out the Swadesh items, something that is not possible in the PDF version, since the NBL table does not directly include a column marking which items are from the Swadesh list; we then hand-coded this Swadesh column.
+
+[^1]: There are also Swadesh items that do not have number index in the NBL. These items are marked with "`--`" in the PDF [@holleli1980, 141-143]; they can be viewed and downloaded [here](https://github.com/engganolang/digitised-holle-list/blob/main/data/swadesh-unindexed-in-NBL.txt)
 
 An additional column after the `Swadesh` column is the `Swadesh_orig` column. It lists the English forms/labels given in the Swadesh appendix [@holleli1980, 141-143], which could be phrased differently in the `English` column in the NBL. When the forms in the `Swadesh` and the `English` columns are exact matches, the `Swadesh_orig` column is left empty. Moreover, typo corrections were done for the entries of the three language columns (either typo from the original PDF or typo due to the first-pass OCR error) (listed in the `Remark` column). Finally, there are two additional tables (to the right panel of @fig-table), which contain phrases and clauses from the 1904/1911 ([raw file](https://github.com/engganolang/digitised-holle-list/blob/main/data/digitised-holle-list-in-stokhof-1980-add-1904_1911.tsv)) and the 1931 ([raw file](https://github.com/engganolang/digitised-holle-list/blob/main/data/digitised-holle-list-in-stokhof-1980-add-1931.tsv)) editions of the HL.
 
@@ -102,7 +106,25 @@ library(tippy)
 #| warning: false
 #| echo: false
 
+# read the concepticon mapping
+concepticon <- read_tsv("data/concepticon-mapping.tsv") |> 
+  rename(Index = NUMBER, 
+         English = GLOSS,
+         Concepticon_Gloss = CONCEPTICON_GLOSS) |> 
+  select(-SIMILARITY) |> 
+  mutate(concept_url = paste("https://concepticon.clld.org/parameters/",
+                             CONCEPTICON_ID,
+                             sep = ""))
+concepticon_checked <- concepticon |> 
+  filter(CHECKED == "y") |> 
+  select(English, Index, Concepticon_Gloss, concept_url)
+
 holle_tb <- read_tsv("data/digitised-holle-list-in-stokhof-1980.tsv")
+holle_tb <- holle_tb |> 
+  # merge with the checked concepticon mapping
+  left_join(concepticon_checked, by = join_by(Index, English)) |> 
+  mutate(English = replace(English, is.na(English), ""))
+url_eng <- '<a href="%s" target="_blank">%s</a>'
 holle_tb |> 
   reactable(style = list(fontFamily = "Canela Text"),
             elementId = "digitised-holle-list",
@@ -119,14 +141,21 @@ holle_tb |>
               Dutch = colDef(minWidth = 150,
                              cell = function(value, index, name) {tippy(text = value, tooltip = value)}),
               English = colDef(minWidth = 150,
-                               cell = function(value, index, name) {tippy(text = value, tooltip = value)}),
+                               cell = function(value, index, name) {tippy(text = if_else(!is.na(holle_tb$Concepticon_Gloss[index]),
+                                                                                         sprintf(url_eng, 
+                                                                                                 holle_tb$concept_url[index], 
+                                                                                                 value), 
+                                                                                    value), 
+                                                                          tooltip = value)}),
               Indonesian = colDef(minWidth = 150,
                                   cell = function(value, index, name) {tippy(text = value, tooltip = value)}),
               v1894 = colDef(align = "center"),
               `v1904/1911` = colDef(align = "center"),
               v1931 = colDef(align = "center"),
               Swadesh = colDef(align = "center"),
-              Swadesh_orig = colDef(minWidth = 150)
+              Swadesh_orig = colDef(minWidth = 150),
+              Concepticon_Gloss = colDef(show = FALSE),
+              concept_url = colDef(show = FALSE)
             ))
 
 ```
