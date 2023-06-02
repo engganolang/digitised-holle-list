@@ -32,7 +32,7 @@ Index	Dutch	English	Indonesian	v1894	v1904/1911	v1931	Swadesh	Swadesh_orig	remar
 31	tong	tongue	lidah	15	16	26	TRUE		
 32	verhemelte	palate	langit-langit	16	17	27	FALSE		
 33	tand	tooth	gigi	17	18	28	TRUE		
-34	ld.es	molar	geraham	18	19	29	FALSE		
+34	kies	molar	geraham	18	19	29	FALSE		
 35	tandvlees	gums	gusi	-	-	30	FALSE		
 33/35	tand (tandvlees) <unsp.>			17	18	-	FALSE		
 36	hersenen	brains	otak	-	-	31	FALSE		
@@ -68,7 +68,7 @@ Index	Dutch	English	Indonesian	v1894	v1904/1911	v1931	Swadesh	Swadesh_orig	remar
 65	schouder	shoulder	bahu	-	-	56	FALSE		
 66	schouderblad	shoulderblade	tulang belikat	43	44	-	FALSE		
 67	achterste, billen	buttocks	pantat posterior	-	-	58	FALSE		
-68	bil	buttock	pantat beglan kiri atau kanan	45	46	-	FALSE		
+68	bil	buttock	pantat bagian kiri atau kanan	45	46	-	FALSE		ocr error as belgian but also fixed the Indonesian spelling to bagian
 69	achterste	posterior, buttocks	pantat	44	45	-	FALSE		
 70	stuit	tailbone, coccyx	tulang tungging, tulang ekor	46	47	57	FALSE		
 71	aars	anus	dubur, lubang pantat	-	-	59	FALSE		
@@ -1365,7 +1365,7 @@ Index	Dutch	English	Indonesian	v1894	v1904/1911	v1931	Swadesh	Swadesh_orig	remar
 1245	openen	to open	membuka	760	784	868	FALSE		
 1246	dicht doen	to close	menutup	761	785	869	FALSE		
 1247	afsnijden	to cut off	memotong	-	-	870	FALSE		
-1248	vermeerderen	to multiply, to add, to increase	menambah, memperbanyak	-	-	871	FALSE		
+1248	vermeerderen	to multiply, to add, to increase	mengalikan, menambah, memperbanyak	-	-	871	FALSE		adding the Indonsian for to multiply
 1249	springen	to spring, to jump	melompat	-	-	872	FALSE		
 1250	naar beneden springen	to jump down	melompat ke bawah, terjun	-	-	873	FALSE		
 1251	raken	to hit, to touch	mengenai, menyentuh	763	787	874	TRUE	hit	
@@ -1485,7 +1485,7 @@ Index	Dutch	English	Indonesian	v1894	v1904/1911	v1931	Swadesh	Swadesh_orig	remar
 1352	samen	together	bersama-sama	-	-	956	FALSE		
 1353	gelijk	alike, similar	mirip, sama	-	-	957	FALSE		
 1354	genoeg	enough	cukup	-	-	958	FALSE		
-1355	enige	only, some	beberapa, satu-satunya	-	-	959	FALSE		
+1355	enige	only, some	satu-satunya, beberapa	-	-	959	FALSE		switch the order of the Indonesian
 1356	enkele	a few, some	beberapa	832	849	-	TRUE	some	
 1357	ik	I	saya	837	853	960	TRUE		
 1358	ik zelf	I myself	saya sendiri	-	858	961	FALSE		
