@@ -243,15 +243,15 @@ Index	Dutch	English	Indonesian	v1894	v1904/1911	v1931	Swadesh	Swadesh_orig	remar
 235	dokter (dukun)	doctor (medicine man)	dokter (dukun)	200	203	-	FALSE		
 236	mens (in de zin van mensdom)	man, mankind	manusia	1	1	-	FALSE		
 237	mens (in de zin van de mensen werden gedood)	people	orang	2	2	-	FALSE		
-238	mens (in de zln van de mensen v. het gebergte zijn onze vijanden)	people	orang	3	3	-	FALSE		
+238	mens (in de zin van de mensen v. het gebergte zijn onze vijanden)	people	orang	3	3	-	FALSE		
 236-238	mens <unsp.>			-	-	191	FALSE		
 239	naam	name	nama	113	114	192	TRUE		
 240	bijnaam	nickname	julukan	114	115	-	FALSE		
 241	man	man	orang laki-laki	75	77	193	TRUE		
 242	vrouw	woman	orang perempuan	76	78	194	TRUE		
 243	mannelijk (v.d. mens)	male (human)	laki-laki	110	111	195	FALSE		
-244	mannelij k (v.d.dieren)	male (animal)	jantan	110	111	195	FALSE		
-243/244	mannelij k <unsp.>			110	111	195	FALSE		
+244	mannelijk (v.d.dieren)	male (animal)	jantan	110	111	195	FALSE		
+243/244	mannelijk <unsp.>			110	111	195	FALSE		
 245	vrouwelijk (v.d.mens)	female (human)	perempuan	112	113	196	FALSE		
 246	vrouwelijk (v.d. dieren)	female (animal)	betina	112	113	196	FALSE		
 245/246	vrouwelijk <unsp.>			112	113	196	FALSE		
@@ -268,7 +268,7 @@ Index	Dutch	English	Indonesian	v1894	v1904/1911	v1931	Swadesh	Swadesh_orig	remar
 256	moeder	mother	ibu	81	83	202	TRUE		
 257	oudste kind	oldest child	anak sulung	82	84	204	FALSE		
 258	jongste kind	youngest child	anak bungsu	82	84	205	FALSE		
-257/258	kind <unsp.>	child	anak	82	84	203	TRUE		
+257/258	kind <unsp.>			82	84	203	TRUE		
 259	klein kind (man)	little child (male)	kanak-kanak (laki-laki)	-	-	206	FALSE		
 260	klein kind (vrouw)	little child (female)	kanak-kanak (perempuan)	-	-	206	FALSE		
 259/260	klein kind <unsp.>			-	-	206	FALSE		
@@ -304,11 +304,11 @@ Index	Dutch	English	Indonesian	v1894	v1904/1911	v1931	Swadesh	Swadesh_orig	remar
 283	tante <FZo>	aunt FZo	bibi FZo	97	98	-	FALSE		
 284	tante <FZy>	aunt FZy	bibi FZy	97	98	-	FALSE		
 285	tante <MZo>	aunt MZo	bibi MZo	97	98	-	FALSE		
-283/285	tante <unsp.>	aunt <unsp.>		97	98	-	FALSE		
+283/285	tante <unsp.>			97	98	-	FALSE		
 286	tante <MZy>	aunt MZy	bibi MZy	97	98	-	FALSE		
-284/286	tante <unsp.>	aunt <unsp.>		97	98	-	FALSE		
-281-286	tante <unsp.>	aunt <unsp.>		97	98	-	FALSE		
-283-286	tante <unsp.>	aunt <unsp.>		97	98	-	FALSE		
+284/286	tante <unsp.>			97	98	-	FALSE		
+281-286	tante <unsp.>			97	98	-	FALSE		
+283-286	tante <unsp.>			97	98	-	FALSE		
 287	neef <BoS>	nephew BoS	kemenakan (laki-laki) BoS	98	99	-	FALSE		
 288	neef <ByS>	nephew ByS	kemenakan (laki-laki) ByS	98	99	-	FALSE		
 289	neef <ZoS>	nephew ZoS	kemenakan laki-laki ZoS	98	99	-	FALSE		
@@ -487,7 +487,7 @@ Index	Dutch	English	Indonesian	v1894	v1904/1911	v1931	Swadesh	Swadesh_orig	remar
 440	nok van het dak	ridge of roof	bubungan	-	267	280	FALSE		
 441	dakbedekking atap:	roofing: thatch	atap	268	268	281	FALSE		
 442	dakbedekking: gespleten bamboe	roofing: bamboo lath	atap: bilah, pelupuh bambu	268	268	-	FALSE		
-441/442	dakbedekking <unsp.>		bahan atap	268	268	-	FALSE		add. Malay
+441/442	dakbedekking <unsp.>			268	268	-	FALSE		add. Malay
 443	dakbedekking: sirap hout	roofing: wood	atap: sirap (kayu)	269	269	-	FALSE		
 444	dakbedekking: sirap boomschors	roofing: bark	atap: sirap (kulit kayu)	269	269	-	FALSE		
 443/444	dakbedekking sirap <unsp.>			269	269	-	FALSE		
