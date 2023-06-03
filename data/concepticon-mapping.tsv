@@ -375,221 +375,140 @@ shaman	373	394	SHAMAN (FOLK HEALER)	2	y
 temple	374	911	TEMPLE	2	y
 holy place	375	911	TEMPLE		y
 settlement	376	1391	TOWN	4	y
-town hall	377				y
+town hall	377	335	MEETING HOUSE		y
 king	378	1508	KING	2	y
 a sort of first minister	379	486	MINISTER		y
 mantri	380	486	MINISTER		y
 guard	381	1940	GUARD	2	y
-#<<<					
-(sacred) place (held In awe)	382	998	PUT	4	
-(sacred) place (held In awe)	382	2248	KNOW (SOMEBODY)	4	
-(sacred) place (held In awe)	382	850	SQUARE	4	
-(sacred) place (held In awe)	382	1237	WHERE	4	
-(sacred) place (held In awe)	382	723	PLACE (POSITION)	4	
-#>>>					
-village hall	383		???		
-men's house	384	408	MEN'S HOUSE	2	
-women's house	385		???		
-village head	386		???		
-chieftain	387	301	CHIEFTAIN	2	
-nobleman	388	482	NOBLE	4	
-village elders	389		???		
-warrior	390	3608	WARRIOR	2	
-happiness	391	2941	HAPPINESS	2	
-unhappiness	392		???		
-free man	393	384	FREEMAN	2	
-slave	394	812	SLAVE	2	
-custom	395	1747	CUSTOM	2	
-common law	396		???		
-criminal	397	3875	CRIMINAL	2	
-to judge	398	1818	ADJUDICATE	3	
-to punish	399	3649	PUNISH	1	
-#<<<					
-fine	400	218	FINE (PENALTY)	2	
-fine	400	2157	FINE OR THIN	2	
-#>>>					
-witness	401	1144	WITNESS	2	
-#<<<					
-judge	402	1818	ADJUDICATE	2	
-judge	402	861	JUDGE	2	
-#>>>					
-credit bondsman	403		???		
-funeral ceremony	404		???		
-to circumcise	405		???		
-filing of the teeth	406		???		
-#<<<					
-to marry, to take a wife, marriage	407	203	MARRY	3	
-to marry, to take a wife, marriage	407	2164	MARRY (AS MAN)	3	
-to marry, to take a wife, marriage	407	2163	MARRY (AS WOMAN)	3	
-#>>>					
-#<<<					
-to marry, to take a husband, marriage	408	203	MARRY	3	
-to marry, to take a husband, marriage	408	2164	MARRY (AS MAN)	3	
-to marry, to take a husband, marriage	408	2163	MARRY (AS WOMAN)	3	
-#>>>					
-to give in marriage	409		???		
-to divorce	410	3672	DIVORCE (SEPARATE)	3	
-bride price	411	3024	BRIDE PRICE	2	
-betrothal	412		???		
-to give birth to	413		???		
-midwife	414	3859	MIDWIFE	2	
-to commit adultery	415		???		
-prostitute	416	1610	PROSTITUTE	2	
-dancing girl	417		???		
-mask	418	2005	MASK	2	
-violin	419		???		
-flute	420	777	FLUTE	2	
-drum	421	908	DRUM	2	
-tambourine	422	3141	TAMBOURINE	2	
-xylophone	423		???		
-gong	424	2502	GONG	2	
-conch shell	425		???		
-Jew's harp	426	3319	JEW’S HARP	2	
-#<<<					
-horn	427	1393	HORN (ANATOMY)	2	
-horn	427	939	HORN (INSTRUMENT)	2	
-#>>>					
-to dance	428	1879	DANCE	1	
-song	429	1096	SONG	2	
-riddle	430	2970	RIDDLE	2	
-to ask a riddle	431		???		
-to play	432	1413	PLAY	1	
-#<<<					
-top	433	1614	SUMMIT	2	
-top	433	1753	TOP	2	
-#>>>					
-to spin a top	434		???		
-to hop	435		???		
-to kick/to hit a person on the calves (k.o. play)	436	1135	KICK	3	
-house	437	1252	HOUSE	2	
-#<<<					
-hut, shelter	438	1678	HUT	4	
-hut, shelter	438	1252	HOUSE	4	
-#>>>					
-roof	439	769	ROOF	2	
-ridge of roof	440		???		
-#<<<					
-roofing: thatch	441	279	THATCH	4	
-roofing: thatch	441	2100	THATCH OR ROOF	4	
-#>>>					
-roofing: bamboo lath	442		???		
-#<<<					
-roofing: wood	443	2141	TREE OR WOOD	4	
-roofing: wood	443	1803	WOOD	4	
-roofing: wood	443	1295	STICK	4	
-roofing: wood	443	906	TREE	4	
-roofing: wood	443	10	FIREWOOD	4	
-#>>>					
-#<<<					
-roofing: bark	444	3865	BARK OR SHELL	4	
-roofing: bark	444	2127	BARK OR SKIN	4	
-roofing: bark	444	1204	BARK	4	
-roofing: bark	444	1206	BARKING	4	
-#>>>					
-roofing: other materials	445		???		
-rafter	446	829	RAFTER	2	
-porch	447	3269	PORCH	2	
-door opening	448		???		
-door	449	1567	DOOR	2	
-window opening	450		???		
-window	451	1375	WINDOW	2	
-corner	452	192	CORNER	2	
-staircase, steps	453	1158	STEP	4	
-ladder	454	1464	LADDER	2	
-to climb into a house	455		???		
-floor (made from bamboo lath)	456	1632	FLOOR	4	
-floor (made from wood)	457	1632	FLOOR	4	
-#<<<					
-wall (plank wall)	458	933	WALL (OF HOUSE)	4	
-wall (plank wall)	458	3830	WALL	4	
-#>>>					
-#<<<					
-wall (bamboo wall)	459	933	WALL (OF HOUSE)	4	
-wall (bamboo wall)	459	3830	WALL	4	
-#>>>					
-midrib of palm frond	460		???		
-main posts	461		???		
-ceiling beams	462		???		
-bed	463	1663	BED	2	
-curtain	464	2621	CURTAIN	2	
-sleeping place	465		???		
-small room	466		???		
-cylindrical bolster	467		???		
-sleeping mat	468	105	MATTRESS	2	
-pillow	469	1044	PILLOW	2	
-couch	470	3099	SOFA	2	
-front verandah	471		???		
-attic (under the roof)	472		???		
-rack above the  fireplace	473		???		
-hearth, fireplace	474	185	FIREPLACE	2	
-fire	475	221	FIRE	2	
-fire	476	221	FIRE	2	
-to make a fire	477	737	LIGHT (IGNITE)	3	
-to extinguish (with water)	478	127	EXTINGUISH	3	
-to extinguish	479	127	EXTINGUISH	1	
-to blow on a fire	480		???		
-extinguished	481	2209	BECOME EXTINGUISHED	4	
-#<<<					
-smoke	482	1689	SMOKE (INHALE)	2	
-smoke	482	2859	SMOKE (EMIT SMOKE)	2	
-smoke	482	778	SMOKE (EXHAUST)	2	
-#>>>					
-ashes	483	646	ASH	2	
-fire wood	484		???		
-to put on (light)	485	158	PUT ON	3	
-to put off (light)	486		???		
-space under the house	487		???		
-bed curtain	488		???		
-bench, seat	489	2584	BENCH	2	
-to build	490	1840	BUILD	1	
-to pull down (house)	491		???		
-coconut shell	492		???		
-#<<<					
-pot (iron)	493	3653	COOKING POT	4	
-pot (iron)	493	2056	WOK	4	
-pot (iron)	493	1462	POT	4	
-pot (iron)	493	3765	STORING POT	4	
-pot (iron)	493	854	KETTLE	4	
-#>>>					
-#<<<					
-pot (earthenware)	494	3653	COOKING POT	4	
-pot (earthenware)	494	2056	WOK	4	
-pot (earthenware)	494	1462	POT	4	
-pot (earthenware)	494	3765	STORING POT	4	
-pot (earthenware)	494	854	KETTLE	4	
-#>>>					
-rice kettle (copper)	495		???		
-rice kettle (earthenware)	496		???		
-#<<<					
-dish	497	3542	PREPARED FOOD	2	
-dish	497	481	DISH	2	
-dish	497	480	PLATE	2	
-#>>>					
-cup	498	476	CUP	2	
-drinking bowl	499		???		
-#<<<					
-(tea) pot	500	3653	COOKING POT	4	
-(tea) pot	500	2056	WOK	4	
-(tea) pot	500	1462	POT	4	
-(tea) pot	500	3765	STORING POT	4	
-(tea) pot	500	854	KETTLE	4	
-#>>>					
-saucer (earthenware)	501	271	SAUCER	4	
-small saucer (earthenware)	502		???		
-copper saucer	503		???		
-copper dish	504		???		
-knife	505	1352	KNIFE	2	
-#<<<					
-chopper	506	3067	CLEAVER	2	
-chopper	506	2772	KITCHEN KNIFE	2	
-#>>>					
-kris	507		???		
-dagger	508		???		
-#<<<					
-axe, hatchet	509	677	AXE	4	
-axe, hatchet	509	2083	AXE (CLASSIFIER)	4	
-#>>>					
-spoon	510	1378	SPOON	2	
+(sacred) place (held in awe)	382	723	PLACE (POSITION)	4	y
+village hall	383	335	MEETING HOUSE		y
+men's house	384	408	MEN'S HOUSE	2	y
+women's house	385	1252	HOUSE		y
+village head	386	301	CHIEFTAIN		y
+chieftain	387	301	CHIEFTAIN	2	y
+nobleman	388	482	NOBLE	4	y
+village elders	389	2112	OLD (AGED)		y
+warrior	390	3608	WARRIOR	2	y
+happiness	391	2941	HAPPINESS	2	y
+unhappiness	392	3854	SADNESS		y
+free man	393	384	FREEMAN	2	y
+slave	394	812	SLAVE	2	y
+custom	395	1747	CUSTOM	2	y
+common law	396	1062	LAW		y
+criminal	397	3875	CRIMINAL	2	y
+to judge	398	1818	ADJUDICATE	3	y
+to punish	399	3649	PUNISH	1	y
+fine	400	218	FINE (PENALTY)	2	y
+witness	401	1144	WITNESS	2	y
+judge	402	861	JUDGE	2	y
+credit bondsman	403				y
+funeral ceremony	404	3336	FUNERAL		y
+to circumcise	405	393	CIRCUMCISION		y
+filing of the teeth	406	3113	FILE (SOMETHING)		y
+to marry, to take a wife, marriage	407	2164	MARRY (AS MAN)	3	y
+to marry, to take a husband, marriage	408	2163	MARRY (AS WOMAN)	3	y
+to give in marriage	409				y
+to divorce	410	3672	DIVORCE (SEPARATE)	3	y
+bride price	411	3024	BRIDE PRICE	2	y
+betrothal	412	3644	AGREEMENT		y
+to give birth to	413	1195	GIVE BIRTH		y
+midwife	414	3859	MIDWIFE	2	y
+to commit adultery	415	902	ADULTERY		y
+prostitute	416	1610	PROSTITUTE	2	y
+dancing girl	417				y
+mask	418	2005	MASK	2	y
+violin	419				y
+flute	420	777	FLUTE	2	y
+drum	421	908	DRUM	2	y
+tambourine	422	3141	TAMBOURINE	2	y
+xylophone	423				y
+gong	424	2502	GONG	2	y
+conch shell	425	598	SHELL		y
+Jew's harp	426	3319	JEW'S HARP	2	y
+horn	427	939	HORN (INSTRUMENT)	2	y
+to dance	428	1879	DANCE	1	y
+song	429	1096	SONG	2	y
+riddle	430	2970	RIDDLE	2	y
+to ask a riddle	431	2970	RIDDLE		y
+to play	432	1413	PLAY	1	y
+top	433	1753	TOP	2	y
+to spin a top	434	121	SPIN		y
+to hop	435	1829	JUMP		y
+to kick/to hit a person on the calves (k.o. play)	436	1135	KICK	3	y
+house	437	1252	HOUSE	2	y
+hut, shelter	438	1678	HUT	4	y
+roof	439	769	ROOF	2	y
+ridge of roof	440	280	RIDGEPOLE		y
+roofing: thatch	441	279	THATCH	4	y
+roofing: bamboo lath	442	279	THATCH		y
+roofing: wood	443	279	THATCH	4	y
+roofing: bark	444	279	THATCH	4	y
+roofing: other materials	445	769	ROOF		y
+rafter	446	829	RAFTER	2	y
+porch	447	3269	PORCH	2	y
+door opening	448	1567	DOOR		y
+door	449	1567	DOOR	2	y
+window opening	450	1375	WINDOW		y
+window	451	1375	WINDOW	2	y
+corner	452	192	CORNER	2	y
+staircase, steps	453	34	STAIRS	4	y
+ladder	454	1464	LADDER	2	y
+to climb into a house	455	1102	CLIMB		y
+floor (made from bamboo lath)	456	1632	FLOOR	4	y
+floor (made from wood)	457	1632	FLOOR	4	y
+wall (plank wall)	458	3830	WALL	4	y
+wall (bamboo wall)	459	3830	WALL	4	y
+midrib of palm frond	460				y
+main posts	461	2045	COLUMN		y
+ceiling beams	462	2045	COLUMN		y
+bed	463	1663	BED	2	y
+curtain	464	2621	CURTAIN	2	y
+sleeping place	465	2505	BEDROOM		y
+small room	466	1450	ROOM		y
+cylindrical bolster	467	1044	PILLOW		y
+sleeping mat	468	105	MATTRESS	2	y
+pillow	469	1044	PILLOW	2	y
+couch	470	3099	SOFA	2	y
+front verandah	471	3269	PORCH		y
+attic (under the roof)	472				y
+rack above the fireplace	473	3176	RACK (FOR STORING FOOD)		y
+hearth, fireplace	474	185	FIREPLACE	2	y
+fire	475	221	FIRE	2	y
+fire	476	221	FIRE	2	y
+to make a fire	477	737	LIGHT (IGNITE)	3	y
+to extinguish (with water)	478	127	EXTINGUISH	3	y
+to extinguish	479	127	EXTINGUISH	1	y
+to blow on a fire	480	176	BLOW (WITH MOUTH)		y
+extinguished	481	2209	BECOME EXTINGUISHED	4	y
+smoke	482	778	SMOKE (EXHAUST)	2	y
+ashes	483	646	ASH	2	y
+fire wood	484	10	FIREWOOD		y
+to put on (light)	485	737	LIGHT (IGNITE)	3	y
+to put off (light)	486	127	EXTINGUISH		y
+space under the house	487	2632	AREA UNDER HOUSE		y
+bed curtain	488	2621	CURTAIN		y
+bench, seat	489	2584	BENCH	2	y
+to build	490	1840	BUILD	1	y
+to pull down (house)	491	681	DESTROY		y
+coconut shell	492	598	SHELL		y
+pot (iron)	493	1462	POT	4	y
+pot (earthenware)	494	2055	CLAY POT	4	y
+rice kettle (copper)	495	854	RICE STEAMER		y
+rice kettle (earthenware)	496	854	RICE STEAMER		y
+dish	497	480	PLATE	2	y
+cup	498	476	CUP	2	y
+drinking bowl	499	476	CUP		y
+(tea) pot	500	3765	STORING POT	4	y
+saucer (earthenware)	501	271	SAUCER	4	y
+small saucer (earthenware)	502	271	SAUCER		y
+copper saucer	503	271	SAUCER		y
+copper dish	504	271	SAUCER		y
+knife	505	1352	KNIFE	2	y
+chopper	506	3067	CLEAVER	2	y
+kris	507	1535	SWORD		y
+dagger	508	3233	SMALL KNIFE		y
+axe, hatchet	509	677	AXE	4	y
+spoon	510	1378	SPOON	2	y
 #<<<					
 ladle	511	2657	LADLE	2	
 ladle	511	2649	COCONUT SHELL LADLE	2	
@@ -2566,4 +2485,4 @@ no, not a, none	1486	1240	NOT	4
 no, not a, none	1486	687	NOTHING	4	
 no, not a, none	1486	2279	NO OR NOT	4	
 #>>>					
-#	1106/1486	74%			
+#	1106/1486	0.74			
