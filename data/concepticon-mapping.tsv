@@ -319,108 +319,67 @@ husband	317	1200	HUSBAND	2	y
 wife	318	1199	WIFE	2	y
 friend	319	1325	FRIEND	2	y
 comrade, friend	320	1325	FRIEND	4	y
-#<<<					
-comrade, mate	321	3978	COMPANION	4	
-comrade, mate	321	549	COPULATE	4	
-#>>>					
-friend (female)	322	1325	FRIEND	4	
-guest	323	1782	GUEST	2	
-#<<<					
-guest, stranger	324	791	STRANGER	4	
-guest, stranger	324	2908	GUEST OR STRANGER	4	
-guest, stranger	324	1782	GUEST	4	
-#>>>					
-village	325	930	VILLAGE	2	
-country	326	1300	COUNTRY	2	
-#<<<					
-town (capital)	327	3609	TOWN OR VILLAGE	4	
-town (capital)	327	1391	TOWN	4	
-town (capital)	327	930	VILLAGE	4	
-#>>>					
-main village	328		???		
-hamlet	329		???		
-#<<<					
-people (tribe)	330	2661	PEOPLE OR PERSON	4	
-people (tribe)	330	302	CLAN	4	
-people (tribe)	330	789	PEOPLE	4	
-people (tribe)	330	3612	INDIGENOUS PEOPLES OF THE AMERICAS	4	
-people (tribe)	330	1645	SHORT	4	
-#>>>					
-sorcerer	331	823	SORCERER	2	
-talisman	332		???		
-incantation	333		???		
-magic wand	334		???		
-magic book	335		???		
-sacred, magic writings	336	1702	HOLY	4	
-#<<<					
-idol	337	1945	IDOL	2	
-idol	337	3205	GRAVEN IMAGE	2	
-#>>>					
-omen	338	107	OMEN	2	
-#<<<					
-ghost	339	1175	GHOST	2	
-ghost	339	53	SPIRIT	2	
-#>>>					
-#<<<					
-spirit	340	811	SOUL	2	
-spirit	340	53	SPIRIT	2	
-spirit	340	3231	DEITY	2	
-#>>>					
-evil spirit	341	1973	DEMON	2	
-vampire (witch, werewolf)	342		???		
-soul, spirit	343	811	SOUL	2	
-#<<<					
-soul, ghost	344	53	SPIRIT	4	
-soul, ghost	344	1944	GOD	4	
-soul, ghost	344	1175	GHOST	4	
-soul, ghost	344	811	SOUL	4	
-#>>>					
-the supreme being	345		???		
-religion	346	661	RELIGION	2	
-to worship	347	257	WORSHIP	1	
-vital spirit, vitality	348		???		
-#<<<					
-god	349	3231	DEITY	2	
-god	349	1944	GOD	2	
-#>>>					
-statue representing an ancestor/ancestors	350	1669	ANCESTORS	4	
-writing	351		???		
-letter	352	1612	LETTER	2	
-paper	353	648	PAPER	2	
-letter	354	1612	LETTER	2	
-book	355	963	BOOK	2	
-story	356	2060	STORY	2	
-history, legend	357		???		
-poem	358		???		
-tune, melody	359	2968	REASON	4	
-#<<<					
-heaven	360	1732	SKY	2	
-heaven	360	1565	HEAVEN	2	
-#>>>					
-hell	361	878	HELL	2	
-underworld	362		???		
-underworld	363		???		
-the upper world	364		???		
-population	365		???		
-the afterlife	366		???		
-virtue	367		???		
-sin	368	2971	SIN	2	
-forbidden	369		???		
-forbidden, taboo	370		???		
-priest	371	852	PRIEST	2	
-priestess	372		???		
-shaman	373	394	SHAMAN (FOLK HEALER)	2	
-#<<<					
-temple	374	911	TEMPLE	2	
-temple	374	1604	TEMPLES	2	
-#>>>					
-holy place	375		???		
-settlement	376	1391	TOWN	4	
-town hall	377		???		
-king	378	1508	KING	2	
-a sort of first minister	379		???		
-mantri	380		???		
-guard	381	1940	GUARD	2	
+comrade, mate	321	3978	COMPANION	4	y
+friend (female)	322	1325	FRIEND	4	y
+guest	323	1782	GUEST	2	y
+guest, stranger	324	2908	GUEST OR STRANGER	4	y
+village	325	930	VILLAGE	2	y
+country	326	1300	COUNTRY	2	y
+town (capital)	327	1391	TOWN	4	y
+main village	328	930	VILLAGE		y
+hamlet	329				y
+people (tribe)	330	1549	TRIBE	4	y
+sorcerer	331	823	SORCERER	2	y
+talisman	332	392	MAGIC		y
+incantation	333	118	BEWITCH		y
+magic wand	334	392	MAGIC		y
+magic book	335	392	MAGIC		y
+sacred, magic writings	336	392	MAGIC		y
+idol	337	1945	IDOL	2	y
+omen	338	107	OMEN	2	y
+ghost	339	1175	GHOST	2	y
+spirit	340	53	SPIRIT	2	y
+evil spirit	341	1973	DEMON	2	y
+vampire (witch, werewolf)	342				y
+soul, spirit	343	811	SOUL	2	y
+soul, ghost	344	1175	GHOST	4	y
+the supreme being	345	3231	DEITY		y
+religion	346	661	RELIGION	2	y
+to worship	347	257	WORSHIP	1	y
+vital spirit, vitality	348				y
+god	349	1944	GOD	2	y
+statue representing an ancestor/ancestors	350	1669	ANCESTORS	4	y
+writing	351				y
+letter	352	1612	LETTER	2	y
+paper	353	648	PAPER	2	y
+letter	354	1612	LETTER	2	y
+book	355	963	BOOK	2	y
+story	356	2060	STORY	2	y
+history, legend	357				y
+poem	358	541	POETRY		y
+tune, melody	359	1096	SONG	4	y
+heaven	360	1565	HEAVEN	2	y
+hell	361	878	HELL	2	y
+underworld	362				y
+underworld	363	878	HELL		y
+the upper world	364	1565	HEAVEN		y
+population	365				y
+the afterlife	366				y
+virtue	367				y
+sin	368	2971	SIN	2	y
+forbidden	369				y
+forbidden, taboo	370				y
+priest	371	852	PRIEST	2	y
+priestess	372	852	PRIEST		y
+shaman	373	394	SHAMAN (FOLK HEALER)	2	y
+temple	374	911	TEMPLE	2	y
+holy place	375	911	TEMPLE		y
+settlement	376	1391	TOWN	4	y
+town hall	377				y
+king	378	1508	KING	2	y
+a sort of first minister	379	486	MINISTER		y
+mantri	380	486	MINISTER		y
+guard	381	1940	GUARD	2	y
 #<<<					
 (sacred) place (held In awe)	382	998	PUT	4	
 (sacred) place (held In awe)	382	2248	KNOW (SOMEBODY)	4	
