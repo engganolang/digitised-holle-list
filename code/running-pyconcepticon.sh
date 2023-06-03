@@ -15,3 +15,6 @@ cd concepticon/concepticon-data
 # run the concept mapping
 concepticon map_concepts /Users/Primahadi/Documents/enggano-AHRC/holle-list-2023-05-23/data/Stokhof-1980-1486.tsv > test.tsv
 
+# move the file with the mapping to the relevant directory
+cp test.tsv /Users/Primahadi/Documents/enggano-AHRC/holle-list-2023-05-23/data/concepticon-mapping.tsv
+
