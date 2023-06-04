@@ -454,7 +454,7 @@ Index	Dutch	English	Indonesian	v1894	v1904/1911	v1931	Swadesh	Swadesh_orig	remar
 408	huwen (v.d. vrouw) huwelijk	to marry, to take a husband, marriage	kawin/menikah, berlaki, perkawinan	-	-	258	FALSE		
 407/408	huwen <unsp.> huwelijk			246	244	258	FALSE		
 409	uithuwelijken	to give in marriage	mengawinkan	-	-	259	FALSE		
-410	schelden	to divorce	bercerai	247	245	260	FALSE		
+410	scheiden	to divorce	bercerai	247	245	260	FALSE		
 411	bruidsschat	bride price	mas kawin	248	246	261	FALSE		
 412	trouwbelofte	betrothal	perjanjian	249	247	-	FALSE		
 413	baren (bevallen)	to give birth to	melahirkan	250	248	262	FALSE		
@@ -520,10 +520,10 @@ Index	Dutch	English	Indonesian	v1894	v1904/1911	v1931	Swadesh	Swadesh_orig	remar
 467	rolkussen	cylindrical bolster	(bantal) guling	295	-	-	FALSE		add. bantal
 468	ligmatje	sleeping mat	tikar	296	297	295	FALSE		
 469	hoofdkussen	pillow	bantal	291	293	296	FALSE		
-470	zlt-en ligplaats	couch	bale-bale	283	284	297	FALSE		
+470	zit-en ligplaats	couch	bale-bale	283	284	297	FALSE		
 471	pendopo	front verandah	pendopo	284	285	-	FALSE		
 472	zolder (onder het dak)	attic (under the roof)	loteng	285	286	298	FALSE		
-473	zolderrek boven het vuur, rekje boven de haard	rack above the  fireplace	para-para	285	286	299	FALSE		
+473	zolderrek boven het vuur, rekje boven de haard	rack above the fireplace	para-para	285	286	299	FALSE		
 472/473	zolder, zolderrek <unsp.>			285	286	-	FALSE		
 474	kookplaats	hearth, fireplace	dapur, tungku	286	287	300	FALSE		
 475	vuur	fire	api	287	288	301	TRUE		
