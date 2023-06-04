@@ -509,92 +509,47 @@ kris	507	1535	SWORD		y
 dagger	508	3233	SMALL KNIFE		y
 axe, hatchet	509	677	AXE	4	y
 spoon	510	1378	SPOON	2	y
-#<<<					
-ladle	511	2657	LADLE	2	
-ladle	511	2649	COCONUT SHELL LADLE	2	
-#>>>					
-bamboo water container	512		???		
-to fetch water	513		???		
-basket (all sorts of)	514	1539	BASKET	4	
-#<<<					
-lamp	515	2131	TORCH OR LAMP	2	
-lamp	515	625	LAMP	2	
-#>>>					
-lamp wick	516		???		
-torch	517	1919	TORCH	2	
-case	518	1465	BOX	2	
-#<<<					
-box, case	519	1465	BOX	4	
-box, case	519	3108	BOX (SOMEBODY OR SOMETHING)	4	
-box, case	519	3150	BOX OR CHEST	4	
-#>>>					
-case for cloth	520		???		
-cooking pot	521	3653	COOKING POT	2	
-#<<<					
-pot, jar	522	3653	COOKING POT	4	
-pot, jar	522	2056	WOK	4	
-pot, jar	522	270	JUG	4	
-pot, jar	522	1462	POT	4	
-pot, jar	522	3409	EARTHEN JUG	4	
-pot, jar	522	3765	STORING POT	4	
-pot, jar	522	854	KETTLE	4	
-#>>>					
-to fire pottery	523		???		
-earthen water barrel	524		???		
-to cook in bamboo container	525		???		
-to cook (in pot)	526	1100	COOK (SOMETHING)	3	
-to steam	527	2067	STEAM (VERB)	1	
-#<<<					
-to bake, to grill, to fry	528	183	BAKE	3	
-to bake, to grill, to fry	528	2162	STIR FRY	3	
-#>>>					
-#<<<					
-to roast (in ashes)	529	1962	ROAST (SOMETHING)	3	
-to roast (in ashes)	529	2146	ROAST OR FRY	3	
-#>>>					
-to grill, to roast	530	1962	ROAST (SOMETHING)	4	
-to bake	531	183	BAKE	1	
-done	532	813	DO	2	
-half done	533		???		
-food	534	256	FOOD	2	
+ladle	511	2657	LADLE	2	y
+bamboo water container	512	2548	BARREL		y
+to fetch water	513	1911	DRAW (WATER)		y
+basket (all sorts of)	514	1539	BASKET	4	y
+lamp	515	625	LAMP	2	y
+lamp wick	516				y
+torch	517	1919	TORCH	2	y
+case	518	3150	BOX OR CHEST	2	y
+box, case	519	3150	BOX OR CHEST	4	y
+case for cloth	520	3106	WARDROBE		y
+cooking pot	521	3653	COOKING POT	2	y
+pot, jar	522	1462	POT	4	y
+to fire pottery	523	2102	BURN		y
+earthen water barrel	524	2055	CLAY POT		y
+to cook in bamboo container	525	1100	COOK (SOMETHING)		y
+to cook (in pot)	526	1100	COOK (SOMETHING)	3	y
+to steam	527	2067	STEAM (VERB)	1	y
+to bake, to grill, to fry	528	183	BAKE	3	y
+to roast (in ashes)	529	1962	ROAST (SOMETHING)	3	y
+to grill, to roast	530	1962	ROAST (SOMETHING)	4	y
+to bake	531	183	BAKE	1	y
+done	532	3806	RIPE OR COOKED	2	y
+half done	533	1959	RAW		y
+food	534	256	FOOD	2	y
 provisions	535		???		
 side-dish	536		???		
-vegetables	537	924	VEGETABLES	2	
-#<<<					
-meat	538	2615	FLESH OR MEAT	2	
-meat	538	634	MEAT	2	
-#>>>					
-#<<<					
-meat (raw)	539	3393	LEAN MEAT	4	
-meat (raw)	539	634	MEAT	4	
-meat (raw)	539	2615	FLESH OR MEAT	4	
-meat (raw)	539	2492	BOIL (SOMETHING)	4	
-meat (raw)	539	2096	ANIMAL OR MEAT	4	
-#>>>					
-dried meat	540		???		
-#<<<					
-fish	541	227	FISH	2	
-fish	541	2638	FISHING	2	
-#>>>					
-#<<<					
-rice plant	542	2026	RICE PLANT	2	
-rice plant	542	3390	WILD RICE	2	
-#>>>					
-harvested rice	543		???		
-husked rice	544	926	RICE	2	
-cooked rice	545	1191	COOKED RICE	2	
-unhusked rice	546	2749	UNHUSKED RICE	2	
-stalk	547	2628	PLANT STEM	2	
-#<<<					
-ear of rice, corn	548	506	MAIZE	4	
-ear of rice, corn	548	605	GRAIN	4	
-#>>>					
-rice barn	549		???		
-#<<<					
-rice pounder, mortar	550	1731	MORTAR BINDER	4	
-rice pounder, mortar	550	224	MORTAR	4	
-#>>>					
-pounder	551	2459	GRINDSTONE	2	
+vegetables	537	924	VEGETABLES	2	y
+meat	538	2615	FLESH OR MEAT	2	y
+meat (raw)	539	2615	FLESH OR MEAT	4	y
+dried meat	540	634	MEAT		y
+fish	541	227	FISH	2	y
+rice plant	542	2026	RICE PLANT	2	y
+harvested rice	543	3289	UNCOOKED RICE		y
+husked rice	544	926	RICE	2	y
+cooked rice	545	1191	COOKED RICE	2	y
+unhusked rice	546	2749	UNHUSKED RICE	2	y
+stalk	547	2628	PLANT STEM	2	y
+ear of rice, corn	548	605	GRAIN	4	y
+rice barn	549	3657	GRANARY		y
+rice pounder, mortar	550	224	MORTAR	4	y
+pounder	551	2459	GRINDSTONE	2	y
 #<<<					
 to pound	552	354	POUND	1	
 to pound	552	3768	POUND (FOOD)	1	
@@ -2408,81 +2363,41 @@ on	1449	3345	ATOP OR UP	4
 on	1449	57	ATOP	4	
 on	1449	1741	ABOVE	4	
 #>>>					
-#<<<					
-in, inside	1450	1606	INSIDE	2	
-in, inside	1450	1460	IN	2	
-#>>>					
-#<<<					
-out, outside	1451	3459	PUT IN ORDER	4	
-out, outside	1451	1107	GO OUT	4	
-out, outside	1451	762	OUTSIDE	4	
-#>>>					
-nearby	1452	1942	NEAR	2	
-far	1453	1406	FAR	2	
-around, surrounding	1454	1443	WALK	4	
-outside	1455	762	OUTSIDE	2	
-to go outside	1456	1107	GO OUT	1	
-#<<<					
-inside, within	1457	1460	IN	4	
-inside, within	1457	1606	INSIDE	4	
-inside, within	1457	3305	INSIDE A HOUSE	4	
-#>>>					
-to go inside	1458		???		
-#<<<					
-many	1459	1198	MANY	2	
-many	1459	3453	MANY PIECES	2	
-#>>>					
-where	1460	1237	WHERE	2	
-how	1461	1239	HOW	2	
-like this, like that	1462	1558	SIMILAR	4	
-like this	1463	1558	SIMILAR	2	
-like that	1464		???		
-why	1465	1270	WHY	2	
-certainly, sure	1466	509	CERTAIN	4	
-maybe	1467		???		
-very	1468	1311	VERY	2	
-and	1469	1577	AND	2	
-with	1470	1340	WITH	2	
-no	1471	1269	NO	2	
-yes	1472	1268	YES	2	
-#<<<					
-not, no	1473	2279	NO OR NOT	2	
-not, no	1473	1240	NOT	2	
-#>>>					
-#<<<					
-not, no	1474	2279	NO OR NOT	2	
-not, no	1474	1240	NOT	2	
-#>>>					
-#<<<					
-not, no	1475	2279	NO OR NOT	2	
-not, no	1475	1240	NOT	2	
-#>>>					
-#<<<					
-yes, right, indeed	1476	2183	RIGHT HAND	4	
-yes, right, indeed	1476	1019	RIGHT	4	
-yes, right, indeed	1476	1268	YES	4	
-yes, right, indeed	1476	1725	CORRECT (RIGHT)	4	
-yes, right, indeed	1476	2231	CORRECT (SOMETHING OR SOMEBODY)	4	
-#>>>					
-only	1477	1580	ONLY	2	
-almost	1478		???		
-#<<<					
-but	1479	506	MAIZE	2	
-but	1479	3843	BUT	2	
-#>>>					
-however, nevertheless	1480	3843	BUT	4	
-however, nevertheless	1481	3843	BUT	4	
-#<<<					
-yet, still	1482	2919	STILL (CONTINUING)	4	
-yet, still	1482	2577	YET	4	
-#>>>					
-if	1483	1459	IF	2	
-although	1484		???		
-because	1485	1157	BECAUSE	2	
-#<<<					
-no, not a, none	1486	1269	NO	4	
-no, not a, none	1486	1240	NOT	4	
-no, not a, none	1486	687	NOTHING	4	
-no, not a, none	1486	2279	NO OR NOT	4	
-#>>>					
+in, inside	1450	1606	INSIDE	2	y
+out, outside	1451	762	OUTSIDE	4	y
+nearby	1452	1942	NEAR	2	y
+far	1453	1406	FAR	2	y
+around, surrounding	1454			4	y
+outside	1455	762	OUTSIDE	2	y
+to go outside	1456	1107	GO OUT	1	y
+inside, within	1457	1606	INSIDE	4	y
+to go inside	1458	749	ENTER		y
+many	1459	1198	MANY	2	y
+where	1460	1237	WHERE	2	y
+how	1461	1239	HOW	2	y
+like this, like that	1462	1558	SIMILAR	4	y
+like this	1463	1558	SIMILAR	2	y
+like that	1464	1558	SIMILAR		y
+why	1465	1270	WHY	2	y
+certainly, sure	1466	509	CERTAIN	4	y
+maybe	1467	2278	PERHAPS		y
+very	1468	1311	VERY	2	y
+and	1469	1577	AND	2	y
+with	1470	1340	WITH	2	y
+no	1471	1269	NO	2	y
+yes	1472	1268	YES	2	y
+not, no	1473	2279	NO OR NOT	2	y
+not, no	1474	2279	NO OR NOT	2	y
+not, no	1475	2279	NO OR NOT	2	y
+yes, right, indeed	1476	1268	YES	4	y
+only	1477	1580	ONLY	2	y
+almost	1478				y
+but	1479	3843	BUT	2	y
+however, nevertheless	1480	3843	BUT	4	y
+however, nevertheless	1481	3843	BUT	4	y
+yet, still	1482	2577	YET	4	y
+if	1483	1459	IF	2	y
+although	1484				y
+because	1485	1157	BECAUSE	2	y
+no, not a, none	1486	2279	NO OR NOT	4	y
 #	1106/1486	0.74			
