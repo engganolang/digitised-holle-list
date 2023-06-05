@@ -47,8 +47,10 @@ format:
       - default
       - custom.scss
     mainfont: "Palatino"
+    citations-hover: true
+    footnotes-hover: true
 bibliography: references.bib
-keywords: "Holle List, Word List, Language Documentation, Lexical Database"
+keywords: "Holle List, Word List, Language Documentation, Lexical Database, Indonesian languages"
 search: true
 csl: unified-style-sheet-for-linguistics.csl
 ---
@@ -73,7 +75,7 @@ The digitised, NBL Holle List (HL) preserves the original columns, with the rena
 
 The values of the `English` column in @fig-table are hyperlinked to the [Concept sets](https://concepticon.clld.org/parameters) in the [Concepticon](https://concepticon.clld.org/) catalogue [@list]. The initial mapping of the English glosses to the Concepticon Concept sets was programmatically performed using [pyconcepticon](https://pypi.org/project/pyconcepticon/ "pyconcepticon") [@forkel2022], a Python package to access and curate the Concepticon data, following the tutorial in Tjuka [-@tjuka2020]. The output of the mapping is currently being manually curated and checked (track the changes [here](https://github.com/engganolang/digitised-holle-list/commits/main/data/concepticon-mapping.tsv))^[There are cases where the English glosses cannot be linked to the relevant Concept sets because they are not yet mapped in the Concepticon data. For this case, the glosses are not hyperlinked.]. Therefore, NOT ALL of the English glosses in @fig-table are linked. **The Concepticon link will be continuously integrated and updated into the webpage periodically**.
 
-We added several new columns after the version years columns. One of these is the `Swadesh` columns (Boolean `true`/`false`), indicating whether the entries are part of the Swadesh items (`true`) or not (`false`) [see @holleli1980, 141-143][^1]. From this table, it is then possible to easily filter out the Swadesh items, something that is not possible in the PDF version, since the NBL table does not directly include a column marking which items are from the Swadesh list; we then hand-coded this Swadesh column.
+We added several new columns after the version years columns. One of these is the `Swadesh` columns (Boolean `true`/`false`), indicating whether the entries are part of the Swadesh items (`true`) or not (`false`)[^1] [see @holleli1980, 141-143]. From this table, it is then possible to easily filter out the Swadesh items, something that is not possible in the PDF version, since the NBL table does not directly include a column marking which items are from the Swadesh list; we then hand-coded this Swadesh column.
 
 [^1]: There are also Swadesh items that do not have number index in the NBL. These items are marked with "`--`" in the PDF [@holleli1980, 141-143]; they can be viewed and downloaded [here](https://github.com/engganolang/digitised-holle-list/blob/main/data/swadesh-unindexed-in-NBL.txt)
 
