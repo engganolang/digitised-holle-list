@@ -550,68 +550,49 @@ ear of rice, corn	548	605	GRAIN	4	y
 rice barn	549	3657	GRANARY		y
 rice pounder, mortar	550	224	MORTAR	4	y
 pounder	551	2459	GRINDSTONE	2	y
-#<<<					
-to pound	552	354	POUND	1	
-to pound	552	3768	POUND (FOOD)	1	
-#>>>					
-sieve for rice	553		???		
-chaff	554	2363	CHAFF (HUSK)	2	
-to grind	555	1033	GRIND	1	
-rice porridge	556		???		
-sago flour	557		???		
-sago porridge	558		???		
-baked sago	559		???		
-cake	560	2408	CAKE	2	
-#<<<					
-porridge	561	3651	MUSH (FOOD)	2	
-porridge	561	2049	CONGEE	2	
-#>>>					
-black pepper	562		???		
-salt	563	1274	SALT	2	
-coconut pulp	564		???		
-#<<<					
-sarong	565	2413	SARONG	2	
-sarong	565	1965	LOINCLOTH	2	
-#>>>					
-cloth	566	1616	CLOTH	2	
-trousers	567	809	TROUSERS	2	
-kebaya	568		???		
-jacket (for women)	569	2770	JACKET	4	
-jacket (for men)	570	2770	JACKET	4	
-head cloth (for women)	571		???		
-head cloth (for men)	572		???		
-#<<<					
-comb	573	1475	COMB	2	
-comb	573	2070	COMB (VERB)	2	
-comb	573	188	COMB OF BIRD	2	
-#>>>					
-fine tooth comb	574		???		
-finger ring	575	1374	RING	2	
-#<<<					
-ring	576	1374	RING	2	
-ring	576	2875	RING (MAKE SOUND)	2	
-#>>>					
-waist belt/band	577		???		
-metal waist band	578		???		
-arm ring, bracelet	579	1754	BRACELET	4	
-anklet	580		???		
-arm ring (upper arm)	581		???		
-earring	582	770	EARRING	2	
-earclip	583		???		
-necklace	584	1961	NECKLACE	2	
-bead	585	1860	BEAD	2	
-shawl	586	2771	SHAWL	2	
+to pound	552	354	POUND	1	y
+sieve for rice	553	3353	SIEVE (TOOL)		y
+chaff	554	2363	CHAFF (HUSK)	2	y
+to grind	555	1033	GRIND	1	y
+rice porridge	556	2049	CONGEE		y
+sago flour	557				y
+sago porridge	558				y
+baked sago	559				y
+cake	560	2408	CAKE	2	y
+porridge	561	2049	CONGEE	2	y
+black pepper	562	1385	PEPPER		y
+salt	563	1274	SALT	2	y
+coconut pulp	564				y
+sarong	565	2413	SARONG	2	y
+cloth	566	1616	CLOTH	2	y
+trousers	567	809	TROUSERS	2	y
+kebaya	568				y
+jacket (for women)	569	2770	JACKET	4	y
+jacket (for men)	570	2770	JACKET	4	y
+head cloth (for women)	571	3457	HEADBAND OR HEADDRESS		y
+head cloth (for men)	572	3457	HEADBAND OR HEADDRESS		y
+comb	573	1475	COMB	2	y
+fine tooth comb	574	1475	COMB		y
+finger ring	575	1374	RING	2	y
+ring	576	1374	RING	2	y
+waist belt/band	577	772	BELT		y
+metal waist band	578	772	BELT		y
+arm ring, bracelet	579	1754	BRACELET	4	y
+anklet	580				y
+arm ring (upper arm)	581	1754	BRACELET		y
+earring	582	770	EARRING	2	y
+earclip	583	770	EARRING		y
+necklace	584	1961	NECKLACE	2	y
+bead	585	1860	BEAD	2	y
+shawl	586	2771	SHAWL	2	y
 sarong used as a sling	587		???		
 loin cloth	588		???		
 cotton fabric (local, European)	589		???		
-silk	590	1641	SILK	2	
+silk	590	1641	SILK	2	y
 woollen fabric	591		???		
 flannel	592		???		
-to weave	593	133	WEAVE	1	
-#<<<					
-loom (meed)	594	133	WEAVE	4	
-loom (meed)	594	1787	LOOM	4	
-#>>>					
+to weave	593	133	WEAVE	1	y
+loom (meed)	594	1787	LOOM	4	y
 #<<<					
 loom (weaving spool)	595	133	WEAVE	4	
 loom (weaving spool)	595	1787	LOOM	4	
@@ -1109,76 +1090,54 @@ louse	866	1392	LOUSE	2
 louse	866	310	HEAD LOUSE	2	
 #>>>					
 to delouse	867		???		
-#<<<					
-louse	868	1392	LOUSE	2	
-louse	868	310	HEAD LOUSE	2	
-#>>>					
-nit	869	267	NIT	2	
-flea	870	232	FLEA	2	
-spider	871	843	SPIDER	2	
-#<<<					
-fly	872	1504	FLY (INSECT)	2	
-fly	872	1441	FLY (MOVE THROUGH AIR)	2	
-#>>>					
-bluebottle fly	873		???		
-wasp	874	1517	WASP	2	
-bee	875	665	BEE	2	
-honey	876	942	HONEY	2	
-mosquito	877	1509	MOSQUITO	2	
-butterfly	878	1791	BUTTERFLY	2	
-caterpillar	879	2247	CATERPILLAR	2	
-firefly	880	206	FIREFLY	2	
-grasshopper	881	607	GRASSHOPPER	2	
-beetle	882	2242	BEETLE	2	
-cockroach	883	1575	COCKROACH	2	
-ant	884	587	ANT	2	
-white ant, termite	885	883	TERMITE	4	
-snake	886	730	SNAKE	2	
-python	887	1563	PYTHON	2	
-centipede	888	1974	CENTIPEDE	2	
-#<<<					
-leech	889	949	WATER LEECH	2	
-leech	889	2273	LEECH	2	
-#>>>					
-snail, slug	890	1543	SNAIL	2	
-#<<<					
-worm	891	2350	EARTHWORM	2	
-worm	891	1219	WORM	2	
-#>>>					
-#<<<					
-shrimp	892	238	PRAWNS	2	
-shrimp	892	2349	SHRIMP	2	
-#>>>					
-crab	893	2348	CRAB	2	
-shell	894	598	SHELL	2	
-crustacean	895		???		
-frog	896	503	FROG	2	
-toad	897	894	TOAD	2	
-lizard	898	632	LIZARD	2	
-iguana	899	1578	IGUANA	2	
-crocodile	900	1857	CROCODILE	2	
-tortoise	901	895	TORTOISE	2	
-#<<<					
-turtle	902	112	TURTLE	2	
-turtle	902	3949	RED-FOOTED TORTOISE	2	
-turtle	902	895	TORTOISE	2	
-#>>>					
-universe	903		???		
-firmament	904		???		
-sky	905	1732	SKY	2	
-sun	906	1343	SUN	2	
-sun eclipse	907		???		
-moon	908	1313	MOON	2	
-one month	909		???		
-#<<<					
-month (name of the months)	910	1370	MONTH	4	
-month (name of the months)	910	2463	MOON OR MONTH	4	
-#>>>					
-moon eclipse	911		???		
-star	912	1430	STAR	2	
-sunrise	913	2296	SUNRISE	2	
+louse	868	1392	LOUSE	2	y
+nit	869	267	NIT	2	y
+flea	870	232	FLEA	2	y
+spider	871	843	SPIDER	2	y
+fly	872	1504	FLY (INSECT)	2	y
+bluebottle fly	873	1504	FLY (INSECT)		y
+wasp	874	1517	WASP	2	y
+bee	875	665	BEE	2	y
+honey	876	942	HONEY	2	y
+mosquito	877	1509	MOSQUITO	2	y
+butterfly	878	1791	BUTTERFLY	2	y
+caterpillar	879	2247	CATERPILLAR	2	y
+firefly	880	206	FIREFLY	2	y
+grasshopper	881	607	GRASSHOPPER	2	y
+beetle	882	2242	BEETLE	2	y
+cockroach	883	1575	COCKROACH	2	y
+ant	884	587	ANT	2	y
+white ant, termite	885	883	TERMITE	4	y
+snake	886	730	SNAKE	2	y
+python	887	1563	PYTHON	2	y
+centipede	888	1974	CENTIPEDE	2	y
+leech	889	2273	LEECH	2	y
+snail, slug	890	1543	SNAIL	2	y
+worm	891	1219	WORM	2	y
+shrimp	892	2349	SHRIMP	2	y
+crab	893	2348	CRAB	2	y
+shell	894	598	SHELL	2	y
+crustacean	895				y
+frog	896	503	FROG	2	y
+toad	897	894	TOAD	2	y
+lizard	898	632	LIZARD	2	y
+iguana	899	1578	IGUANA	2	y
+crocodile	900	1857	CROCODILE	2	y
+tortoise	901	895	TORTOISE	2	y
+turtle	902	112	TURTLE	2	y
+universe	903				y
+firmament	904	1565	HEAVEN		y
+sky	905	1732	SKY	2	y
+sun	906	1343	SUN	2	y
+sun eclipse	907	2285	ECLIPSE		y
+moon	908	1313	MOON	2	y
+one month	909	1370	MONTH		y
+month (name of the months)	910	1370	MONTH	4	y
+moon eclipse	911	2285	ECLIPSE		y
+star	912	1430	STAR	2	y
+sunrise	913	2296	SUNRISE	2	y
 moonrise	914		???		
-sunset	915	2295	SUNSET	2	
+sunset	915	2295	SUNSET	2	y
 moonset	916		???		
 #<<<					
 earth (globe)	917	212	FIELD	4	
