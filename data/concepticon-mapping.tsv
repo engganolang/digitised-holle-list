@@ -533,8 +533,8 @@ to bake	531	183	BAKE	1	y
 done	532	3806	RIPE OR COOKED	2	y
 half done	533	1959	RAW		y
 food	534	256	FOOD	2	y
-provisions	535		???		
-side-dish	536		???		
+provisions	535				y
+side-dish	536	3542	PREPARED FOOD		y
 vegetables	537	924	VEGETABLES	2	y
 meat	538	2615	FLESH OR MEAT	2	y
 meat (raw)	539	2615	FLESH OR MEAT	4	y
@@ -585,100 +585,63 @@ earclip	583	770	EARRING		y
 necklace	584	1961	NECKLACE	2	y
 bead	585	1860	BEAD	2	y
 shawl	586	2771	SHAWL	2	y
-sarong used as a sling	587		???		
-loin cloth	588		???		
-cotton fabric (local, European)	589		???		
+sarong used as a sling	587	2413	SARONG		y
+loin cloth	588	1965	LOINCLOTH		y
+cotton fabric (local, European)	589	1616	CLOTH		y
 silk	590	1641	SILK	2	y
-woollen fabric	591		???		
-flannel	592		???		
+woollen fabric	591	1616	CLOTH		y
+flannel	592	1616	CLOTH		y
 to weave	593	133	WEAVE	1	y
 loom (meed)	594	1787	LOOM	4	y
-#<<<					
-loom (weaving spool)	595	133	WEAVE	4	
-loom (weaving spool)	595	1787	LOOM	4	
-#>>>					
-#<<<					
-loom (warp)	596	133	WEAVE	4	
-loom (warp)	596	1787	LOOM	4	
-#>>>					
-#<<<					
-loom (weft)	597	133	WEAVE	4	
-loom (weft)	597	1787	LOOM	4	
-#>>>					
-bark cloth	598		???		
-to pound bark cloth	599		???		
-#<<<					
-to weave, to plait	600	133	WEAVE	3	
-to weave, to plait	600	3294	BRAID (VERB) OR WEAVE (BASKET)	3	
-to weave, to plait	600	3295	BRAID (VERB)	3	
-to weave, to plait	600	1729	PLAIT OR BRAID OR WEAVE	3	
-to weave, to plait	600	3296	WEAVE (BASKET)	3	
-#>>>					
-to twine a rope	601		???		
-rope	602	1218	ROPE	2	
-#<<<					
-thread, yarn	603	1161	THREAD	4	
-thread, yarn	603	3445	YARN	4	
-#>>>					
-to knot, to knit	604	760	KNOT	4	
-bag (woven bag)	605	2468	BAG	4	
-bag (made from rope)	606	2468	BAG	4	
-sword	607	1535	SWORD	2	
-sabre	608		???		
-sheath	609	3424	SHEATH	2	
-#<<<					
-to chip, cut, slash	610	1432	CUT	3	
-to chip, cut, slash	610	2156	CUT (WITH KNIFE)	3	
-to chip, cut, slash	610	3889	CUT OR HACK	3	
-to chip, cut, slash	610	190	MOW	3	
-to chip, cut, slash	610	2155	CUT (WITH SCISSORS)	3	
-to chip, cut, slash	610	3151	CUT (WITH AXE)	3	
-#>>>					
-#<<<					
-pike, lance, javelin	611	945	SPEAR	4	
-pike, lance, javelin	611	2967	PIKE (FISH)	4	
-#>>>					
-blow-pipe	612		???		
-bow	613	994	BOW	2	
-bowstring	614	2119	BOW STRING	2	
-arrow	615	977	ARROW	2	
-quiver	616	995	QUIVER (FOR ARROWS)	2	
-shield	617	1064	SHIELD	2	
-flag	618	2623	FLAG	2	
-kind of small cannon	619		???		
-rifle	620	3881	PISTOL	2	
-gun powder	621		???		
-bullet	622	1114	BULLET	2	
-to shoot	623	1172	SHOOT	1	
-sling	624	387	SLING	2	
-to wage war	625		???		
-war	626	935	WAR	2	
-enemy	627	1358	ENEMY	2	
-cannon	628	3202	CANNON	2	
-to go head hunting	629		???		
-peace	630	1338	PEACE	2	
-fortification	631		???		
-defeated	632	3535	BE DEFEATED	2	
-to gain the victory, to win	633		???		
-to surrender	634	1696	SURRENDER	1	
-victory	635	783	VICTORY	2	
-prisoner of war	636		???		
-delegate	637		???		
-#<<<					
-tribute	638	873	TAX	4	
-tribute	638	2062	INTEREST	4	
-#>>>					
-#<<<					
-tribute <as a mark of respect >	639	873	TAX	4	
-tribute <as a mark of respect >	639	2062	INTEREST	4	
-#>>>					
-tax	640	873	TAX	2	
-to farm	641	1541	CULTIVATE	3	
-#<<<					
-plough	642	2154	PLOUGH (INSTRUMENT)	2	
-plough	642	1921	PLOUGH	2	
-#>>>					
-coulter	643		???		
+loom (weaving spool)	595	1161	THREAD	4	y
+loom (warp)	596	1787	LOOM	4	y
+loom (weft)	597			4	y
+bark cloth	598	1204	BARK		y
+to pound bark cloth	599	354	POUND		y
+to weave, to plait	600	3294	BRAID (VERB) OR WEAVE (BASKET)	3	y
+to twine a rope	601	121	SPIN		y
+rope	602	1218	ROPE	2	y
+thread, yarn	603	1161	THREAD	4	y
+to knot, to knit	604	760	KNOT	4	y
+bag (woven bag)	605	2468	BAG	4	y
+bag (made from rope)	606	2468	BAG	4	y
+sword	607	1535	SWORD	2	y
+sabre	608	1535	SWORD		y
+sheath	609	3424	SHEATH	2	y
+to chip, cut, slash	610	1432	CUT	3	y
+pike, lance, javelin	611	945	SPEAR	4	y
+blow-pipe	612	432	BLOWGUN		y
+bow	613	994	BOW	2	y
+bowstring	614	2119	BOW STRING	2	y
+arrow	615	977	ARROW	2	y
+quiver	616	995	QUIVER (FOR ARROWS)	2	y
+shield	617	1064	SHIELD	2	y
+flag	618	2623	FLAG	2	y
+kind of small cannon	619	3202	CANNON		y
+rifle	620	3881	PISTOL	2	y
+gun powder	621	1798	GUNPOWDER		y
+bullet	622	1114	BULLET	2	y
+to shoot	623	1172	SHOOT	1	y
+sling	624	387	SLING	2	y
+to wage war	625	935	WAR		y
+war	626	935	WAR	2	y
+enemy	627	1358	ENEMY	2	y
+cannon	628	3202	CANNON	2	y
+to go head hunting	629	1435	HUNT		y
+peace	630	1338	PEACE	2	y
+fortification	631	1938	FORTRESS		y
+defeated	632	3535	BE DEFEATED	2	y
+to gain the victory, to win	633	866	WIN		y
+to surrender	634	1696	SURRENDER	1	y
+victory	635	783	VICTORY	2	y
+prisoner of war	636	1072	PRISONER		y
+delegate	637				y
+tribute	638	873	TAX	4	y
+tribute <as a mark of respect >	639	2982	GIFT	4	y
+tax	640	873	TAX	2	y
+to farm	641	1541	CULTIVATE	3	y
+plough	642	2154	PLOUGH (INSTRUMENT)	2	y
+coulter	643				y
 #<<<					
 rake	644	338	RAKE	2	
 rake	644	3127	RAKE (SOMETHING)	2	
