@@ -111,8 +111,8 @@ index finger	109	577	FOREFINGER	2	y
 middle finger	110	3387	MIDDLE FINGER	2	y
 ring finger	111				y
 little finger	112	2774	LITTLE FINGER	2	y
-the big toe	113				y
-the little toe	114				y
+the big toe	113	1781	THUMB		y
+the little toe	114	2774	LITTLE FINGER		y
 bone	115	1394	BONE	2	y
 blood	116	946	BLOOD	2	y
 flesh	117	2615	FLESH OR MEAT	2	y
@@ -223,7 +223,7 @@ to have a cold	221	102	COMMON COLD (DISEASE)		y
 a cold	222	102	COMMON COLD (DISEASE)	3	y
 gone to sleep (limbs)	223				y
 cramp	224				y
-paralysed	225				y
+paralysed	225	3621	DISABLED PERSON		y
 crippled	226	320	LAME	4	y
 mute	227	2320	MUTE PERSON	2	y
 deaf	228	458	DEAF PERSON	2	y
@@ -642,417 +642,230 @@ tax	640	873	TAX	2	y
 to farm	641	1541	CULTIVATE	3	y
 plough	642	2154	PLOUGH (INSTRUMENT)	2	y
 coulter	643				y
-#<<<					
-rake	644	338	RAKE	2	
-rake	644	3127	RAKE (SOMETHING)	2	
-#>>>					
-dibble	645		???		
-to make a hole (with a dibble in the ground)	646		???		
-spade	647	1176	SPADE	2	
-trowel (a small trowel)	648		???		
-knife for cutting grass	649		???		
-sickle	650	341	SICKLE	2	
-knife for cutting rice plant	651		???		
-hoe	652	284	HOE	2	
-garden	653	586	GARDEN	2	
-rice-field (wet, sawah)	654		???		
-rice-field (dry)	655		???		
-small dike in rice-field	656		???		
-irrigation	657		???		
-water-course channel	658		???		
-#<<<					
-fence, hedge	659	1690	FENCE	4	
-fence, hedge	659	3403	HORSE BARN	4	
-fence, hedge	659	3400	COWSHED	4	
-#>>>					
-vegetation	660	653	PLANT (VEGETATION)	2	
-planting, recently planted crop, a newly established garden	661		???		
-#<<<					
-to sow (placing the seeds in holes in the ground)	662	748	SOW SEEDS	3	
-to sow (placing the seeds in holes in the ground)	662	1486	PLANT (SOMETHING)	3	
-#>>>					
-#<<<					
-to sow (scattering the seeds about)	663	748	SOW SEEDS	3	
-to sow (scattering the seeds about)	663	1486	PLANT (SOMETHING)	3	
-#>>>					
-seed	664	714	SEED	2	
-to plant	665	1486	PLANT (SOMETHING)	1	
-to thresh with the feet	666		???		
-seed-rice	667	714	SEED	2	
-ripe	668	178	RIPE	2	
-unripe	669	1958	UNRIPE	2	
-#<<<					
-to harvest	670	1827	HARVEST CROPS	4	
-to harvest	670	3541	HARVEST OR HARVEST SEASON	4	
-to harvest	670	611	HARVEST	4	
-to harvest	670	3327	AUTUMN OR HARVEST SEASON	4	
-#>>>					
-to reap	671	190	MOW	1	
-to gather	672	7	GATHER	1	
-to pick	673	2148	PICK	1	
-maize, corn	674	506	MAIZE	2	
-millet	675	931	MILLET	2	
-beans and peas	676		???		
-beans	677	832	BEAN	2	
-#<<<					
-bean	678	2574	BEAN OR PEA	2	
-bean	678	832	BEAN	2	
-#>>>					
-cucumber	679	496	CUCUMBER	2	
-pumpkin	680	864	PUMPKIN	2	
-tobacco	681	974	TOBACCO	2	
-sugarcane	682	146	SUGAR CANE	2	
-peanut	683	595	GROUNDNUT (PEANUT)	2	
-onion	684	2366	ONION	2	
-gourd	685	411	GOURD	2	
-species of tuber	686		???		
-sweet potato	687	159	SWEET POTATO	2	
-cassava	688	925	CASSAVA	2	
-taro	689	351	TARO	2	
-red pepper	690	919	CHILI PEPPER	2	
-coconut (tree)	691	970	COCONUT	4	
-coconut (fruit)	692	970	COCONUT	2	
-coconut (other parts of the tree)	693	970	COCONUT	4	
-breadfruit tree and breadfruit	694		???		
-sugarpalm, aren tree	695		???		
-lontar tree	696		???		
-palm Juice (unfermented)	697		???		
-palm wine (fermented)	698	404	ALCOHOL (FERMENTED DRINK)	4	
-palmwine	699		???		
-syrup	700		???		
-sugar	701	862	SUGAR	2	
-nipa palm	702		???		
-sago tree	703		???		
-sago	704	2270	SAGO	2	
-cotton	705	1850	COTTON	2	
-kapok	706	2499	KAPOK TREE	2	
-pandanus	707	469	PANDANUS	2	
-mango	708	2398	MANGO	2	
-Artocarpus integrifolia, Jack fruit	709	2655	JACKFRUIT	4	
-Nephelium lappaceum	710		???		
-Durio zibethinus	711		???		
-Eugenia	712		???		
-Lansium domesticum	713		???		
-Averrhoa carambola, carambola	714		???		
-Averrhoa blimbi	715		???		
-#<<<					
-banana	716	868	BANANA	2	
-banana	716	399	PLANTAIN	2	
-#>>>					
-#<<<					
-banana (wild)	717	868	BANANA	4	
-banana (wild)	717	399	PLANTAIN	4	
-#>>>					
-banana (fruit)	718	868	BANANA	2	
-species of citrus fruit	719		???		
-#<<<					
-orange	720	2627	ORANGE (FRUIT)	2	
-orange	720	3328	ORANGE (COLOR)	2	
-#>>>					
-grape fruit	721		???		
-lemon	722	3091	LEMON	2	
-coffee	723	1299	COFFEE	2	
-indigo (plant)	724		???		
-indigo (dye)	725		???		
-Uncaria gambir	726		???		
-Morinda atrocarpus	727		???		
-#<<<					
-lime	728	982	LIME (FRUIT)	2	
-lime	728	2540	LIME (MATERIAL)	2	
-#>>>					
-Curcuma domestica	729		???		
-ginger	730	2500	GINGER	2	
-#<<<					
-rattan, cane	731	1296	WALKING STICK	4	
-rattan, cane	731	659	REED	4	
-rattan, cane	731	2497	RATTAN	4	
-rattan, cane	731	1295	STICK	4	
-rattan, cane	731	146	SUGAR CANE	4	
-rattan, cane	731	343	VINE	4	
-rattan, cane	731	1763	CLUB	4	
-#>>>					
-bamboo	732	1927	BAMBOO	2	
-bamboo shoot, young sprout	733	2494	BAMBOO SHOOT	4	
-tree	734	906	TREE	2	
-wood	735	1803	WOOD	2	
-to climb a tree	736		???		
-to climb	737	1102	CLIMB	1	
-to cut down	738	355	CUT DOWN	1	
-#<<<					
-branch	739	1531	BRANCH	2	
-branch	739	3223	BRANCH OR TWIG	2	
-#>>>					
-twig	740	3222	TWIG	2	
-the heart of the tree	741		???		
-main root, taproot	742		???		
-side-root	743		???		
-fibrous root	744		???		
-liana	745	2388	LIANA	2	
-#<<<					
-leaf	746	2250	LEAF (LEAFLIKE OBJECT)	2	
-leaf	746	628	LEAF	2	
-#>>>					
-falling of the leaves	747		???		
-#<<<					
-bark	748	1204	BARK	2	
-bark	748	3865	BARK OR SHELL	2	
-bark	748	1206	BARKING	2	
-#>>>					
-#<<<					
-thorn, spine	749	124	THORN	4	
-thorn, spine	749	805	SPINE	4	
-#>>>					
-sap	750	345	SAP	2	
-gum	751	139	GUMS	2	
-Areca catechu LINN	752		???		
-betel	753	177	BETEL PEPPER VINE	2	
-resin	754	664	RESIN	2	
-resin (from the damar tree)	755	664	RESIN	4	
-damar tree	756		???		
-#<<<					
-sprout	757	3358	SPROUT (SHOOT)	2	
-sprout	757	2076	SPROUT (VERB)	2	
-#>>>					
-flower	758	239	FLOWER	2	
-fruit	759	1507	FRUIT	2	
-to bear fruit	760	3054	BEAR FRUIT	1	
-#<<<					
-rind, peel	761	275	PEEL	4	
-rind, peel	761	3660	SHELL (SOMETHING)	4	
-rind, peel	761	2373	SKIN (OF FRUIT)	4	
-#>>>					
-to peel	762	275	PEEL	1	
-#<<<					
-pip, stone	763	3419	STONE (CLASSIFIER)	4	
-pip, stone	763	1762	STONE (OF FRUIT)	4	
-pip, stone	763	224	MORTAR	4	
-pip, stone	763	2125	STONE OR ROCK	4	
-pip, stone	763	857	STONE	4	
-pip, stone	763	668	ROCK	4	
-pip, stone	763	1945	IDOL	4	
-#>>>					
-the flesh of the fruit	764		???		
-bunch	765	1966	BUNCH	2	
-#<<<					
-oil	766	2556	OIL (HYDROPHOBIC LIQUID)	2	
-oil	766	1484	OIL (ORGANIC SUBSTANCE)	2	
-#>>>					
-moss	767	637	MOSS	2	
-mushroom	768	641	MUSHROOM	2	
-ferns	769	3802	FERN	4	
-grass	770	606	GRASS	2	
-weeds	771	3288	WEED	2	
-Imperata cylindria (Kunai grass)	772		???		
-Saccharum spontaneum	773		???		
-#<<<					
-animal, beast	774	3056	ANIMAL (CLASSIFIER)	4	
-animal, beast	774	958	WILD ANIMAL	4	
-animal, beast	774	2096	ANIMAL OR MEAT	4	
-animal, beast	774	619	ANIMAL	4	
-animal, beast	774	631	LIVESTOCK	4	
-#>>>					
-#<<<					
-young of animal (calf, foal, chicken, etc.)	775	1318	CHICKEN	4	
-young of animal (calf, foal, chicken, etc.)	775	1840	BUILD	4	
-young of animal (calf, foal, chicken, etc.)	775	2017	MIX	4	
-young of animal (calf, foal, chicken, etc.)	775	1514	HEN	4	
-young of animal (calf, foal, chicken, etc.)	775	2628	PLANT STEM	4	
-young of animal (calf, foal, chicken, etc.)	775	3080	SPLIT OPEN	4	
-young of animal (calf, foal, chicken, etc.)	775	178	RIPE	4	
-young of animal (calf, foal, chicken, etc.)	775	460	BREAK (OF ROPE)	4	
-young of animal (calf, foal, chicken, etc.)	775	1201	FEATHER	4	
-young of animal (calf, foal, chicken, etc.)	775	1647	FOAL	4	
-young of animal (calf, foal, chicken, etc.)	775	2512	CHICK	4	
-young of animal (calf, foal, chicken, etc.)	775	265	FOWL	4	
-young of animal (calf, foal, chicken, etc.)	775	3044	BOVINE	4	
-young of animal (calf, foal, chicken, etc.)	775	2081	CHICKEN (CLASSIFIER)	4	
-young of animal (calf, foal, chicken, etc.)	775	718	PAY	4	
-young of animal (calf, foal, chicken, etc.)	775	285	THRESH	4	
-#>>>					
-to bleat	776		???		
-to keep animals	777		???		
-tail	778	1220	TAIL	2	
-paw	779	2965	PAW	2	
-hoof	780	152	HOOF	2	
-claw	781	72	CLAW	2	
-udder	782	154	UDDER	2	
-#<<<					
-mouth, snout	783	674	MOUTH	4	
-mouth, snout	783	2200	SNOUT	4	
-mouth, snout	783	1701	RIVER MOUTH	4	
-#>>>					
-snout, muzzle	784	2200	SNOUT	4	
-#<<<					
-bill, beak	785	1081	BILL	4	
-bill, beak	785	73	BEAK	4	
-#>>>					
-wing	786	1257	WING	2	
-feather	787	1201	FEATHER	2	
-to fly	788	1441	FLY (MOVE THROUGH AIR)	1	
-#<<<					
-nest	789	3549	BIRD NEST	2	
-nest	789	539	NEST	2	
-#>>>					
-egg	790	744	EGG	2	
-to lay eggs	791	2464	LAY EGGS	1	
-to brood	792	2075	BROOD (VERB)	3	
-to hatch	793	3116	HATCH (OUT)	1	
-domesticated pig	794		???		
-piggery	795		???		
-wild pig	796	3154	WILD BOAR	2	
-to grunt	797		???		
-#<<<					
-sheep	798	1331	SHEEP	2	
-sheep	798	1344	RAM	2	
-#>>>					
-#<<<					
-goat	799	1502	GOAT	2	
-goat	799	2684	CAPRINE (GOAT OR SHEEP)	2	
-goat	799	2476	FEMALE GOAT	2	
-#>>>					
-#<<<					
-buffalo (female)	800	2516	WATER BUFFALO	4	
-buffalo (female)	800	3142	BISON	4	
-buffalo (female)	800	934	BUFFALO	4	
-#>>>					
-#<<<					
-buffalo (male)	801	2516	WATER BUFFALO	4	
-buffalo (male)	801	3142	BISON	4	
-buffalo (male)	801	934	BUFFALO	4	
-#>>>					
-#<<<					
-buffalo (calf)	802	2516	WATER BUFFALO	4	
-buffalo (calf)	802	3142	BISON	4	
-buffalo (calf)	802	934	BUFFALO	4	
-#>>>					
-#<<<					
-cow	803	1007	COW	2	
-cow	803	3044	BOVINE	2	
-#>>>					
-bull	804	1008	BULL	2	
-to bleat, to moo	805		???		
-#<<<					
-to low, to bellow	806	2191	LOW (HEIGHT)	4	
-to low, to bellow	806	3348	LOW (POSITION OR HEIGHT)	4	
-to low, to bellow	806	2484	SMALL (NOT TALL)	4	
-to low, to bellow	806	536	LOW VOICE	4	
-to low, to bellow	806	1485	BELOW OR UNDER	4	
-to low, to bellow	806	721	LOW	4	
-#>>>					
-horse	807	615	HORSE	2	
-to neigh, to whinny	808		???		
-#<<<					
-deer	809	1936	DEER	2	
-deer	809	3826	ROE DEER	2	
-#>>>					
-#<<<					
-horn	810	1393	HORN (ANATOMY)	2	
-horn	810	939	HORN (INSTRUMENT)	2	
-#>>>					
-dog	811	2009	DOG	2	
-#<<<					
-to bark	812	1204	BARK	1	
-to bark	812	1206	BARKING	1	
-#>>>					
-#<<<					
-cat	813	3825	MALE CAT	2	
-cat	813	1208	CAT	2	
-#>>>					
-to miaow	814		???		
-tiger	815	846	TIGER	2	
-to roar	816	3896	ROAR	1	
-bear	817	1820	BEAR	2	
-porcupine	818	2510	PORCUPINE	2	
-marsupial	819		???		
-marten (paradaxurus)	820	3739	MARTEN	4	
-half-ape	821		???		
-ant-eater (manis javanica)	822	181	ANTEATER	4	
-cassowary	823	466	CASSOWARY	2	
-pigeon	824	1853	DOVE	2	
-#<<<					
-crow	825	913	CROW	2	
-crow	825	2074	CROW (VERB)	2	
-#>>>					
-#<<<					
-hen, chicken	826	1318	CHICKEN	4	
-hen, chicken	826	1514	HEN	4	
-hen, chicken	826	1201	FEATHER	4	
-hen, chicken	826	265	FOWL	4	
-hen, chicken	826	2512	CHICK	4	
-hen, chicken	826	2081	CHICKEN (CLASSIFIER)	4	
-#>>>					
-chick	827	2512	CHICK	2	
-#<<<					
-hen	828	1514	HEN	2	
-hen	828	1318	CHICKEN	2	
-#>>>					
-mother hen	829		???		
-cock, rooster	830	1511	ROOSTER	2	
-fighting cock	831		???		
-cock-fighting	832		???		
-duck	833	1360	DUCK	2	
-parrot	834	882	PARROT	2	
-#<<<					
-parakeet, budgerigar	835	3720	BUDGERIGAR	4	
-parakeet, budgerigar	835	886	PARAKEET	4	
-#>>>					
-#<<<					
-swallow	836	897	SWALLOW	2	
-swallow	836	3077	SWALLOW (BIRD)	2	
-#>>>					
-rice-bird	837		???		
-hornbill	838	3260	HORNBILL	2	
-quail	839	1893	QUAIL	2	
-heron	840	758	HERON	2	
-birds of prey	841		???		
-owl	842	735	OWL	2	
-kite (bird)	843	307	HAWK	4	
-bird	844	937	BIRD	2	
-squirrel	845	1628	SQUIRREL	2	
-bat	846	1793	BAT	2	
-bat	847	1793	BAT	2	
-flying fox	848	235	FLYING FOX	2	
-#<<<					
-deer	849	1936	DEER	2	
-deer	849	3826	ROE DEER	2	
-#>>>					
-cherrotain mousedeer	850		???		
-#<<<					
-mouse	851	1491	MOUSE	2	
-mouse	851	2139	MUROID (MOUSE OR RAT)	2	
-#>>>					
-#<<<					
-rat	852	1490	RAT	2	
-rat	852	1491	MOUSE	2	
-rat	852	2139	MUROID (MOUSE OR RAT)	2	
-#>>>					
-shrew	853	3676	SHREW	2	
-monkey	854	1350	MONKEY	2	
-to hunt	855	1435	HUNT	1	
-trap for catching large game	856		???		
-#<<<					
-trap	857	1075	TRAP (PITFALL)	2	
-trap	857	3320	SNARE (TRAP)	2	
-#>>>					
-bamboo spikes	858		???		
-to fish	859	2638	FISHING	1	
-fish trap	860	389	FISH TRAP	2	
-#<<<					
-net	861	2653	NET (FOR CATCHING)	2	
-net	861	2963	NET	2	
-#>>>					
-#<<<					
-fish	862	227	FISH	2	
-fish	862	2638	FISHING	2	
-#>>>					
-shark	863	1110	SHARK	2	
-ray	864		???		
-eel	865	1013	FRESHWATER EEL	2	
-#<<<					
-louse	866	1392	LOUSE	2	
-louse	866	310	HEAD LOUSE	2	
-#>>>					
-to delouse	867		???		
+rake	644	338	RAKE	2	y
+dibble	645	3155	DIBBLE STICK		y
+to make a hole (with a dibble in the ground)	646	1418	DIG		y
+spade	647	1176	SPADE	2	y
+trowel (a small trowel)	648				y
+knife for cutting grass	649	2132	SICKLE OR SCYTHE		y
+sickle	650	341	SICKLE	2	y
+knife for cutting rice plant	651	3233	SMALL KNIFE		y
+hoe	652	284	HOE	2	y
+garden	653	586	GARDEN	2	y
+rice-field (wet, sawah)	654	140	PADDY FIELD		y
+rice-field (dry)	655	2794	FIELD (UPLAND)		y
+small dike in rice-field	656				y
+irrigation	657	3078	IRRIGATE		y
+water-course channel	658	2423	CHANNEL		y
+fence, hedge	659	1690	FENCE	4	y
+vegetation	660	653	PLANT (VEGETATION)	2	y
+planting, recently planted crop, a newly established garden	661	653	PLANT (VEGETATION)		y
+to sow (placing the seeds in holes in the ground)	662	1486	PLANT (SOMETHING)	3	y
+to sow (scattering the seeds about)	663	748	SOW SEEDS	3	y
+seed	664	714	SEED	2	y
+to plant	665	1486	PLANT (SOMETHING)	1	y
+to thresh with the feet	666	575	TREAD		y
+seed-rice	667	714	SEED	2	y
+ripe	668	178	RIPE	2	y
+unripe	669	1958	UNRIPE	2	y
+to harvest	670	1827	HARVEST CROPS	4	y
+to reap	671	1827	HARVEST CROPS	1	y
+to gather	672	1827	HARVEST CROPS	1	y
+to pick	673	2148	PICK	1	y
+maize, corn	674	506	MAIZE	2	y
+millet	675	931	MILLET	2	y
+beans and peas	676	2574	BEAN OR PEA		y
+beans	677	832	BEAN	2	y
+bean	678	832	BEAN	2	y
+cucumber	679	496	CUCUMBER	2	y
+pumpkin	680	864	PUMPKIN	2	y
+tobacco	681	974	TOBACCO	2	y
+sugarcane	682	146	SUGAR CANE	2	y
+peanut	683	595	GROUNDNUT (PEANUT)	2	y
+onion	684	2366	ONION	2	y
+gourd	685	411	GOURD	2	y
+species of tuber	686	159	SWEET POTATO		y
+sweet potato	687	159	SWEET POTATO	2	y
+cassava	688	925	CASSAVA	2	y
+taro	689	351	TARO	2	y
+red pepper	690	919	CHILI PEPPER	2	y
+coconut (tree)	691	147	COCONUT TREE	4	y
+coconut (fruit)	692	970	COCONUT	2	y
+coconut (other parts of the tree)	693	970	COCONUT	4	y
+breadfruit tree and breadfruit	694	2371	BREADFRUIT		y
+sugarpalm, aren tree	695	3029	SUGAR PALM		y
+lontar tree	696	3030	LONTAR PALM		y
+palm juice (unfermented)	697				y
+palm wine (fermented)	698	404	ALCOHOL (FERMENTED DRINK)	4	y
+palmwine	699	404	ALCOHOL (FERMENTED DRINK)		y
+syrup	700				y
+sugar	701	862	SUGAR	2	y
+nipa palm	702				y
+sago tree	703	2372	SAGO PALM		y
+sago	704	2270	SAGO	2	y
+cotton	705	1850	COTTON	2	y
+kapok	706	2499	KAPOK TREE	2	y
+pandanus	707	469	PANDANUS	2	y
+mango	708	2398	MANGO	2	y
+Artocarpus integrifolia, Jack fruit	709	2655	JACKFRUIT	4	y
+Nephelium lappaceum	710				y
+Durio zibethinus	711				y
+Eugenia	712	3981	GUAVA		y
+Lansium domesticum	713				y
+Averrhoa carambola, carambola	714				y
+Averrhoa blimbi	715				y
+banana	716	868	BANANA	2	y
+banana (wild)	717	399	PLANTAIN	4	y
+banana (fruit)	718	868	BANANA	2	y
+species of citrus fruit	719	1126	CITRUS FRUIT		y
+orange	720	2627	ORANGE (FRUIT)	2	y
+grape fruit	721	920	GRAPE		y
+lemon	722	3091	LEMON	2	y
+coffee	723	1299	COFFEE	2	y
+indigo (plant)	724				y
+indigo (dye)	725				y
+Uncaria gambir	726				y
+Morinda atrocarpus	727				y
+lime	728	2540	LIME (MATERIAL)	2	y
+Curcuma domestica	729	2842	TURMERIC		y
+ginger	730	2500	GINGER	2	y
+rattan, cane	731	2497	RATTAN	4	y
+bamboo	732	1927	BAMBOO	2	y
+bamboo shoot, young sprout	733	2494	BAMBOO SHOOT	4	y
+tree	734	906	TREE	2	y
+wood	735	1803	WOOD	2	y
+to climb a tree	736	1102	CLIMB		y
+to climb	737	1102	CLIMB	1	y
+to cut down	738	355	CUT DOWN	1	y
+branch	739	1531	BRANCH	2	y
+twig	740	3222	TWIG	2	y
+the heart of the tree	741	1803	WOOD		y
+main root, taproot	742	670	ROOT		y
+side-root	743	670	ROOT		y
+fibrous root	744	670	ROOT		y
+liana	745	2388	LIANA	2	y
+leaf	746	628	LEAF	2	y
+falling of the leaves	747	628	LEAF		y
+bark	748	1204	BARK	2	y
+thorn, spine	749	124	THORN	4	y
+sap	750	345	SAP	2	y
+gum	751	139	GUMS	2	y
+Areca catechu LINN	752	217	BETELNUT		y
+betel	753	177	BETEL PEPPER VINE	2	y
+resin	754	664	RESIN	2	y
+resin (from the damar tree)	755	664	RESIN	4	y
+damar tree	756	664	RESIN		y
+sprout	757	3358	SPROUT (SHOOT)	2	y
+flower	758	239	FLOWER	2	y
+fruit	759	1507	FRUIT	2	y
+to bear fruit	760	3054	BEAR FRUIT	1	y
+rind, peel	761	2373	SKIN (OF FRUIT)	4	y
+to peel	762	275	PEEL	1	y
+pip, stone	763	1762	STONE (OF FRUIT)	4	y
+the flesh of the fruit	764	2259	FLESH		y
+bunch	765	1966	BUNCH	2	y
+oil	766	2556	OIL (HYDROPHOBIC LIQUID)	2	y
+moss	767	637	MOSS	2	y
+mushroom	768	641	MUSHROOM	2	y
+ferns	769	3802	FERN	4	y
+grass	770	606	GRASS	2	y
+weeds	771	3288	WEED	2	y
+Imperata cylindria (Kunai grass)	772	659	REED		y
+Saccharum spontaneum	773	659	REED		y
+animal, beast	774	619	ANIMAL	4	y
+young of animal (calf, foal, chicken, etc.)	774	619	ANIMAL	4	y
+to bleat	776				y
+to keep animals	777	3780	PET		y
+tail	778	1220	TAIL	2	y
+paw	779	2965	PAW	2	y
+hoof	780	152	HOOF	2	y
+claw	781	72	CLAW	2	y
+udder	782	154	UDDER	2	y
+mouth, snout	783	2200	SNOUT	4	y
+snout, muzzle	784	2200	SNOUT	4	y
+bill, beak	785	73	BEAK	4	y
+wing	786	1257	WING	2	y
+feather	787	1201	FEATHER	2	y
+to fly	788	1441	FLY (MOVE THROUGH AIR)	1	y
+nest	789	539	NEST	2	y
+egg	790	744	EGG	2	y
+to lay eggs	791	2464	LAY EGGS	1	y
+to brood	792	2075	BROOD (VERB)	3	y
+to hatch	793	3116	HATCH (OUT)	1	y
+domesticated pig	794	1337	PIG		y
+piggery	795	3283	CAGE		y
+wild pig	796	3154	WILD BOAR	2	y
+to grunt	797				y
+sheep	798	1331	SHEEP	2	y
+goat	799	1502	GOAT	2	y
+buffalo (female)	800	934	BUFFALO	4	y
+buffalo (male)	801	934	BUFFALO	4	y
+buffalo (calf)	802	1989	CALF	4	y
+cow	803	1007	COW	2	y
+bull	804	1008	BULL	2	y
+to bleat, to moo	805				y
+to low, to bellow	806	536	LOW VOICE	4	y
+horse	807	615	HORSE	2	y
+to neigh, to whinny	808				y
+deer	809	1936	DEER	2	y
+horn	810	1393	HORN (ANATOMY)	2	y
+dog	811	2009	DOG	2	y
+to bark	812	1206	BARKING	1	y
+cat	813	1208	CAT	2	y
+to miaow	814				y
+tiger	815	846	TIGER	2	y
+to roar	816	3896	ROAR	1	y
+bear	817	1820	BEAR	2	y
+porcupine	818	2510	PORCUPINE	2	y
+marsupial	819				y
+marten (paradaxurus)	820	3739	MARTEN	4	y
+half-ape	821	3298	APE OR MONKEY		y
+ant-eater (manis javanica)	822	181	ANTEATER	4	y
+cassowary	823	466	CASSOWARY	2	y
+pigeon	824	1853	DOVE	2	y
+crow	825	913	CROW	2	y
+hen, chicken	826	1318	CHICKEN	4	y
+chick	827	2512	CHICK	2	y
+hen	828	1514	HEN	2	y
+mother hen	829	505	PARENTS		y
+cock, rooster	830	1511	ROOSTER	2	y
+fighting cock	831	1511	ROOSTER		y
+cock-fighting	832	1423	FIGHT		y
+duck	833	1360	DUCK	2	y
+parrot	834	882	PARROT	2	y
+parakeet, budgerigar	835	886	PARAKEET	4	y
+swallow	836	3077	SWALLOW (BIRD)	2	y
+rice-bird	837	1854	SPARROW		y
+hornbill	838	3260	HORNBILL	2	y
+quail	839	1893	QUAIL	2	y
+heron	840	758	HERON	2	y
+birds of prey	841	2683	EAGLE OR HAWK		y
+owl	842	735	OWL	2	y
+kite (bird)	843	1905	EAGLE	4	y
+bird	844	937	BIRD	2	y
+squirrel	845	1628	SQUIRREL	2	y
+bat	846	1793	BAT	2	y
+bat	847	1793	BAT	2	y
+flying fox	848	235	FLYING FOX	2	y
+deer	849	1936	DEER	2	y
+cherrotain mousedeer	850	1936	DEER		y
+mouse	851	1491	MOUSE	2	y
+rat	852	1490	RAT	2	y
+shrew	853	3676	SHREW	2	y
+monkey	854	1350	MONKEY	2	y
+to hunt	855	1435	HUNT	1	y
+trap for catching large game	856	1170	TRAP (CATCH)		y
+trap	857	1075	TRAP (PITFALL)	2	y
+bamboo spikes	858	1075	TRAP (PITFALL)		y
+to fish	859	2638	FISHING	1	y
+fish trap	860	389	FISH TRAP	2	y
+net	861	2653	NET (FOR CATCHING)	2	y
+fish	862	227	FISH	2	y
+shark	863	1110	SHARK	2	y
+ray	864	1910	STINGRAY		y
+eel	865	1013	FRESHWATER EEL	2	y
+louse	866	1392	LOUSE	2	y
+to delouse	867				y
 louse	868	1392	LOUSE	2	y
 nit	869	267	NIT	2	y
 flea	870	232	FLEA	2	y
@@ -1099,71 +912,32 @@ month (name of the months)	910	1370	MONTH	4	y
 moon eclipse	911	2285	ECLIPSE		y
 star	912	1430	STAR	2	y
 sunrise	913	2296	SUNRISE	2	y
-moonrise	914		???		
+moonrise	914	2297	DUSK		y
 sunset	915	2295	SUNSET	2	y
-moonset	916		???		
-#<<<					
-earth (globe)	917	212	FIELD	4	
-earth (globe)	917	1228	EARTH (SOIL)	4	
-earth (globe)	917	2159	GROUND	4	
-earth (globe)	917	626	LAND	4	
-earth (globe)	917	3603	EARTH OR LAND	4	
-earth (globe)	917	965	WORLD	4	
-#>>>					
-air	918	27	AIR	2	
-#<<<					
-rain	919	658	RAIN (PRECIPITATION)	2	
-rain	919	2108	RAINING OR RAIN	2	
-rain	919	1253	RAIN (RAINING)	2	
-#>>>					
-dew	920	1977	DEW	2	
-#<<<					
-cloud	921	1489	CLOUD	2	
-cloud	921	448	STORM CLOUDS	2	
-#>>>					
-#<<<					
-fog, mist	922	249	FOG	4	
-fog, mist	922	3275	CLOUD OR FOG	4	
-#>>>					
-rainbow	923	1733	RAINBOW	2	
-#<<<					
-thunder	924	1150	THUNDER	2	
-thunder	924	2378	THUNDER (VERB)	2	
-#>>>					
-thunderstone	925		???		
-#<<<					
-(flash of) lightning	926	2377	FLASH (VERB)	4	
-(flash of) lightning	926	1654	LIGHTNING	4	
-(flash of) lightning	926	2007	BOLT (OF LIGHTNING)	4	
-#>>>					
-earthquake	927	6	EARTHQUAKE	2	
-wind	928	960	WIND	2	
-storm	929	858	STORM	2	
-#<<<					
-water	930	3078	IRRIGATE	2	
-water	930	2516	WATER BUFFALO	2	
-water	930	948	WATER	2	
-#>>>					
-sea	931	1474	SEA	2	
-ebb	932		???		
-lake	933	624	LAKE	2	
-#<<<					
-flood, tide	934	947	STREAM	4	
-flood, tide	934	613	HIGH TIDE	4	
-flood, tide	934	1026	LOW TIDE	4	
-flood, tide	934	891	TIDE	4	
-#>>>					
-#<<<					
-wave	935	978	WAVE	2	
-wave	935	3544	WAVE (VERB)	2	
-#>>>					
-breakers, surf	936	3132	SURF	4	
-bay	937	663	BAY	2	
-#<<<					
-beach	938	113	SHORE	2	
-beach	938	3460	BEACH	2	
-#>>>					
-strait(s)	939	1661	STRAIT	4	
+moonset	916	729	DAWN		y
+earth (globe)	917	965	WORLD	4	y
+air	918	27	AIR	2	y
+rain	919	2108	RAINING OR RAIN	2	y
+dew	920	1977	DEW	2	y
+cloud	921	1489	CLOUD	2	y
+fog, mist	922	249	FOG	4	y
+rainbow	923	1733	RAINBOW	2	y
+thunder	924	1150	THUNDER	2	y
+thunderstone	925				y
+(flash of) lightning	926	1654	LIGHTNING	4	y
+earthquake	927	6	EARTHQUAKE	2	y
+wind	928	960	WIND	2	y
+storm	929	858	STORM	2	y
+water	930	948	WATER	2	y
+sea	931	1474	SEA	2	y
+ebb	932	1928	CEASE		y
+lake	933	624	LAKE	2	y
+flood, tide	934	613	HIGH TIDE	4	y
+wave	935	978	WAVE	2	y
+breakers, surf	936	3132	SURF	4	y
+bay	937	663	BAY	2	y
+beach	938	3460	BEACH	2	y
+strait(s)	939	1661	STRAIT	4	y
 sandbank	940		???		
 coral reef	941		???		
 #<<<					
