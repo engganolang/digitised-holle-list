@@ -938,201 +938,107 @@ breakers, surf	936	3132	SURF	4	y
 bay	937	663	BAY	2	y
 beach	938	3460	BEACH	2	y
 strait(s)	939	1661	STRAIT	4	y
-sandbank	940		???		
-coral reef	941		???		
-#<<<					
-land	942	626	LAND	2	
-land	942	166	MAINLAND	2	
-#>>>					
-#<<<					
-land (state)	943	1300	COUNTRY	4	
-land (state)	943	1228	EARTH (SOIL)	4	
-land (state)	943	166	MAINLAND	4	
-land (state)	943	1922	LAND (DESCEND)	4	
-land (state)	943	2159	GROUND	4	
-land (state)	943	626	LAND	4	
-land (state)	943	3603	EARTH OR LAND	4	
-land (state)	943	2273	LEECH	4	
-#>>>					
-island	944	622	ISLAND	2	
-isthmus	945		???		
-cape	946	1662	CAPE	2	
-mountain	947	639	MOUNTAIN	2	
-hill	948	614	HILL	2	
-mountain-climbing, to ascend	949	705	GO UP (ASCEND)	3	
-to go down, to descend	950	2014	GO DOWN (DESCEND)	3	
-plain	951	652	PLAIN	2	
-valley	952	921	VALLEY	2	
-grassy plain	953		???		
-swamp	954	1145	SWAMP	2	
-#<<<					
-forest, woods	955	420	FOREST	4	
-forest, woods	955	2141	TREE OR WOOD	4	
-forest, woods	955	1803	WOOD	4	
-forest, woods	955	3808	JUNGLE	4	
-#>>>					
-jungle	956	3808	JUNGLE	2	
-#<<<					
-bush	957	201	FARM	2	
-bush	957	1683	BUSH	2	
-#>>>					
-volcano	958	2291	VOLCANO	2	
-#<<<					
-way, road	959	667	ROAD	4	
-way, road	959	2457	PATH OR ROAD	4	
-way, road	959	2252	PATH	4	
-way, road	959	488	MANNER	4	
-#>>>					
-mud	960	640	MUD	2	
-footstep (footprint)	961	318	FOOTPRINT	4	
-#<<<					
-border, boundary	962	1010	BOUNDARY	4	
-border, boundary	962	2546	BORDER	4	
-#>>>					
-#<<<					
-river	963	666	RIVER	2	
-river	963	3311	FLOWING BODY OF WATER	2	
-#>>>					
-bridge	964	1011	BRIDGE	2	
-to go upstream	965		???		
-to go downstream	966		???		
-#<<<					
-spring, source	967	849	SPRING (OF WATER)	4	
-spring, source	967	2144	SPRING OR WELL	4	
-spring, source	967	1537	SPRINGTIME	4	
-spring, source	967	1829	JUMP	4	
-spring, source	967	954	WELL	4	
-#>>>					
-flood	968	613	HIGH TIDE	2	
-#<<<					
-stone	969	668	ROCK	2	
-stone	969	1762	STONE (OF FRUIT)	2	
-stone	969	857	STONE	2	
-#>>>					
-#<<<					
-earth (ground)	970	212	FIELD	4	
-earth (ground)	970	1228	EARTH (SOIL)	4	
-earth (ground)	970	2159	GROUND	4	
-earth (ground)	970	626	LAND	4	
-earth (ground)	970	3603	EARTH OR LAND	4	
-earth (ground)	970	965	WORLD	4	
-#>>>					
-#<<<					
-sand	971	671	SAND	2	
-sand	971	3460	BEACH	2	
-#>>>					
-gravel	972	3028	GRAVEL	2	
-#<<<					
-iron	973	621	IRON	2	
-iron	973	3118	IRON (CLOTHES)	2	
-#>>>					
-copper	974	1825	COPPER	2	
-bronze	975	2313	BRONZE	2	
-silver	976	759	SILVER	2	
-gold	977	1369	GOLD	2	
-tin	978	893	TIN (METAL)	2	
-#<<<					
-lead	979	43	LEAD (GUIDE)	2	
-lead	979	627	LEAD (CHEMICAL ELEMENT)	2	
-#>>>					
-sulphur	980	3386	SULPHUR	2	
-smith	981	1001	BLACKSMITH	2	
-smithy	982		???		
-to forge, weld	983	288	FORGE	3	
-charcoal	984	1188	CHARCOAL	2	
-#<<<					
-hammer	985	3306	NAIL	2	
-hammer	985	3115	HAMMER (SOMETHING)	2	
-hammer	985	1481	HAMMER	2	
-#>>>					
-anvil	986	1648	ANVIL	2	
-tongs	987	272	TONGS	2	
-cinders, glowing coals	988		???		
-#<<<					
-to sharpen, to grind	989	251	SHARPEN (SOMETHING)	3	
-to sharpen, to grind	989	1033	GRIND	3	
-#>>>					
-grindstone	990	2459	GRINDSTONE	2	
-#<<<					
-gift, present	991	1376	NOW	4	
-gift, present	991	2982	GIFT	4	
-gift, present	991	196	DONATE	4	
-gift, present	991	1460	IN	4	
-#>>>					
-to negotiate	992		???		
-to make peace	993		???		
-to sign a treaty	994		???		
-merchant	995	1082	MERCHANT	2	
-farmer	996	979	FARMER	2	
-craftsmen	997		???		
-servant	998	255	SERVANT	2	
-follower	999		???		
-ally	1000		???		
-shop	1001	746	SHOP	2	
-market	1002	633	MARKET	2	
-#<<<					
-to trade	1003	898	TRADE	1	
-to trade	1003	2135	TRADE OR BARTER	1	
-#>>>					
-merchandise	1004	3406	MERCHANDISE	4	
-needle	1005	1382	NEEDLE (FOR SEWING)	2	
-to sew	1006	1457	SEW	1	
-price	1007	657	PRICE	2	
-profit	1008	2929	BENEFIT	2	
-loss	1009	2947	DAMAGE (INJURY)	4	
-to buy	1010	1869	BUY	1	
-expensive	1011	1426	EXPENSIVE	2	
-cheap	1012	1887	CHEAP	2	
-debt	1013	1914	DEBT	2	
-to dun	1014		???		
-to pay	1015	718	PAY	1	
-to sell	1016	1571	SELL	1	
-to borrow	1017	1823	BORROW	1	
-to lend to	1018		???		
-to exchange	1019	2509	EXCHANGE	1	
-to offer	1020		???		
-to pawn	1021		???		
-to bargain	1022		???		
-to fill	1023	2006	FILL	1	
-steelyard, weigh-beam	1024	2687	STEELYARD (BALANCE)	4	
+sandbank	940				y
+coral reef	941	660	REEF		y
+land	942	626	LAND	2	y
+land (state)	943	1300	COUNTRY	4	y
+island	944	622	ISLAND	2	y
+isthmus	945				y
+cape	946	1662	CAPE	2	y
+mountain	947	639	MOUNTAIN	2	y
+hill	948	614	HILL	2	y
+mountain-climbing, to ascend	949	705	GO UP (ASCEND)	3	y
+to go down, to descend	950	2014	GO DOWN (DESCEND)	3	y
+plain	951	652	PLAIN	2	y
+valley	952	921	VALLEY	2	y
+grassy plain	953	260	SAVANNA		y
+swamp	954	1145	SWAMP	2	y
+forest, woods	955	420	FOREST	4	y
+jungle	956	3808	JUNGLE	2	y
+bush	957	1683	BUSH	2	y
+volcano	958	2291	VOLCANO	2	y
+way, road	959	2457	PATH OR ROAD	4	y
+mud	960	640	MUD	2	y
+footstep (footprint)	961	318	FOOTPRINT	4	y
+border, boundary	962	2546	BORDER	4	y
+river	963	666	RIVER	2	y
+bridge	964	1011	BRIDGE	2	y
+to go upstream	965	787	SAIL		y
+to go downstream	966	787	SAIL		y
+spring, source	967	849	SPRING (OF WATER)	4	y
+flood	968	613	HIGH TIDE	2	y
+stone	969	857	STONE	2	y
+earth (ground)	970	1228	EARTH (SOIL)	4	y
+sand	971	671	SAND	2	y
+gravel	972	3028	GRAVEL	2	y
+iron	973	621	IRON	2	y
+copper	974	1825	COPPER	2	y
+bronze	975	2313	BRONZE	2	y
+silver	976	759	SILVER	2	y
+gold	977	1369	GOLD	2	y
+tin	978	893	TIN (METAL)	2	y
+lead	979	627	LEAD (CHEMICAL ELEMENT)	2	y
+sulphur	980	3386	SULPHUR	2	y
+smith	981	1001	BLACKSMITH	2	y
+smithy	982				y
+to forge, weld	983	288	FORGE	3	y
+charcoal	984	1188	CHARCOAL	2	y
+hammer	985	1481	HAMMER	2	y
+anvil	986	1648	ANVIL	2	y
+tongs	987	272	TONGS	2	y
+cinders, glowing coals	988	1188	CHARCOAL		y
+to sharpen, to grind	989	251	SHARPEN (SOMETHING)	3	y
+grindstone	990	2459	GRINDSTONE	2	y
+gift, present	991	2982	GIFT	4	y
+to negotiate	992				y
+to make peace	993	1338	PEACE		y
+to sign a treaty	994	3644	AGREEMENT		y
+merchant	995	1082	MERCHANT	2	y
+farmer	996	979	FARMER	2	y
+craftsmen	997				y
+servant	998	255	SERVANT	2	y
+follower	999				y
+ally	1000	3978	COMPANION		y
+shop	1001	746	SHOP	2	y
+market	1002	633	MARKET	2	y
+to trade	1003	898	TRADE	1	y
+merchandise	1004	3406	MERCHANDISE	4	y
+needle	1005	1382	NEEDLE (FOR SEWING)	2	y
+to sew	1006	1457	SEW	1	y
+price	1007	657	PRICE	2	y
+profit	1008	2929	BENEFIT	2	y
+loss	1009				y
+to buy	1010	1869	BUY	1	y
+expensive	1011	1426	EXPENSIVE	2	y
+cheap	1012	1887	CHEAP	2	y
+debt	1013	1914	DEBT	2	y
+to dun	1014	7	GATHER		y
+to pay	1015	718	PAY	1	y
+to sell	1016	1571	SELL	1	y
+to borrow	1017	1823	BORROW	1	y
+to lend to	1018	582	LEND		y
+to exchange	1019	2509	EXCHANGE	1	y
+to offer	1020	196	DONATE		y
+to pawn	1021				y
+to bargain	1022				y
+to fill	1023	2006	FILL	1	y
+steelyard, weigh-beam	1024	2687	STEELYARD (BALANCE)	4	y
 a pair of scales	1025		???		
 measures and weights (length)	1026		???		
 measures and weights (mass)	1027		???		
 measures and weights (volume and capacity)	1028		???		
-#<<<					
-ship (trading vessel)	1029	740	SHIP	4	
-ship (trading vessel)	1029	1844	BOAT	4	
-ship (trading vessel)	1029	2736	SHIP (CLASSIFIER)	4	
-#>>>					
-#<<<					
-ship (warship)	1030	740	SHIP	4	
-ship (warship)	1030	1844	BOAT	4	
-ship (warship)	1030	2736	SHIP (CLASSIFIER)	4	
-#>>>					
+ship (trading vessel)	1029	740	SHIP	4	y
+ship (warship)	1030	740	SHIP	4	y
 steamboat	1031		???		
 rowboat	1032		???		
-#<<<					
-proa, canoe	1033	2189	DUGOUT	4	
-proa, canoe	1033	1970	CANOE	4	
-#>>>					
-all sorts of vessels	1034		???		
-mast	1035	184	MAST	2	
-#<<<					
-sail	1036	786	SAILCLOTH	2	
-sail	1036	787	SAIL	2	
-#>>>					
-to sail	1037	787	SAIL	1	
-rudder, helm	1038	108	RUDDER	4	
-to sail	1039	787	SAIL	1	
-#<<<					
-oar, paddle	1040	696	STIR	4	
-oar, paddle	1040	108	RUDDER	4	
-oar, paddle	1040	3668	PADDLE (MOVEMENT)	4	
-oar, paddle	1040	234	PADDLE	4	
-oar, paddle	1040	3318	OAR OR PADDLE	4	
-oar, paddle	1040	3137	OAR	4	
-oar, paddle	1040	1849	ROW	4	
-#>>>					
+proa, canoe	1033	1970	CANOE	4	y
+all sorts of vessels	1034	740	SHIP		y
+mast	1035	184	MAST	2	y
+sail	1036	786	SAILCLOTH	2	y
+to sail	1037	787	SAIL	1	y
+rudder, helm	1038	108	RUDDER	4	y
+to sail	1039	787	SAIL	1	y
+oar, paddle	1040	3318	OAR OR PADDLE	4	y
 #<<<					
 paddle	1041	3668	PADDLE (MOVEMENT)	2	
 paddle	1041	234	PADDLE	2	
@@ -1730,30 +1636,27 @@ to hit (to beat, to slap, etc.)	1291	2133	STRIKE OR BEAT	3
 to hit (to beat, to slap, etc.)	1291	3307	HIT (A TARGET)	3	
 #>>>					
 to take revenge	1292	495	REVENGE	4	
-one	1293	1493	ONE	2	
-#<<<					
-two	1294	1498	TWO	2	
-two	1294	1384	SECOND	2	
-#>>>					
-three	1295	492	THREE	2	
-four	1296	1500	FOUR	2	
-five	1297	493	FIVE	2	
-six	1298	1703	SIX	2	
-seven	1299	1704	SEVEN	2	
-eight	1300	1705	EIGHT	2	
-nine	1301	1483	NINE	2	
-ten	1302	1515	TEN	2	
-eleven	1303	1706	ELEVEN	2	
-twelve	1304	1707	TWELVE	2	
-thirteen	1305	1708	THIRTEEN	2	
-fourteen	1306	2451	FOURTEEN	2	
-fifteen	1307	1709	FIFTEEN	2	
-sixteen	1308	2454	SIXTEEN	2	
-seventeen	1309	2453	SEVENTEEN	2	
-eighteen	1310	1713	EIGHTEEN	2	
-nineteen	1311	1714	NINETEEN	2	
-twenty	1312	1710	TWENTY	2	
-twenty one	1313	1734	TWENTY ONE	2	
+one	1293	1493	ONE	2	y
+two	1294	1498	TWO	2	y
+three	1295	492	THREE	2	y
+four	1296	1500	FOUR	2	y
+five	1297	493	FIVE	2	y
+six	1298	1703	SIX	2	y
+seven	1299	1704	SEVEN	2	y
+eight	1300	1705	EIGHT	2	y
+nine	1301	1483	NINE	2	y
+ten	1302	1515	TEN	2	y
+eleven	1303	1706	ELEVEN	2	y
+twelve	1304	1707	TWELVE	2	y
+thirteen	1305	1708	THIRTEEN	2	y
+fourteen	1306	2451	FOURTEEN	2	y
+fifteen	1307	1709	FIFTEEN	2	y
+sixteen	1308	2454	SIXTEEN	2	y
+seventeen	1309	2453	SEVENTEEN	2	y
+eighteen	1310	1713	EIGHTEEN	2	y
+nineteen	1311	1714	NINETEEN	2	y
+twenty	1312	1710	TWENTY	2	y
+twenty one	1313	1734	TWENTY ONE	2	y
 #<<<					
 twenty one, twenty two, etc.	1314	2017	MIX	4	
 twenty one, twenty two, etc.	1314	2628	PLANT STEM	4	
@@ -1767,24 +1670,24 @@ twenty one, twenty two, etc.	1314	285	THRESH	4
 twenty one, twenty two, etc.	1314	3166	TWENTY TWO	4	
 twenty one, twenty two, etc.	1314	1840	BUILD	4	
 #>>>					
-twenty five	1315	1738	TWENTY FIVE	2	
-thirty	1316	1715	THIRTY	2	
+twenty five	1315	1738	TWENTY FIVE	2	y
+thirty	1316	1715	THIRTY	2	y
 fourty	1317		???		
-fifty	1318	1717	FIFTY	2	
-sixty	1319	1718	SIXTY	2	
-seventy	1320	1721	SEVENTY	2	
-eighty	1321	1722	EIGHTY	2	
-ninety	1322	1724	NINETY	2	
-hundred	1323	1634	HUNDRED	2	
-thousand	1324	1843	THOUSAND	2	
-ten thousand	1325	2078	TEN THOUSAND	2	
-a half	1326	816	HALF	1	
+fifty	1318	1717	FIFTY	2	y
+sixty	1319	1718	SIXTY	2	y
+seventy	1320	1721	SEVENTY	2	y
+eighty	1321	1722	EIGHTY	2	y
+ninety	1322	1724	NINETY	2	y
+hundred	1323	1634	HUNDRED	2	y
+thousand	1324	1843	THOUSAND	2	y
+ten thousand	1325	2078	TEN THOUSAND	2	y
+a half	1326	816	HALF	1	y
 a quarter	1327		???		
 #<<<					
 once	1328	374	ONE TIME	2	
 once	1328	2914	ONCE (IN THE PAST)	2	
 #>>>					
-twice	1329	1546	TWICE	2	
+twice	1329	1546	TWICE	2	y
 #<<<					
 first (in space)	1330	2915	AT FIRST	4	
 first (in space)	1330	1882	BEFORE	4	
