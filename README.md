@@ -15,7 +15,26 @@ work is licensed under a
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative
 Commons Attribution-ShareAlike 4.0 International License</a>.
 
+[<img
+src="/Users/Primahadi/Documents/enggano-AHRC/holle-list-2023-05-23/file-oxweb-logo.gif"
+width="84" alt="The University of Oxford" />](https://www.ox.ac.uk/)
+[<img
+src="/Users/Primahadi/Documents/enggano-AHRC/holle-list-2023-05-23/file-lingphil.png"
+width="83"
+alt="Faculty of Linguistics, Philology and Phonetics, the University of Oxford" />](https://www.ling-phil.ox.ac.uk/)
+[<img
+src="/Users/Primahadi/Documents/enggano-AHRC/holle-list-2023-05-23/file-ahrc.png"
+width="325" alt="Arts and Humanities Research Council (AHRC)" />](https://www.ukri.org/councils/ahrc/)
+</br>*This work is part of the [AHRC-funded
+project](https://gtr.ukri.org/project/8AB0C3DC-F1C9-4CFA-BB4D-5BE748213372)
+on the lexical resources for Enggano, led by the Faculty of Linguistics,
+Philology and Phonetics at the University of Oxford, UK. Visit the
+[central webpage of the Enggano
+project](https://enggano.ling-phil.ox.ac.uk/)*.
+
 <!-- badges: end -->
+
+## How to cite
 
 Please cite as:
 
@@ -24,7 +43,7 @@ Please cite as:
 > <https://doi.org/10.5281/zenodo.7979976>
 
 Please also cite the original document ([Stokhof
-1980](#ref-holleli1980)).
+1980](#ref-holleli1980)) (cf. the **Reference** section below).
 
 The digitised, Holle List table is available for download from within
 the
