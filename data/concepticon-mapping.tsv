@@ -1023,14 +1023,14 @@ to pawn	1021				y
 to bargain	1022				y
 to fill	1023	2006	FILL	1	y
 steelyard, weigh-beam	1024	2687	STEELYARD (BALANCE)	4	y
-a pair of scales	1025		???		
-measures and weights (length)	1026		???		
-measures and weights (mass)	1027		???		
-measures and weights (volume and capacity)	1028		???		
+a pair of scales	1025	2783	SCALES (MEASURE INSTRUMENT)		y
+measures and weights (length)	1026	2537	LENGTH		y
+measures and weights (mass)	1027	2466	WEIGHT		y
+measures and weights (volume and capacity)	1028	3967	CONTENT		y
 ship (trading vessel)	1029	740	SHIP	4	y
 ship (warship)	1030	740	SHIP	4	y
-steamboat	1031		???		
-rowboat	1032		???		
+steamboat	1031	1844	BOAT		y
+rowboat	1032	1844	BOAT		y
 proa, canoe	1033	1970	CANOE	4	y
 all sorts of vessels	1034	740	SHIP		y
 mast	1035	184	MAST	2	y
@@ -1039,603 +1039,257 @@ to sail	1037	787	SAIL	1	y
 rudder, helm	1038	108	RUDDER	4	y
 to sail	1039	787	SAIL	1	y
 oar, paddle	1040	3318	OAR OR PADDLE	4	y
-#<<<					
-paddle	1041	3668	PADDLE (MOVEMENT)	2	
-paddle	1041	234	PADDLE	2	
-paddle	1041	3137	OAR	2	
-#>>>					
-to paddle	1042	3668	PADDLE (MOVEMENT)	3	
-to row, to pull	1043	1849	ROW	3	
-outrigger	1044	416	OUTRIGGER	2	
-thwarts	1045		???		
-#<<<					
-stem, bows	1046	2628	PLANT STEM	4	
-stem, bows	1046	994	BOW	4	
-#>>>					
-stern	1047		???		
-to take on cargo	1048		???		
-anchor	1049	1870	ANCHOR	2	
-raft	1050	1664	RAFT	2	
-harbour	1051		???		
-to be wrecked	1052		???		
-pirate	1053		???		
-landing-stage	1054		???		
-to disembark	1055		???		
-to sail away	1056		???		
-to capsize	1057		???		
-kidnapper	1058		???		
-to ill-treat, to mishandle	1059		???		
-to ransom	1060		???		
-great, big	1061	1202	BIG	2	
-small	1062	1246	SMALL	2	
-#<<<					
-long (things)	1063	2143	LONG OR TALL	4	
-long (things)	1063	1203	LONG	4	
-long (things)	1063	1352	KNIFE	4	
-long (things)	1063	2085	STICK (CLASSIFIER)	4	
-long (things)	1063	418	FOR A LONG TIME	4	
-long (things)	1063	3473	LONG (FOR SOMETHING)	4	
-#>>>					
-#<<<					
-long (time)	1064	2143	LONG OR TALL	4	
-long (time)	1064	1203	LONG	4	
-long (time)	1064	1352	KNIFE	4	
-long (time)	1064	2085	STICK (CLASSIFIER)	4	
-long (time)	1064	418	FOR A LONG TIME	4	
-long (time)	1064	3473	LONG (FOR SOMETHING)	4	
-#>>>					
-short (things)	1065	1645	SHORT	2	
-short (time)	1066	3312	SHORT (TIME)	2	
-#<<<					
-big, fat	1067	1282	FAT (FROM ANIMALS)	4	
-big, fat	1067	2555	OIL (FROM PLANTS)	4	
-big, fat	1067	1244	THICK	4	
-big, fat	1067	2095	FAT (FOR NOURISHMENT)	4	
-big, fat	1067	1202	BIG	4	
-big, fat	1067	1279	FAT (OBESE)	4	
-big, fat	1067	2449	FAT (OF MEAT AND FOOD)	4	
-big, fat	1067	2719	FAT (OILY)	4	
-big, fat	1067	323	FAT (ORGANIC SUBSTANCE)	4	
-big, fat	1067	3436	FAT MEAT	4	
-big, fat	1067	666	RIVER	4	
-big, fat	1067	2551	ORGANIC FAT OR OIL	4	
-#>>>					
-#<<<					
-thick	1068	1244	THICK	2	
-thick	1068	2239	DENSE	2	
-thick	1068	2151	COARSE	2	
-#>>>					
-#<<<					
-thick	1069	1244	THICK	2	
-thick	1069	2239	DENSE	2	
-thick	1069	2151	COARSE	2	
-#>>>					
-#<<<					
-thin	1070	2308	THIN	2	
-thin	1070	2249	THIN (OF SHAPE OF OBJECT)	2	
-thin	1070	2219	LEAN (MEAT)	2	
-thin	1070	1400	THIN (SLIM)	2	
-thin	1070	2305	THIN (OF HAIR AND THREAD)	2	
-thin	1070	2157	FINE OR THIN	2	
-thin	1070	2306	THIN (OF LEAF AND CLOTH)	2	
-#>>>					
-#<<<					
-thin, meagre, skinny	1071	2308	THIN	4	
-thin, meagre, skinny	1071	1400	THIN (SLIM)	4	
-thin, meagre, skinny	1071	2219	LEAN (MEAT)	4	
-thin, meagre, skinny	1071	3545	WATERY	4	
-thin, meagre, skinny	1071	2305	THIN (OF HAIR AND THREAD)	4	
-thin, meagre, skinny	1071	2306	THIN (OF LEAF AND CLOTH)	4	
-thin, meagre, skinny	1071	207	SPARSE	4	
-thin, meagre, skinny	1071	2249	THIN (OF SHAPE OF OBJECT)	4	
-thin, meagre, skinny	1071	2157	FINE OR THIN	4	
-#>>>					
-fat (adj.)	1072	1279	FAT (OBESE)	2	
-fat, grease (noun)	1073	323	FAT (ORGANIC SUBSTANCE)	3	
-greasy	1074	955	GREASY	2	
-slim	1075	1400	THIN (SLIM)	2	
-dwarf	1076		???		
-diminished in size, boiled down, shrunken	1077		???		
-#<<<					
-to grow	1078	479	GROW	1	
-to grow	1078	1486	PLANT (SOMETHING)	1	
-to grow	1078	3461	GROW PLANTS	1	
-#>>>					
-tame	1079	2838	TAME	2	
-wild	1080	2230	UNTAMED OR WILD	2	
-#<<<					
-wary, shy, timid	1081	3805	SHY OR ASHAMED	4	
-wary, shy, timid	1081	487	SHY	4	
-#>>>					
-#<<<					
-shy, ashamed	1082	487	SHY	2	
-shy, ashamed	1082	3805	SHY OR ASHAMED	2	
-#>>>					
-deep (river)	1083	1593	DEEP	4	
-deep (dish)	1084	1593	DEEP	4	
-shallow (river)	1085	193	SHALLOW	4	
-shallow (dish)	1086	193	SHALLOW	4	
-#<<<					
-high	1087	2790	HIGH OR TALL	2	
-high	1087	3347	HIGH OR UP	2	
-high	1087	1265	HIGH	2	
-#>>>					
-#<<<					
-low	1088	721	LOW	2	
-low	1088	3348	LOW (POSITION OR HEIGHT)	2	
-low	1088	2191	LOW (HEIGHT)	2	
-#>>>					
-straight	1089	1404	STRAIGHT	2	
-#<<<					
-crooked, bent	1090	1698	CURVED	4	
-crooked, bent	1090	297	CROOKED	4	
-#>>>					
-#<<<					
-curved, winding	1091	1698	CURVED	4	
-curved, winding	1091	297	CROOKED	4	
-#>>>					
-flat	1092	1633	FLAT	2	
-#<<<					
-even	1093	1633	FLAT	4	
-even	1093	98	ALL	4	
-#>>>					
-smooth	1094	1234	SMOOTH	2	
-heavy	1095	1210	HEAVY	2	
-#<<<					
-light	1096	1052	LIGHT (WEIGHT)	2	
-light	1096	250	LIGHT (COLOR)	2	
-light	1096	630	LIGHT (RADIATION)	2	
-light	1096	737	LIGHT (IGNITE)	2	
-#>>>					
-slanting, sloping	1097	3075	SLANTED	4	
-sharp	1098	1396	SHARP	2	
-blunt	1099	379	BLUNT	2	
-pointed	1100	372	POINTED	2	
-#<<<					
-hard	1101	1884	HARD	2	
-hard	1101	584	DIFFICULT	2	
-#>>>					
-weak	1102	1601	WEAK	2	
-soft	1103	1856	SOFT	2	
-#<<<					
-warm (persons)	1104	2110	WARM (OF WEATHER)	4	
-warm (persons)	1104	2032	WARM UP	4	
-warm (persons)	1104	1232	WARM	4	
-warm (persons)	1104	2272	HOT OR WARM	4	
-warm (persons)	1104	1286	HOT	4	
-#>>>					
-#<<<					
-warm (things)	1105	2110	WARM (OF WEATHER)	4	
-warm (things)	1105	2032	WARM UP	4	
-warm (things)	1105	1232	WARM	4	
-warm (things)	1105	2272	HOT OR WARM	4	
-warm (things)	1105	1286	HOT	4	
-#>>>					
-#<<<					
-cold (persons)	1106	2932	COLD (CHILL)	4	
-cold (persons)	1106	3819	COLD (FEELING COLD)	4	
-cold (persons)	1106	2483	COLD (OF WEATHER)	4	
-cold (persons)	1106	1287	COLD	4	
-cold (persons)	1106	102	COMMON COLD (DISEASE)	4	
-#>>>					
-#<<<					
-cold (things)	1107	2932	COLD (CHILL)	4	
-cold (things)	1107	3819	COLD (FEELING COLD)	4	
-cold (things)	1107	2483	COLD (OF WEATHER)	4	
-cold (things)	1107	1287	COLD	4	
-cold (things)	1107	102	COMMON COLD (DISEASE)	4	
-#>>>					
-to shiver	1108	52	SHIVER	1	
-#<<<					
-round, circular (as a stick)	1109	2303	SPHERICAL (ROUND IN THREE DIMENSIONS)	4	
-round, circular (as a stick)	1109	2302	CIRCULAR (ROUND IN TWO DIMENSIONS)	4	
-round, circular (as a stick)	1109	1395	ROUND	4	
-round, circular (as a stick)	1109	1979	CHISEL	4	
-#>>>					
-#<<<					
-round, circular (as a dish)	1110	2303	SPHERICAL (ROUND IN THREE DIMENSIONS)	4	
-round, circular (as a dish)	1110	2302	CIRCULAR (ROUND IN TWO DIMENSIONS)	4	
-round, circular (as a dish)	1110	1395	ROUND	4	
-round, circular (as a dish)	1110	1979	CHISEL	4	
-#>>>					
-#<<<					
-globular, round	1111	2303	SPHERICAL (ROUND IN THREE DIMENSIONS)	4	
-globular, round	1111	2302	CIRCULAR (ROUND IN TWO DIMENSIONS)	4	
-globular, round	1111	1395	ROUND	4	
-globular, round	1111	1979	CHISEL	4	
-#>>>					
-#<<<					
-square	1112	850	SQUARE	2	
-square	1112	2757	ANGULAR (SQUAREFORMED)	2	
-#>>>					
-#<<<					
-broad	1113	1243	WIDE	2	
-broad	1113	2531	BROAD	2	
-#>>>					
-small	1114	1246	SMALL	2	
-narrow	1115	1267	NARROW	2	
-#<<<					
-wide	1116	2531	BROAD	2	
-wide	1116	1243	WIDE	2	
-wide	1116	1244	THICK	2	
-#>>>					
-strong	1117	785	STRONG	2	
-weak	1118	1601	WEAK	2	
-#<<<					
-brave, bold	1119	91	INSOLENT	4	
-brave, bold	1119	3	BRAVE	4	
-#>>>					
-cowardly	1120	3812	COWARDLY	2	
-lazy	1121	1564	LAZY	2	
-diligent	1122	2077	DILIGENT	2	
-stingy	1123	1774	STINGY	2	
-#<<<					
-mild, tender	1124	1954	GENTLE	4	
-mild, tender	1124	1856	SOFT	4	
-#>>>					
-#<<<					
-dry	1125	1398	DRY	2	
-dry	1125	1786	DRY UP	2	
-#>>>					
-to dry in the sun	1126	3364	DRY IN SUN	4	
-wet	1127	1726	WET	2	
-humid	1128	143	HUMID	2	
-rotten	1129	1728	ROTTEN	2	
-good	1130	1035	GOOD	2	
-bad	1131	1292	BAD	2	
-#<<<					
-beautiful (persons)	1132	2410	GOOD-LOOKING	4	
-beautiful (persons)	1132	1427	BEAUTIFUL	4	
-beautiful (persons)	1132	1035	GOOD	4	
-#>>>					
-#<<<					
-beautiful (male)	1133	2410	GOOD-LOOKING	4	
-beautiful (male)	1133	1427	BEAUTIFUL	4	
-beautiful (male)	1133	1035	GOOD	4	
-#>>>					
-#<<<					
-beautiful (fem.)	1134	2410	GOOD-LOOKING	4	
-beautiful (fem.)	1134	1427	BEAUTIFUL	4	
-beautiful (fem.)	1134	1035	GOOD	4	
-#>>>					
-#<<<					
-beautiful (things)	1135	2410	GOOD-LOOKING	4	
-beautiful (things)	1135	1427	BEAUTIFUL	4	
-beautiful (things)	1135	1035	GOOD	4	
-#>>>					
-#<<<					
-ugly (persons)	1136	1548	UGLY	4	
-ugly (persons)	1136	1923	ROUGH	4	
-#>>>					
-#<<<					
-ugly (male)	1137	1548	UGLY	4	
-ugly (male)	1137	1923	ROUGH	4	
-#>>>					
-#<<<					
-ugly (female)	1138	1548	UGLY	4	
-ugly (female)	1138	1923	ROUGH	4	
-#>>>					
-#<<<					
-ugly (things)	1139	1548	UGLY	4	
-ugly (things)	1139	1923	ROUGH	4	
-#>>>					
-#<<<					
-wrong, false	1140	3069	FALSE	4	
-wrong, false	1140	1390	WRONG	4	
-wrong, false	1140	839	ERR	4	
-#>>>					
-#<<<					
-true, right	1141	2183	RIGHT HAND	4	
-true, right	1141	1019	RIGHT	4	
-true, right	1141	1725	CORRECT (RIGHT)	4	
-true, right	1141	2231	CORRECT (SOMETHING OR SOMEBODY)	4	
-true, right	1141	1657	TRUE	4	
-#>>>					
-empty	1142	1624	EMPTY	2	
-full	1143	1429	FULL	2	
-#<<<					
-angry	1144	1826	ANGRY	2	
-angry	1144	2223	BE ANGRY	2	
-#>>>					
-mad	1145	1899	MAD	2	
-tightly bound	1146		???		
-tightly fitting	1147		???		
-#<<<					
-loose	1148	2506	LOOSE	2	
-loose	1148	1933	LOOSEN	2	
-#>>>					
-loosely fitting	1149		???		
-#<<<					
-old	1150	2112	OLD (AGED)	2	
-old	1150	2113	OLD (USED)	2	
-old	1150	1229	OLD	2	
-old	1150	406	OLD MAN	2	
-#>>>					
-#<<<					
-old, worn	1151	725	OLD PERSON	4	
-old, worn	1151	1229	OLD	4	
-old, worn	1151	2112	OLD (AGED)	4	
-old, worn	1151	565	OLD (OF MAN)	4	
-old, worn	1151	566	OLD (OF WOMAN)	4	
-old, worn	1151	2113	OLD (USED)	4	
-old, worn	1151	406	OLD MAN	4	
-#>>>					
-#<<<					
-young	1152	1207	YOUNG	2	
-young	1152	2512	CHICK	2	
-young	1152	564	YOUNG (OF MAN)	2	
-#>>>					
-new	1153	1231	NEW	2	
-poor	1154	1674	POOR	2	
-wealthy	1155	712	RICH	2	
-tired	1156	1757	TIRED	2	
-#<<<					
-fast	1157	1631	FAST	2	
-fast	1157	3331	FASTING	2	
-fast	1157	303	ABSTAIN FROM FOOD	2	
-#>>>					
-slow	1158	701	SLOW	2	
-#<<<					
-dumb	1159	1492	DUMB	2	
-dumb	1159	1666	MUTE	2	
-#>>>					
-clever	1160	1310	CLEVER	2	
-sweet	1161	717	SWEET	2	
-#<<<					
-sour	1162	1906	SOUR	2	
-sour	1162	1923	ROUGH	2	
-#>>>					
-bitter	1163	887	BITTER	2	
-astringent	1164	3837	ASTRINGENT	2	
-hot, spicy	1165	544	SPICY	2	
-salty	1166	1091	SALTY	2	
-white	1167	1335	WHITE	2	
-black	1168	163	BLACK	2	
-red	1169	156	RED	2	
-brown	1170	2409	BROWN	2	
-yellow	1171	1424	YELLOW	2	
-blue	1172	837	BLUE	2	
-#<<<					
-green	1173	1425	GREEN	2	
-green	1173	2382	BLUE OR GREEN	2	
-#>>>					
-to look for	1174	1468	LOOK FOR	1	
-to find	1175	719	FIND	1	
-to give	1176	1447	GIVE	1	
-to hand, to pass	1177	1447	GIVE	3	
-to accept	1178	3898	ACCEPT	1	
-to take	1179	1749	TAKE	1	
-to get	1180	694	GET	1	
-to take away	1181		???		
-to take along	1182		???		
-to bring	1183	692	BRING	1	
-to accompany	1184	1542	ACCOMPANY	1	
-to grip, to hold, to seize	1185	1448	HOLD	3	
-to lead by the hand	1186		???		
-to make, to do	1187	2575	DO OR MAKE	1	
-to prepare, to make ready	1188	2909	PREPARE	3	
-#<<<					
-to wash up (dishes, spoons, etc.)	1189	2017	MIX	4	
-to wash up (dishes, spoons, etc.)	1189	1378	SPOON	4	
-to wash up (dishes, spoons, etc.)	1189	2628	PLANT STEM	4	
-to wash up (dishes, spoons, etc.)	1189	3044	BOVINE	4	
-to wash up (dishes, spoons, etc.)	1189	718	PAY	4	
-to wash up (dishes, spoons, etc.)	1189	178	RIPE	4	
-to wash up (dishes, spoons, etc.)	1189	460	BREAK (OF ROPE)	4	
-to wash up (dishes, spoons, etc.)	1189	3080	SPLIT OPEN	4	
-to wash up (dishes, spoons, etc.)	1189	285	THRESH	4	
-to wash up (dishes, spoons, etc.)	1189	1840	BUILD	4	
-#>>>					
-to wash (clothes)	1190	2503	LAUNDER (WASH CLOTHES)	1	
-#<<<					
-to wash (face)	1191	1453	WASH	3	
-to wash (face)	1191	3371	WASH (ONESELF)	3	
-to wash (face)	1191	2503	LAUNDER (WASH CLOTHES)	3	
-#>>>					
-#<<<					
-to wash (hair)	1192	1453	WASH	3	
-to wash (hair)	1192	3371	WASH (ONESELF)	3	
-to wash (hair)	1192	2503	LAUNDER (WASH CLOTHES)	3	
-#>>>					
-#<<<					
-to know	1193	3626	KNOW	1	
-to know	1193	1410	KNOW (SOMETHING)	1	
-#>>>					
-#<<<					
-to think	1194	2271	THINK	1	
-to think	1194	1415	THINK (REFLECT)	1	
-#>>>					
-#<<<					
-to know	1195	3626	KNOW	1	
-to know	1195	1410	KNOW (SOMETHING)	1	
-#>>>					
-to remember	1196	707	REMEMBER	1	
-to have forgotten something	1197		???		
-to deny	1198	755	DENY	1	
-to confess	1199	2022	ADMIT	4	
-to be silent	1200	48	BE SILENT	1	
-to mumble	1201	128	MUMBLE	1	
-to speak	1202	1623	SPEAK	1	
-to sing	1203	1261	SING	1	
-to whisper	1204	55	WHISPER	1	
-#<<<					
-to say	1205	1623	SPEAK	1	
-to say	1205	1458	SAY	1	
-#>>>					
-to call	1206	1084	CALL	1	
-to abuse, to scold	1207	1953	ABUSE	3	
-to be able to	1208	972	BE ABLE	1	
-to be allowed	1209		???		
-to work	1210	1086	WORK (ACTIVITY)	1	
-#<<<					
-to shoulder	1211	3432	SHOULDER POLE	4	
-to shoulder	1211	1482	SHOULDER	4	
-#>>>					
-to carry on the head	1212		???		
-to carry something hanging from the hand	1213		???		
-to carry on the hip	1214		???		
-to carry under the arm	1215	415	CARRY UNDER ARM	1	
-to carry in the hand	1216		???		
-to carry on the back (with strap over the shoulder or head)	1217	465	CARRY ON BACK	3	
-to carry in a sarong	1218		???		
-to carry	1219	700	CARRY	1	
-to carry on the back	1220	465	CARRY ON BACK	1	
-to carry in front of oneself	1221		???		
-#<<<					
-to wake, to watch	1222	1602	WAKE UP	3	
-to wake, to watch	1222	3174	WAKE UP (SOMEONE)	3	
-#>>>					
-to be awake	1223	825	AWAKE	1	
-to guard, to watch	1224	1940	GUARD	3	
-to spy	1225		???		
-to wait	1226	1590	WAIT (FOR)	1	
-#<<<					
-to hear	1227	1608	LISTEN	1	
-to hear	1227	1408	HEAR	1	
-#>>>					
-to see	1228	1409	SEE	1	
-#<<<					
-to smell	1229	1586	SMELL (PERCEIVE)	1	
-to smell	1229	2124	SMELL	1	
-#>>>					
-to feel	1230	1079	FEEL	1	
-#<<<					
-to feel, to touch	1231	1079	FEEL	3	
-to feel, to touch	1231	2559	FEEL (TACTUALLY)	3	
-#>>>					
-to taste	1232	21	TASTE (SOMETHING)	1	
-to slurp	1233		???		
-to blow the nose	1234		???		
-#<<<					
-to suck	1235	1421	SUCK	1	
-to suck	1235	2472	SUCKLE (BREASTFEED, NURSE)	1	
-#>>>					
-to kiss	1236	578	KISS	1	
-to sniff	1237	375	SNIFF	1	
-to love	1238	923	LOVE	1	
-to hate	1239	1607	HATE	1	
-jealous	1240	2821	JEALOUS	2	
-to approve	1241		???		
-to wish	1242	2117	DESIRE	1	
-to want	1243	1784	WANT	1	
-to want something	1244		???		
-to open	1245	1156	OPEN	1	
-to close	1246	1046	SHUT	1	
-to cut off	1247		???		
-to multiply, to add, to increase	1248	1041	INCREASE	3	
-to spring, to jump	1249	1829	JUMP	3	
-to jump down	1250		???		
-#<<<					
-to hit, to touch	1251	353	STRIKE	3	
-to hit, to touch	1251	1433	HIT	3	
-to hit, to touch	1251	1665	BEAT	3	
-to hit, to touch	1251	2133	STRIKE OR BEAT	3	
-to hit, to touch	1251	3307	HIT (A TARGET)	3	
-#>>>					
-#<<<					
-hit, touched	1252	353	STRIKE	4	
-hit, touched	1252	3309	STRIKE (SOMETHING)	4	
-hit, touched	1252	111	DRUMMING	4	
-hit, touched	1252	2133	STRIKE OR BEAT	4	
-hit, touched	1252	1665	BEAT	4	
-hit, touched	1252	3307	HIT (A TARGET)	4	
-hit, touched	1252	1433	HIT	4	
-#>>>					
-#<<<					
-to break (a stick)	1253	681	DESTROY	3	
-to break (a stick)	1253	2558	BREAK (CLEAVE)	3	
-to break (a stick)	1253	1520	CRUSH	3	
-to break (a stick)	1253	460	BREAK (OF ROPE)	3	
-to break (a stick)	1253	680	BREAK (DESTROY OR GET DESTROYED)	3	
-to break (a stick)	1253	3020	BREAK (BREAKING)	3	
-#>>>					
-#<<<					
-to break (a rope)	1254	681	DESTROY	3	
-to break (a rope)	1254	2558	BREAK (CLEAVE)	3	
-to break (a rope)	1254	1520	CRUSH	3	
-to break (a rope)	1254	460	BREAK (OF ROPE)	3	
-to break (a rope)	1254	680	BREAK (DESTROY OR GET DESTROYED)	3	
-to break (a rope)	1254	3020	BREAK (BREAKING)	3	
-#>>>					
-to shatter	1255		???		
-#<<<					
-broken (a stick)	1256	3190	BROKEN (NOT WORKING)	4	
-broken (a stick)	1256	3191	BROKEN (SHATTERED)	4	
-broken (a stick)	1256	588	BROKEN	4	
-broken (a stick)	1256	1292	BAD	4	
-#>>>					
-#<<<					
-broken (rope)	1257	3190	BROKEN (NOT WORKING)	4	
-broken (rope)	1257	3191	BROKEN (SHATTERED)	4	
-broken (rope)	1257	588	BROKEN	4	
-broken (rope)	1257	1292	BAD	4	
-#>>>					
-shattered	1258		???		
-#<<<					
-to pinch, to squeeze	1259	378	PINCH	3	
-to pinch, to squeeze	1259	1414	SQUEEZE	3	
-#>>>					
-to begin (tr.)	1260	1806	BEGIN	1	
-#<<<					
-to begin (intr.)	1261	3447	BEGIN OR START	3	
-to begin (intr.)	1261	1806	BEGIN	3	
-#>>>					
-#<<<					
-to finish (tr.)	1262	1766	FINISH	3	
-to finish (tr.)	1262	2115	CEASE OR FINISH	3	
-#>>>					
-#<<<					
-to finish (intr.)	1263	1766	FINISH	3	
-to finish (intr.)	1263	2115	CEASE OR FINISH	3	
-#>>>					
-to bind, to tie	1264	1917	TIE	3	
-#<<<					
-to hide (something to hide)	1265	2486	HIDE	3	
-to hide (something to hide)	1265	602	HIDE (CONCEAL)	3	
-to hide (something to hide)	1265	2485	HIDE (ONESELF)	3	
-#>>>					
-#<<<					
-to hide	1266	602	HIDE (CONCEAL)	1	
-to hide	1266	2486	HIDE	1	
-#>>>					
-to ask	1267	1309	ASK (INQUIRE)	1	
-to answer	1268	1275	ANSWER	1	
-to ask for	1269	1828	ASK (REQUEST)	1	
-to refuse	1270	49	REFUSE	1	
-to cheat, to deceive	1271	3230	DECEIVE	3	
-to tell lies	1272	601	LIE (MISLEAD)	4	
-to steal	1273	713	STEAL	1	
-to throw away	1274	3696	THROW AWAY	1	
-to throw	1275	1456	THROW	1	
-to burn (tr.)	1276	141	BURN (SOMETHING)	1	
-to burn (intr.)	1277	1428	BURNING	1	
-to dig	1278	1418	DIG	1	
-to go	1279	695	GO	1	
-to go there	1280		???		
-#<<<					
-to send (out), to order, to command	1281	1127	SEND	3	
-to send (out), to order, to command	1281	1998	COMMAND	3	
-#>>>					
-to send	1282	1127	SEND	1	
-to come	1283	1446	COME	1	
-to arrive	1284	1387	ARRIVE	1	
-to be coming	1285		???		
-to depart	1286	1752	LEAVE	4	
-to meet	1287	1831	MEET	1	
-to meet one another	1288		???		
-to collect	1289	7	GATHER	3	
-#<<<					
-to gather, to meet	1290	7	GATHER	3	
-to gather, to meet	1290	3638	ASSEMBLE (GET TOGETHER)	3	
-#>>>					
-#<<<					
-to hit (to beat, to slap, etc.)	1291	353	STRIKE	3	
-to hit (to beat, to slap, etc.)	1291	1433	HIT	3	
-to hit (to beat, to slap, etc.)	1291	1665	BEAT	3	
-to hit (to beat, to slap, etc.)	1291	2133	STRIKE OR BEAT	3	
-to hit (to beat, to slap, etc.)	1291	3307	HIT (A TARGET)	3	
-#>>>					
-to take revenge	1292	495	REVENGE	4	
+paddle	1041	234	PADDLE	2	y
+to paddle	1042	3668	PADDLE (MOVEMENT)	3	y
+to row, to pull	1043	1849	ROW	3	y
+outrigger	1044	416	OUTRIGGER	2	y
+thwarts	1045				y
+stem, bows	1046				y
+stern	1047				y
+to take on cargo	1048	3669	LOAD (SOMETHING)		y
+anchor	1049	1870	ANCHOR	2	y
+raft	1050	1664	RAFT	2	y
+harbour	1051	610	PORT		y
+to be wrecked	1052				y
+pirate	1053				y
+landing-stage	1054				y
+to disembark	1055	1922	LAND (DESCEND)		y
+to sail away	1056	787	SAIL		y
+to capsize	1057	1444	TURN AROUND		y
+kidnapper	1058				y
+to ill-treat, to mishandle	1059	1952	TORTURE		y
+to ransom	1060				y
+great, big	1061	1202	BIG	2	y
+small	1062	1246	SMALL	2	y
+long (things)	1063	1203	LONG	4	y
+long (time)	1064	418	FOR A LONG TIME	4	y
+short (things)	1065	1645	SHORT	2	y
+short (time)	1066	3312	SHORT (TIME)	2	y
+big, fat	1067	1279	FAT (OBESE)	4	y
+thick	1068	1244	THICK	2	y
+thick	1069	1244	THICK	2	y
+thin	1070	2157	FINE OR THIN	2	y
+thin, meagre, skinny	1071	1400	THIN (SLIM)	4	y
+fat (adj.)	1072	1279	FAT (OBESE)	2	y
+fat, grease (noun)	1073	323	FAT (ORGANIC SUBSTANCE)	3	y
+greasy	1074	955	GREASY	2	y
+slim	1075	1400	THIN (SLIM)	2	y
+dwarf	1076				y
+diminished in size, boiled down, shrunken	1077	54	SHRINK		y
+to grow	1078	479	GROW	1	y
+tame	1079	2838	TAME	2	y
+wild	1080	2230	UNTAMED OR WILD	2	y
+wary, shy, timid	1081	487	SHY	4	y
+shy, ashamed	1082	3805	SHY OR ASHAMED	2	y
+deep (river)	1083	1593	DEEP	4	y
+deep (dish)	1084	1593	DEEP	4	y
+shallow (river)	1085	193	SHALLOW	4	y
+shallow (dish)	1086	193	SHALLOW	4	y
+high	1087	2790	HIGH OR TALL	2	y
+low	1088	721	LOW	2	y
+straight	1089	1404	STRAIGHT	2	y
+crooked, bent	1090	297	CROOKED	4	y
+curved, winding	1091	1698	CURVED	4	y
+flat	1092	2249	THIN (OF SHAPE OF OBJECT)	2	y
+even	1093	1633	FLAT	4	y
+smooth	1094	1234	SMOOTH	2	y
+heavy	1095	1210	HEAVY	2	y
+light	1096	1052	LIGHT (WEIGHT)	2	y
+slanting, sloping	1097	3075	SLANTED	4	y
+sharp	1098	1396	SHARP	2	y
+blunt	1099	379	BLUNT	2	y
+pointed	1100	372	POINTED	2	y
+hard	1101	1884	HARD	2	y
+weak	1102	1601	WEAK	2	y
+soft	1103	1856	SOFT	2	y
+warm (persons)	1104	3299	KIND	4	y
+warm (things)	1105	1232	WARM	4	y
+cold (persons)	1106	3955	HOSTILITY	4	y
+cold (things)	1107	1287	COLD	4	y
+to shiver	1108	52	SHIVER	1	y
+round, circular (as a stick)	1109	1395	ROUND	4	y
+round, circular (as a dish)	1110	1395	ROUND	4	y
+globular, round	1111	2303	SPHERICAL (ROUND IN THREE DIMENSIONS)	4	y
+square	1112	850	SQUARE	2	y
+broad	1113	2531	BROAD	2	y
+small	1114	1246	SMALL	2	y
+narrow	1115	1267	NARROW	2	y
+wide	1116	1243	WIDE	2	y
+strong	1117	785	STRONG	2	y
+weak	1118	1601	WEAK	2	y
+brave, bold	1119	3	BRAVE	4	y
+cowardly	1120	3812	COWARDLY	2	y
+lazy	1121	1564	LAZY	2	y
+diligent	1122	2077	DILIGENT	2	y
+stingy	1123	1774	STINGY	2	y
+mild, tender	1124	1954	GENTLE	4	y
+dry	1125	1398	DRY	2	y
+to dry in the sun	1126	3364	DRY IN SUN	4	y
+wet	1127	1726	WET	2	y
+humid	1128	143	HUMID	2	y
+rotten	1129	1728	ROTTEN	2	y
+good	1130	1035	GOOD	2	y
+bad	1131	1292	BAD	2	y
+beautiful (persons)	1132	1427	BEAUTIFUL	4	y
+beautiful (male)	1133	3814	HANDSOME	4	y
+beautiful (fem.)	1134	2410	GOOD-LOOKING	4	y
+beautiful (things)	1135	1035	GOOD	4	y
+ugly (persons)	1136	1548	UGLY	4	y
+ugly (male)	1137	1548	UGLY	4	y
+ugly (female)	1138	1548	UGLY	4	y
+ugly (things)	1139	1548	UGLY	4	y
+wrong, false	1140	1390	WRONG	4	y
+true, right	1141	1657	TRUE	4	y
+empty	1142	1624	EMPTY	2	y
+full	1143	1429	FULL	2	y
+angry	1144	1826	ANGRY	2	y
+mad	1145	1899	MAD	2	y
+tightly bound	1146	1094	FASTEN		y
+tightly fitting	1147	1094	FASTEN		y
+loose	1148	2506	LOOSE	2	y
+loosely fitting	1149	2506	LOOSE		y
+old	1150	1229	OLD	2	y
+old, worn	1151	2113	OLD (USED)	4	y
+young	1152	1207	YOUNG	2	y
+new	1153	1231	NEW	2	y
+poor	1154	1674	POOR	2	y
+wealthy	1155	712	RICH	2	y
+tired	1156	1757	TIRED	2	y
+fast	1157	1631	FAST	2	y
+slow	1158	701	SLOW	2	y
+dumb	1159	1492	DUMB	2	y
+clever	1160	1310	CLEVER	2	y
+sour	1162	1906	SOUR	2	y
+bitter	1163	887	BITTER	2	y
+astringent	1164	3837	ASTRINGENT	2	y
+hot, spicy	1165	544	SPICY	2	y
+salty	1166	1091	SALTY	2	y
+white	1167	1335	WHITE	2	y
+black	1168	163	BLACK	2	y
+red	1169	156	RED	2	y
+brown	1170	2409	BROWN	2	y
+yellow	1171	1424	YELLOW	2	y
+blue	1172	837	BLUE	2	y
+green	1173	1425	GREEN	2	y
+to look for	1174	1468	LOOK FOR	1	y
+to find	1175	719	FIND	1	y
+to give	1176	1447	GIVE	1	y
+to hand, to pass	1177	1447	GIVE	3	y
+to accept	1178	3898	ACCEPT	1	y
+to take	1179	1749	TAKE	1	y
+to get	1180	694	GET	1	y
+to take away	1181	412	CARRY IN HAND		y
+to take along	1182	412	CARRY IN HAND		y
+to bring	1183	692	BRING	1	y
+to accompany	1184	1542	ACCOMPANY	1	y
+to grip, to hold, to seize	1185	1448	HOLD	3	y
+to lead by the hand	1186	43	LEAD (GUIDE)		y
+to make, to do	1187	2575	DO OR MAKE	1	y
+to prepare, to make ready	1188	2909	PREPARE	3	y
+to wash up (dishes, spoons, etc.)	1189	1453	WASH	4	y
+to wash (clothes)	1190	2503	LAUNDER (WASH CLOTHES)	1	y
+to wash (face)	1191	3371	WASH (ONESELF)	3	y
+to wash (hair)	1192	3371	WASH (ONESELF)	3	y
+to know	1193	3626	KNOW	1	y
+to think	1194	2271	THINK	1	y
+to know	1195	1410	KNOW (SOMETHING)	1	y
+to remember	1196	707	REMEMBER	1	y
+to have forgotten something	1197	1523	FORGET		y
+to deny	1198	755	DENY	1	y
+to confess	1199	2022	ADMIT	4	y
+to be silent	1200	48	BE SILENT	1	y
+to mumble	1201	128	MUMBLE	1	y
+to speak	1202	1623	SPEAK	1	y
+to sing	1203	1261	SING	1	y
+to whisper	1204	55	WHISPER	1	y
+to say	1205	1458	SAY	1	y
+to call	1206	1084	CALL	1	y
+to abuse, to scold	1207	1953	ABUSE	3	y
+to be able to	1208	972	BE ABLE	1	y
+to be allowed	1209	3238	ALLOW		y
+to work	1210	1086	WORK (ACTIVITY)	1	y
+to shoulder	1211	413	CARRY ON SHOULDER	4	y
+to carry on the head	1212	414	CARRY ON HEAD		y
+to carry something hanging from the hand	1213				y
+to carry on the hip	1214				y
+to carry under the arm	1215	415	CARRY UNDER ARM	1	y
+to carry in the hand	1216	412	CARRY IN HAND		y
+to carry on the back (with strap over the shoulder or head)	1217	465	CARRY ON BACK	3	y
+to carry in a sarong	1218				y
+to carry	1219	700	CARRY	1	y
+to carry on the back	1220	465	CARRY ON BACK	1	y
+to carry in front of oneself	1221				y
+to wake, to watch	1222	1602	WAKE UP	3	y
+to be awake	1223	825	AWAKE	1	y
+to guard, to watch	1224	1940	GUARD	3	y
+to spy	1225				y
+to wait	1226	1590	WAIT (FOR)	1	y
+to hear	1227	1408	HEAR	1	y
+to see	1228	1409	SEE	1	y
+to smell	1229	1586	SMELL (PERCEIVE)	1	y
+to feel	1230	1079	FEEL	1	y
+to feel, to touch	1231	2559	FEEL (TACTUALLY)	3	y
+to taste	1232	21	TASTE (SOMETHING)	1	y
+to slurp	1233	2787	CONSUME (DRINK OR EAT)		y
+to blow the nose	1234	2679	BLOW (WITH NOSE)		y
+to suck	1235	1421	SUCK	1	y
+to kiss	1236	578	KISS	1	y
+to sniff	1237	375	SNIFF	1	y
+to love	1238	923	LOVE	1	y
+to hate	1239	1607	HATE	1	y
+jealous	1240	2821	JEALOUS	2	y
+to approve	1241	3643	AGREE		y
+to wish	1242	2117	DESIRE	1	y
+to want	1243	1784	WANT	1	y
+to want something	1244	1784	WANT		y
+to open	1245	1156	OPEN	1	y
+to close	1246	1046	SHUT	1	y
+to cut off	1247	1432	CUT		y
+to multiply, to add, to increase	1248	1041	INCREASE	3	y
+to spring, to jump	1249	1829	JUMP	3	y
+to jump down	1250	119	DIVE		y
+to hit, to touch	1251	1433	HIT	3	y
+hit, touched	1252	1433	HIT	4	y
+to break (a stick)	1253	2558	BREAK (CLEAVE)	3	y
+to break (a rope)	1254	460	BREAK (OF ROPE)	3	y
+to shatter	1255	3191	BROKEN (SHATTERED)		y
+broken (a stick)	1256	588	BROKEN	4	y
+broken (rope)	1257	588	BROKEN	4	y
+shattered	1258	3191	BROKEN (SHATTERED)		y
+to pinch, to squeeze	1259	1414	SQUEEZE	3	y
+to begin (tr.)	1260	1806	BEGIN	1	y
+to begin (intr.)	1261	3449	START	3	y
+to finish (tr.)	1262	1766	FINISH	3	y
+to finish (intr.)	1263	2115	CEASE OR FINISH	3	y
+to bind, to tie	1264	1917	TIE	3	y
+to hide (something to hide)	1265	602	HIDE (CONCEAL)	3	y
+to hide	1266	2486	HIDE	1	y
+to ask	1267	1309	ASK (INQUIRE)	1	y
+to answer	1268	1275	ANSWER	1	y
+to ask for	1269	1828	ASK (REQUEST)	1	y
+to refuse	1270	49	REFUSE	1	y
+to cheat, to deceive	1271	3230	DECEIVE	3	y
+to tell lies	1272	601	LIE (MISLEAD)	4	y
+to steal	1273	713	STEAL	1	y
+to throw away	1274	3696	THROW AWAY	1	y
+to throw	1275	1456	THROW	1	y
+to burn (tr.)	1276	141	BURN (SOMETHING)	1	y
+to burn (intr.)	1277	1428	BURNING	1	y
+to dig	1278	1418	DIG	1	y
+to go	1279	695	GO	1	y
+to go there	1280	695	GO		y
+to send (out), to order, to command	1281	1998	COMMAND	3	y
+to send	1282	1127	SEND	1	y
+to come	1283	1446	COME	1	y
+to arrive	1284	1387	ARRIVE	1	y
+to be coming	1285	1446	COME		y
+to depart	1286	1752	LEAVE	4	y
+to meet	1287	1831	MEET	1	y
+to meet one another	1288	1831	MEET		y
+to collect	1289	7	GATHER	3	y
+to gather, to meet	1290	3638	ASSEMBLE (GET TOGETHER)	3	y
+to hit (to beat, to slap, etc.)	1291	2133	STRIKE OR BEAT	3	y
+to take revenge	1292	495	REVENGE	4	y
 one	1293	1493	ONE	2	y
 two	1294	1498	TWO	2	y
 three	1295	492	THREE	2	y
@@ -1657,22 +1311,10 @@ eighteen	1310	1713	EIGHTEEN	2	y
 nineteen	1311	1714	NINETEEN	2	y
 twenty	1312	1710	TWENTY	2	y
 twenty one	1313	1734	TWENTY ONE	2	y
-#<<<					
-twenty one, twenty two, etc.	1314	2017	MIX	4	
-twenty one, twenty two, etc.	1314	2628	PLANT STEM	4	
-twenty one, twenty two, etc.	1314	3044	BOVINE	4	
-twenty one, twenty two, etc.	1314	718	PAY	4	
-twenty one, twenty two, etc.	1314	1734	TWENTY ONE	4	
-twenty one, twenty two, etc.	1314	178	RIPE	4	
-twenty one, twenty two, etc.	1314	460	BREAK (OF ROPE)	4	
-twenty one, twenty two, etc.	1314	3080	SPLIT OPEN	4	
-twenty one, twenty two, etc.	1314	285	THRESH	4	
-twenty one, twenty two, etc.	1314	3166	TWENTY TWO	4	
-twenty one, twenty two, etc.	1314	1840	BUILD	4	
-#>>>					
+twenty one, twenty two, etc.	1314	1356	NUMBER	4	y
 twenty five	1315	1738	TWENTY FIVE	2	y
 thirty	1316	1715	THIRTY	2	y
-fourty	1317		???		
+fourty	1317	1716	FORTY		y
 fifty	1318	1717	FIFTY	2	y
 sixty	1319	1718	SIXTY	2	y
 seventy	1320	1721	SEVENTY	2	y
@@ -1682,286 +1324,130 @@ hundred	1323	1634	HUNDRED	2	y
 thousand	1324	1843	THOUSAND	2	y
 ten thousand	1325	2078	TEN THOUSAND	2	y
 a half	1326	816	HALF	1	y
-a quarter	1327		???		
-#<<<					
-once	1328	374	ONE TIME	2	
-once	1328	2914	ONCE (IN THE PAST)	2	
-#>>>					
+a quarter	1327				y
+once	1328	374	ONE TIME	2	y
 twice	1329	1546	TWICE	2	y
-#<<<					
-first (in space)	1330	2915	AT FIRST	4	
-first (in space)	1330	1882	BEFORE	4	
-first (in space)	1330	728	FIRST	4	
-#>>>					
-#<<<					
-first (in time)	1331	2915	AT FIRST	4	
-first (in time)	1331	1882	BEFORE	4	
-first (in time)	1331	728	FIRST	4	
-#>>>					
-#<<<					
-second (in space)	1332	3387	MIDDLE FINGER	4	
-second (in space)	1332	1384	SECOND	4	
-#>>>					
-#<<<					
-second (in time)	1333	3387	MIDDLE FINGER	4	
-second (in time)	1333	1384	SECOND	4	
-#>>>					
-#<<<					
-third (in space)	1334	3842	ONE THIRD	4	
-third (in space)	1334	1859	THIRD	4	
-#>>>					
-#<<<					
-third (in time)	1335	3842	ONE THIRD	4	
-third (in time)	1335	1859	THIRD	4	
-#>>>					
-#<<<					
-the last (in space)	1336	514	LAST YEAR	4	
-the last (in space)	1336	1186	LAST (ENDURE)	4	
-the last (in space)	1336	1529	LAST (FINAL)	4	
-#>>>					
-#<<<					
-the last (in time)	1337	514	LAST YEAR	4	
-the last (in time)	1337	1186	LAST (ENDURE)	4	
-the last (in time)	1337	1529	LAST (FINAL)	4	
-#>>>					
-#<<<					
-how much, how many	1338	531	HOW MUCH	4	
-how much, how many	1338	3450	HOW MANY PIECES	4	
-how much, how many	1338	822	HOW MANY	4	
-#>>>					
-many, much	1339	1198	MANY	2	
-few, a little	1340	2924	A LITTLE	3	
-finished	1341		???		
-there are	1342	2152	THERE IS OR THERE ARE	4	
-there are not	1343		???		
-there is something	1344		???		
-there is nothing	1345		???		
-there is nothing left	1346		???		
-more	1347	1992	MORE	2	
-most	1348	1198	MANY	2	
-less	1349		???		
-all	1350	98	ALL	2	
-whole	1351	2277	WHOLE	2	
-together	1352	2482	TOGETHER	2	
-alike, similar	1353	1558	SIMILAR	4	
-enough	1354	1881	ENOUGH	2	
-#<<<					
-only, some	1355	1580	ONLY	4	
-only, some	1355	1241	SOME	4	
-only, some	1355	3863	OTHER OR SOME	4	
-#>>>					
-a few, some	1356	1242	FEW	3	
-I	1357	1209	I	2	
-I myself	1358		???		
-you (sing.)	1359	1215	THOU	2	
-you (pl.)	1360	1213	YOU	2	
-you all (excluding those absent)	1361	1213	YOU	4	
-#<<<					
-you	1362	2312	YOU (OBLIQUE CASE OF YOU)	2	
-you	1362	1213	YOU	2	
-you	1362	1215	THOU	2	
-#>>>					
-#<<<					
-he	1363	1211	HE	2	
-he	1363	2642	HE OR SHE	2	
-#>>>					
-she	1364	1834	SHE	2	
-we (inclusive)	1365	1131	WE (INCLUSIVE)	2	
-we (exclusive)	1366	1130	WE (EXCLUSIVE)	2	
-#<<<					
-they (female)	1367	817	THEY	4	
-they (female)	1367	2642	HE OR SHE	4	
-#>>>					
-#<<<					
-they (male)	1368	817	THEY	4	
-they (male)	1368	2642	HE OR SHE	4	
-#>>>					
-my (sing.)	1369	2090	MY	4	
-my (pl.)	1370	2090	MY	4	
-our (inclusive)	1371	780	OUR	4	
-our (exclusive)	1372	780	OUR	4	
-#<<<					
-your (sing.)	1373	732	YOUR (SINGULAR)	4	
-your (sing.)	1373	2274	YOUR (PLURAL)	4	
-#>>>					
-#<<<					
-your (pl.)	1374	732	YOUR (SINGULAR)	4	
-your (pl.)	1374	2274	YOUR (PLURAL)	4	
-#>>>					
-their (female)	1375	2400	THEIR	4	
-their (male)	1376	2400	THEIR	4	
-her	1377	2474	HER (GENITIVE OF SHE)	2	
-#<<<					
-his	1378	2473	HIS (GENITIVE OF HE)	2	
-his	1378	2092	HIS OR HER	2	
-#>>>					
-who?	1379	1235	WHO	2	
-what?	1380	1236	WHAT	2	
-which house?	1381		???		
-which?	1382	727	WHICH	2	
-this	1383	1214	THIS	2	
-that	1384	78	THAT	2	
-#<<<					
-that (nearby)	1385	78	THAT	4	
-that (nearby)	1385	3414	IN THAT WAY	4	
-#>>>					
-#<<<					
-that (faraway)	1386	78	THAT	4	
-that (faraway)	1386	3414	IN THAT WAY	4	
-#>>>					
-overthere, yonder	1387	1937	THERE	4	
-here	1388	136	HERE	2	
-#<<<					
-there (near hearer)	1389	1937	THERE	4	
-there (near hearer)	1389	3411	OVER THERE	4	
-there (near hearer)	1389	136	HERE	4	
-#>>>					
-there	1390	1937	THERE	2	
-#<<<					
-which, who, that	1391	2147	WHO OR WHAT	4	
-which, who, that	1391	1235	WHO	4	
-which, who, that	1391	3414	IN THAT WAY	4	
-which, who, that	1391	727	WHICH	4	
-which, who, that	1391	78	THAT	4	
-#>>>					
-#<<<					
-early, soon	1392	672	EARLY	4	
-early, soon	1392	703	SOON	4	
-early, soon	1392	1963	IMMEDIATELY	4	
-#>>>					
-#<<<					
-late	1393	477	LATE	2	
-late	1393	425	BE LATE	2	
-#>>>					
-#<<<					
-day	1394	1260	DAY (24 HOURS)	2	
-day	1394	1225	DAY (NOT NIGHT)	2	
-#>>>					
-week	1395	1469	WEEK	2	
-the day of the week	1396		???		
-#<<<					
-daylight	1397	1225	DAY (NOT NIGHT)	2	
-daylight	1397	630	LIGHT (RADIATION)	2	
-#>>>					
-#<<<					
-light	1398	1052	LIGHT (WEIGHT)	2	
-light	1398	250	LIGHT (COLOR)	2	
-light	1398	630	LIGHT (RADIATION)	2	
-light	1398	737	LIGHT (IGNITE)	2	
-#>>>					
-hour	1399	1353	HOUR	2	
-twenty four hours	1400		???		
-#<<<					
-night (darkness)	1401	1233	NIGHT	4	
-night (darkness)	1401	1629	EVENING	4	
-night (darkness)	1401	706	DARK	4	
-#>>>					
-#<<<					
-night (time of the night)	1402	1233	NIGHT	4	
-night (time of the night)	1402	1629	EVENING	4	
-night (time of the night)	1402	706	DARK	4	
-#>>>					
-dark	1403	706	DARK	2	
-dry season	1404	452	DRY SEASON	2	
-#<<<					
-rainy season, wet season	1405	1342	SUMMER	4	
-rainy season, wet season	1405	453	RAINY SEASON	4	
-#>>>					
-year	1406	1226	YEAR	2	
-monsoon	1407		???		
-now	1408	1376	NOW	2	
-shortly	1409		???		
-#<<<					
-now, at present	1410	2097	NOW OR TODAY	4	
-now, at present	1410	1376	NOW	4	
-now, at present	1410	196	DONATE	4	
-now, at present	1410	2982	GIFT	4	
-now, at present	1410	1460	IN	4	
-#>>>					
-formerly	1411	2914	ONCE (IN THE PAST)	2	
-#<<<					
-before (place)	1412	1882	BEFORE	4	
-before (place)	1412	2915	AT FIRST	4	
-before (place)	1412	1883	IN FRONT OF	4	
-#>>>					
-before (time)	1413	1882	BEFORE	2	
-formerly	1414	2914	ONCE (IN THE PAST)	2	
-later	1415	477	LATE	2	
-a moment ago	1416		???		
-a moment	1417		???		
-yesterday	1418	1174	YESTERDAY	2	
-the day before yesterday	1419	1180	DAY BEFORE YESTERDAY	1	
-today	1420	1283	TODAY	2	
-this morning	1421	1339	MORNING	2	
-tomorrow	1422	1329	TOMORROW	2	
-the day after tomorrow	1423	1179	DAY AFTER TOMORROW	1	
-morning	1424	1339	MORNING	2	
-evening	1425	1629	EVENING	2	
-now and then, occasionally	1426		???		
-when	1427	1238	WHEN	2	
-already	1428	2576	ALREADY	2	
-not yet	1429		???		
-not again	1430		???		
-north	1431	1598	NORTH	2	
-south	1432	1595	SOUTH	2	
-east	1433	1877	EAST	2	
-west	1434	1817	WEST	2	
-#<<<					
-left	1435	244	LEFT	2	
-left	1435	1752	LEAVE	2	
-left	1435	2182	LEFT HAND	2	
-#>>>					
-#<<<					
-right	1436	1725	CORRECT (RIGHT)	2	
-right	1436	2183	RIGHT HAND	2	
-right	1436	1019	RIGHT	2	
-#>>>					
-#<<<					
-up, upper, above	1437	2379	UP OR ABOVE	4	
-up, upper, above	1437	3347	HIGH OR UP	4	
-up, upper, above	1437	1591	UP	4	
-up, upper, above	1437	1741	ABOVE	4	
-up, upper, above	1437	431	UPPER ARM	4	
-up, upper, above	1437	1265	HIGH	4	
-up, upper, above	1437	705	GO UP (ASCEND)	4	
-up, upper, above	1437	3345	ATOP OR UP	4	
-up, upper, above	1437	2325	PULL OUT	4	
-up, upper, above	1437	1753	TOP	4	
-#>>>					
-on the road	1438		???		
-from above	1439		???		
-#<<<					
-under	1440	1485	BELOW OR UNDER	2	
-under	1440	415	CARRY UNDER ARM	2	
-#>>>					
-from underneath	1441		???		
-from-to (place)	1442		???		
-from-to (time)	1443		???		
-#<<<					
-below, beneath	1444	1485	BELOW OR UNDER	4	
-below, beneath	1444	2094	DOWN OR BELOW	4	
-below, beneath	1444	721	LOW	4	
-below, beneath	1444	690	BOTTOM	4	
-#>>>					
-at	1445	1461	AT	2	
-from	1446	693	FROM	2	
-until	1447	2753	UNTIL	2	
-#<<<					
-at, in	1448	1233	NIGHT	4	
-at, in	1448	1606	INSIDE	4	
-at, in	1448	1461	AT	4	
-at, in	1448	1629	EVENING	4	
-at, in	1448	1460	IN	4	
-at, in	1448	373	LONG AGO	4	
-at, in	1448	1529	LAST (FINAL)	4	
-#>>>					
-#<<<					
-on	1449	998	PUT	4	
-on	1449	1461	AT	4	
-on	1449	3345	ATOP OR UP	4	
-on	1449	57	ATOP	4	
-on	1449	1741	ABOVE	4	
-#>>>					
+first (in space)	1330	728	FIRST	4	y
+first (in time)	1331	728	FIRST	4	y
+second (in space)	1332	1384	SECOND	4	y
+second (in time)	1333	1384	SECOND	4	y
+third (in space)	1334	1859	THIRD	4	y
+third (in time)	1335	1859	THIRD	4	y
+the last (in space)	1336	1529	LAST (FINAL)	4	y
+the last (in time)	1337	1529	LAST (FINAL)	4	y
+how much, how many	1338	822	HOW MANY	4	y
+many, much	1339	1198	MANY	2	y
+few, a little	1340	2924	A LITTLE	3	y
+finished	1341				y
+there are	1342	2152	THERE IS OR THERE ARE	4	y
+there are not	1343	2329	LACK (NOT HAVE)		y
+there is something	1344	2152	THERE IS OR THERE ARE		y
+there is nothing	1345	687	NOTHING		y
+there is nothing left	1346	687	NOTHING		y
+more	1347	1992	MORE	2	y
+most	1348	1198	MANY	2	y
+less	1349	1242	FEW		y
+all	1350	98	ALL	2	y
+whole	1351	2277	WHOLE	2	y
+together	1352	2482	TOGETHER	2	y
+alike, similar	1353	1558	SIMILAR	4	y
+enough	1354	1881	ENOUGH	2	y
+only, some	1355	3863	OTHER OR SOME	4	y
+a few, some	1356	1242	FEW	3	y
+I	1357	1209	I	2	y
+I myself	1358	1209	I		y
+you (sing.)	1359	1215	THOU	2	y
+you (pl.)	1360	1213	YOU	2	y
+you all (excluding those absent)	1361	1213	YOU	4	y
+you	1362	1213	YOU	2	y
+he	1363	1211	HE	2	y
+she	1364	1834	SHE	2	y
+we (inclusive)	1365	1131	WE (INCLUSIVE)	2	y
+we (exclusive)	1366	1130	WE (EXCLUSIVE)	2	y
+they (female)	1367	817	THEY	4	y
+they (male)	1368	817	THEY	4	y
+my (sing.)	1369	2090	MY	4	y
+my (pl.)	1370	2090	MY	4	y
+our (inclusive)	1371	780	OUR	4	y
+our (exclusive)	1372	780	OUR	4	y
+your (sing.)	1373	732	YOUR (SINGULAR)	4	y
+your (pl.)	1374	2274	YOUR (PLURAL)	4	y
+their (female)	1375	2400	THEIR	4	y
+their (male)	1376	2400	THEIR	4	y
+her	1377	2474	HER (GENITIVE OF SHE)	2	y
+his	1378	2473	HIS (GENITIVE OF HE)	2	y
+who?	1379	1235	WHO	2	y
+what?	1380	1236	WHAT	2	y
+which house?	1381	727	WHICH		y
+which?	1382	727	WHICH	2	y
+this	1383	1214	THIS	2	y
+that	1384	78	THAT	2	y
+that (nearby)	1385	78	THAT	4	y
+that (faraway)	1386	78	THAT	4	y
+overthere, yonder	1387	3411	OVER THERE	4	y
+here	1388	136	HERE	2	y
+there (near hearer)	1389	1937	THERE	4	y
+there	1390	1937	THERE	2	y
+which, who, that	1391	727	WHICH	4	y
+early, soon	1392	672	EARLY	4	y
+late	1393	425	BE LATE	2	y
+day	1394	1260	DAY (24 HOURS)	2	y
+week	1395	1469	WEEK	2	y
+the day of the week	1396	1260	DAY (24 HOURS)		y
+daylight	1397	1225	DAY (NOT NIGHT)	2	y
+light	1398	630	LIGHT (RADIATION)	2	y
+hour	1399	1353	HOUR	2	y
+twenty four hours	1400	1260	DAY (24 HOURS)		y
+night (darkness)	1401	706	DARK	4	y
+night (time of the night)	1402	1233	NIGHT	4	y
+dark	1403	706	DARK	2	y
+dry season	1404	452	DRY SEASON	2	y
+rainy season, wet season	1405	453	RAINY SEASON	4	y
+year	1406	1226	YEAR	2	y
+monsoon	1407	691	SEASON		y
+now	1408	1376	NOW	2	y
+shortly	1409	703	SOON		y
+now, at present	1410	2097	NOW OR TODAY	4	y
+formerly	1411	2914	ONCE (IN THE PAST)	2	y
+before (place)	1412	1883	IN FRONT OF	4	y
+before (time)	1413	1882	BEFORE	2	y
+formerly	1414	2914	ONCE (IN THE PAST)	2	y
+later	1415	477	LATE	2	y
+a moment ago	1416	2914	ONCE (IN THE PAST)	2	y
+a moment	1417	2916	INSTANTLY (IMMEDIATELY)		y
+yesterday	1418	1174	YESTERDAY	2	y
+the day before yesterday	1419	1180	DAY BEFORE YESTERDAY	1	y
+today	1420	1283	TODAY	2	y
+this morning	1421	1339	MORNING	2	y
+tomorrow	1422	1329	TOMORROW	2	y
+the day after tomorrow	1423	1179	DAY AFTER TOMORROW	1	y
+morning	1424	1339	MORNING	2	y
+evening	1425	1629	EVENING	2	y
+now and then, occasionally	1426	1544	SOMETIMES		y
+when	1427	1238	WHEN	2	y
+already	1428	2576	ALREADY	2	y
+not yet	1429	2577	YET		y
+not again	1430	1881	ENOUGH		y
+north	1431	1598	NORTH	2	y
+south	1432	1595	SOUTH	2	y
+east	1433	1877	EAST	2	y
+west	1434	1817	WEST	2	y
+left	1435	244	LEFT	2	y
+right	1436	1019	RIGHT	2	y
+up, upper, above	1437	2379	UP OR ABOVE	4	y
+up, upper, above	1437	1265	HIGH	4	y
+on the road	1438	57	ATOP		y
+from above	1439	1741	ABOVE		y
+under	1440	1485	BELOW OR UNDER	2	y
+from underneath	1441	1485	BELOW OR UNDER		y
+from-to (place)	1442				y
+from-to (time)	1443				y
+below, beneath	1444	1485	BELOW OR UNDER	4	y
+at	1445	1461	AT	2	y
+from	1446	693	FROM	2	y
+until	1447	2753	UNTIL	2	y
+at, in	1448	1461	AT	4	y
+on	1449	1461	AT	4	y
 in, inside	1450	1606	INSIDE	2	y
 out, outside	1451	762	OUTSIDE	4	y
 nearby	1452	1942	NEAR	2	y
