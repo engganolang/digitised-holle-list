@@ -1435,7 +1435,6 @@ west	1434	1817	WEST	2	y
 left	1435	244	LEFT	2	y
 right	1436	1019	RIGHT	2	y
 up, upper, above	1437	2379	UP OR ABOVE	4	y
-up, upper, above	1437	1265	HIGH	4	y
 on the road	1438	57	ATOP		y
 from above	1439	1741	ABOVE		y
 under	1440	1485	BELOW OR UNDER	2	y
