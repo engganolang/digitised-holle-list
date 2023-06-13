@@ -160,9 +160,9 @@ voice	158	1363	VOICE	2	y
 hoarse	159				y
 to shout	160	715	SHOUT	1	y
 to laugh	161	1355	LAUGH	1	y
-to laugh at	162				y
+to laugh at	162	1355	LAUGH		y
 to weep	163	1839	CRY	1	y
-to weep for	164				y
+to weep for	164	1839	CRY		y
 to smile	165	1451	SMILE	1	y
 to sigh	166				y
 to spit	167	1440	SPIT	1	y
