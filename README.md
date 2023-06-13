@@ -32,7 +32,7 @@ project](https://enggano.ling-phil.ox.ac.uk/)*.
 
 ## How to cite
 
-Please cite as:
+Please cite as Rajeg ([2023](#ref-Rajeg_Holle_2023)):
 
 > Rajeg, Gede Primahadi Wijaya. (2023). Digitised, searchable Holle List
 > in Stokhof (1980) (1.2.0). Zenodo.
@@ -41,15 +41,17 @@ Please cite as:
 Please also cite the original document ([Stokhof
 1980](#ref-holleli1980)) (cf. the **Reference** section below).
 
-The digitised, Holle List table is available for download from within
-the
-[`data`](https://github.com/engganolang/digitised-holle-list/tree/main/data)
-directory as a [tab-separated
-file](https://github.com/engganolang/digitised-holle-list/blob/main/data/digitised-holle-list-in-stokhof-1980.tsv).
-
 ## Reference
 
 <div id="refs" class="references csl-bib-body hanging-indent">
+
+<div id="ref-Rajeg_Holle_2023" class="csl-entry">
+
+Rajeg, Gede Primahadi Wijaya. 2023. <span class="nocase">Digitised,
+searchable Holle List in Stokhof (1980)</span>.
+<https://doi.org/10.5281/zenodo.8028568>.
+
+</div>
 
 <div id="ref-holleli1980" class="csl-entry">
 
