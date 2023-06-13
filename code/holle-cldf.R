@@ -39,18 +39,21 @@ holle_tb_all <- bind_rows(holle_tb_id, holle_tb_nl) |>
   mutate(Source = "holleli1980")
 holle_tb_all <- holle_tb_all |> 
   mutate(ID = 1:nrow(holle_tb_all),
-         Parameter_ID = paste(ID, "-", Language_ID, "-", Concepticon_Gloss,
+         Parameter_ID = paste(Holle_ID, "-", Concepticon_Gloss,
                               sep = ""))
 
 # CLDF - create the FormTable
 cldf_form <- holle_tb_all |> 
   select(ID, Holle_ID, Language_ID, Parameter_ID, Form, English, Swadesh, Source)
+nrow(cldf_form)
 cldf_form |> write_excel_csv("cldf/forms.csv")
 
 # CLDF - create the Parameter table
 cldf_param <- holle_tb_all |> 
-  select(ID = Parameter_ID, Name = English, Concepticon_Gloss, Concepticon_ID)
+  select(ID = Parameter_ID, Name = English, Concepticon_Gloss, Concepticon_ID) |> 
+  distinct()
 cldf_param
+nrow(cldf_param)
 cldf_param |> write_excel_csv("cldf/parameters.csv")
 
 # CLDF - create the Language table
