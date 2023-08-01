@@ -42,13 +42,13 @@ Index	Dutch	English	Indonesian	v1894	v1904/1911	v1931	Swadesh	Swadesh_orig	remar
 40	nek	nape	tengkuk	-	-	35	FALSE		
 41	borsten (mannen)	chest, breast (male)	dada (laki-laki, jamak)	34	36	-	TRUE	breast	
 42	borsten (vrouwen)	breasts (female)	dada (perempuan, jamak)	34	36	-	TRUE	breast	typo: originally <perenpuan> in the Indonesian gloss
-41/42	borsten < unsp. >			34	36	-	TRUE		
+41/42	borsten < unsp. >	breasts	payudara	34	36	-	TRUE		
 43	borst	breast	dada (tunggal)	-	-	36	TRUE		
 44	vrouwenborst	breast (female)	dada (perempuan, tunggal) susu, payudara	-	-	37	FALSE		
 45	tepel	nipple	puting susu	35	37	38	FALSE		
 46	melk	breast milk	air susu	36	38	39	FALSE		
 47	zog	breast milk	air susu	37	-	-	FALSE		
-48	zuigen «aan de borst>	to suck at the breast	menyusu	38	39	40	FALSE		
+48	zuigen <aan de borst>	to suck at the breast	menyusu	38	39	40	FALSE		
 49	zogen	to suckle	menyusui	-	-	41	FALSE		ocr error as menyusul
 50	rib	rib	tulang rusuk	69	70	42	FALSE		
 51	long	lung	paru-paru	-	-	43	FALSE		
@@ -125,7 +125,7 @@ Index	Dutch	English	Indonesian	v1894	v1904/1911	v1931	Swadesh	Swadesh_orig	remar
 121	huid	skin	kulit	70	71	101	TRUE		
 122	haar op het lichaam	body hair	bulu	71	72	102	FALSE		
 123	haar op het lichaam (v. dieren)	body hair (animal)	bulu (binatang)	71	72	-	FALSE		
-122/123	haar <unsp.>			71	72	-	FALSE		
+122/123	haar <unsp.>	hair	rambut	71	72	-	FALSE		
 124	zweet	sweat	keringat	73	74	103	FALSE		
 125	speeksel	saliva	ludah	74	75	104	FALSE		
 126	fluim	phlegm	dahak	-	76	105	FALSE		
@@ -143,7 +143,7 @@ Index	Dutch	English	Indonesian	v1894	v1904/1911	v1931	Swadesh	Swadesh_orig	remar
 138	slapen	to sleep	tidur	119	121	114	TRUE	sleep	
 139	dromen	to dream	bermimpi	120	122	115	FALSE		ocr error as bermiupi
 140	droom	dream	impian	120	122	116	FALSE		
-139/140	dromen, droom <unsp.>			120	122	-	FALSE		
+139/140	dromen, droom <unsp.>	dream	mimpi	120	122	-	FALSE		
 141	slaperig	sleepy	mengantuk	-	-	117	FALSE		
 142	ontwaken	to wake up	sadar, bangun	-	-	118	FALSE		
 143	opstaan	to get up	bangun dari duduk, tidur	-	-	119	FALSE		
@@ -177,8 +177,8 @@ Index	Dutch	English	Indonesian	v1894	v1904/1911	v1931	Swadesh	Swadesh_orig	remar
 171	hikken	to hiccup	bersedu	-	-	145	FALSE		
 172	hik	hiccups	tersedu	-	146	-	FALSE		
 173	zich verslikken	to choke	tersedak	-	147	146	FALSE		
-174	boer (oprisping)	belch	sendawa	-	148	147	FALSE		typo in the original as serdawa; should be sendawa
-175	boeren	to belch	bersendawa	-	-	148	FALSE		typo in the original as beserdawa; should be bersendawa
+174	boer (oprisping)	belch	sendawa	-	148	147	FALSE		"typo in the original as serdawa; should be sendawa"
+175	boeren	to belch	bersendawa	-	-	148	FALSE		"typo in the original as beserdawa; should be bersendawa"
 176	gapen	to yawn	menguap	144	149	149	FALSE		
 177	knikken	to nod	mengangguk	145	150	-	FALSE		
 178	zwanger	pregnant	hamil	-	-	150	FALSE		
@@ -251,10 +251,10 @@ Index	Dutch	English	Indonesian	v1894	v1904/1911	v1931	Swadesh	Swadesh_orig	remar
 242	vrouw	woman	orang perempuan	76	78	194	TRUE		
 243	mannelijk (v.d. mens)	male (human)	laki-laki	110	111	195	FALSE		
 244	mannelijk (v.d.dieren)	male (animal)	jantan	110	111	195	FALSE		
-243/244	mannelijk <unsp.>			110	111	195	FALSE		
+243/244	mannelijk <unsp.>	male	pria	110	111	195	FALSE		
 245	vrouwelijk (v.d.mens)	female (human)	perempuan	112	113	196	FALSE		
 246	vrouwelijk (v.d. dieren)	female (animal)	betina	112	113	196	FALSE		
-245/246	vrouwelijk <unsp.>			112	113	196	FALSE		
+245/246	vrouwelijk <unsp.>	female	perempuan	112	113	196	FALSE		
 247	jongeling	youth (male)	pemuda (laki-laki)	-	-	197	FALSE		
 248	maagd	virgin	gadis	77	79	-	FALSE		
 249	maagdom	virginity	perawan, kegadisan	77	79	-	FALSE		
@@ -268,7 +268,7 @@ Index	Dutch	English	Indonesian	v1894	v1904/1911	v1931	Swadesh	Swadesh_orig	remar
 256	moeder	mother	ibu	81	83	202	TRUE		
 257	oudste kind	oldest child	anak sulung	82	84	204	FALSE		
 258	jongste kind	youngest child	anak bungsu	82	84	205	FALSE		
-257/258	kind <unsp.>			82	84	203	TRUE		
+257/258	kind <unsp.>	child	anak	82	84	203	TRUE		
 259	klein kind (man)	little child (male)	kanak-kanak (laki-laki)	-	-	206	FALSE		
 260	klein kind (vrouw)	little child (female)	kanak-kanak (perempuan)	-	-	206	FALSE		
 259/260	klein kind <unsp.>			-	-	206	FALSE		
@@ -290,7 +290,7 @@ Index	Dutch	English	Indonesian	v1894	v1904/1911	v1931	Swadesh	Swadesh_orig	remar
 274	kleinkind	grandchild	cucu	94	95	211	FALSE		
 275	oom <FB>	uncle FB	paman FB	95	96	212	FALSE		
 276	oom <MB>	uncle MB	paman MB	95	96	212	FALSE		
-275/276	oom <unsp.>			95	96	212	FALSE		
+275/276	oom <unsp.>	uncle	paman	95	96	212	FALSE		
 277	oom <FBo>	uncle FBo	paman FBo	96	97	-	FALSE		
 278	oom <FBy>	uncle FBy	paman FBy	96	97	-	FALSE		
 279	oom <MBo>	uncle MBo	paman MBo	96	97	-	FALSE		
@@ -300,7 +300,7 @@ Index	Dutch	English	Indonesian	v1894	v1904/1911	v1931	Swadesh	Swadesh_orig	remar
 278/280	oom <unsp.>			96	97	-	FALSE		
 281	tante <FZ>	aunt FZ	bibi FZ	97	98	213	FALSE		
 282	tante <MZ>	aunt MZ	bibi MZ	97	98	213	FALSE		
-281/282	tante <unsp.>			97	98	213	FALSE		
+281/282	tante <unsp.>	aunt	tante	97	98	213	FALSE		
 283	tante <FZo>	aunt FZo	bibi FZo	97	98	-	FALSE		
 284	tante <FZy>	aunt FZy	bibi FZy	97	98	-	FALSE		
 285	tante <MZo>	aunt MZo	bibi MZo	97	98	-	FALSE		
@@ -339,7 +339,7 @@ Index	Dutch	English	Indonesian	v1894	v1904/1911	v1931	Swadesh	Swadesh_orig	remar
 303	stiefdochter	stepdaughter	anak tiri perempuan	102	103	-	FALSE		
 302/303	stiefzoon, stiefdochter <unsp.>			102	103	-	FALSE		
 304	stiefouders	stepparents	ayah dan ibu tiri	103	104	-	FALSE		
-305	aangenomen kind	adopted child	anak pungut ; anak angkat	104	105	-	FALSE		
+305	aangenomen kind	adopted child	"anak pungut ; anak angkat"	104	105	-	FALSE		
 306	zwager <WB>	brother-in-law WB	ipar laki-laki WB	-	-	219	FALSE		
 307	zwager <HB>	brother-in-law HB	ipar laki-laki HB	-	-	219	FALSE		
 306/307	zwager <unsp.>			-	-	219	FALSE		
@@ -391,7 +391,7 @@ Index	Dutch	English	Indonesian	v1894	v1904/1911	v1931	Swadesh	Swadesh_orig	remar
 346	geloof	religion	agama	216	-	-	FALSE		
 347	aanbidden	to worship	menyembah	217	219	-	FALSE		
 348	levensgeest, levenskracht	vital spirit, vitality	semangat	-	-	233	FALSE		
-349	god	god	allah ; tuhan	-	-	234	FALSE		I add a generic term tuhan for god
+349	god	god	"allah ; tuhan"	-	-	234	FALSE		I add a generic term tuhan for god
 350	voorouderbeeld	statue representing an ancestor/ancestors	patung nenek moyang	-	-	235	FALSE		
 351	schrift	writing	tulisan	218	220	-	FALSE		
 352	letter	letter	huruf	219	221	-	FALSE		
@@ -406,7 +406,7 @@ Index	Dutch	English	Indonesian	v1894	v1904/1911	v1931	Swadesh	Swadesh_orig	remar
 361	hel	hell	neraka	229	-	-	FALSE		
 362	onderwereld of ander zielenland	underworld	dunia orang mati	230	229	232	FALSE		
 363	benedenwereld	underworld	dunia orang mati	232	-	-	FALSE		
-364	bovenwereld	the upper world	dunia atas ; kayangan	231	230	-	FALSE		
+364	bovenwereld	the upper world	"dunia atas ; kayangan"	231	230	-	FALSE		
 365	bevolking	population	penduduk	233	231	-	FALSE		
 366	leven hiernamaals	the afterlife	kehidupan setelah mati	234	232	-	FALSE		
 367	deugd (goed zijn)	virtue	kebajikan	235	233	-	FALSE		
@@ -452,7 +452,7 @@ Index	Dutch	English	Indonesian	v1894	v1904/1911	v1931	Swadesh	Swadesh_orig	remar
 406	tandenvijlen en snijden	filing of the teeth	potong gigi	-	-	257	FALSE		
 407	huwen (v.d. man) huwelijk	to marry, to take a wife, marriage	kawin/menikah, berbini, perkawinan	-	-	258	FALSE		
 408	huwen (v.d. vrouw) huwelijk	to marry, to take a husband, marriage	kawin/menikah, berlaki, perkawinan	-	-	258	FALSE		
-407/408	huwen <unsp.> huwelijk			246	244	258	FALSE		
+407/408	huwen <unsp.> huwelijk	marry, marriage	menikah, perkawinan	246	244	258	FALSE		
 409	uithuwelijken	to give in marriage	mengawinkan	-	-	259	FALSE		
 410	scheiden	to divorce	bercerai	247	245	260	FALSE		
 411	bruidsschat	bride price	mas kawin	248	246	261	FALSE		
@@ -487,7 +487,7 @@ Index	Dutch	English	Indonesian	v1894	v1904/1911	v1931	Swadesh	Swadesh_orig	remar
 440	nok van het dak	ridge of roof	bubungan	-	267	280	FALSE		
 441	dakbedekking atap:	roofing: thatch	atap	268	268	281	FALSE		
 442	dakbedekking: gespleten bamboe	roofing: bamboo lath	atap: bilah, pelupuh bambu	268	268	-	FALSE		
-441/442	dakbedekking <unsp.>			268	268	-	FALSE		add. Malay
+441/442	dakbedekking <unsp.>	roofing	atap	268	268	-	FALSE		add. Malay
 443	dakbedekking: sirap hout	roofing: wood	atap: sirap (kayu)	269	269	-	FALSE		
 444	dakbedekking: sirap boomschors	roofing: bark	atap: sirap (kulit kayu)	269	269	-	FALSE		
 443/444	dakbedekking sirap <unsp.>			269	269	-	FALSE		
@@ -497,7 +497,7 @@ Index	Dutch	English	Indonesian	v1894	v1904/1911	v1931	Swadesh	Swadesh_orig	remar
 447	voorgalerij	porch	beranda, serambi	-	-	283	FALSE		
 448	deuropening	door opening	pintu	-	-	284	FALSE		
 449	deur	door	daun pintu	270	271	-	FALSE		
-450	vensteropening	window opening	jendela; lobang jendela	-	-	285	FALSE		
+450	vensteropening	window opening	"jendela; lobang jendela"	-	-	285	FALSE		
 451	venster	window	jendela	271	272	-	FALSE		
 452	hoek	corner	sudut	-	273	286	FALSE		
 453	trap	staircase, steps	tangga, anak tangga	272	274	287	FALSE		add. anak tangga
@@ -506,7 +506,7 @@ Index	Dutch	English	Indonesian	v1894	v1904/1911	v1931	Swadesh	Swadesh_orig	remar
 455	opklimmen (in huis)	to climb into a house	naik ke rumah	-	-	288	FALSE		
 456	vloer (van gespleten bamboe)	floor (made from bamboo lath)	lantai (dari bambu)	274	276	-	FALSE		
 457	vloer (van hout)	floor (made from wood)	lantai (dari kayu)	274	276	-	FALSE		
-456/457	vloer <unsp.>			274	276	289	FALSE		
+456/457	vloer <unsp.>	floor	lantai	274	276	289	FALSE		
 458	omwanding (planken)	wall (plank wall)	dinding (papan)	275	277	-	FALSE		
 459	omwanding (bamboe)	wall (bamboo wall)	dinding (bilik)	275	277	-	FALSE		
 458/459	omwanding <unsp.>			275	277	290	FALSE		
@@ -583,7 +583,7 @@ Index	Dutch	English	Indonesian	v1894	v1904/1911	v1931	Swadesh	Swadesh_orig	remar
 525	koken (in bamboe)	to cook in bamboo container	melemang	-	-	330	TRUE	cook	
 526	koken (in een pot)	to cook (in pot)	merebus	-	-	330	TRUE	cook	
 527	koken (stomen)	to steam	mengukus	-	-	330	FALSE		
-525-527	koken <unsp.>			328	329	330	FALSE		
+525-527	koken <unsp.>	to cook	memasak	328	329	330	FALSE		
 528	braden	to bake, to grill, to fry	membakar, panggang menggoreng (dengan minyak)	329	330	-	FALSE		
 529	poffen	to roast (in ashes)	bembam	330	331	331	FALSE		
 530	roosteren	to grill, to roast	panggang	331	332	332	FALSE		
@@ -597,13 +597,13 @@ Index	Dutch	English	Indonesian	v1894	v1904/1911	v1931	Swadesh	Swadesh_orig	remar
 538	vleesspijs	meat	daging	-	-	339	TRUE		
 539	vlees (rauw)	meat (raw)	daging (mentah)	335	336	-	FALSE		
 540	gedroogd vlees	dried meat	dendeng	335	336	340	FALSE		
-539/540	vlees <unsp. >			335	336	-	FALSE		
+539/540	vlees <unsp. >	meat	daging	335	336	-	FALSE		
 541	vis (in het algemeen of in tegenstelling van vlees)	fish	ikan	336/404	337	341	TRUE		
 542	rijst te velde	rice plant	padi yang belum diketam	-	-	342	FALSE		
 543	rijst in de halm	harvested rice	padi yang sudah diketam	-	338	343	FALSE		
 544	gepelde rauwe rijst	husked rice	beras	337	338	344	FALSE		
 545	gekookte rijst	cooked rice	nasi	337	338	345	FALSE		
-544/545	rijst (gepelde rauwe rijst, gekookte rijst) <unsp.>			337	-	-	FALSE		
+544/545	rijst (gepelde rauwe rijst, gekookte rijst) <unsp.>	rice (husked raw rice, cooked rice)	nasi (beras mentah, nasi matang)	337	-	-	FALSE		
 543-545	rijst (rijst in de halm, gepelde rauwe rijst, gekookte rijst <unsp.>			-	338	-	FALSE		
 546	padi	unhusked rice	padi	454	456	-	FALSE		
 547	halm	stalk	tangkai padi, batang padi	455	457	346	FALSE		
@@ -735,7 +735,7 @@ Index	Dutch	English	Indonesian	v1894	v1904/1911	v1931	Swadesh	Swadesh_orig	remar
 661	aanplant	planting, recently planted crop, a newly established garden	penanaman, tumbuh-tumbuhan yg baru ditanam, kebun yg baru ditanam	-	-	428	FALSE		
 662	zaaien (in de pootgaten storten)	to sow (placing the seeds in holes in the ground)	menugal benih	-	-	429	FALSE		
 663	zaaien (strooien)	to sow (scattering the seeds about)	menabur benih	-	-	429	FALSE		originally: menabur behin (typo)
-662/663	zaaien <unsp.>			448	450	429	FALSE		
+662/663	zaaien <unsp.>	sow	tabur	448	450	429	FALSE		
 664	zaad	seed	benih	449	451	-	TRUE		
 665	planten	to plant	menanam	450	452	430	FALSE		
 666	met de voeten dorsen (uittrappen)	to thresh with the feet	injak padi	-	-	431	FALSE		
@@ -745,7 +745,7 @@ Index	Dutch	English	Indonesian	v1894	v1904/1911	v1931	Swadesh	Swadesh_orig	remar
 670	oogsten (van rijst van mais)	to harvest	menuai	-	-	435	FALSE		
 671	oogsten (van een veld)	to reap	menuai	453	455	-	FALSE		
 672	oogsten (van boomvruchten)	to gather	mengumpulkan (buah-buahan)	453	455	-	FALSE		
-671/672	oogsten <unsp.>			453	455	-	FALSE		
+671/672	oogsten <unsp.>	harvest	panen	453	455	-	FALSE		
 673	plukken	to pick	memetik	-	-	436	FALSE		
 674	mais, djagong	maize, corn	jagung	457	459	437	FALSE		
 675	gierst	millet	sekoi, Juwawut	-	-	438	FALSE		
@@ -795,7 +795,7 @@ Index	Dutch	English	Indonesian	v1894	v1904/1911	v1931	Swadesh	Swadesh_orig	remar
 716	pisang (tamme)	banana	pisang	489	492	464	FALSE		
 717	pisang (wilde)	banana (wild)	pisang (liar)	489	492	464	FALSE		
 718	pisang (vrucht)	banana (fruit)	pisang (buah)	-	-	464	FALSE		
-716-718	pisang <unsp.>			489	492	464	FALSE		
+716-718	pisang <unsp.>	banana	pisang	489	492	464	FALSE		
 719	djeruk (soorten)	species of citrus fruit	macam-macam Jeruk	-	-	465	FALSE		
 720	sinaasappel	orange	jeruk manis	491	494	-	FALSE		
 721	pompelmoes	grape fruit	Citrus paradisi	492	495	-	FALSE		
@@ -819,12 +819,12 @@ Index	Dutch	English	Indonesian	v1894	v1904/1911	v1931	Swadesh	Swadesh_orig	remar
 738	omhakken	to cut down	menebang	-	-	475	FALSE		
 739	tak (grote)	branch	dahan, cabang	-	-	477	FALSE		
 740	tak (kleine)	twig	ranting	-	-	477	FALSE		
-739/740	tak <unsp.>			542	550	477	FALSE		
+739/740	tak <unsp.>	branch	cabang	542	550	477	FALSE		
 741	kernhout	the heart of the tree	hati kayu (pohon)	-	551	478	FALSE		
 742	hoofdwortel, penwortel	main root, taproot	ibu akar, akar tunggang	543	552	-	FALSE		
 743	zijwortel	side-root	akar samping	543	552	-	FALSE		
 744	haarwortel	fibrous root	akar serabut	543	552	-	FALSE		
-742-744	wortel <unsp.>			543	552	479	TRUE	root	
+742-744	wortel <unsp.>	root	akar	543	552	479	TRUE	root	
 745	liaan	liana	sulur	-	-	480	FALSE		
 746	blad	leaf	daun	544	553	481	TRUE		
 747	afvallen van bladeren	falling of the leaves	daun yang gugur	-	-	482	FALSE		
@@ -1108,7 +1108,7 @@ Index	Dutch	English	Indonesian	v1894	v1904/1911	v1931	Swadesh	Swadesh_orig	remar
 1016	verkopen	to sell	menjual	652	667	702	FALSE		
 1017	lenen (van de schuldenaar)	to borrow	meminjam	-	-	703	FALSE		
 1018	lenen (van de schuldeiser)	to lend to	meminjamkan	-	-	703	FALSE		
-1017/1018	lenen <unsp.>			653	668	703	FALSE		
+1017/1018	lenen <unsp.>	borrow	pinjam	653	668	703	FALSE		
 1019	ruilen	to exchange	menukar	654	669	704	FALSE		
 1020	bieden	to offer	mempersembahkan	655	670	-	FALSE		
 1021	verpanden	to pawn	menggadaikan	656	671	-	FALSE		
@@ -1122,7 +1122,7 @@ Index	Dutch	English	Indonesian	v1894	v1904/1911	v1931	Swadesh	Swadesh_orig	remar
 1026-1028	maten en gewichten <unsp.>			660	674	-	FALSE		
 1029	schip (koopvaardij)	ship (trading vessel)	kapal dagang	661	675	-	FALSE		
 1030	schip (oorlog)	ship (warship)	kapal perang	661	675	-	FALSE		
-1029/1030	schip <unsp.>			661	675	-	FALSE		originally: <unps.>, which should be <unsp.> (typo)
+1029/1030	schip <unsp.>	ship	kapal	661	675	-	FALSE		originally: <unps.>, which should be <unsp.> (typo)
 1031	stoomboot	steamboat	kapal uap	662	676	-	FALSE		
 1032	sloep	rowboat	kapal (sampan)	663	677	-	FALSE		
 1033	prauw	proa, canoe	perahu	664	678	707	FALSE		
@@ -1172,7 +1172,7 @@ Index	Dutch	English	Indonesian	v1894	v1904/1911	v1931	Swadesh	Swadesh_orig	remar
 1072	vet (bijvnw)	fat (adj.)	gemuk	-	-	733	TRUE	fat	
 1073	vet (zelfstnw.)	fat, grease (noun)	lemak	-	-	734	TRUE	fat	
 1074	vet, vettig	greasy	berminyak, berlemak	-	-	734	FALSE		
-1072-1074	ver <unsp.>			690	707	-	FALSE		
+1072-1074	ver <unsp.>	far	jauh	690	707	-	FALSE		
 1075	slank van middel	slim	langsing	691	708	735	FALSE		
 1076	dwerg, dwergachtig	dwarf	orang katai	692	709	-	FALSE		
 1077	geslonken	diminished in size, boiled down, shrunken	susut	-	-	736	FALSE		
@@ -1184,10 +1184,10 @@ Index	Dutch	English	Indonesian	v1894	v1904/1911	v1931	Swadesh	Swadesh_orig	remar
 1082	verlegen, beschaamd	shy, ashamed	malu	-	705	740	FALSE		
 1083	diep (van een rivier)	deep (river)	dalam (sungai)	-	-	741	FALSE		
 1084	diep (van een bord, schotel)	deep (dish)	dalam (piring)	-	-	741	FALSE		
-1083/1084	diep <unsp.>			693	710	741	FALSE		
+1083/1084	diep <unsp.>	deep	dalam	693	710	741	FALSE		
 1085	ondiep (van een rivier)	shallow (river)	dangkal (sungai)	-	-	742	FALSE		
 1086	ondiep (van een bord, schotel)	shallow (dish)	ceper, leper	-	-	742	FALSE		
-1085/1086	ondiep <unspec.>			694	711	742	FALSE		
+1085/1086	ondiep <unspec.>	shallow	dangkal	694	711	742	FALSE		
 1087	hoog	high	tinggi	695	712	743	FALSE		
 1088	laag	low	rendah	696	713	744	FALSE		
 1089	recht	straight	lurus	697	714	745	TRUE		
@@ -1207,15 +1207,15 @@ Index	Dutch	English	Indonesian	v1894	v1904/1911	v1931	Swadesh	Swadesh_orig	remar
 1103	zacht	soft	lembut, lunak	-	-	758	FALSE		
 1104	warm (v. personen)	warm (persons)	hangat	-	-	759	TRUE	warm	
 1105	warm (v. zaken)	warm (things)	hangat, panas	-	-	759	TRUE	warm	
-1104/1105	warm <unsp.>			703	721	759	FALSE		
+1104/1105	warm <unsp.>	hot	panas	703	721	759	FALSE		
 1106	koud (v. personen)	cold (persons)	dingin	-	-	760	TRUE	cold	
 1107	koud (v. zaken)	cold (things)	dingin, sejuk	-	-	760	TRUE	cold	
-1106/1107	koud <unsp.>			704	722	760	FALSE		
+1106/1107	koud <unsp.>	cold	dingin	704	722	760	FALSE		
 1108	bibberen	to shiver	menggigil	-	-	761	FALSE		
 1109	rond (als een stok)	round, circular (as a stick)	bundar (seperti tongkat)	-	-	762	TRUE	round	
 1110	rond (als een bord)	round, circular (as a dish)	bundar (seperti piring)	-	-	762	TRUE	round	
 1111	bolrond	globular, round	bulat	-	-	762	FALSE		
-1109/1110	rond <unsp.>			705	723	762	FALSE		
+1109/1110	rond <unsp.>	round	bulat	705	723	762	FALSE		
 1109-1111	rond, bolrond <unsp.>			-	-	762	FALSE		
 1112	vierkant	square	persegi	706	724	763	FALSE		
 1113	breed	broad	luas, lebar	707	725	764	FALSE		
@@ -1240,17 +1240,17 @@ Index	Dutch	English	Indonesian	v1894	v1904/1911	v1931	Swadesh	Swadesh_orig	remar
 1132	mooi (van persoon)	beautiful (persons)	elok	716	735	783	FALSE		
 1133	mooi (van man)	beautiful (male)	tampan	716	735	783	FALSE		
 1134	mooi (van vrouw)	beautiful (fem.)	cantik	716	735	783	FALSE		
-1132-1134	mooi <unsp.>			716	735	783	FALSE		
+1132-1134	mooi <unsp.>	nice	bagus	716	735	783	FALSE		
 1135	mooi (van zaak)	beautiful (things)	indah, bagus	716	735	783	FALSE		
 1132-1135	mooi <unsp.>			716	735	783	FALSE		
 1136	lelijk (van persoon)	ugly (persons)	buruk, jelek	717	736	784	FALSE		
 1137	lelijk (van man)	ugly (male)	buruk, jelek	717	736	784	FALSE		
 1138	lelijk (van vrouw)	ugly (female)	buruk, jelek	717	736	784	FALSE		
-1136-1138	lelijk <unsp.>			717	736	784	FALSE		
+1136-1138	lelijk <unsp.>	ugly	jelek	717	736	784	FALSE		
 1139	lelijk (van zaak)	ugly (things)	buruk, jelek	717	736	784	FALSE		
 1136-1139	lelijk <unsp.>			717	736	784	FALSE		
 1140	fout, verkeerd, onjuist	wrong, false	salah, keliru	-	-	785	FALSE		
-1141	juist, waar	true, right	benar, betul	-	-	786	TRUE	correct ; right (opp. Wrong)	
+1141	juist, waar	true, right	benar, betul	-	-	786	TRUE	"correct ; right (opp. Wrong)"	
 1142	leeg	empty	kosong	719	737	787	FALSE		
 1143	vol	full	penuh	720	738	788	TRUE		
 1144	boos	angry	marah	-	-	789	FALSE		
@@ -1260,7 +1260,7 @@ Index	Dutch	English	Indonesian	v1894	v1904/1911	v1931	Swadesh	Swadesh_orig	remar
 1146/1147	vast <unsp.>			723	740	791	FALSE		
 1148	los	loose	lepas	-	-	792	FALSE		
 1149	los	loosely fitting	longgar, kendur	-	-	792	FALSE		
-1148/1149	los <unsp.>			724	741	792	FALSE		
+1148/1149	los <unsp.>	loose	longgar	724	741	792	FALSE		
 1150	oud	old	tua	725	742	793	TRUE		
 1151	oud (van zaken)	old, worn	lama, kuno	-	-	794	TRUE		
 1152	jong	young	muda	726	743	795	FALSE		
@@ -1339,7 +1339,7 @@ Index	Dutch	English	Indonesian	v1894	v1904/1911	v1931	Swadesh	Swadesh_orig	remar
 1222	waken	to wake, to watch	berjaga (dgn. sengaja tidak tidur)	757	775	853	FALSE		
 1223	wakker zijn	to be awake	bangun, terjaga, tidak tidur	757	775	-	FALSE		
 1224	bewaken	to guard, to watch	menjaga	757	775	854	FALSE		
-1222-1224	(be)waken <unsp.>			757	775	-	FALSE		
+1222-1224	(be)waken <unsp.>	to watch, to guard	menjaga	757	775	-	FALSE		
 1225	loeren	to spy	mengintai	758	776	-	FALSE		
 1226	wachten	to wait	menunggu	-	-	855	FALSE		
 1227	horen	to hear	mendengar	-	777	856	TRUE	hear	
@@ -1361,7 +1361,7 @@ Index	Dutch	English	Indonesian	v1894	v1904/1911	v1931	Swadesh	Swadesh_orig	remar
 1242	wensen	to wish	mengharapkan	772	798	-	FALSE		
 1243	willen	to want	hendak	772	798	867	FALSE		
 1244	iets willen	to want something	menghendaki sesuatu	772	798	-	FALSE		
-1242-1244	wensen, willen, iets willen <unsp.>			772	798	-	FALSE		
+1242-1244	wensen, willen, iets willen <unsp.>	wish, want, want something	berharap, ingin, menginginkan sesuatu	772	798	-	FALSE		
 1245	openen	to open	membuka	760	784	868	FALSE		
 1246	dicht doen	to close	menutup	761	785	869	FALSE		
 1247	afsnijden	to cut off	memotong	-	-	870	FALSE		
@@ -1381,14 +1381,14 @@ Index	Dutch	English	Indonesian	v1894	v1904/1911	v1931	Swadesh	Swadesh_orig	remar
 1259	knijpen, persen	to pinch, to squeeze	menjepit, menekan	-	789	878	TRUE	squeeze	
 1260	beginnen (overg.)	to begin (tr.)	mulai (tr.)	765	790	879	FALSE		
 1261	beginnen (onoverg.)	to begin (intr.)	mulai (intr.)	765	790	879	FALSE		
-1260/1261	beginnen <unsp.>			765	790	879	FALSE		
+1260/1261	beginnen <unsp.>	to start	mulai	765	790	879	FALSE		
 1262	eindigen (overg.)	to finish (tr.)	menyudahi (tr.)	766	791	880	FALSE		
 1263	eindigen (onoverg.)	to finish (intr.)	berhenti, selesai (intr.)	766	791	880	FALSE		
-1262/1263	eindigen <unsp.>			766	791	880	FALSE		
+1262/1263	eindigen <unsp.>	to end	berakhir	766	791	880	FALSE		
 1264	binden (op allerlei wijzen)	to bind, to tie	mengikat	767	792	881	TRUE	tie	
 1265	verbergen (iets)	to hide (something to hide)	menyembunyikan (sesuatu)	768	793	882	FALSE		
 1266	zich verbergen	to hide	bersembunyi	768	793	883	FALSE		
-1265/1266	verbergen, zich verbergen <unsp.>			768	793	-	FALSE		
+1265/1266	verbergen, zich verbergen <unsp.>	to hide	menyembunyikan	768	793	-	FALSE		
 1267	vragen	to ask	bertanya	148	153	884	FALSE		
 1268	antwoorden	to answer	menjawab	149	154	885	FALSE		
 1269	vragen om iets	to ask for	meminta	769	794	886	FALSE		
@@ -1400,7 +1400,7 @@ Index	Dutch	English	Indonesian	v1894	v1904/1911	v1931	Swadesh	Swadesh_orig	remar
 1275	gooien, werpen	to throw	melempar, melontar	-	-	892	TRUE	throw	
 1276	verbranden (overg.)	to burn (tr.)	membakar (tr.)	759	783	893	TRUE	burn	
 1277	branden (onoverg.)	to burn (intr.)	sedang terbakar (intr.)	759	783	894	TRUE	burn	
-1276/1277	verbranden (overg.) branden (onoverg.) <unsp.>			759	783	-	FALSE		
+1276/1277	verbranden (overg.) branden (onoverg.) <unsp.>	to burn	membakar	759	783	-	FALSE		
 1278	graven	to dig	menggali	773	799	895	TRUE	dig	
 1279	gaan	to go	pergi	-	-	896	FALSE		
 1280	daarheen gaan	to go there	pergi ke sana	-	-	897	FALSE		
@@ -1457,16 +1457,16 @@ Index	Dutch	English	Indonesian	v1894	v1904/1911	v1931	Swadesh	Swadesh_orig	remar
 1329	tweemaal	twice	dua kali	902	913	938	FALSE		
 1330	de eerste (van ruimtelijke opeenvolging)	first (in space)	pertama	-	-	939	FALSE		
 1331	de eerste (van een opeenvolging in de tijd)	first (in time)	pertama kali	-	-	939	FALSE		
-1330/1331	de eerste <unsp.>			903	914	939	FALSE		
+1330/1331	de eerste <unsp.>	the first	pertama	903	914	939	FALSE		
 1332	de tweede (van een ruimtelijke opeenvolging)	second (in space)	kedua	-	-	940	FALSE		
 1333	de tweede (van een opeenvolging in de tijd)	second (in time)	kedua kali	-	-	940	FALSE		
-1332/1333	de tweede <unsp.>			904	915	940	FALSE		
+1332/1333	de tweede <unsp.>	the second	kedua	904	915	940	FALSE		
 1334	de derde (van een ruimtelijke opeenvolging)	third (in space)	ketiga	-	-	941	FALSE		
 1335	de derde (van een opeenvolging in de tijd)	third (in time)	ketiga kali	-	-	941	FALSE		
 1334/1335	de derde <unsp.>			-	-	941	FALSE		
 1336	de laatste (van een ruimtelijke opeenvolging)	the last (in space)	terakhir	-	-	942	FALSE		
 1337	de laatste (van een opeenvolging in de tijd)	the last (in time)	terakhir kali	-	-	942	FALSE		
-1336/1337	de laatste <unsp.>			905	916	942	FALSE		
+1336/1337	de laatste <unsp.>	the last	yang terakhir	905	916	942	FALSE		
 1338	hoeveel	how much, how many	berapa	825	842	943	FALSE		
 1339	veel	many, much	banyak	826	843	944	TRUE	many	
 1340	weinig	few, a little	sedikit	827	844	945	TRUE	few	
@@ -1500,23 +1500,23 @@ Index	Dutch	English	Indonesian	v1894	v1904/1911	v1931	Swadesh	Swadesh_orig	remar
 1366	wij (met uitsluiting der toegesproken persoon)	we (exclusive)	kami (kata ganti orang ke II jamak)	841	857	965	TRUE	we (excl.)	
 1367	zij (meerv. female)	they (female)	mereka, kata ganti orang ke III jamak (perempuan)	-	-	967	TRUE	they	
 1368	zij (meerv.male)	they (male)	mereka, kata ganti orang ke III jamak (laki-laki)	-	-	967	TRUE	they	
-1364/1367/1368	zij <unsp.>			845	860	-	FALSE		
+1364/1367/1368	zij <unsp.>	they	mereka	845	860	-	FALSE		
 1367/1368	zij <unsp.>			-	-	967	FALSE		
 1369	mijn (enk.)	my (sing.)	kata ganti empunya orang ke I tunggal	846	861	968	FALSE		
 1370	mijn (meerv.)	my (pl.)	kata ganti empunya orang ke I jamak	846	861	-	FALSE		
-1369/1370	mijn <unsp.>			846	861	-	FALSE		
+1369/1370	mijn <unsp.>	mine	kata ganti empunya orang ke I	846	861	-	FALSE		
 1371	ons	our (inclusive)	kata ganti empunya orang ke I jamak (inclusive)	-	-	969	FALSE		
 1372	onze	our (exclusive)	kata ganti empunya orang ke I jamak (exclusive)	-	-	969	FALSE		
 1371/1372	ons, onze <unsp.>			-	-	969	FALSE		
 1373	uw (enk.)	your (sing.)	kata ganti empunya orang ke II tunggal	847	862	970	FALSE		
 1374	uw (meerv.)	your (pl.)	kata ganti empunya orang ke II jamak	847	862	970	FALSE		
-1373/1374	uw <unsp.>			847	862	970	FALSE		
+1373/1374	uw <unsp.>	your	kata ganti empunya orang ke II	847	862	970	FALSE		
 1375	hun (vrouw)	their (female)	kata ganti empunya orang ke III jamak (perempuan)	-	-	971	FALSE		
 1376	hun (man)	their (male)	kata ganti empunya orang ke III jamak (laki-laki)	-	-	971	FALSE		
-1375/1376	hun <unsp.>			848	863	971	FALSE		
+1375/1376	hun <unsp.>	their	kata ganti empunya orang ke III jamak	848	863	971	FALSE		
 1377	haar	her	kata ganti empunya orang ke III tunggal (perempuan)	-	-	972	FALSE		
 1378	zijn	his	kata ganti empunya orang ke III tunggal (laki-laki)	849	864	972	FALSE		
-1377/1378	haar, zijn <unsp.>			-	-	972	FALSE		
+1377/1378	haar, zijn <unsp.>	her, his	kata ganti empunya orang ke III tunggal	-	-	972	FALSE		
 1379	wie	who?	siapa	850	865	973	TRUE	who	
 1380	wat	what?	apa	851	866	974	TRUE	what	
 1381	welk huls	which house?	rumah mana	-	-	975	FALSE		
@@ -1525,7 +1525,7 @@ Index	Dutch	English	Indonesian	v1894	v1904/1911	v1931	Swadesh	Swadesh_orig	remar
 1384	die (bij U)	that	itu	-	-	977	TRUE		
 1385	die (dicht bij)	that (nearby)	itu (dekatmu)	854	869	-	FALSE		
 1386	die (veraf)	that (faraway)	itu (di sana)	854	869	-	TRUE	that	
-1385/1386	die <unsp.>			854	869	-	FALSE		
+1385/1386	die <unsp.>	that	itu	854	869	-	FALSE		
 1387	gindse	overthere, yonder	itu (di sana)	-	-	978	FALSE		
 1388	hier	here	di sini	855	870	979	TRUE		
 1389	daar (bij U)	there (near hearer)	di situ (di sebelah pendengar)	856	871	980	FALSE		
@@ -1553,10 +1553,10 @@ Index	Dutch	English	Indonesian	v1894	v1904/1911	v1931	Swadesh	Swadesh_orig	remar
 1411	vroeger	formerly	tempo hari	793	812	993	FALSE		
 1412	voor (v.plaats)	before (place)	di muka	794	813	-	FALSE		
 1413	voor (v.tijd)	before (time)	sebelum	794	813	-	FALSE		
-1412/1413	voor <unsp.>			794	813	-	FALSE		
+1412/1413	voor <unsp.>	before	sebelum	794	813	-	FALSE		
 1414	voorheen	formerly	dahulu kala	795	-	-	FALSE		
 1415	later	later	kelak	-	-	994	FALSE		
-1416	zoëven	a moment ago	tadi	797	815	995	FALSE		
+1416	zoe_ven	a moment ago	tadi	797	815	995	FALSE		
 1417	eventjes, een ogenblikje	a moment	seketika, sebentar	-	-	996	FALSE		
 1418	gisteren	yesterday	kemarin	798	816	997	FALSE		
 1419	eergisteren	the day before yesterday	kemarin dulu	799	817	998	FALSE		
@@ -1618,7 +1618,7 @@ Index	Dutch	English	Indonesian	v1894	v1904/1911	v1931	Swadesh	Swadesh_orig	remar
 1473	niet (tidak)	not, no	tidak	-	-	1041	TRUE	not	
 1474	niet (bukan)	not, no	bukan	863	878	1041	TRUE	not	
 1475	niet (jangan)	not, no	jangan	863	878	1041	TRUE	not	
-1473-1475	niet <unsp.>			863	878	1041	FALSE		
+1473-1475	niet <unsp.>	not	tidak, bukan, jangan	863	878	1041	FALSE		
 1476	wel, ja wel	yes, right, indeed	ya, benar, betul	864	879	-	FALSE		
 1477	slechts	only	hanya	865	880	1042	FALSE		
 1478	bijna	almost	hampir	867	882	1043	FALSE		

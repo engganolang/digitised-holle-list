@@ -41,6 +41,7 @@ Adam's apple	39	802	ADAM'S APPLE	2	y
 nape	40	1347	NAPE (OF NECK)	2	y
 chest, breast (male)	41	1592	CHEST	4	y
 breasts (female)	42	1402	BREAST	4	y
+breasts	41/42	1402	BREAST		y
 breast	43	1402	BREAST	2	y
 breast (female)	44	2129	BREAST OR MILK	2	y
 nipple	45	796	NIPPLE	2	y
@@ -122,6 +123,7 @@ sinew, nerve	120	1137	TENDON	4	y
 skin	121	763	SKIN	2	y
 body hair	122	189	HAIR (BODY)	2	y
 body hair (animal)	123	580	FUR	4	y
+hair	122/123	1040	HAIR		y
 sweat	124	125	SWEAT (SUBSTANCE)	2	y
 saliva	125	1503	SALIVA	2	y
 phlegm	126	3061	PHLEGM	2	y
@@ -139,6 +141,7 @@ to swallow	137	897	SWALLOW	1	y
 to sleep	138	1585	SLEEP	1	y
 to dream	139	1920	DREAM (SOMETHING)	1	y
 dream	140	2374	DREAM	2	y
+dream	139/140	2455	DREAMING OR DREAM		y
 sleepy	141	3620	SLEEPY	2	y
 to wake up	142	1602	WAKE UP	1	y
 to get up	143	1512	RISE (ONESELF)	1	y
@@ -243,8 +246,10 @@ man	241	2106	MALE PERSON	2	y
 woman	242	962	WOMAN	2	y
 male (human)	243	2261	MALE (OF PERSON)	4	y
 male (animal)	244	2263	MALE (OF ANIMAL)	2	y
+male	243/244	1553	MALE		y
 female (human)	245	2260	FEMALE (OF PERSON)	4	y
 female (animal)	246	2262	FEMALE (OF ANIMAL)	4	y
+female	245/246	1551	FEMALE		y
 youth (male)	247	76	YOUNG MAN	4	y
 virgin	248	2298	VIRGIN	2	y
 virginity	249				y
@@ -257,6 +262,7 @@ father	255	1217	FATHER	2	y
 mother	256	1216	MOTHER	2	y
 oldest child	257				y
 youngest child	258				y
+child	257/258	2099	CHILD		y
 little child (male)	259	1366	BOY		y
 little child (female)	260	1646	GIRL		y
 son	261	1620	SON	2	y
@@ -279,12 +285,14 @@ uncle FBo	277	2173	PATERNAL UNCLE (FATHER'S OLDER BROTHER)		y
 uncle FBy	278	2174	PATERNAL UNCLE (FATHER'S YOUNGER BROTHER)		y
 uncle MBo	279	3249	MATERNAL UNCLE (MOTHER'S OLDER BROTHER)		y
 uncle MBy	280	3250	MATERNAL UNCLE (MOTHER'S YOUNGER BROTHER)		y
+uncle	275/276	1327	UNCLE		y
 aunt FZ	281	2691	PATERNAL AUNT (FATHER'S SISTER)		y
 aunt MZ	282	2693	MATERNAL AUNT (MOTHER'S SISTER)		y
 aunt FZo	283	3041	PATERNAL AUNT (FATHER'S OLDER SISTER)		y
 aunt FZy	284				y
 aunt MZo	285	3042	MATERNAL AUNT (MOTHER'S OLDER SISTER)		y
 aunt MZy	286	3043	MATERNAL AUNT (MOTHER'S YOUNGER SISTER)		y
+aunt	281/282	1272	AUNT		y
 nephew BoS	287	1063	NEPHEW		y
 nephew ByS	288	1063	NEPHEW		y
 nephew ZoS	289	1063	NEPHEW		y
@@ -407,6 +415,7 @@ to circumcise	405	393	CIRCUMCISION		y
 filing of the teeth	406	3113	FILE (SOMETHING)		y
 to marry, to take a wife, marriage	407	2164	MARRY (AS MAN)	3	y
 to marry, to take a husband, marriage	408	2163	MARRY (AS WOMAN)	3	y
+marry, marriage	407/408	3182	MARRIAGE OR WEDDING		y
 to give in marriage	409				y
 to divorce	410	3672	DIVORCE (SEPARATE)	3	y
 bride price	411	3024	BRIDE PRICE	2	y
@@ -441,6 +450,7 @@ roof	439	769	ROOF	2	y
 ridge of roof	440	280	RIDGEPOLE		y
 roofing: thatch	441	279	THATCH	4	y
 roofing: bamboo lath	442	279	THATCH		y
+roofing	441/442	769	ROOF		y
 roofing: wood	443	279	THATCH	4	y
 roofing: bark	444	279	THATCH	4	y
 roofing: other materials	445	769	ROOF		y
@@ -456,6 +466,7 @@ ladder	454	1464	LADDER	2	y
 to climb into a house	455	1102	CLIMB		y
 floor (made from bamboo lath)	456	1632	FLOOR	4	y
 floor (made from wood)	457	1632	FLOOR	4	y
+floor	456/457	1632	FLOOR		y
 wall (plank wall)	458	3830	WALL	4	y
 wall (bamboo wall)	459	3830	WALL	4	y
 midrib of palm frond	460				y
@@ -526,6 +537,7 @@ earthen water barrel	524	2055	CLAY POT		y
 to cook in bamboo container	525	1100	COOK (SOMETHING)		y
 to cook (in pot)	526	1100	COOK (SOMETHING)	3	y
 to steam	527	2067	STEAM (VERB)	1	y
+to cook	525-527	1100	COOK (SOMETHING)		y
 to bake, to grill, to fry	528	183	BAKE	3	y
 to roast (in ashes)	529	1962	ROAST (SOMETHING)	3	y
 to grill, to roast	530	1962	ROAST (SOMETHING)	4	y
@@ -539,11 +551,13 @@ vegetables	537	924	VEGETABLES	2	y
 meat	538	2615	FLESH OR MEAT	2	y
 meat (raw)	539	2615	FLESH OR MEAT	4	y
 dried meat	540	634	MEAT		y
+meat	539/540	2615	FLESH OR MEAT		y
 fish	541	227	FISH	2	y
 rice plant	542	2026	RICE PLANT	2	y
 harvested rice	543	3289	UNCOOKED RICE		y
 husked rice	544	926	RICE	2	y
 cooked rice	545	1191	COOKED RICE	2	y
+rice (husked raw rice, cooked rice)	544/545	926	RICE		y
 unhusked rice	546	2749	UNHUSKED RICE	2	y
 stalk	547	2628	PLANT STEM	2	y
 ear of rice, corn	548	605	GRAIN	4	y
@@ -662,6 +676,7 @@ vegetation	660	653	PLANT (VEGETATION)	2	y
 planting, recently planted crop, a newly established garden	661	653	PLANT (VEGETATION)		y
 to sow (placing the seeds in holes in the ground)	662	1486	PLANT (SOMETHING)	3	y
 to sow (scattering the seeds about)	663	748	SOW SEEDS	3	y
+sow	662/663	748	SOW SEEDS		y
 seed	664	714	SEED	2	y
 to plant	665	1486	PLANT (SOMETHING)	1	y
 to thresh with the feet	666	575	TREAD		y
@@ -671,6 +686,7 @@ unripe	669	1958	UNRIPE	2	y
 to harvest	670	1827	HARVEST CROPS	4	y
 to reap	671	1827	HARVEST CROPS	1	y
 to gather	672	1827	HARVEST CROPS	1	y
+harvest	671/672	611	HARVEST		y
 to pick	673	2148	PICK	1	y
 maize, corn	674	506	MAIZE	2	y
 millet	675	931	MILLET	2	y
@@ -717,6 +733,7 @@ Averrhoa blimbi	715				y
 banana	716	868	BANANA	2	y
 banana (wild)	717	399	PLANTAIN	4	y
 banana (fruit)	718	868	BANANA	2	y
+banana	716-718	868	BANANA		y
 species of citrus fruit	719	1126	CITRUS FRUIT		y
 orange	720	2627	ORANGE (FRUIT)	2	y
 grape fruit	721	920	GRAPE		y
@@ -739,10 +756,12 @@ to climb	737	1102	CLIMB	1	y
 to cut down	738	355	CUT DOWN	1	y
 branch	739	1531	BRANCH	2	y
 twig	740	3222	TWIG	2	y
+branch	739/740	1531	BRANCH		y
 the heart of the tree	741	1803	WOOD		y
 main root, taproot	742	670	ROOT		y
 side-root	743	670	ROOT		y
 fibrous root	744	670	ROOT		y
+root	742-744	670	ROOT		y
 liana	745	2388	LIANA	2	y
 leaf	746	628	LEAF	2	y
 falling of the leaves	747	628	LEAF		y
@@ -1017,6 +1036,7 @@ to pay	1015	718	PAY	1	y
 to sell	1016	1571	SELL	1	y
 to borrow	1017	1823	BORROW	1	y
 to lend to	1018	582	LEND		y
+borrow	1017/1018	1823	BORROW		y
 to exchange	1019	2509	EXCHANGE	1	y
 to offer	1020	196	DONATE		y
 to pawn	1021				y
@@ -1029,6 +1049,7 @@ measures and weights (mass)	1027	2466	WEIGHT		y
 measures and weights (volume and capacity)	1028	3967	CONTENT		y
 ship (trading vessel)	1029	740	SHIP	4	y
 ship (warship)	1030	740	SHIP	4	y
+ship	1029/1030	740	SHIP		y
 steamboat	1031	1844	BOAT		y
 rowboat	1032	1844	BOAT		y
 proa, canoe	1033	1970	CANOE	4	y
@@ -1073,6 +1094,7 @@ thin, meagre, skinny	1071	1400	THIN (SLIM)	4	y
 fat (adj.)	1072	1279	FAT (OBESE)	2	y
 fat, grease (noun)	1073	323	FAT (ORGANIC SUBSTANCE)	3	y
 greasy	1074	955	GREASY	2	y
+far	1072-1074	1406	FAR		y
 slim	1075	1400	THIN (SLIM)	2	y
 dwarf	1076				y
 diminished in size, boiled down, shrunken	1077	54	SHRINK		y
@@ -1083,8 +1105,10 @@ wary, shy, timid	1081	487	SHY	4	y
 shy, ashamed	1082	3805	SHY OR ASHAMED	2	y
 deep (river)	1083	1593	DEEP	4	y
 deep (dish)	1084	1593	DEEP	4	y
+deep	1083/1084	1593	DEEP		y
 shallow (river)	1085	193	SHALLOW	4	y
 shallow (dish)	1086	193	SHALLOW	4	y
+shallow	1085/1086	193	SHALLOW		y
 high	1087	2790	HIGH OR TALL	2	y
 low	1088	721	LOW	2	y
 straight	1089	1404	STRAIGHT	2	y
@@ -1104,11 +1128,14 @@ weak	1102	1601	WEAK	2	y
 soft	1103	1856	SOFT	2	y
 warm (persons)	1104	3299	KIND	4	y
 warm (things)	1105	1232	WARM	4	y
+hot	1104/1105	2272	HOT OR WARM		y
 cold (persons)	1106	3955	HOSTILITY	4	y
 cold (things)	1107	1287	COLD	4	y
+cold	1106/1107	1287	COLD		y
 to shiver	1108	52	SHIVER	1	y
 round, circular (as a stick)	1109	1395	ROUND	4	y
 round, circular (as a dish)	1110	1395	ROUND	4	y
+round	1109/1110	1395	ROUND		y
 globular, round	1111	2303	SPHERICAL (ROUND IN THREE DIMENSIONS)	4	y
 square	1112	850	SQUARE	2	y
 broad	1113	2531	BROAD	2	y
@@ -1133,10 +1160,12 @@ bad	1131	1292	BAD	2	y
 beautiful (persons)	1132	1427	BEAUTIFUL	4	y
 beautiful (male)	1133	3814	HANDSOME	4	y
 beautiful (fem.)	1134	2410	GOOD-LOOKING	4	y
+nice	1132-1134	1035	GOOD		y
 beautiful (things)	1135	1035	GOOD	4	y
 ugly (persons)	1136	1548	UGLY	4	y
 ugly (male)	1137	1548	UGLY	4	y
 ugly (female)	1138	1548	UGLY	4	y
+ugly	1136-1138	1548	UGLY		y
 ugly (things)	1139	1548	UGLY	4	y
 wrong, false	1140	1390	WRONG	4	y
 true, right	1141	1657	TRUE	4	y
@@ -1148,6 +1177,7 @@ tightly bound	1146	1094	FASTEN		y
 tightly fitting	1147	1094	FASTEN		y
 loose	1148	2506	LOOSE	2	y
 loosely fitting	1149	2506	LOOSE		y
+loose	1148/1149	2506	LOOSE		y
 old	1150	1229	OLD	2	y
 old, worn	1151	2113	OLD (USED)	4	y
 young	1152	1207	YOUNG	2	y
@@ -1222,6 +1252,7 @@ to carry in front of oneself	1221				y
 to wake, to watch	1222	1602	WAKE UP	3	y
 to be awake	1223	825	AWAKE	1	y
 to guard, to watch	1224	1940	GUARD	3	y
+to watch, to guard	1222-1224	1940	GUARD		y
 to spy	1225				y
 to wait	1226	1590	WAIT (FOR)	1	y
 to hear	1227	1408	HEAR	1	y
@@ -1242,6 +1273,7 @@ to approve	1241	3643	AGREE		y
 to wish	1242	2117	DESIRE	1	y
 to want	1243	1784	WANT	1	y
 to want something	1244	1784	WANT		y
+wish, want, want something	1242-1244	2117	DESIRE		y
 to open	1245	1156	OPEN	1	y
 to close	1246	1046	SHUT	1	y
 to cut off	1247	1432	CUT		y
@@ -1259,11 +1291,14 @@ shattered	1258	3191	BROKEN (SHATTERED)		y
 to pinch, to squeeze	1259	1414	SQUEEZE	3	y
 to begin (tr.)	1260	1806	BEGIN	1	y
 to begin (intr.)	1261	3449	START	3	y
+to start	1260/1261	3449	START		y
 to finish (tr.)	1262	1766	FINISH	3	y
 to finish (intr.)	1263	2115	CEASE OR FINISH	3	y
+to end	1262/1263	2115	CEASE OR FINISH		y
 to bind, to tie	1264	1917	TIE	3	y
 to hide (something to hide)	1265	602	HIDE (CONCEAL)	3	y
 to hide	1266	2486	HIDE	1	y
+to hide	1265/1266	602	HIDE (CONCEAL)		y
 to ask	1267	1309	ASK (INQUIRE)	1	y
 to answer	1268	1275	ANSWER	1	y
 to ask for	1269	1828	ASK (REQUEST)	1	y
@@ -1275,6 +1310,7 @@ to throw away	1274	3696	THROW AWAY	1	y
 to throw	1275	1456	THROW	1	y
 to burn (tr.)	1276	141	BURN (SOMETHING)	1	y
 to burn (intr.)	1277	1428	BURNING	1	y
+to burn	1276/1277	141	BURN (SOMETHING)		y
 to dig	1278	1418	DIG	1	y
 to go	1279	695	GO	1	y
 to go there	1280	695	GO		y
@@ -1329,12 +1365,15 @@ once	1328	374	ONE TIME	2	y
 twice	1329	1546	TWICE	2	y
 first (in space)	1330	728	FIRST	4	y
 first (in time)	1331	728	FIRST	4	y
+the first	1330/1331	728	FIRST		y
 second (in space)	1332	1384	SECOND	4	y
 second (in time)	1333	1384	SECOND	4	y
+the second	1332/1333	1384	SECOND		y
 third (in space)	1334	1859	THIRD	4	y
 third (in time)	1335	1859	THIRD	4	y
 the last (in space)	1336	1529	LAST (FINAL)	4	y
 the last (in time)	1337	1529	LAST (FINAL)	4	y
+the last	1336/1337	1529	LAST (FINAL)		y
 how much, how many	1338	822	HOW MANY	4	y
 many, much	1339	1198	MANY	2	y
 few, a little	1340	2924	A LITTLE	3	y
@@ -1366,16 +1405,21 @@ we (inclusive)	1365	1131	WE (INCLUSIVE)	2	y
 we (exclusive)	1366	1130	WE (EXCLUSIVE)	2	y
 they (female)	1367	817	THEY	4	y
 they (male)	1368	817	THEY	4	y
+they	1364/1367/1368	817	THEY		y
 my (sing.)	1369	2090	MY	4	y
 my (pl.)	1370	2090	MY	4	y
+mine	1369/1370	2090	MY		y
 our (inclusive)	1371	780	OUR	4	y
 our (exclusive)	1372	780	OUR	4	y
 your (sing.)	1373	732	YOUR (SINGULAR)	4	y
 your (pl.)	1374	2274	YOUR (PLURAL)	4	y
+your	1373/1374	732	YOUR (SINGULAR)		y
 their (female)	1375	2400	THEIR	4	y
 their (male)	1376	2400	THEIR	4	y
+their	1375/1376	2400	THEIR		y
 her	1377	2474	HER (GENITIVE OF SHE)	2	y
 his	1378	2473	HIS (GENITIVE OF HE)	2	y
+her, his	1377/1378	2092	HIS OR HER		y
 who?	1379	1235	WHO	2	y
 what?	1380	1236	WHAT	2	y
 which house?	1381	727	WHICH		y
@@ -1384,6 +1428,7 @@ this	1383	1214	THIS	2	y
 that	1384	78	THAT	2	y
 that (nearby)	1385	78	THAT	4	y
 that (faraway)	1386	78	THAT	4	y
+that	1385/1386	78	THAT		y
 overthere, yonder	1387	3411	OVER THERE	4	y
 here	1388	136	HERE	2	y
 there (near hearer)	1389	1937	THERE	4	y
@@ -1411,6 +1456,7 @@ now, at present	1410	2097	NOW OR TODAY	4	y
 formerly	1411	2914	ONCE (IN THE PAST)	2	y
 before (place)	1412	1883	IN FRONT OF	4	y
 before (time)	1413	1882	BEFORE	2	y
+before	1412/1413	1882	BEFORE		y
 formerly	1414	2914	ONCE (IN THE PAST)	2	y
 later	1415	477	LATE	2	y
 a moment ago	1416	2914	ONCE (IN THE PAST)	2	y
@@ -1473,6 +1519,7 @@ yes	1472	1268	YES	2	y
 not, no	1473	2279	NO OR NOT	2	y
 not, no	1474	2279	NO OR NOT	2	y
 not, no	1475	2279	NO OR NOT	2	y
+not	1473-1475	2279	NO OR NOT		y
 yes, right, indeed	1476	1268	YES	4	y
 only	1477	1580	ONLY	2	y
 almost	1478				y
