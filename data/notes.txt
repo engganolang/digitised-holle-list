@@ -1,0 +1,20 @@
+FB (father brother)
+MB (mother brother)
+FBo (older, father-brother)
+FBy (younger, father-brother)
+MBo (older, mother-brother)
+MBy (younger, mother-brother)
+FZ (father sister)
+MZ (mother sister)
+
+BoS (Older brother son)
+ByS (Younger brother son)
+ZoS (Older sister son)
+Zys (Younger sister son)
+
+Annotating this kinship relation is tricky (maybe because the abbreviation in the glossing)
+
+
+In deciding the concept set, looking at the synonym of the "Description in source" is also performed. For example, on deciding the concept set for "coconut shell" (marked ??? by pyconcepticon), I look at description which contains 'hull', which is the outer covering of a fruit or seed. This is slightly more specific outer cover than SHELL, which is designated for animal.
+
+Moreover, there are cases where the generic concept is used (i.e., the hypernym) over the more specific concepts (i.e., the hyponym) when the latter are not available. (cf. FLOUR)

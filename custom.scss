@@ -1,0 +1,6 @@
+/*-- scss:defaults --*/
+$link-color: #4169e1 !default;
+$link-decoration: none !default;
+$link-shade-percentage: 30% !default;
+$link-hover-color: shift-color(#c6940b, $link-shade-percentage), !default;
+$link-hover-decoration: underline !default;

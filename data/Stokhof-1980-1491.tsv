@@ -1,0 +1,1492 @@
+GLOSS	NUMBER
+body	1
+head	2
+face	3
+forehead	4
+skull	5
+hair	6
+bald	7
+crown	8
+ear	9
+earwax	10
+eye	11
+eyelid	12
+eyelashes	13
+eyebrows	14
+eyebrow	15
+tears	16
+tear	17
+nose	18
+nostril	19
+mucus	20
+cheek	21
+mouth	22
+exterior part of the mouth	23
+interior part of the mouth	24
+lips	25
+lip	26
+moustache	27
+goatee	28
+chin	29
+beard	30
+tongue	31
+palate	32
+tooth	33
+molar	34
+gums	35
+brains	36
+throat	37
+neck	38
+Adam's apple	39
+nape	40
+chest, breast (male)	41
+breasts (female)	42
+breast	43
+breast (female)	44
+nipple	45
+breast milk	46
+breast milk	47
+to suck at the breast	48
+to suckle	49
+rib	50
+lung	51
+heart	52
+stomach	53
+belly	54
+intestines	55
+liver	56
+bile	57
+spleen	58
+kidney	59
+side	60
+navel	61
+umbilical cord	62
+back	63
+backbone, spine	64
+shoulder	65
+shoulderblade	66
+buttocks	67
+buttock	68
+posterior, buttocks	69
+tailbone, coccyx	70
+anus	71
+to defecate	72
+faeces	73
+fart	74
+to fart	75
+to stink, to smell	76
+penis	77
+vagina	78
+testicle	79
+to have intercourse	80
+to couple	81
+to urinate	82
+piss, urine	83
+leg	84
+foot (plus lower leg)	85
+foot	86
+sole of the foot	87
+ankle	88
+heel	89
+thigh	90
+knee	91
+back of the knee	92
+calf	93
+shin	94
+arm	95
+hand plus fore-arm	96
+hand	97
+upper arm	98
+armpit	99
+elbow	100
+wrist	101
+palm of the hand	102
+lines in the palm of the hand	103
+finger	104
+fingers	105
+toe	106
+(finger)nail	107
+thumb	108
+index finger	109
+middle finger	110
+ring finger	111
+little finger	112
+the big toe	113
+the little toe	114
+bone	115
+blood	116
+flesh	117
+tendon	118
+nerve	119
+sinew, nerve	120
+skin	121
+body hair	122
+body hair (animal)	123
+sweat	124
+saliva	125
+phlegm	126
+to breath	127
+to eat	128
+hungry	129
+to drink	130
+drunk	131
+thirsty	132
+satisfied	133
+replete, satisfied	134
+to bite	135
+to swallow down	136
+to swallow	137
+to sleep	138
+to dream	139
+dream	140
+sleepy	141
+to wake up	142
+to get up	143
+to stand	144
+to walk	145
+to lie supine	146
+to lie prone	147
+to lie	148
+to sit (on a chair)	149
+to sit (with the legs crossed)	150
+to sit (with the knees bent to one side)	151
+to squat	152
+to swim	153
+to take a bath	154
+to wash	155
+to stammer	156
+to speak with a burr	157
+voice	158
+hoarse	159
+to shout	160
+to laugh	161
+to laugh at	162
+to weep	163
+to weep for	164
+to smile	165
+to sigh	166
+to spit	167
+to vomit	168
+to sneeze	169
+to cough	170
+to hiccup	171
+hiccups	172
+to choke	173
+belch	174
+to belch	175
+to yawn	176
+to nod	177
+pregnant	178
+to be born	179
+after birth	180
+twins	181
+to live (alive)	182
+to die	183
+death	184
+dead	185
+the deceased	186
+liquid formed during decomposition of body	187
+corpse	188
+coffin	189
+to bury	190
+grave	191
+to kill	192
+to inherit	193
+inheritance	194
+to wound	195
+wound	196
+an infected wound	197
+scar	198
+ill	199
+to be ill	200
+to (be in) pain	201
+healthy	202
+boil	203
+to be feverish	204
+fever	205
+to have a stomach ache	206
+stomach ache	207
+to have diarrhoea	208
+diarrhoea	209
+small pox	210
+measles	211
+swelling, swollen	212
+goitre	213
+eruption (of rash)	214
+ichthyosis, tinea	215
+framboesia	216
+scabies	217
+leprosy	218
+headache	219
+rheumatism	220
+to have a cold	221
+a cold	222
+gone to sleep (limbs)	223
+cramp	224
+paralysed	225
+crippled	226
+mute	227
+deaf	228
+blind	229
+to shut the eyes	230
+squinting	231
+cured	232
+medicine	233
+medicine (with magic power)	234
+doctor (medicine man)	235
+man, mankind	236
+people	237
+people	238
+name	239
+nickname	240
+man	241
+woman	242
+male (human)	243
+male (animal)	244
+female (human)	245
+female (animal)	246
+youth (male)	247
+virgin	248
+virginity	249
+boy, lad	250
+young girl	251
+girl	252
+old man	253
+old woman	254
+father	255
+mother	256
+oldest child	257
+youngest child	258
+child	259
+little child (male)	260
+little child (female)	261
+son	262
+daughter	263
+grandfather	264
+grandmother	265
+great-great-grandparents	266
+great-grandparents	267
+ancestors	268
+brother	269
+sister	270
+older brother	271
+older sister	272
+younger brother	273
+younger sister	274
+grandchild	275
+uncle FB	276
+uncle MB	277
+uncle FBo	278
+uncle FBy	279
+uncle MBo	280
+uncle MBy	281
+aunt FZ	282
+aunt MZ	283
+aunt FZo	284
+aunt FZy	285
+aunt MZo	286
+aunt <unsp.>	287
+aunt MZy	288
+aunt <unsp.>	289
+aunt <unsp.>	290
+aunt <unsp.>	291
+nephew BoS	292
+nephew ByS	293
+nephew ZoS	294
+nephew ZyS	295
+niece BoD	296
+niece ByD	297
+niece ZoD	298
+niece ZyD	299
+cousin FB/FZS MB/MZS	300
+cousin FB/FZD MB/MZD	301
+parents-in-law	302
+respective parents of the married couple	303
+son-in-law	304
+daughter-in-law	305
+son or daughter-in-law	306
+stepson	307
+stepdaughter	308
+stepparents	309
+adopted child	310
+brother-in-law WB	311
+brother-in-law HB	312
+brother-in-law WZH	313
+brother-in-law HZH	314
+brother-in-law	315
+sister-in-law HZ	316
+sister-in-law WZ	317
+sister-in-law HBW	318
+sister-in-law WBW	319
+related	320
+unrelated	321
+husband	322
+wife	323
+friend	324
+comrade, friend	325
+comrade, mate	326
+friend (female)	327
+guest	328
+guest, stranger	329
+village	330
+country	331
+town (capital)	332
+main village	333
+hamlet	334
+people (tribe)	335
+sorcerer	336
+talisman	337
+incantation	338
+magic wand	339
+magic book	340
+sacred, magic writings	341
+idol	342
+omen	343
+ghost	344
+spirit	345
+evil spirit	346
+vampire (witch, werewolf)	347
+soul, spirit	348
+soul, ghost	349
+the supreme being	350
+religion	351
+to worship	352
+vital spirit, vitality	353
+god	354
+statue representing an ancestor/ancestors	355
+writing	356
+letter	357
+paper	358
+letter	359
+book	360
+story	361
+history, legend	362
+poem	363
+tune, melody	364
+heaven	365
+hell	366
+underworld	367
+underworld	368
+the upper world	369
+population	370
+the afterlife	371
+virtue	372
+sin	373
+forbidden	374
+forbidden, taboo	375
+priest	376
+priestess	377
+shaman	378
+temple	379
+holy place	380
+settlement	381
+town hall	382
+king	383
+a sort of first minister	384
+mantri	385
+guard	386
+(sacred) place (held In awe)	387
+village hall	388
+men's house	389
+women's house	390
+village head	391
+chieftain	392
+nobleman	393
+village elders	394
+warrior	395
+happiness	396
+unhappiness	397
+free man	398
+slave	399
+custom	400
+common law	401
+criminal	402
+to judge	403
+to punish	404
+fine	405
+witness	406
+judge	407
+credit bondsman	408
+funeral ceremony	409
+to circumcise	410
+filing of the teeth	411
+to marry, to take a wife, marriage	412
+to marry, to take a husband, marriage	413
+to give in marriage	414
+to divorce	415
+bride price	416
+betrothal	417
+to give birth to	418
+midwife	419
+to commit adultery	420
+prostitute	421
+dancing girl	422
+mask	423
+violin	424
+flute	425
+drum	426
+tambourine	427
+xylophone	428
+gong	429
+conch shell	430
+Jew's harp	431
+horn	432
+to dance	433
+song	434
+riddle	435
+to ask a riddle	436
+to play	437
+top	438
+to spin a top	439
+to hop	440
+to kick/to hit a person on the calves (k.o. play)	441
+house	442
+hut, shelter	443
+roof	444
+ridge of roof	445
+roofing: thatch	446
+roofing: bamboo lath	447
+roofing: wood	448
+roofing: bark	449
+roofing: other materials	450
+rafter	451
+porch	452
+door opening	453
+door	454
+window opening	455
+window	456
+corner	457
+staircase, steps	458
+ladder	459
+to climb into a house	460
+floor (made from bamboo lath)	461
+floor (made from wood)	462
+wall (plank wall)	463
+wall (bamboo wall)	464
+midrib of palm frond	465
+main posts	466
+ceiling beams	467
+bed	468
+curtain	469
+sleeping place	470
+small room	471
+cylindrical bolster	472
+sleeping mat	473
+pillow	474
+couch	475
+front verandah	476
+attic (under the roof)	477
+rack above the  fireplace	478
+hearth, fireplace	479
+fire	480
+fire	481
+to make a fire	482
+to extinguish (with water)	483
+to extinguish	484
+to blow on a fire	485
+extinguished	486
+smoke	487
+ashes	488
+fire wood	489
+to put on (light)	490
+to put off (light)	491
+space under the house	492
+bed curtain	493
+bench, seat	494
+to build	495
+to pull down (house)	496
+coconut shell	497
+pot (iron)	498
+pot (earthenware)	499
+rice kettle (copper)	500
+rice kettle (earthenware)	501
+dish	502
+cup	503
+drinking bowl	504
+(tea) pot	505
+saucer (earthenware)	506
+small saucer (earthenware)	507
+copper saucer	508
+copper dish	509
+knife	510
+chopper	511
+kris	512
+dagger	513
+axe, hatchet	514
+spoon	515
+ladle	516
+bamboo water container	517
+to fetch water	518
+basket (all sorts of)	519
+lamp	520
+lamp wick	521
+torch	522
+case	523
+box, case	524
+case for cloth	525
+cooking pot	526
+pot, jar	527
+to fire pottery	528
+earthen water barrel	529
+to cook in bamboo container	530
+to cook (in pot)	531
+to steam	532
+to bake, to grill, to fry	533
+to roast (in ashes)	534
+to grill, to roast	535
+to bake	536
+done	537
+half done	538
+food	539
+provisions	540
+side-dish	541
+vegetables	542
+meat	543
+meat (raw)	544
+dried meat	545
+fish	546
+rice plant	547
+harvested rice	548
+husked rice	549
+cooked rice	550
+unhusked rice	551
+stalk	552
+ear of rice, corn	553
+rice barn	554
+rice pounder, mortar	555
+pounder	556
+to pound	557
+sieve for rice	558
+chaff	559
+to grind	560
+rice porridge	561
+sago flour	562
+sago porridge	563
+baked sago	564
+cake	565
+porridge	566
+black pepper	567
+salt	568
+coconut pulp	569
+sarong	570
+cloth	571
+trousers	572
+kebaya	573
+jacket (for women)	574
+jacket (for men)	575
+head cloth (for women)	576
+head cloth (for men)	577
+comb	578
+fine tooth comb	579
+finger ring	580
+ring	581
+waist belt/band	582
+metal waist band	583
+arm ring, bracelet	584
+anklet	585
+arm ring (upper arm)	586
+earring	587
+earclip	588
+necklace	589
+bead	590
+shawl	591
+sarong used as a sling	592
+loin cloth	593
+cotton fabric (local, European)	594
+silk	595
+woollen fabric	596
+flannel	597
+to weave	598
+loom (meed)	599
+loom (weaving spool)	600
+loom (warp)	601
+loom (weft)	602
+bark cloth	603
+to pound bark cloth	604
+to weave, to plait	605
+to twine a rope	606
+rope	607
+thread, yarn	608
+to knot, to knit	609
+bag (woven bag)	610
+bag (made from rope)	611
+sword	612
+sabre	613
+sheath	614
+to chip, cut, slash	615
+pike, lance, javelin	616
+blow-pipe	617
+bow	618
+bowstring	619
+arrow	620
+quiver	621
+shield	622
+flag	623
+kind of small cannon	624
+rifle	625
+gun powder	626
+bullet	627
+to shoot	628
+sling	629
+to wage war	630
+war	631
+enemy	632
+cannon	633
+to go head hunting	634
+peace	635
+fortification	636
+defeated	637
+to gain the victory, to win	638
+to surrender	639
+victory	640
+prisoner of war	641
+delegate	642
+tribute	643
+tribute <as a mark of respect >	644
+tax	645
+to farm	646
+plough	647
+coulter	648
+rake	649
+dibble	650
+to make a hole (with a dibble in the ground)	651
+spade	652
+trowel (a small trowel)	653
+knife for cutting grass	654
+sickle	655
+knife for cutting rice plant	656
+hoe	657
+garden	658
+rice-field (wet, sawah)	659
+rice-field (dry)	660
+small dike in rice-field	661
+irrigation	662
+water-course channel	663
+fence, hedge	664
+vegetation	665
+planting, recently planted crop, a newly established garden	666
+to sow (placing the seeds in holes in the ground)	667
+to sow (scattering the seeds about)	668
+seed	669
+to plant	670
+to thresh with the feet	671
+seed-rice	672
+ripe	673
+unripe	674
+to harvest	675
+to reap	676
+to gather	677
+to pick	678
+maize, corn	679
+millet	680
+beans and peas	681
+beans	682
+bean	683
+cucumber	684
+pumpkin	685
+tobacco	686
+sugarcane	687
+peanut	688
+onion	689
+gourd	690
+species of tuber	691
+sweet potato	692
+cassava	693
+taro	694
+red pepper	695
+coconut (tree)	696
+coconut (fruit)	697
+coconut (other parts of the tree)	698
+breadfruit tree and breadfruit	699
+sugarpalm, aren tree	700
+lontar tree	701
+palm Juice (unfermented)	702
+palm wine (fermented)	703
+palmwine	704
+syrup	705
+sugar	706
+nipa palm	707
+sago tree	708
+sago	709
+cotton	710
+kapok	711
+pandanus	712
+mango	713
+Artocarpus integrifolia, Jack fruit	714
+Nephelium lappaceum	715
+Durio zibethinus	716
+Eugenia	717
+Lansium domesticum	718
+Averrhoa carambola, carambola	719
+Averrhoa blimbi	720
+banana	721
+banana (wild)	722
+banana (fruit)	723
+species of citrus fruit	724
+orange	725
+grape fruit	726
+lemon	727
+coffee	728
+indigo (plant)	729
+indigo (dye)	730
+Uncaria gambir	731
+Morinda atrocarpus	732
+lime	733
+Curcuma domestica	734
+ginger	735
+rattan, cane	736
+bamboo	737
+bamboo shoot, young sprout	738
+tree	739
+wood	740
+to climb a tree	741
+to climb	742
+to cut down	743
+branch	744
+twig	745
+the heart of the tree	746
+main root, taproot	747
+side-root	748
+fibrous root	749
+liana	750
+leaf	751
+falling of the leaves	752
+bark	753
+thorn, spine	754
+sap	755
+gum	756
+Areca catechu LINN	757
+betel	758
+resin	759
+resin (from the damar tree)	760
+damar tree	761
+sprout	762
+flower	763
+fruit	764
+to bear fruit	765
+rind, peel	766
+to peel	767
+pip, stone	768
+the flesh of the fruit	769
+bunch	770
+oil	771
+moss	772
+mushroom	773
+ferns	774
+grass	775
+weeds	776
+Imperata cylindria (Kunai grass)	777
+Saccharum spontaneum	778
+animal, beast	779
+young of animal (calf, foal, chicken, etc.)	780
+to bleat	781
+to keep animals	782
+tail	783
+paw	784
+hoof	785
+claw	786
+udder	787
+mouth, snout	788
+snout, muzzle	789
+bill, beak	790
+wing	791
+feather	792
+to fly	793
+nest	794
+egg	795
+to lay eggs	796
+to brood	797
+to hatch	798
+domesticated pig	799
+piggery	800
+wild pig	801
+to grunt	802
+sheep	803
+goat	804
+buffalo (female)	805
+buffalo (male)	806
+buffalo (calf)	807
+cow	808
+bull	809
+to bleat, to moo	810
+to low, to bellow	811
+horse	812
+to neigh, to whinny	813
+deer	814
+horn	815
+dog	816
+to bark	817
+cat	818
+to miaow	819
+tiger	820
+to roar	821
+bear	822
+porcupine	823
+marsupial	824
+marten (paradaxurus)	825
+half-ape	826
+ant-eater (manis javanica)	827
+cassowary	828
+pigeon	829
+crow	830
+hen, chicken	831
+chick	832
+hen	833
+mother hen	834
+cock, rooster	835
+fighting cock	836
+cock-fighting	837
+duck	838
+parrot	839
+parakeet, budgerigar	840
+swallow	841
+rice-bird	842
+hornbill	843
+quail	844
+heron	845
+birds of prey	846
+owl	847
+kite (bird)	848
+bird	849
+squirrel	850
+bat	851
+bat	852
+flying fox	853
+deer	854
+cherrotain mousedeer	855
+mouse	856
+rat	857
+shrew	858
+monkey	859
+to hunt	860
+trap for catching large game	861
+trap	862
+bamboo spikes	863
+to fish	864
+fish trap	865
+net	866
+fish	867
+shark	868
+ray	869
+eel	870
+louse	871
+to delouse	872
+louse	873
+nit	874
+flea	875
+spider	876
+fly	877
+bluebottle fly	878
+wasp	879
+bee	880
+honey	881
+mosquito	882
+butterfly	883
+caterpillar	884
+firefly	885
+grasshopper	886
+beetle	887
+cockroach	888
+ant	889
+white ant, termite	890
+snake	891
+python	892
+centipede	893
+leech	894
+snail, slug	895
+worm	896
+shrimp	897
+crab	898
+shell	899
+crustacean	900
+frog	901
+toad	902
+lizard	903
+iguana	904
+crocodile	905
+tortoise	906
+turtle	907
+universe	908
+firmament	909
+sky	910
+sun	911
+sun eclipse	912
+moon	913
+one month	914
+month (name of the months)	915
+moon eclipse	916
+star	917
+sunrise	918
+moonrise	919
+sunset	920
+moonset	921
+earth (globe)	922
+air	923
+rain	924
+dew	925
+cloud	926
+fog, mist	927
+rainbow	928
+thunder	929
+thunderstone	930
+(flash of) lightning	931
+earthquake	932
+wind	933
+storm	934
+water	935
+sea	936
+ebb	937
+lake	938
+flood, tide	939
+wave	940
+breakers, surf	941
+bay	942
+beach	943
+strait(s)	944
+sandbank	945
+coral reef	946
+land	947
+land (state)	948
+island	949
+isthmus	950
+cape	951
+mountain	952
+hill	953
+mountain-climbing, to ascend	954
+to go down, to descend	955
+plain	956
+valley	957
+grassy plain	958
+swamp	959
+forest, woods	960
+jungle	961
+bush	962
+volcano	963
+way, road	964
+mud	965
+footstep (footprint)	966
+border, boundary	967
+river	968
+bridge	969
+to go upstream	970
+to go downstream	971
+spring, source	972
+flood	973
+stone	974
+earth (ground)	975
+sand	976
+gravel	977
+iron	978
+copper	979
+bronze	980
+silver	981
+gold	982
+tin	983
+lead	984
+sulphur	985
+smith	986
+smithy	987
+to forge, weld	988
+charcoal	989
+hammer	990
+anvil	991
+tongs	992
+cinders, glowing coals	993
+to sharpen, to grind	994
+grindstone	995
+gift, present	996
+to negotiate	997
+to make peace	998
+to sign a treaty	999
+merchant	1000
+farmer	1001
+craftsmen	1002
+servant	1003
+follower	1004
+ally	1005
+shop	1006
+market	1007
+to trade	1008
+merchandise	1009
+needle	1010
+to sew	1011
+price	1012
+profit	1013
+loss	1014
+to buy	1015
+expensive	1016
+cheap	1017
+debt	1018
+to dun	1019
+to pay	1020
+to sell	1021
+to borrow	1022
+to lend to	1023
+to exchange	1024
+to offer	1025
+to pawn	1026
+to bargain	1027
+to fill	1028
+steelyard, weigh-beam	1029
+a pair of scales	1030
+measures and weights (length)	1031
+measures and weights (mass)	1032
+measures and weights (volume and capacity)	1033
+ship (trading vessel)	1034
+ship (warship)	1035
+steamboat	1036
+rowboat	1037
+proa, canoe	1038
+all sorts of vessels	1039
+mast	1040
+sail	1041
+to sail	1042
+rudder, helm	1043
+to sail	1044
+oar, paddle	1045
+paddle	1046
+to paddle	1047
+to row, to pull	1048
+outrigger	1049
+thwarts	1050
+stem, bows	1051
+stern	1052
+to take on cargo	1053
+anchor	1054
+raft	1055
+harbour	1056
+to be wrecked	1057
+pirate	1058
+landing-stage	1059
+to disembark	1060
+to sail away	1061
+to capsize	1062
+kidnapper	1063
+to ill-treat, to mishandle	1064
+to ransom	1065
+great, big	1066
+small	1067
+long (things)	1068
+long (time)	1069
+short (things)	1070
+short (time)	1071
+big, fat	1072
+thick	1073
+thick	1074
+thin	1075
+thin, meagre, skinny	1076
+fat (adj.)	1077
+fat, grease (noun)	1078
+greasy	1079
+slim	1080
+dwarf	1081
+diminished in size, boiled down, shrunken	1082
+to grow	1083
+tame	1084
+wild	1085
+wary, shy, timid	1086
+shy, ashamed	1087
+deep (river)	1088
+deep (dish)	1089
+shallow (river)	1090
+shallow (dish)	1091
+high	1092
+low	1093
+straight	1094
+crooked, bent	1095
+curved, winding	1096
+flat	1097
+even	1098
+smooth	1099
+heavy	1100
+light	1101
+slanting, sloping	1102
+sharp	1103
+blunt	1104
+pointed	1105
+hard	1106
+weak	1107
+soft	1108
+warm (persons)	1109
+warm (things)	1110
+cold (persons)	1111
+cold (things)	1112
+to shiver	1113
+round, circular (as a stick)	1114
+round, circular (as a dish)	1115
+globular, round	1116
+square	1117
+broad	1118
+small	1119
+narrow	1120
+wide	1121
+strong	1122
+weak	1123
+brave, bold	1124
+cowardly	1125
+lazy	1126
+diligent	1127
+stingy	1128
+mild, tender	1129
+dry	1130
+to dry in the sun	1131
+wet	1132
+humid	1133
+rotten	1134
+good	1135
+bad	1136
+beautiful (persons)	1137
+beautiful (male)	1138
+beautiful (fem.)	1139
+beautiful (things)	1140
+ugly (persons)	1141
+ugly (male)	1142
+ugly (female)	1143
+ugly (things)	1144
+wrong, false	1145
+true, right	1146
+empty	1147
+full	1148
+angry	1149
+mad	1150
+tightly bound	1151
+tightly fitting	1152
+loose	1153
+loosely fitting	1154
+old	1155
+old, worn	1156
+young	1157
+new	1158
+poor	1159
+wealthy	1160
+tired	1161
+fast	1162
+slow	1163
+dumb	1164
+clever	1165
+sweet	1166
+sour	1167
+bitter	1168
+astringent	1169
+hot, spicy	1170
+salty	1171
+white	1172
+black	1173
+red	1174
+brown	1175
+yellow	1176
+blue	1177
+green	1178
+to look for	1179
+to find	1180
+to give	1181
+to hand, to pass	1182
+to accept	1183
+to take	1184
+to get	1185
+to take away	1186
+to take along	1187
+to bring	1188
+to accompany	1189
+to grip, to hold, to seize	1190
+to lead by the hand	1191
+to make, to do	1192
+to prepare, to make ready	1193
+to wash up (dishes, spoons, etc.)	1194
+to wash (clothes)	1195
+to wash (face)	1196
+to wash (hair)	1197
+to know	1198
+to think	1199
+to know	1200
+to remember	1201
+to have forgotten something	1202
+to deny	1203
+to confess	1204
+to be silent	1205
+to mumble	1206
+to speak	1207
+to sing	1208
+to whisper	1209
+to say	1210
+to call	1211
+to abuse, to scold	1212
+to be able to	1213
+to be allowed	1214
+to work	1215
+to shoulder	1216
+to carry on the head	1217
+to carry something hanging from the hand	1218
+to carry on the hip	1219
+to carry under the arm	1220
+to carry in the hand	1221
+to carry on the back (with strap over the shoulder or head)	1222
+to carry in a sarong	1223
+to carry	1224
+to carry on the back	1225
+to carry in front of oneself	1226
+to wake, to watch	1227
+to be awake	1228
+to guard, to watch	1229
+to spy	1230
+to wait	1231
+to hear	1232
+to see	1233
+to smell	1234
+to feel	1235
+to feel, to touch	1236
+to taste	1237
+to slurp	1238
+to blow the nose	1239
+to suck	1240
+to kiss	1241
+to sniff	1242
+to love	1243
+to hate	1244
+jealous	1245
+to approve	1246
+to wish	1247
+to want	1248
+to want something	1249
+to open	1250
+to close	1251
+to cut off	1252
+to multiply, to add, to increase	1253
+to spring, to jump	1254
+to jump down	1255
+to hit, to touch	1256
+hit, touched	1257
+to break (a stick)	1258
+to break (a rope)	1259
+to shatter	1260
+broken (a stick)	1261
+broken (rope)	1262
+shattered	1263
+to pinch, to squeeze	1264
+to begin (tr.)	1265
+to begin (intr.)	1266
+to finish (tr.)	1267
+to finish (intr.)	1268
+to bind, to tie	1269
+to hide (something to hide)	1270
+to hide	1271
+to ask	1272
+to answer	1273
+to ask for	1274
+to refuse	1275
+to cheat, to deceive	1276
+to tell lies	1277
+to steal	1278
+to throw away	1279
+to throw	1280
+to burn (tr.)	1281
+to burn (intr.)	1282
+to dig	1283
+to go	1284
+to go there	1285
+to send (out), to order, to command	1286
+to send	1287
+to come	1288
+to arrive	1289
+to be coming	1290
+to depart	1291
+to meet	1292
+to meet one another	1293
+to collect	1294
+to gather, to meet	1295
+to hit (to beat, to slap, etc.)	1296
+to take revenge	1297
+one	1298
+two	1299
+three	1300
+four	1301
+five	1302
+six	1303
+seven	1304
+eight	1305
+nine	1306
+ten	1307
+eleven	1308
+twelve	1309
+thirteen	1310
+fourteen	1311
+fifteen	1312
+sixteen	1313
+seventeen	1314
+eighteen	1315
+nineteen	1316
+twenty	1317
+twenty one	1318
+twenty one, twenty two, etc.	1319
+twenty five	1320
+thirty	1321
+fourty	1322
+fifty	1323
+sixty	1324
+seventy	1325
+eighty	1326
+ninety	1327
+hundred	1328
+thousand	1329
+ten thousand	1330
+a half	1331
+a quarter	1332
+once	1333
+twice	1334
+first (in space)	1335
+first (in time)	1336
+second (in space)	1337
+second (in time)	1338
+third (in space)	1339
+third (in time)	1340
+the last (in space)	1341
+the last (in time)	1342
+how much, how many	1343
+many, much	1344
+few, a little	1345
+finished	1346
+there are	1347
+there are not	1348
+there is something	1349
+there is nothing	1350
+there is nothing left	1351
+more	1352
+most	1353
+less	1354
+all	1355
+whole	1356
+together	1357
+alike, similar	1358
+enough	1359
+only, some	1360
+a few, some	1361
+I	1362
+I myself	1363
+you (sing.)	1364
+you (pl.)	1365
+you all (excluding those absent)	1366
+you	1367
+he	1368
+she	1369
+we (inclusive)	1370
+we (exclusive)	1371
+they (female)	1372
+they (male)	1373
+my (sing.)	1374
+my (pl.)	1375
+our (inclusive)	1376
+our (exclusive)	1377
+your (sing.)	1378
+your (pl.)	1379
+their (female)	1380
+their (male)	1381
+her	1382
+his	1383
+who?	1384
+what?	1385
+which house?	1386
+which?	1387
+this	1388
+that	1389
+that (nearby)	1390
+that (faraway)	1391
+overthere, yonder	1392
+here	1393
+there (near hearer)	1394
+there	1395
+which, who, that	1396
+early, soon	1397
+late	1398
+day	1399
+week	1400
+the day of the week	1401
+daylight	1402
+light	1403
+hour	1404
+twenty four hours	1405
+night (darkness)	1406
+night (time of the night)	1407
+dark	1408
+dry season	1409
+rainy season, wet season	1410
+year	1411
+monsoon	1412
+now	1413
+shortly	1414
+now, at present	1415
+formerly	1416
+before (place)	1417
+before (time)	1418
+formerly	1419
+later	1420
+a moment ago	1421
+a moment	1422
+yesterday	1423
+the day before yesterday	1424
+today	1425
+this morning	1426
+tomorrow	1427
+the day after tomorrow	1428
+morning	1429
+evening	1430
+now and then, occasionally	1431
+when	1432
+already	1433
+not yet	1434
+not again	1435
+north	1436
+south	1437
+east	1438
+west	1439
+left	1440
+right	1441
+up, upper, above	1442
+on the road	1443
+from above	1444
+under	1445
+from underneath	1446
+from-to (place)	1447
+from-to (time)	1448
+below, beneath	1449
+at	1450
+from	1451
+until	1452
+at, in	1453
+on	1454
+in, inside	1455
+out, outside	1456
+nearby	1457
+far	1458
+around, surrounding	1459
+outside	1460
+to go outside	1461
+inside, within	1462
+to go inside	1463
+many	1464
+where	1465
+how	1466
+like this, like that	1467
+like this	1468
+like that	1469
+why	1470
+certainly, sure	1471
+maybe	1472
+very	1473
+and	1474
+with	1475
+no	1476
+yes	1477
+not, no	1478
+not, no	1479
+not, no	1480
+yes, right, indeed	1481
+only	1482
+almost	1483
+but	1484
+however, nevertheless	1485
+however, nevertheless	1486
+yet, still	1487
+if	1488
+although	1489
+because	1490
+no, not a, none	1491

@@ -1,0 +1,1535 @@
+GLOSS	NUMBER	CONCEPTICON_ID	CONCEPTICON_GLOSS	SIMILARITY	CHECKED
+body	1	1480	BODY	2	y
+head	2	1256	HEAD	2	y
+face	3	1560	FACE	2	y
+forehead	4	123	FOREHEAD	2	y
+skull	5	1605	SKULL	2	y
+hair	6	1040	HAIR	2	y
+bald	7	1125	BALD	2	y
+crown	8	1943	CROWN (OF HEAD)	2	y
+ear	9	1247	EAR	2	y
+earwax	10	32	EARWAX	2	y
+eye	11	1248	EYE	2	y
+eyelid	12	17	EYELID	2	y
+eyelashes	13	1540	EYELASH	2	y
+eyebrows	14	1173	EYEBROW	2	y
+eyebrow	15	1173	EYEBROW	2	y
+tears	16	1651	TEAR (OF EYE)	2	y
+tear	17	1651	TEAR (OF EYE)	2	y
+nose	18	1221	NOSE	2	y
+nostril	19	1178	NOSTRIL	2	y
+mucus	20	208	NASAL MUCUS (SNOT)	2	y
+cheek	21	1730	CHEEK	2	y
+mouth	22	674	MOUTH	2	y
+exterior part of the mouth	23				y
+interior part of the mouth	24	2674	ORAL CAVITY		y
+lips	25	478	LIP	2	y
+lip	26	478	LIP	2	y
+moustache	27	1165	MOUSTACHE	2	y
+goatee	28	678	BEARD	4	y
+chin	29	1510	CHIN	2	y
+beard	30	678	BEARD	2	y
+tongue	31	1205	TONGUE	2	y
+palate	32	540	PALATE	2	y
+tooth	33	1380	TOOTH	2	y
+molar	34	1049	MOLAR TOOTH	2	y
+gums	35	139	GUMS	2	y
+brains	36	1583	BRAIN	2	y
+throat	37	1346	THROAT	2	y
+neck	38	1333	NECK	2	y
+Adam's apple	39	802	ADAM'S APPLE	2	y
+nape	40	1347	NAPE (OF NECK)	2	y
+chest, breast (male)	41	1592	CHEST	4	y
+breasts (female)	42	1402	BREAST	4	y
+breasts	41/42	1402	BREAST		y
+breast	43	1402	BREAST	2	y
+breast (female)	44	2129	BREAST OR MILK	2	y
+nipple	45	796	NIPPLE	2	y
+breast milk	46	3912	BREAST MILK	4	y
+breast milk	47	3912	BREAST MILK	4	y
+to suck at the breast	48	2472	SUCKLE (BREASTFEED, NURSE)		y
+to suckle	49	2472	SUCKLE (BREASTFEED, NURSE)	3	y
+rib	50	801	RIB	2	y
+lung	51	688	LUNG	2	y
+heart	52	1223	HEART	2	y
+stomach	53	819	STOMACH	2	y
+belly	54	1251	BELLY	2	y
+intestines	55	1991	INTESTINES	2	y
+liver	56	1224	LIVER	2	y
+bile	57	1780	BILE	2	y
+spleen	58	1744	SPLEEN	2	y
+kidney	59	489	KIDNEY	2	y
+side	60	3344	SIDE (BODY)	2	y
+navel	61	1838	NAVEL	2	y
+umbilical cord	62	2663	UMBILICAL CORD	2	y
+back	63	1291	BACK	2	y
+backbone, spine	64	805	SPINE	4	y
+shoulder	65	1482	SHOULDER	2	y
+shoulderblade	66	172	SHOULDERBLADE	2	y
+buttocks	67	834	BUTTOCKS	2	y
+buttock	68	834	BUTTOCKS	2	y
+posterior, buttocks	69	834	BUTTOCKS	4	y
+tailbone, coccyx	70				y
+anus	71	1935	ANUS	2	y
+to defecate	72	676	SHIT (DEFECATE)	1	y
+faeces	73	675	FAECES (EXCREMENT)	2	y
+fart	74	1159	FART	2	y
+to fart	75	1159	FART	1	y
+to stink, to smell	76	1587	SMELL (STINK)	3	y
+penis	77	1222	PENIS	2	y
+vagina	78	1836	VAGINA	2	y
+testicle	79	797	TESTICLES	2	y
+to have intercourse	80	549	COPULATE	4	y
+to couple	81	549	COPULATE	4	y
+to urinate	82	592	PISS	1	y
+piss, urine	83	1142	URINE	4	y
+leg	84	1297	LEG	2	y
+foot (plus lower leg)	85	2098	FOOT OR LEG	4	y
+foot	86	1301	FOOT	2	y
+sole of the foot	87	2666	SOLE (FOOT)		y
+ankle	88	803	ANKLE	2	y
+heel	89	980	HEEL	2	y
+thigh	90	471	UPPER LEG (THIGH)	2	y
+knee	91	1371	KNEE	2	y
+back of the knee	92				y
+calf	93	498	CALF OF LEG	2	y
+shin	94	186	SHIN	2	y
+arm	95	1673	ARM	2	y
+hand plus fore-arm	96	2121	ARM OR HAND		y
+hand	97	1277	HAND	2	y
+upper arm	98	431	UPPER ARM	2	y
+armpit	99	1886	ARMPIT	2	y
+elbow	100	981	ELBOW	2	y
+wrist	101	799	WRIST	2	y
+palm of the hand	102	1183	PALM OF HAND	2	y
+lines in the palm of the hand	103				y
+finger	104	1303	FINGER	2	y
+fingers	105	1303	FINGER	2	y
+toe	106	1389	TOE	2	y
+(finger)nail	107	1896	FINGERNAIL OR TOENAIL	4	y
+thumb	108	1781	THUMB	2	y
+index finger	109	577	FOREFINGER	2	y
+middle finger	110	3387	MIDDLE FINGER	2	y
+ring finger	111				y
+little finger	112	2774	LITTLE FINGER	2	y
+the big toe	113	1781	THUMB		y
+the little toe	114	2774	LITTLE FINGER		y
+bone	115	1394	BONE	2	y
+blood	116	946	BLOOD	2	y
+flesh	117	2615	FLESH OR MEAT	2	y
+tendon	118	1137	TENDON	2	y
+nerve	119	2626	NERVE	2	y
+sinew, nerve	120	1137	TENDON	4	y
+skin	121	763	SKIN	2	y
+body hair	122	189	HAIR (BODY)	2	y
+body hair (animal)	123	580	FUR	4	y
+hair	122/123	1040	HAIR		y
+sweat	124	125	SWEAT (SUBSTANCE)	2	y
+saliva	125	1503	SALIVA	2	y
+phlegm	126	3061	PHLEGM	2	y
+to breath	127	3183	BREATH OR BREATHE	3	y
+to eat	128	1336	EAT	1	y
+hungry	129	1533	BE HUNGRY	2	y
+to drink	130	1401	DRINK	1	y
+drunk	131	1463	DRUNK	2	y
+thirsty	132	847	THIRSTY	2	y
+satisfied	133	1429	FULL	4	y
+replete, satisfied	134	106	SATIATED	4	y
+to bite	135	1403	BITE	1	y
+to swallow down	136	897	SWALLOW		y
+to swallow	137	897	SWALLOW	1	y
+to sleep	138	1585	SLEEP	1	y
+to dream	139	1920	DREAM (SOMETHING)	1	y
+dream	140	2374	DREAM	2	y
+dream	139/140	2455	DREAMING OR DREAM		y
+sleepy	141	3620	SLEEPY	2	y
+to wake up	142	1602	WAKE UP	1	y
+to get up	143	1512	RISE (ONESELF)	1	y
+to stand	144	1442	STAND	1	y
+to walk	145	1443	WALK	1	y
+to lie supine	146	1411	LIE (REST)		y
+to lie prone	147	215	LIE DOWN		y
+to lie	148	215	LIE DOWN	1	y
+to sit (on a chair)	149	1649	SIT DOWN	3	y
+to sit (with the legs crossed)	150			3	y
+to sit (with the knees bent to one side)	151			3	y
+to squat	152	3163	SQUAT	1	y
+to swim	153	1439	SWIM	1	y
+to take a bath	154	1453	WASH	4	y
+to wash	155	1453	WASH	1	y
+to stammer	156	1866	STUTTER	3	y
+to speak with a burr	157				y
+voice	158	1363	VOICE	2	y
+hoarse	159				y
+to shout	160	715	SHOUT	1	y
+to laugh	161	1355	LAUGH	1	y
+to laugh at	162	1355	LAUGH		y
+to weep	163	1839	CRY	1	y
+to weep for	164	1839	CRY		y
+to smile	165	1451	SMILE	1	y
+to sigh	166				y
+to spit	167	1440	SPIT	1	y
+to vomit	168	1278	VOMIT	1	y
+to sneeze	169	1621	SNEEZE	1	y
+to cough	170	879	COUGH	1	y
+to hiccup	171	162	HICCOUGH	3	y
+hiccups	172	162	HICCOUGH		y
+to choke	173	129	CHOKE	1	y
+belch	174	2245	BELCH	2	y
+to belch	175	2245	BELCH	1	y
+to yawn	176	1028	YAWN	1	y
+to nod	177				y
+pregnant	178	1123	PREGNANT	2	y
+to be born	179	1090	BE BORN	1	y
+after birth	180	3388	PLACENTA		y
+twins	181	1005	TWINS	2	y
+to live (alive)	182	1422	BE ALIVE	1	y
+to die	183	1494	DIE	1	y
+death	184	910	DEATH	2	y
+dead	185	1625	DEAD	2	y
+the deceased	186				y
+liquid formed during decomposition of body	187				y
+corpse	188	767	CORPSE	2	y
+coffin	189	2011	COFFIN	2	y
+to bury	190	1719	BURY	1	y
+grave	191	1773	GRAVE	2	y
+to kill	192	1417	KILL	1	y
+to inherit	193	3664	INHERIT	1	y
+inheritance	194				y
+to wound	195	44	INJURE	4	y
+wound	196	1109	WOUND	2	y
+an infected wound	197	548	INFECTED		y
+scar	198	497	SCAR	2	y
+ill	199	1847	SICK	2	y
+to be ill	200	1847	SICK	1	y
+to (be in) pain	201	2561	HURT (SENSE PAIN)	3	y
+healthy	202	1364	HEALTHY	2	y
+boil	203	793	BOIL (OF SKIN)	2	y
+to be feverish	204	1847	SICK	4	y
+fever	205	1534	FEVER	2	y
+to have a stomach ache	206				y
+stomach ache	207				y
+to have diarrhoea	208	1177	DIARRHEA		y
+diarrhoea	209	1177	DIARRHEA	2	y
+small pox	210	1054	SMALLPOX		y
+measles	211	3389	MEASLES	2	y
+swelling, swollen	212	1903	SWELLING	4	y
+goitre	213	1957	GOITER	2	y
+eruption (of rash)	214				y
+ichthyosis, tinea	215	3173	TINEA	4	y
+framboesia	216				y
+scabies	217	3172	SCABIES	2	y
+leprosy	218	3624	LEPROSY	2	y
+headache	219	3625	HEADACHE	2	y
+rheumatism	220				y
+to have a cold	221	102	COMMON COLD (DISEASE)		y
+a cold	222	102	COMMON COLD (DISEASE)	3	y
+gone to sleep (limbs)	223				y
+cramp	224				y
+paralysed	225	3621	DISABLED PERSON		y
+crippled	226	320	LAME	4	y
+mute	227	2320	MUTE PERSON	2	y
+deaf	228	458	DEAF PERSON	2	y
+blind	229	1653	BLIND	2	y
+to shut the eyes	230	2063	CLOSE (EYES)		y
+squinting	231	87	SQUINT-EYED		y
+cured	232	499	CURE		y
+medicine	233	1372	MEDICINE	2	y
+medicine (with magic power)	234	392	MAGIC	4	y
+doctor (medicine man)	235	394	SHAMAN (FOLK HEALER)	4	y
+man, mankind	236	683	PERSON	4	y
+people	237	789	PEOPLE	2	y
+people	238	789	PEOPLE	2	y
+name	239	1405	NAME	2	y
+nickname	240	1405	NAME		y
+man	241	2106	MALE PERSON	2	y
+woman	242	962	WOMAN	2	y
+male (human)	243	2261	MALE (OF PERSON)	4	y
+male (animal)	244	2263	MALE (OF ANIMAL)	2	y
+male	243/244	1553	MALE		y
+female (human)	245	2260	FEMALE (OF PERSON)	4	y
+female (animal)	246	2262	FEMALE (OF ANIMAL)	4	y
+female	245/246	1551	FEMALE		y
+youth (male)	247	76	YOUNG MAN	4	y
+virgin	248	2298	VIRGIN	2	y
+virginity	249				y
+boy, lad	250	2391	BOY OR SON	4	y
+young girl	251	1646	GIRL	2	y
+girl	252	1646	GIRL	2	y
+old man	253	406	OLD MAN	2	y
+old woman	254	907	OLD WOMAN	2	y
+father	255	1217	FATHER	2	y
+mother	256	1216	MOTHER	2	y
+oldest child	257				y
+youngest child	258				y
+child	257/258	2099	CHILD		y
+little child (male)	259	1366	BOY		y
+little child (female)	260	1646	GIRL		y
+son	261	1620	SON	2	y
+daughter	262	1357	DAUGHTER	2	y
+grandfather	263	1383	GRANDFATHER	2	y
+grandmother	264	1496	GRANDMOTHER	2	y
+great-great-grandparents	265				y
+great-grandparents	266				y
+ancestors	267	1669	ANCESTORS	2	y
+brother	268	1262	BROTHER	2	y
+sister	269	1263	SISTER	2	y
+older brother	270	1759	OLDER BROTHER	2	y
+older sister	271	1758	OLDER SISTER	2	y
+younger brother	272	1760	YOUNGER BROTHER	2	y
+younger sister	273	1761	YOUNGER SISTER	2	y
+grandchild	274	1617	GRANDCHILD	2	y
+uncle FB	275	1985	PATERNAL UNCLE (FATHER'S BROTHER)		y
+uncle MB	276	2692	MATERNAL UNCLE (MOTHER'S BROTHER)		y
+uncle FBo	277	2173	PATERNAL UNCLE (FATHER'S OLDER BROTHER)		y
+uncle FBy	278	2174	PATERNAL UNCLE (FATHER'S YOUNGER BROTHER)		y
+uncle MBo	279	3249	MATERNAL UNCLE (MOTHER'S OLDER BROTHER)		y
+uncle MBy	280	3250	MATERNAL UNCLE (MOTHER'S YOUNGER BROTHER)		y
+uncle	275/276	1327	UNCLE		y
+aunt FZ	281	2691	PATERNAL AUNT (FATHER'S SISTER)		y
+aunt MZ	282	2693	MATERNAL AUNT (MOTHER'S SISTER)		y
+aunt FZo	283	3041	PATERNAL AUNT (FATHER'S OLDER SISTER)		y
+aunt FZy	284				y
+aunt MZo	285	3042	MATERNAL AUNT (MOTHER'S OLDER SISTER)		y
+aunt MZy	286	3043	MATERNAL AUNT (MOTHER'S YOUNGER SISTER)		y
+aunt	281/282	1272	AUNT		y
+nephew BoS	287	1063	NEPHEW		y
+nephew ByS	288	1063	NEPHEW		y
+nephew ZoS	289	1063	NEPHEW		y
+nephew ZyS	290	1063	NEPHEW		y
+niece BoD	291	1642	NIECE		y
+niece ByD	292	1642	NIECE		y
+niece ZoD	293	1642	NIECE		y
+niece ZyD	294	1642	NIECE		y
+cousin FB/FZS MB/MZS	295	3822	MALE COUSIN		y
+cousin FB/FZD MB/MZD	296	3823	FEMALE COUSIN		y
+parents-in-law	297	306	PARENTS-IN-LAW	2	y
+respective parents of the married couple	298	505	PARENTS		y
+son-in-law	299	1056	SON-IN-LAW	2	y
+daughter-in-law	300	1057	DAUGHTER-IN-LAW	2	y
+son or daughter-in-law	301			4	y
+stepson	302	1059	STEPSON	2	y
+stepdaughter	303	1058	STEPDAUGHTER	2	y
+stepparents	304				y
+adopted child	305				y
+brother-in-law WB	306	2380	BROTHER-IN-LAW (OF MAN)		y
+brother-in-law HB	307				y
+brother-in-law WZH	308				y
+brother-in-law HZH	309				y
+brother-in-law	310	2314	BROTHER-IN-LAW	2	y
+sister-in-law HZ	311	2317	SISTER-IN-LAW		y
+sister-in-law WZ	312	2317	SISTER-IN-LAW		y
+sister-in-law HBW	313				y
+sister-in-law WBW	314				y
+related	315	194	FAMILY		y
+unrelated	316				y
+husband	317	1200	HUSBAND	2	y
+wife	318	1199	WIFE	2	y
+friend	319	1325	FRIEND	2	y
+comrade, friend	320	1325	FRIEND	4	y
+comrade, mate	321	3978	COMPANION	4	y
+friend (female)	322	1325	FRIEND	4	y
+guest	323	1782	GUEST	2	y
+guest, stranger	324	2908	GUEST OR STRANGER	4	y
+village	325	930	VILLAGE	2	y
+country	326	1300	COUNTRY	2	y
+town (capital)	327	1391	TOWN	4	y
+main village	328	930	VILLAGE		y
+hamlet	329				y
+people (tribe)	330	1549	TRIBE	4	y
+sorcerer	331	823	SORCERER	2	y
+talisman	332	392	MAGIC		y
+incantation	333	118	BEWITCH		y
+magic wand	334	392	MAGIC		y
+magic book	335	392	MAGIC		y
+sacred, magic writings	336	392	MAGIC		y
+idol	337	1945	IDOL	2	y
+omen	338	107	OMEN	2	y
+ghost	339	1175	GHOST	2	y
+spirit	340	53	SPIRIT	2	y
+evil spirit	341	1973	DEMON	2	y
+vampire (witch, werewolf)	342				y
+soul, spirit	343	811	SOUL	2	y
+soul, ghost	344	1175	GHOST	4	y
+the supreme being	345	3231	DEITY		y
+religion	346	661	RELIGION	2	y
+to worship	347	257	WORSHIP	1	y
+vital spirit, vitality	348				y
+god	349	1944	GOD	2	y
+statue representing an ancestor/ancestors	350	1669	ANCESTORS	4	y
+writing	351				y
+letter	352	1612	LETTER	2	y
+paper	353	648	PAPER	2	y
+letter	354	1612	LETTER	2	y
+book	355	963	BOOK	2	y
+story	356	2060	STORY	2	y
+history, legend	357				y
+poem	358	541	POETRY		y
+tune, melody	359	1096	SONG	4	y
+heaven	360	1565	HEAVEN	2	y
+hell	361	878	HELL	2	y
+underworld	362				y
+underworld	363	878	HELL		y
+the upper world	364	1565	HEAVEN		y
+population	365				y
+the afterlife	366				y
+virtue	367				y
+sin	368	2971	SIN	2	y
+forbidden	369				y
+forbidden, taboo	370				y
+priest	371	852	PRIEST	2	y
+priestess	372	852	PRIEST		y
+shaman	373	394	SHAMAN (FOLK HEALER)	2	y
+temple	374	911	TEMPLE	2	y
+holy place	375	911	TEMPLE		y
+settlement	376	1391	TOWN	4	y
+town hall	377	335	MEETING HOUSE		y
+king	378	1508	KING	2	y
+a sort of first minister	379	486	MINISTER		y
+mantri	380	486	MINISTER		y
+guard	381	1940	GUARD	2	y
+(sacred) place (held in awe)	382	723	PLACE (POSITION)	4	y
+village hall	383	335	MEETING HOUSE		y
+men's house	384	408	MEN'S HOUSE	2	y
+women's house	385	1252	HOUSE		y
+village head	386	301	CHIEFTAIN		y
+chieftain	387	301	CHIEFTAIN	2	y
+nobleman	388	482	NOBLE	4	y
+village elders	389	2112	OLD (AGED)		y
+warrior	390	3608	WARRIOR	2	y
+happiness	391	2941	HAPPINESS	2	y
+unhappiness	392	3854	SADNESS		y
+free man	393	384	FREEMAN	2	y
+slave	394	812	SLAVE	2	y
+custom	395	1747	CUSTOM	2	y
+common law	396	1062	LAW		y
+criminal	397	3875	CRIMINAL	2	y
+to judge	398	1818	ADJUDICATE	3	y
+to punish	399	3649	PUNISH	1	y
+fine	400	218	FINE (PENALTY)	2	y
+witness	401	1144	WITNESS	2	y
+judge	402	861	JUDGE	2	y
+credit bondsman	403				y
+funeral ceremony	404	3336	FUNERAL		y
+to circumcise	405	393	CIRCUMCISION		y
+filing of the teeth	406	3113	FILE (SOMETHING)		y
+to marry, to take a wife, marriage	407	2164	MARRY (AS MAN)	3	y
+to marry, to take a husband, marriage	408	2163	MARRY (AS WOMAN)	3	y
+marry, marriage	407/408	3182	MARRIAGE OR WEDDING		y
+to give in marriage	409				y
+to divorce	410	3672	DIVORCE (SEPARATE)	3	y
+bride price	411	3024	BRIDE PRICE	2	y
+betrothal	412	3644	AGREEMENT		y
+to give birth to	413	1195	GIVE BIRTH		y
+midwife	414	3859	MIDWIFE	2	y
+to commit adultery	415	902	ADULTERY		y
+prostitute	416	1610	PROSTITUTE	2	y
+dancing girl	417				y
+mask	418	2005	MASK	2	y
+violin	419				y
+flute	420	777	FLUTE	2	y
+drum	421	908	DRUM	2	y
+tambourine	422	3141	TAMBOURINE	2	y
+xylophone	423				y
+gong	424	2502	GONG	2	y
+conch shell	425	598	SHELL		y
+Jew's harp	426	3319	JEW'S HARP	2	y
+horn	427	939	HORN (INSTRUMENT)	2	y
+to dance	428	1879	DANCE	1	y
+song	429	1096	SONG	2	y
+riddle	430	2970	RIDDLE	2	y
+to ask a riddle	431	2970	RIDDLE		y
+to play	432	1413	PLAY	1	y
+top	433	1753	TOP	2	y
+to spin a top	434	121	SPIN		y
+to hop	435	1829	JUMP		y
+to kick/to hit a person on the calves (k.o. play)	436	1135	KICK	3	y
+house	437	1252	HOUSE	2	y
+hut, shelter	438	1678	HUT	4	y
+roof	439	769	ROOF	2	y
+ridge of roof	440	280	RIDGEPOLE		y
+roofing: thatch	441	279	THATCH	4	y
+roofing: bamboo lath	442	279	THATCH		y
+roofing	441/442	769	ROOF		y
+roofing: wood	443	279	THATCH	4	y
+roofing: bark	444	279	THATCH	4	y
+roofing: other materials	445	769	ROOF		y
+rafter	446	829	RAFTER	2	y
+porch	447	3269	PORCH	2	y
+door opening	448	1567	DOOR		y
+door	449	1567	DOOR	2	y
+window opening	450	1375	WINDOW		y
+window	451	1375	WINDOW	2	y
+corner	452	192	CORNER	2	y
+staircase, steps	453	34	STAIRS	4	y
+ladder	454	1464	LADDER	2	y
+to climb into a house	455	1102	CLIMB		y
+floor (made from bamboo lath)	456	1632	FLOOR	4	y
+floor (made from wood)	457	1632	FLOOR	4	y
+floor	456/457	1632	FLOOR		y
+wall (plank wall)	458	3830	WALL	4	y
+wall (bamboo wall)	459	3830	WALL	4	y
+midrib of palm frond	460				y
+main posts	461	2045	COLUMN		y
+ceiling beams	462	2045	COLUMN		y
+bed	463	1663	BED	2	y
+curtain	464	2621	CURTAIN	2	y
+sleeping place	465	2505	BEDROOM		y
+small room	466	1450	ROOM		y
+cylindrical bolster	467	1044	PILLOW		y
+sleeping mat	468	105	MATTRESS	2	y
+pillow	469	1044	PILLOW	2	y
+couch	470	3099	SOFA	2	y
+front verandah	471	3269	PORCH		y
+attic (under the roof)	472				y
+rack above the fireplace	473	3176	RACK (FOR STORING FOOD)		y
+hearth, fireplace	474	185	FIREPLACE	2	y
+fire	475	221	FIRE	2	y
+fire	476	221	FIRE	2	y
+to make a fire	477	737	LIGHT (IGNITE)	3	y
+to extinguish (with water)	478	127	EXTINGUISH	3	y
+to extinguish	479	127	EXTINGUISH	1	y
+to blow on a fire	480	176	BLOW (WITH MOUTH)		y
+extinguished	481	2209	BECOME EXTINGUISHED	4	y
+smoke	482	778	SMOKE (EXHAUST)	2	y
+ashes	483	646	ASH	2	y
+fire wood	484	10	FIREWOOD		y
+to put on (light)	485	737	LIGHT (IGNITE)	3	y
+to put off (light)	486	127	EXTINGUISH		y
+space under the house	487	2632	AREA UNDER HOUSE		y
+bed curtain	488	2621	CURTAIN		y
+bench, seat	489	2584	BENCH	2	y
+to build	490	1840	BUILD	1	y
+to pull down (house)	491	681	DESTROY		y
+coconut shell	492	598	SHELL		y
+pot (iron)	493	1462	POT	4	y
+pot (earthenware)	494	2055	CLAY POT	4	y
+rice kettle (copper)	495	854	RICE STEAMER		y
+rice kettle (earthenware)	496	854	RICE STEAMER		y
+dish	497	480	PLATE	2	y
+cup	498	476	CUP	2	y
+drinking bowl	499	476	CUP		y
+(tea) pot	500	3765	STORING POT	4	y
+saucer (earthenware)	501	271	SAUCER	4	y
+small saucer (earthenware)	502	271	SAUCER		y
+copper saucer	503	271	SAUCER		y
+copper dish	504	271	SAUCER		y
+knife	505	1352	KNIFE	2	y
+chopper	506	3067	CLEAVER	2	y
+kris	507	1535	SWORD		y
+dagger	508	3233	SMALL KNIFE		y
+axe, hatchet	509	677	AXE	4	y
+spoon	510	1378	SPOON	2	y
+ladle	511	2657	LADLE	2	y
+bamboo water container	512	2548	BARREL		y
+to fetch water	513	1911	DRAW (WATER)		y
+basket (all sorts of)	514	1539	BASKET	4	y
+lamp	515	625	LAMP	2	y
+lamp wick	516				y
+torch	517	1919	TORCH	2	y
+case	518	3150	BOX OR CHEST	2	y
+box, case	519	3150	BOX OR CHEST	4	y
+case for cloth	520	3106	WARDROBE		y
+cooking pot	521	3653	COOKING POT	2	y
+pot, jar	522	1462	POT	4	y
+to fire pottery	523	2102	BURN		y
+earthen water barrel	524	2055	CLAY POT		y
+to cook in bamboo container	525	1100	COOK (SOMETHING)		y
+to cook (in pot)	526	1100	COOK (SOMETHING)	3	y
+to steam	527	2067	STEAM (VERB)	1	y
+to cook	525-527	1100	COOK (SOMETHING)		y
+to bake, to grill, to fry	528	183	BAKE	3	y
+to roast (in ashes)	529	1962	ROAST (SOMETHING)	3	y
+to grill, to roast	530	1962	ROAST (SOMETHING)	4	y
+to bake	531	183	BAKE	1	y
+done	532	3806	RIPE OR COOKED	2	y
+half done	533	1959	RAW		y
+food	534	256	FOOD	2	y
+provisions	535				y
+side-dish	536	3542	PREPARED FOOD		y
+vegetables	537	924	VEGETABLES	2	y
+meat	538	2615	FLESH OR MEAT	2	y
+meat (raw)	539	2615	FLESH OR MEAT	4	y
+dried meat	540	634	MEAT		y
+meat	539/540	2615	FLESH OR MEAT		y
+fish	541	227	FISH	2	y
+rice plant	542	2026	RICE PLANT	2	y
+harvested rice	543	3289	UNCOOKED RICE		y
+husked rice	544	926	RICE	2	y
+cooked rice	545	1191	COOKED RICE	2	y
+rice (husked raw rice, cooked rice)	544/545	926	RICE		y
+unhusked rice	546	2749	UNHUSKED RICE	2	y
+stalk	547	2628	PLANT STEM	2	y
+ear of rice, corn	548	605	GRAIN	4	y
+rice barn	549	3657	GRANARY		y
+rice pounder, mortar	550	224	MORTAR	4	y
+pounder	551	2459	GRINDSTONE	2	y
+to pound	552	354	POUND	1	y
+sieve for rice	553	3353	SIEVE (TOOL)		y
+chaff	554	2363	CHAFF (HUSK)	2	y
+to grind	555	1033	GRIND	1	y
+rice porridge	556	2049	CONGEE		y
+sago flour	557				y
+sago porridge	558				y
+baked sago	559				y
+cake	560	2408	CAKE	2	y
+porridge	561	2049	CONGEE	2	y
+black pepper	562	1385	PEPPER		y
+salt	563	1274	SALT	2	y
+coconut pulp	564				y
+sarong	565	2413	SARONG	2	y
+cloth	566	1616	CLOTH	2	y
+trousers	567	809	TROUSERS	2	y
+kebaya	568				y
+jacket (for women)	569	2770	JACKET	4	y
+jacket (for men)	570	2770	JACKET	4	y
+head cloth (for women)	571	3457	HEADBAND OR HEADDRESS		y
+head cloth (for men)	572	3457	HEADBAND OR HEADDRESS		y
+comb	573	1475	COMB	2	y
+fine tooth comb	574	1475	COMB		y
+finger ring	575	1374	RING	2	y
+ring	576	1374	RING	2	y
+waist belt/band	577	772	BELT		y
+metal waist band	578	772	BELT		y
+arm ring, bracelet	579	1754	BRACELET	4	y
+anklet	580				y
+arm ring (upper arm)	581	1754	BRACELET		y
+earring	582	770	EARRING	2	y
+earclip	583	770	EARRING		y
+necklace	584	1961	NECKLACE	2	y
+bead	585	1860	BEAD	2	y
+shawl	586	2771	SHAWL	2	y
+sarong used as a sling	587	2413	SARONG		y
+loin cloth	588	1965	LOINCLOTH		y
+cotton fabric (local, European)	589	1616	CLOTH		y
+silk	590	1641	SILK	2	y
+woollen fabric	591	1616	CLOTH		y
+flannel	592	1616	CLOTH		y
+to weave	593	133	WEAVE	1	y
+loom (meed)	594	1787	LOOM	4	y
+loom (weaving spool)	595	1161	THREAD	4	y
+loom (warp)	596	1787	LOOM	4	y
+loom (weft)	597			4	y
+bark cloth	598	1204	BARK		y
+to pound bark cloth	599	354	POUND		y
+to weave, to plait	600	3294	BRAID (VERB) OR WEAVE (BASKET)	3	y
+to twine a rope	601	121	SPIN		y
+rope	602	1218	ROPE	2	y
+thread, yarn	603	1161	THREAD	4	y
+to knot, to knit	604	760	KNOT	4	y
+bag (woven bag)	605	2468	BAG	4	y
+bag (made from rope)	606	2468	BAG	4	y
+sword	607	1535	SWORD	2	y
+sabre	608	1535	SWORD		y
+sheath	609	3424	SHEATH	2	y
+to chip, cut, slash	610	1432	CUT	3	y
+pike, lance, javelin	611	945	SPEAR	4	y
+blow-pipe	612	432	BLOWGUN		y
+bow	613	994	BOW	2	y
+bowstring	614	2119	BOW STRING	2	y
+arrow	615	977	ARROW	2	y
+quiver	616	995	QUIVER (FOR ARROWS)	2	y
+shield	617	1064	SHIELD	2	y
+flag	618	2623	FLAG	2	y
+kind of small cannon	619	3202	CANNON		y
+rifle	620	3881	PISTOL	2	y
+gun powder	621	1798	GUNPOWDER		y
+bullet	622	1114	BULLET	2	y
+to shoot	623	1172	SHOOT	1	y
+sling	624	387	SLING	2	y
+to wage war	625	935	WAR		y
+war	626	935	WAR	2	y
+enemy	627	1358	ENEMY	2	y
+cannon	628	3202	CANNON	2	y
+to go head hunting	629	1435	HUNT		y
+peace	630	1338	PEACE	2	y
+fortification	631	1938	FORTRESS		y
+defeated	632	3535	BE DEFEATED	2	y
+to gain the victory, to win	633	866	WIN		y
+to surrender	634	1696	SURRENDER	1	y
+victory	635	783	VICTORY	2	y
+prisoner of war	636	1072	PRISONER		y
+delegate	637				y
+tribute	638	873	TAX	4	y
+tribute <as a mark of respect >	639	2982	GIFT	4	y
+tax	640	873	TAX	2	y
+to farm	641	1541	CULTIVATE	3	y
+plough	642	2154	PLOUGH (INSTRUMENT)	2	y
+coulter	643				y
+rake	644	338	RAKE	2	y
+dibble	645	3155	DIBBLE STICK		y
+to make a hole (with a dibble in the ground)	646	1418	DIG		y
+spade	647	1176	SPADE	2	y
+trowel (a small trowel)	648				y
+knife for cutting grass	649	2132	SICKLE OR SCYTHE		y
+sickle	650	341	SICKLE	2	y
+knife for cutting rice plant	651	3233	SMALL KNIFE		y
+hoe	652	284	HOE	2	y
+garden	653	586	GARDEN	2	y
+rice-field (wet, sawah)	654	140	PADDY FIELD		y
+rice-field (dry)	655	2794	FIELD (UPLAND)		y
+small dike in rice-field	656				y
+irrigation	657	3078	IRRIGATE		y
+water-course channel	658	2423	CHANNEL		y
+fence, hedge	659	1690	FENCE	4	y
+vegetation	660	653	PLANT (VEGETATION)	2	y
+planting, recently planted crop, a newly established garden	661	653	PLANT (VEGETATION)		y
+to sow (placing the seeds in holes in the ground)	662	1486	PLANT (SOMETHING)	3	y
+to sow (scattering the seeds about)	663	748	SOW SEEDS	3	y
+sow	662/663	748	SOW SEEDS		y
+seed	664	714	SEED	2	y
+to plant	665	1486	PLANT (SOMETHING)	1	y
+to thresh with the feet	666	575	TREAD		y
+seed-rice	667	714	SEED	2	y
+ripe	668	178	RIPE	2	y
+unripe	669	1958	UNRIPE	2	y
+to harvest	670	1827	HARVEST CROPS	4	y
+to reap	671	1827	HARVEST CROPS	1	y
+to gather	672	1827	HARVEST CROPS	1	y
+harvest	671/672	611	HARVEST		y
+to pick	673	2148	PICK	1	y
+maize, corn	674	506	MAIZE	2	y
+millet	675	931	MILLET	2	y
+beans and peas	676	2574	BEAN OR PEA		y
+beans	677	832	BEAN	2	y
+bean	678	832	BEAN	2	y
+cucumber	679	496	CUCUMBER	2	y
+pumpkin	680	864	PUMPKIN	2	y
+tobacco	681	974	TOBACCO	2	y
+sugarcane	682	146	SUGAR CANE	2	y
+peanut	683	595	GROUNDNUT (PEANUT)	2	y
+onion	684	2366	ONION	2	y
+gourd	685	411	GOURD	2	y
+species of tuber	686	159	SWEET POTATO		y
+sweet potato	687	159	SWEET POTATO	2	y
+cassava	688	925	CASSAVA	2	y
+taro	689	351	TARO	2	y
+red pepper	690	919	CHILI PEPPER	2	y
+coconut (tree)	691	147	COCONUT TREE	4	y
+coconut (fruit)	692	970	COCONUT	2	y
+coconut (other parts of the tree)	693	970	COCONUT	4	y
+breadfruit tree and breadfruit	694	2371	BREADFRUIT		y
+sugarpalm, aren tree	695	3029	SUGAR PALM		y
+lontar tree	696	3030	LONTAR PALM		y
+palm juice (unfermented)	697				y
+palm wine (fermented)	698	404	ALCOHOL (FERMENTED DRINK)	4	y
+palmwine	699	404	ALCOHOL (FERMENTED DRINK)		y
+syrup	700				y
+sugar	701	862	SUGAR	2	y
+nipa palm	702				y
+sago tree	703	2372	SAGO PALM		y
+sago	704	2270	SAGO	2	y
+cotton	705	1850	COTTON	2	y
+kapok	706	2499	KAPOK TREE	2	y
+pandanus	707	469	PANDANUS	2	y
+mango	708	2398	MANGO	2	y
+Artocarpus integrifolia, Jack fruit	709	2655	JACKFRUIT	4	y
+Nephelium lappaceum	710				y
+Durio zibethinus	711				y
+Eugenia	712	3981	GUAVA		y
+Lansium domesticum	713				y
+Averrhoa carambola, carambola	714				y
+Averrhoa blimbi	715				y
+banana	716	868	BANANA	2	y
+banana (wild)	717	399	PLANTAIN	4	y
+banana (fruit)	718	868	BANANA	2	y
+banana	716-718	868	BANANA		y
+species of citrus fruit	719	1126	CITRUS FRUIT		y
+orange	720	2627	ORANGE (FRUIT)	2	y
+grape fruit	721	920	GRAPE		y
+lemon	722	3091	LEMON	2	y
+coffee	723	1299	COFFEE	2	y
+indigo (plant)	724				y
+indigo (dye)	725				y
+Uncaria gambir	726				y
+Morinda atrocarpus	727				y
+lime	728	2540	LIME (MATERIAL)	2	y
+Curcuma domestica	729	2842	TURMERIC		y
+ginger	730	2500	GINGER	2	y
+rattan, cane	731	2497	RATTAN	4	y
+bamboo	732	1927	BAMBOO	2	y
+bamboo shoot, young sprout	733	2494	BAMBOO SHOOT	4	y
+tree	734	906	TREE	2	y
+wood	735	1803	WOOD	2	y
+to climb a tree	736	1102	CLIMB		y
+to climb	737	1102	CLIMB	1	y
+to cut down	738	355	CUT DOWN	1	y
+branch	739	1531	BRANCH	2	y
+twig	740	3222	TWIG	2	y
+branch	739/740	1531	BRANCH		y
+the heart of the tree	741	1803	WOOD		y
+main root, taproot	742	670	ROOT		y
+side-root	743	670	ROOT		y
+fibrous root	744	670	ROOT		y
+root	742-744	670	ROOT		y
+liana	745	2388	LIANA	2	y
+leaf	746	628	LEAF	2	y
+falling of the leaves	747	628	LEAF		y
+bark	748	1204	BARK	2	y
+thorn, spine	749	124	THORN	4	y
+sap	750	345	SAP	2	y
+gum	751	139	GUMS	2	y
+Areca catechu LINN	752	217	BETELNUT		y
+betel	753	177	BETEL PEPPER VINE	2	y
+resin	754	664	RESIN	2	y
+resin (from the damar tree)	755	664	RESIN	4	y
+damar tree	756	664	RESIN		y
+sprout	757	3358	SPROUT (SHOOT)	2	y
+flower	758	239	FLOWER	2	y
+fruit	759	1507	FRUIT	2	y
+to bear fruit	760	3054	BEAR FRUIT	1	y
+rind, peel	761	2373	SKIN (OF FRUIT)	4	y
+to peel	762	275	PEEL	1	y
+pip, stone	763	1762	STONE (OF FRUIT)	4	y
+the flesh of the fruit	764	2259	FLESH		y
+bunch	765	1966	BUNCH	2	y
+oil	766	2556	OIL (HYDROPHOBIC LIQUID)	2	y
+moss	767	637	MOSS	2	y
+mushroom	768	641	MUSHROOM	2	y
+ferns	769	3802	FERN	4	y
+grass	770	606	GRASS	2	y
+weeds	771	3288	WEED	2	y
+Imperata cylindria (Kunai grass)	772	659	REED		y
+Saccharum spontaneum	773	659	REED		y
+animal, beast	774	619	ANIMAL	4	y
+young of animal (calf, foal, chicken, etc.)	775	619	ANIMAL	4	y
+to bleat	776				y
+to keep animals	777	3780	PET		y
+tail	778	1220	TAIL	2	y
+paw	779	2965	PAW	2	y
+hoof	780	152	HOOF	2	y
+claw	781	72	CLAW	2	y
+udder	782	154	UDDER	2	y
+mouth, snout	783	2200	SNOUT	4	y
+snout, muzzle	784	2200	SNOUT	4	y
+bill, beak	785	73	BEAK	4	y
+wing	786	1257	WING	2	y
+feather	787	1201	FEATHER	2	y
+to fly	788	1441	FLY (MOVE THROUGH AIR)	1	y
+nest	789	539	NEST	2	y
+egg	790	744	EGG	2	y
+to lay eggs	791	2464	LAY EGGS	1	y
+to brood	792	2075	BROOD (VERB)	3	y
+to hatch	793	3116	HATCH (OUT)	1	y
+domesticated pig	794	1337	PIG		y
+piggery	795	3283	CAGE		y
+wild pig	796	3154	WILD BOAR	2	y
+to grunt	797				y
+sheep	798	1331	SHEEP	2	y
+goat	799	1502	GOAT	2	y
+buffalo (female)	800	934	BUFFALO	4	y
+buffalo (male)	801	934	BUFFALO	4	y
+buffalo (calf)	802	1989	CALF	4	y
+cow	803	1007	COW	2	y
+bull	804	1008	BULL	2	y
+to bleat, to moo	805				y
+to low, to bellow	806	536	LOW VOICE	4	y
+horse	807	615	HORSE	2	y
+to neigh, to whinny	808				y
+deer	809	1936	DEER	2	y
+horn	810	1393	HORN (ANATOMY)	2	y
+dog	811	2009	DOG	2	y
+to bark	812	1206	BARKING	1	y
+cat	813	1208	CAT	2	y
+to miaow	814				y
+tiger	815	846	TIGER	2	y
+to roar	816	3896	ROAR	1	y
+bear	817	1820	BEAR	2	y
+porcupine	818	2510	PORCUPINE	2	y
+marsupial	819				y
+marten (paradaxurus)	820	3739	MARTEN	4	y
+half-ape	821	3298	APE OR MONKEY		y
+ant-eater (manis javanica)	822	181	ANTEATER	4	y
+cassowary	823	466	CASSOWARY	2	y
+pigeon	824	1853	DOVE	2	y
+crow	825	913	CROW	2	y
+hen, chicken	826	1318	CHICKEN	4	y
+chick	827	2512	CHICK	2	y
+hen	828	1514	HEN	2	y
+mother hen	829	505	PARENTS		y
+cock, rooster	830	1511	ROOSTER	2	y
+fighting cock	831	1511	ROOSTER		y
+cock-fighting	832	1423	FIGHT		y
+duck	833	1360	DUCK	2	y
+parrot	834	882	PARROT	2	y
+parakeet, budgerigar	835	886	PARAKEET	4	y
+swallow	836	3077	SWALLOW (BIRD)	2	y
+rice-bird	837	1854	SPARROW		y
+hornbill	838	3260	HORNBILL	2	y
+quail	839	1893	QUAIL	2	y
+heron	840	758	HERON	2	y
+birds of prey	841	2683	EAGLE OR HAWK		y
+owl	842	735	OWL	2	y
+kite (bird)	843	1905	EAGLE	4	y
+bird	844	937	BIRD	2	y
+squirrel	845	1628	SQUIRREL	2	y
+bat	846	1793	BAT	2	y
+bat	847	1793	BAT	2	y
+flying fox	848	235	FLYING FOX	2	y
+deer	849	1936	DEER	2	y
+cherrotain mousedeer	850	1936	DEER		y
+mouse	851	1491	MOUSE	2	y
+rat	852	1490	RAT	2	y
+shrew	853	3676	SHREW	2	y
+monkey	854	1350	MONKEY	2	y
+to hunt	855	1435	HUNT	1	y
+trap for catching large game	856	1170	TRAP (CATCH)		y
+trap	857	1075	TRAP (PITFALL)	2	y
+bamboo spikes	858	1075	TRAP (PITFALL)		y
+to fish	859	2638	FISHING	1	y
+fish trap	860	389	FISH TRAP	2	y
+net	861	2653	NET (FOR CATCHING)	2	y
+fish	862	227	FISH	2	y
+shark	863	1110	SHARK	2	y
+ray	864	1910	STINGRAY		y
+eel	865	1013	FRESHWATER EEL	2	y
+louse	866	1392	LOUSE	2	y
+to delouse	867				y
+louse	868	1392	LOUSE	2	y
+nit	869	267	NIT	2	y
+flea	870	232	FLEA	2	y
+spider	871	843	SPIDER	2	y
+fly	872	1504	FLY (INSECT)	2	y
+bluebottle fly	873	1504	FLY (INSECT)		y
+wasp	874	1517	WASP	2	y
+bee	875	665	BEE	2	y
+honey	876	942	HONEY	2	y
+mosquito	877	1509	MOSQUITO	2	y
+butterfly	878	1791	BUTTERFLY	2	y
+caterpillar	879	2247	CATERPILLAR	2	y
+firefly	880	206	FIREFLY	2	y
+grasshopper	881	607	GRASSHOPPER	2	y
+beetle	882	2242	BEETLE	2	y
+cockroach	883	1575	COCKROACH	2	y
+ant	884	587	ANT	2	y
+white ant, termite	885	883	TERMITE	4	y
+snake	886	730	SNAKE	2	y
+python	887	1563	PYTHON	2	y
+centipede	888	1974	CENTIPEDE	2	y
+leech	889	2273	LEECH	2	y
+snail, slug	890	1543	SNAIL	2	y
+worm	891	1219	WORM	2	y
+shrimp	892	2349	SHRIMP	2	y
+crab	893	2348	CRAB	2	y
+shell	894	598	SHELL	2	y
+crustacean	895				y
+frog	896	503	FROG	2	y
+toad	897	894	TOAD	2	y
+lizard	898	632	LIZARD	2	y
+iguana	899	1578	IGUANA	2	y
+crocodile	900	1857	CROCODILE	2	y
+tortoise	901	895	TORTOISE	2	y
+turtle	902	112	TURTLE	2	y
+universe	903				y
+firmament	904	1565	HEAVEN		y
+sky	905	1732	SKY	2	y
+sun	906	1343	SUN	2	y
+sun eclipse	907	2285	ECLIPSE		y
+moon	908	1313	MOON	2	y
+one month	909	1370	MONTH		y
+month (name of the months)	910	1370	MONTH	4	y
+moon eclipse	911	2285	ECLIPSE		y
+star	912	1430	STAR	2	y
+sunrise	913	2296	SUNRISE	2	y
+moonrise	914	2297	DUSK		y
+sunset	915	2295	SUNSET	2	y
+moonset	916	729	DAWN		y
+earth (globe)	917	965	WORLD	4	y
+air	918	27	AIR	2	y
+rain	919	2108	RAINING OR RAIN	2	y
+dew	920	1977	DEW	2	y
+cloud	921	1489	CLOUD	2	y
+fog, mist	922	249	FOG	4	y
+rainbow	923	1733	RAINBOW	2	y
+thunder	924	1150	THUNDER	2	y
+thunderstone	925				y
+(flash of) lightning	926	1654	LIGHTNING	4	y
+earthquake	927	6	EARTHQUAKE	2	y
+wind	928	960	WIND	2	y
+storm	929	858	STORM	2	y
+water	930	948	WATER	2	y
+sea	931	1474	SEA	2	y
+ebb	932	1928	CEASE		y
+lake	933	624	LAKE	2	y
+flood, tide	934	613	HIGH TIDE	4	y
+wave	935	978	WAVE	2	y
+breakers, surf	936	3132	SURF	4	y
+bay	937	663	BAY	2	y
+beach	938	3460	BEACH	2	y
+strait(s)	939	1661	STRAIT	4	y
+sandbank	940				y
+coral reef	941	660	REEF		y
+land	942	626	LAND	2	y
+land (state)	943	1300	COUNTRY	4	y
+island	944	622	ISLAND	2	y
+isthmus	945				y
+cape	946	1662	CAPE	2	y
+mountain	947	639	MOUNTAIN	2	y
+hill	948	614	HILL	2	y
+mountain-climbing, to ascend	949	705	GO UP (ASCEND)	3	y
+to go down, to descend	950	2014	GO DOWN (DESCEND)	3	y
+plain	951	652	PLAIN	2	y
+valley	952	921	VALLEY	2	y
+grassy plain	953	260	SAVANNA		y
+swamp	954	1145	SWAMP	2	y
+forest, woods	955	420	FOREST	4	y
+jungle	956	3808	JUNGLE	2	y
+bush	957	1683	BUSH	2	y
+volcano	958	2291	VOLCANO	2	y
+way, road	959	2457	PATH OR ROAD	4	y
+mud	960	640	MUD	2	y
+footstep (footprint)	961	318	FOOTPRINT	4	y
+border, boundary	962	2546	BORDER	4	y
+river	963	666	RIVER	2	y
+bridge	964	1011	BRIDGE	2	y
+to go upstream	965	787	SAIL		y
+to go downstream	966	787	SAIL		y
+spring, source	967	849	SPRING (OF WATER)	4	y
+flood	968	613	HIGH TIDE	2	y
+stone	969	857	STONE	2	y
+earth (ground)	970	1228	EARTH (SOIL)	4	y
+sand	971	671	SAND	2	y
+gravel	972	3028	GRAVEL	2	y
+iron	973	621	IRON	2	y
+copper	974	1825	COPPER	2	y
+bronze	975	2313	BRONZE	2	y
+silver	976	759	SILVER	2	y
+gold	977	1369	GOLD	2	y
+tin	978	893	TIN (METAL)	2	y
+lead	979	627	LEAD (CHEMICAL ELEMENT)	2	y
+sulphur	980	3386	SULPHUR	2	y
+smith	981	1001	BLACKSMITH	2	y
+smithy	982				y
+to forge, weld	983	288	FORGE	3	y
+charcoal	984	1188	CHARCOAL	2	y
+hammer	985	1481	HAMMER	2	y
+anvil	986	1648	ANVIL	2	y
+tongs	987	272	TONGS	2	y
+cinders, glowing coals	988	1188	CHARCOAL		y
+to sharpen, to grind	989	251	SHARPEN (SOMETHING)	3	y
+grindstone	990	2459	GRINDSTONE	2	y
+gift, present	991	2982	GIFT	4	y
+to negotiate	992				y
+to make peace	993	1338	PEACE		y
+to sign a treaty	994	3644	AGREEMENT		y
+merchant	995	1082	MERCHANT	2	y
+farmer	996	979	FARMER	2	y
+craftsmen	997				y
+servant	998	255	SERVANT	2	y
+follower	999				y
+ally	1000	3978	COMPANION		y
+shop	1001	746	SHOP	2	y
+market	1002	633	MARKET	2	y
+to trade	1003	898	TRADE	1	y
+merchandise	1004	3406	MERCHANDISE	4	y
+needle	1005	1382	NEEDLE (FOR SEWING)	2	y
+to sew	1006	1457	SEW	1	y
+price	1007	657	PRICE	2	y
+profit	1008	2929	BENEFIT	2	y
+loss	1009				y
+to buy	1010	1869	BUY	1	y
+expensive	1011	1426	EXPENSIVE	2	y
+cheap	1012	1887	CHEAP	2	y
+debt	1013	1914	DEBT	2	y
+to dun	1014	7	GATHER		y
+to pay	1015	718	PAY	1	y
+to sell	1016	1571	SELL	1	y
+to borrow	1017	1823	BORROW	1	y
+to lend to	1018	582	LEND		y
+borrow	1017/1018	1823	BORROW		y
+to exchange	1019	2509	EXCHANGE	1	y
+to offer	1020	196	DONATE		y
+to pawn	1021				y
+to bargain	1022				y
+to fill	1023	2006	FILL	1	y
+steelyard, weigh-beam	1024	2687	STEELYARD (BALANCE)	4	y
+a pair of scales	1025	2783	SCALES (MEASURE INSTRUMENT)		y
+measures and weights (length)	1026	2537	LENGTH		y
+measures and weights (mass)	1027	2466	WEIGHT		y
+measures and weights (volume and capacity)	1028	3967	CONTENT		y
+ship (trading vessel)	1029	740	SHIP	4	y
+ship (warship)	1030	740	SHIP	4	y
+ship	1029/1030	740	SHIP		y
+steamboat	1031	1844	BOAT		y
+rowboat	1032	1844	BOAT		y
+proa, canoe	1033	1970	CANOE	4	y
+all sorts of vessels	1034	740	SHIP		y
+mast	1035	184	MAST	2	y
+sail	1036	786	SAILCLOTH	2	y
+to sail	1037	787	SAIL	1	y
+rudder, helm	1038	108	RUDDER	4	y
+to sail	1039	787	SAIL	1	y
+oar, paddle	1040	3318	OAR OR PADDLE	4	y
+paddle	1041	234	PADDLE	2	y
+to paddle	1042	3668	PADDLE (MOVEMENT)	3	y
+to row, to pull	1043	1849	ROW	3	y
+outrigger	1044	416	OUTRIGGER	2	y
+thwarts	1045				y
+stem, bows	1046				y
+stern	1047				y
+to take on cargo	1048	3669	LOAD (SOMETHING)		y
+anchor	1049	1870	ANCHOR	2	y
+raft	1050	1664	RAFT	2	y
+harbour	1051	610	PORT		y
+to be wrecked	1052				y
+pirate	1053				y
+landing-stage	1054				y
+to disembark	1055	1922	LAND (DESCEND)		y
+to sail away	1056	787	SAIL		y
+to capsize	1057	1444	TURN AROUND		y
+kidnapper	1058				y
+to ill-treat, to mishandle	1059	1952	TORTURE		y
+to ransom	1060				y
+great, big	1061	1202	BIG	2	y
+small	1062	1246	SMALL	2	y
+long (things)	1063	1203	LONG	4	y
+long (time)	1064	418	FOR A LONG TIME	4	y
+short (things)	1065	1645	SHORT	2	y
+short (time)	1066	3312	SHORT (TIME)	2	y
+big, fat	1067	1279	FAT (OBESE)	4	y
+thick	1068	1244	THICK	2	y
+thick	1069	1244	THICK	2	y
+thin	1070	2157	FINE OR THIN	2	y
+thin, meagre, skinny	1071	1400	THIN (SLIM)	4	y
+fat (adj.)	1072	1279	FAT (OBESE)	2	y
+fat, grease (noun)	1073	323	FAT (ORGANIC SUBSTANCE)	3	y
+greasy	1074	955	GREASY	2	y
+far	1072-1074	1406	FAR		y
+slim	1075	1400	THIN (SLIM)	2	y
+dwarf	1076				y
+diminished in size, boiled down, shrunken	1077	54	SHRINK		y
+to grow	1078	479	GROW	1	y
+tame	1079	2838	TAME	2	y
+wild	1080	2230	UNTAMED OR WILD	2	y
+wary, shy, timid	1081	487	SHY	4	y
+shy, ashamed	1082	3805	SHY OR ASHAMED	2	y
+deep (river)	1083	1593	DEEP	4	y
+deep (dish)	1084	1593	DEEP	4	y
+deep	1083/1084	1593	DEEP		y
+shallow (river)	1085	193	SHALLOW	4	y
+shallow (dish)	1086	193	SHALLOW	4	y
+shallow	1085/1086	193	SHALLOW		y
+high	1087	2790	HIGH OR TALL	2	y
+low	1088	721	LOW	2	y
+straight	1089	1404	STRAIGHT	2	y
+crooked, bent	1090	297	CROOKED	4	y
+curved, winding	1091	1698	CURVED	4	y
+flat	1092	2249	THIN (OF SHAPE OF OBJECT)	2	y
+even	1093	1633	FLAT	4	y
+smooth	1094	1234	SMOOTH	2	y
+heavy	1095	1210	HEAVY	2	y
+light	1096	1052	LIGHT (WEIGHT)	2	y
+slanting, sloping	1097	3075	SLANTED	4	y
+sharp	1098	1396	SHARP	2	y
+blunt	1099	379	BLUNT	2	y
+pointed	1100	372	POINTED	2	y
+hard	1101	1884	HARD	2	y
+weak	1102	1601	WEAK	2	y
+soft	1103	1856	SOFT	2	y
+warm (persons)	1104	3299	KIND	4	y
+warm (things)	1105	1232	WARM	4	y
+hot	1104/1105	2272	HOT OR WARM		y
+cold (persons)	1106	3955	HOSTILITY	4	y
+cold (things)	1107	1287	COLD	4	y
+cold	1106/1107	1287	COLD		y
+to shiver	1108	52	SHIVER	1	y
+round, circular (as a stick)	1109	1395	ROUND	4	y
+round, circular (as a dish)	1110	1395	ROUND	4	y
+round	1109/1110	1395	ROUND		y
+globular, round	1111	2303	SPHERICAL (ROUND IN THREE DIMENSIONS)	4	y
+square	1112	850	SQUARE	2	y
+broad	1113	2531	BROAD	2	y
+small	1114	1246	SMALL	2	y
+narrow	1115	1267	NARROW	2	y
+wide	1116	1243	WIDE	2	y
+strong	1117	785	STRONG	2	y
+weak	1118	1601	WEAK	2	y
+brave, bold	1119	3	BRAVE	4	y
+cowardly	1120	3812	COWARDLY	2	y
+lazy	1121	1564	LAZY	2	y
+diligent	1122	2077	DILIGENT	2	y
+stingy	1123	1774	STINGY	2	y
+mild, tender	1124	1954	GENTLE	4	y
+dry	1125	1398	DRY	2	y
+to dry in the sun	1126	3364	DRY IN SUN	4	y
+wet	1127	1726	WET	2	y
+humid	1128	143	HUMID	2	y
+rotten	1129	1728	ROTTEN	2	y
+good	1130	1035	GOOD	2	y
+bad	1131	1292	BAD	2	y
+beautiful (persons)	1132	1427	BEAUTIFUL	4	y
+beautiful (male)	1133	3814	HANDSOME	4	y
+beautiful (fem.)	1134	2410	GOOD-LOOKING	4	y
+nice	1132-1134	1035	GOOD		y
+beautiful (things)	1135	1035	GOOD	4	y
+ugly (persons)	1136	1548	UGLY	4	y
+ugly (male)	1137	1548	UGLY	4	y
+ugly (female)	1138	1548	UGLY	4	y
+ugly	1136-1138	1548	UGLY		y
+ugly (things)	1139	1548	UGLY	4	y
+wrong, false	1140	1390	WRONG	4	y
+true, right	1141	1657	TRUE	4	y
+empty	1142	1624	EMPTY	2	y
+full	1143	1429	FULL	2	y
+angry	1144	1826	ANGRY	2	y
+mad	1145	1899	MAD	2	y
+tightly bound	1146	1094	FASTEN		y
+tightly fitting	1147	1094	FASTEN		y
+loose	1148	2506	LOOSE	2	y
+loosely fitting	1149	2506	LOOSE		y
+loose	1148/1149	2506	LOOSE		y
+old	1150	1229	OLD	2	y
+old, worn	1151	2113	OLD (USED)	4	y
+young	1152	1207	YOUNG	2	y
+new	1153	1231	NEW	2	y
+poor	1154	1674	POOR	2	y
+wealthy	1155	712	RICH	2	y
+tired	1156	1757	TIRED	2	y
+fast	1157	1631	FAST	2	y
+slow	1158	701	SLOW	2	y
+dumb	1159	1492	DUMB	2	y
+clever	1160	1310	CLEVER	2	y
+sweet	1161	717	SWEET		y
+sour	1162	1906	SOUR	2	y
+bitter	1163	887	BITTER	2	y
+astringent	1164	3837	ASTRINGENT	2	y
+hot, spicy	1165	544	SPICY	2	y
+salty	1166	1091	SALTY	2	y
+white	1167	1335	WHITE	2	y
+black	1168	163	BLACK	2	y
+red	1169	156	RED	2	y
+brown	1170	2409	BROWN	2	y
+yellow	1171	1424	YELLOW	2	y
+blue	1172	837	BLUE	2	y
+green	1173	1425	GREEN	2	y
+to look for	1174	1468	LOOK FOR	1	y
+to find	1175	719	FIND	1	y
+to give	1176	1447	GIVE	1	y
+to hand, to pass	1177	1447	GIVE	3	y
+to accept	1178	3898	ACCEPT	1	y
+to take	1179	1749	TAKE	1	y
+to get	1180	694	GET	1	y
+to take away	1181	412	CARRY IN HAND		y
+to take along	1182	412	CARRY IN HAND		y
+to bring	1183	692	BRING	1	y
+to accompany	1184	1542	ACCOMPANY	1	y
+to grip, to hold, to seize	1185	1448	HOLD	3	y
+to lead by the hand	1186	43	LEAD (GUIDE)		y
+to make, to do	1187	2575	DO OR MAKE	1	y
+to prepare, to make ready	1188	2909	PREPARE	3	y
+to wash up (dishes, spoons, etc.)	1189	1453	WASH	4	y
+to wash (clothes)	1190	2503	LAUNDER (WASH CLOTHES)	1	y
+to wash (face)	1191	3371	WASH (ONESELF)	3	y
+to wash (hair)	1192	3371	WASH (ONESELF)	3	y
+to know	1193	3626	KNOW	1	y
+to think	1194	2271	THINK	1	y
+to know	1195	1410	KNOW (SOMETHING)	1	y
+to remember	1196	707	REMEMBER	1	y
+to have forgotten something	1197	1523	FORGET		y
+to deny	1198	755	DENY	1	y
+to confess	1199	2022	ADMIT	4	y
+to be silent	1200	48	BE SILENT	1	y
+to mumble	1201	128	MUMBLE	1	y
+to speak	1202	1623	SPEAK	1	y
+to sing	1203	1261	SING	1	y
+to whisper	1204	55	WHISPER	1	y
+to say	1205	1458	SAY	1	y
+to call	1206	1084	CALL	1	y
+to abuse, to scold	1207	1953	ABUSE	3	y
+to be able to	1208	972	BE ABLE	1	y
+to be allowed	1209	3238	ALLOW		y
+to work	1210	1086	WORK (ACTIVITY)	1	y
+to shoulder	1211	413	CARRY ON SHOULDER	4	y
+to carry on the head	1212	414	CARRY ON HEAD		y
+to carry something hanging from the hand	1213				y
+to carry on the hip	1214				y
+to carry under the arm	1215	415	CARRY UNDER ARM	1	y
+to carry in the hand	1216	412	CARRY IN HAND		y
+to carry on the back (with strap over the shoulder or head)	1217	465	CARRY ON BACK	3	y
+to carry in a sarong	1218				y
+to carry	1219	700	CARRY	1	y
+to carry on the back	1220	465	CARRY ON BACK	1	y
+to carry in front of oneself	1221				y
+to wake, to watch	1222	1602	WAKE UP	3	y
+to be awake	1223	825	AWAKE	1	y
+to guard, to watch	1224	1940	GUARD	3	y
+to watch, to guard	1222-1224	1940	GUARD		y
+to spy	1225				y
+to wait	1226	1590	WAIT (FOR)	1	y
+to hear	1227	1408	HEAR	1	y
+to see	1228	1409	SEE	1	y
+to smell	1229	1586	SMELL (PERCEIVE)	1	y
+to feel	1230	1079	FEEL	1	y
+to feel, to touch	1231	2559	FEEL (TACTUALLY)	3	y
+to taste	1232	21	TASTE (SOMETHING)	1	y
+to slurp	1233	2787	CONSUME (DRINK OR EAT)		y
+to blow the nose	1234	2679	BLOW (WITH NOSE)		y
+to suck	1235	1421	SUCK	1	y
+to kiss	1236	578	KISS	1	y
+to sniff	1237	375	SNIFF	1	y
+to love	1238	923	LOVE	1	y
+to hate	1239	1607	HATE	1	y
+jealous	1240	2821	JEALOUS	2	y
+to approve	1241	3643	AGREE		y
+to wish	1242	2117	DESIRE	1	y
+to want	1243	1784	WANT	1	y
+to want something	1244	1784	WANT		y
+wish, want, want something	1242-1244	2117	DESIRE		y
+to open	1245	1156	OPEN	1	y
+to close	1246	1046	SHUT	1	y
+to cut off	1247	1432	CUT		y
+to multiply, to add, to increase	1248	1041	INCREASE	3	y
+to spring, to jump	1249	1829	JUMP	3	y
+to jump down	1250	119	DIVE		y
+to hit, to touch	1251	1433	HIT	3	y
+hit, touched	1252	1433	HIT	4	y
+to break (a stick)	1253	2558	BREAK (CLEAVE)	3	y
+to break (a rope)	1254	460	BREAK (OF ROPE)	3	y
+to shatter	1255	3191	BROKEN (SHATTERED)		y
+broken (a stick)	1256	588	BROKEN	4	y
+broken (rope)	1257	588	BROKEN	4	y
+shattered	1258	3191	BROKEN (SHATTERED)		y
+to pinch, to squeeze	1259	1414	SQUEEZE	3	y
+to begin (tr.)	1260	1806	BEGIN	1	y
+to begin (intr.)	1261	3449	START	3	y
+to start	1260/1261	3449	START		y
+to finish (tr.)	1262	1766	FINISH	3	y
+to finish (intr.)	1263	2115	CEASE OR FINISH	3	y
+to end	1262/1263	2115	CEASE OR FINISH		y
+to bind, to tie	1264	1917	TIE	3	y
+to hide (something to hide)	1265	602	HIDE (CONCEAL)	3	y
+to hide	1266	2486	HIDE	1	y
+to hide	1265/1266	602	HIDE (CONCEAL)		y
+to ask	1267	1309	ASK (INQUIRE)	1	y
+to answer	1268	1275	ANSWER	1	y
+to ask for	1269	1828	ASK (REQUEST)	1	y
+to refuse	1270	49	REFUSE	1	y
+to cheat, to deceive	1271	3230	DECEIVE	3	y
+to tell lies	1272	601	LIE (MISLEAD)	4	y
+to steal	1273	713	STEAL	1	y
+to throw away	1274	3696	THROW AWAY	1	y
+to throw	1275	1456	THROW	1	y
+to burn (tr.)	1276	141	BURN (SOMETHING)	1	y
+to burn (intr.)	1277	1428	BURNING	1	y
+to burn	1276/1277	141	BURN (SOMETHING)		y
+to dig	1278	1418	DIG	1	y
+to go	1279	695	GO	1	y
+to go there	1280	695	GO		y
+to send (out), to order, to command	1281	1998	COMMAND	3	y
+to send	1282	1127	SEND	1	y
+to come	1283	1446	COME	1	y
+to arrive	1284	1387	ARRIVE	1	y
+to be coming	1285	1446	COME		y
+to depart	1286	1752	LEAVE	4	y
+to meet	1287	1831	MEET	1	y
+to meet one another	1288	1831	MEET		y
+to collect	1289	7	GATHER	3	y
+to gather, to meet	1290	3638	ASSEMBLE (GET TOGETHER)	3	y
+to hit (to beat, to slap, etc.)	1291	2133	STRIKE OR BEAT	3	y
+to take revenge	1292	495	REVENGE	4	y
+one	1293	1493	ONE	2	y
+two	1294	1498	TWO	2	y
+three	1295	492	THREE	2	y
+four	1296	1500	FOUR	2	y
+five	1297	493	FIVE	2	y
+six	1298	1703	SIX	2	y
+seven	1299	1704	SEVEN	2	y
+eight	1300	1705	EIGHT	2	y
+nine	1301	1483	NINE	2	y
+ten	1302	1515	TEN	2	y
+eleven	1303	1706	ELEVEN	2	y
+twelve	1304	1707	TWELVE	2	y
+thirteen	1305	1708	THIRTEEN	2	y
+fourteen	1306	2451	FOURTEEN	2	y
+fifteen	1307	1709	FIFTEEN	2	y
+sixteen	1308	2454	SIXTEEN	2	y
+seventeen	1309	2453	SEVENTEEN	2	y
+eighteen	1310	1713	EIGHTEEN	2	y
+nineteen	1311	1714	NINETEEN	2	y
+twenty	1312	1710	TWENTY	2	y
+twenty one	1313	1734	TWENTY ONE	2	y
+twenty one, twenty two, etc.	1314	1356	NUMBER	4	y
+twenty five	1315	1738	TWENTY FIVE	2	y
+thirty	1316	1715	THIRTY	2	y
+fourty	1317	1716	FORTY		y
+fifty	1318	1717	FIFTY	2	y
+sixty	1319	1718	SIXTY	2	y
+seventy	1320	1721	SEVENTY	2	y
+eighty	1321	1722	EIGHTY	2	y
+ninety	1322	1724	NINETY	2	y
+hundred	1323	1634	HUNDRED	2	y
+thousand	1324	1843	THOUSAND	2	y
+ten thousand	1325	2078	TEN THOUSAND	2	y
+a half	1326	816	HALF	1	y
+a quarter	1327				y
+once	1328	374	ONE TIME	2	y
+twice	1329	1546	TWICE	2	y
+first (in space)	1330	728	FIRST	4	y
+first (in time)	1331	728	FIRST	4	y
+the first	1330/1331	728	FIRST		y
+second (in space)	1332	1384	SECOND	4	y
+second (in time)	1333	1384	SECOND	4	y
+the second	1332/1333	1384	SECOND		y
+third (in space)	1334	1859	THIRD	4	y
+third (in time)	1335	1859	THIRD	4	y
+the last (in space)	1336	1529	LAST (FINAL)	4	y
+the last (in time)	1337	1529	LAST (FINAL)	4	y
+the last	1336/1337	1529	LAST (FINAL)		y
+how much, how many	1338	822	HOW MANY	4	y
+many, much	1339	1198	MANY	2	y
+few, a little	1340	2924	A LITTLE	3	y
+finished	1341				y
+there are	1342	2152	THERE IS OR THERE ARE	4	y
+there are not	1343	2329	LACK (NOT HAVE)		y
+there is something	1344	2152	THERE IS OR THERE ARE		y
+there is nothing	1345	687	NOTHING		y
+there is nothing left	1346	687	NOTHING		y
+more	1347	1992	MORE	2	y
+most	1348	1198	MANY	2	y
+less	1349	1242	FEW		y
+all	1350	98	ALL	2	y
+whole	1351	2277	WHOLE	2	y
+together	1352	2482	TOGETHER	2	y
+alike, similar	1353	1558	SIMILAR	4	y
+enough	1354	1881	ENOUGH	2	y
+only, some	1355	3863	OTHER OR SOME	4	y
+a few, some	1356	1242	FEW	3	y
+I	1357	1209	I	2	y
+I myself	1358	1209	I		y
+you (sing.)	1359	1215	THOU	2	y
+you (pl.)	1360	1213	YOU	2	y
+you all (excluding those absent)	1361	1213	YOU	4	y
+you	1362	1213	YOU	2	y
+he	1363	1211	HE	2	y
+she	1364	1834	SHE	2	y
+we (inclusive)	1365	1131	WE (INCLUSIVE)	2	y
+we (exclusive)	1366	1130	WE (EXCLUSIVE)	2	y
+they (female)	1367	817	THEY	4	y
+they (male)	1368	817	THEY	4	y
+they	1364/1367/1368	817	THEY		y
+my (sing.)	1369	2090	MY	4	y
+my (pl.)	1370	2090	MY	4	y
+mine	1369/1370	2090	MY		y
+our (inclusive)	1371	780	OUR	4	y
+our (exclusive)	1372	780	OUR	4	y
+your (sing.)	1373	732	YOUR (SINGULAR)	4	y
+your (pl.)	1374	2274	YOUR (PLURAL)	4	y
+your	1373/1374	732	YOUR (SINGULAR)		y
+their (female)	1375	2400	THEIR	4	y
+their (male)	1376	2400	THEIR	4	y
+their	1375/1376	2400	THEIR		y
+her	1377	2474	HER (GENITIVE OF SHE)	2	y
+his	1378	2473	HIS (GENITIVE OF HE)	2	y
+her, his	1377/1378	2092	HIS OR HER		y
+who?	1379	1235	WHO	2	y
+what?	1380	1236	WHAT	2	y
+which house?	1381	727	WHICH		y
+which?	1382	727	WHICH	2	y
+this	1383	1214	THIS	2	y
+that	1384	78	THAT	2	y
+that (nearby)	1385	78	THAT	4	y
+that (faraway)	1386	78	THAT	4	y
+that	1385/1386	78	THAT		y
+overthere, yonder	1387	3411	OVER THERE	4	y
+here	1388	136	HERE	2	y
+there (near hearer)	1389	1937	THERE	4	y
+there	1390	1937	THERE	2	y
+which, who, that	1391	727	WHICH	4	y
+early, soon	1392	672	EARLY	4	y
+late	1393	425	BE LATE	2	y
+day	1394	1260	DAY (24 HOURS)	2	y
+week	1395	1469	WEEK	2	y
+the day of the week	1396	1260	DAY (24 HOURS)		y
+daylight	1397	1225	DAY (NOT NIGHT)	2	y
+light	1398	630	LIGHT (RADIATION)	2	y
+hour	1399	1353	HOUR	2	y
+twenty four hours	1400	1260	DAY (24 HOURS)		y
+night (darkness)	1401	706	DARK	4	y
+night (time of the night)	1402	1233	NIGHT	4	y
+dark	1403	706	DARK	2	y
+dry season	1404	452	DRY SEASON	2	y
+rainy season, wet season	1405	453	RAINY SEASON	4	y
+year	1406	1226	YEAR	2	y
+monsoon	1407	691	SEASON		y
+now	1408	1376	NOW	2	y
+shortly	1409	703	SOON		y
+now, at present	1410	2097	NOW OR TODAY	4	y
+formerly	1411	2914	ONCE (IN THE PAST)	2	y
+before (place)	1412	1883	IN FRONT OF	4	y
+before (time)	1413	1882	BEFORE	2	y
+before	1412/1413	1882	BEFORE		y
+formerly	1414	2914	ONCE (IN THE PAST)	2	y
+later	1415	477	LATE	2	y
+a moment ago	1416	2914	ONCE (IN THE PAST)	2	y
+a moment	1417	2916	INSTANTLY (IMMEDIATELY)		y
+yesterday	1418	1174	YESTERDAY	2	y
+the day before yesterday	1419	1180	DAY BEFORE YESTERDAY	1	y
+today	1420	1283	TODAY	2	y
+this morning	1421	1339	MORNING	2	y
+tomorrow	1422	1329	TOMORROW	2	y
+the day after tomorrow	1423	1179	DAY AFTER TOMORROW	1	y
+morning	1424	1339	MORNING	2	y
+evening	1425	1629	EVENING	2	y
+now and then, occasionally	1426	1544	SOMETIMES		y
+when	1427	1238	WHEN	2	y
+already	1428	2576	ALREADY	2	y
+not yet	1429	2577	YET		y
+not again	1430	1881	ENOUGH		y
+north	1431	1598	NORTH	2	y
+south	1432	1595	SOUTH	2	y
+east	1433	1877	EAST	2	y
+west	1434	1817	WEST	2	y
+left	1435	244	LEFT	2	y
+right	1436	1019	RIGHT	2	y
+up, upper, above	1437	2379	UP OR ABOVE	4	y
+on the road	1438	57	ATOP		y
+from above	1439	1741	ABOVE		y
+under	1440	1485	BELOW OR UNDER	2	y
+from underneath	1441	1485	BELOW OR UNDER		y
+from-to (place)	1442				y
+from-to (time)	1443				y
+below, beneath	1444	1485	BELOW OR UNDER	4	y
+at	1445	1461	AT	2	y
+from	1446	693	FROM	2	y
+until	1447	2753	UNTIL	2	y
+at, in	1448	1461	AT	4	y
+on	1449	1461	AT	4	y
+in, inside	1450	1606	INSIDE	2	y
+out, outside	1451	762	OUTSIDE	4	y
+nearby	1452	1942	NEAR	2	y
+far	1453	1406	FAR	2	y
+around, surrounding	1454			4	y
+outside	1455	762	OUTSIDE	2	y
+to go outside	1456	1107	GO OUT	1	y
+inside, within	1457	1606	INSIDE	4	y
+to go inside	1458	749	ENTER		y
+many	1459	1198	MANY	2	y
+where	1460	1237	WHERE	2	y
+how	1461	1239	HOW	2	y
+like this, like that	1462	1558	SIMILAR	4	y
+like this	1463	1558	SIMILAR	2	y
+like that	1464	1558	SIMILAR		y
+why	1465	1270	WHY	2	y
+certainly, sure	1466	509	CERTAIN	4	y
+maybe	1467	2278	PERHAPS		y
+very	1468	1311	VERY	2	y
+and	1469	1577	AND	2	y
+with	1470	1340	WITH	2	y
+no	1471	1269	NO	2	y
+yes	1472	1268	YES	2	y
+not, no	1473	2279	NO OR NOT	2	y
+not, no	1474	2279	NO OR NOT	2	y
+not, no	1475	2279	NO OR NOT	2	y
+not	1473-1475	2279	NO OR NOT		y
+yes, right, indeed	1476	1268	YES	4	y
+only	1477	1580	ONLY	2	y
+almost	1478				y
+but	1479	3843	BUT	2	y
+however, nevertheless	1480	3843	BUT	4	y
+however, nevertheless	1481	3843	BUT	4	y
+yet, still	1482	2577	YET	4	y
+if	1483	1459	IF	2	y
+although	1484				y
+because	1485	1157	BECAUSE	2	y
+no, not a, none	1486	2279	NO OR NOT	4	y
+#	1106/1486	0.74			

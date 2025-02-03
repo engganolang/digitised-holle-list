@@ -1,0 +1,271 @@
+---
+title: "Digitised, searchable Holle List in Stokhof (1980)"
+author:
+  - name:
+      given: Gede Primahadi Wijaya
+      family: Rajeg
+    url: https://www.ling-phil.ox.ac.uk/people/gede-rajeg
+    orcid: 0000-0002-2047-8621
+    affiliations:
+      - ref: ox
+      - ref: unud
+affiliations:
+  - id: ox
+    name: University of Oxford
+    department: Faculty of Linguistics, Philology and Phonetics
+    country: United Kingdom
+  - id: unud
+    name: Universitas Udayana
+    department: Bachelor of English Literature, Faculty of Humanities
+    country: Indonesia
+title-prefix: "Holle List"
+date: 2023-05-23
+date-modified: now
+crossref: 
+  fig-title: "**Table**"
+  fig-prefix: "Table"
+citation: 
+  type: dataset
+  publisher: University of Oxford
+  doi: 10.25446/oxford.23205173
+  version: 1.3.1
+  url: "https://engganolang.github.io/digitised-holle-list/"
+number-sections: true
+google-scholar: true
+appendix-cite-as: display
+license: "CC BY-SA"
+doi: 10.25446/oxford.23205173
+cap-location: top
+format: 
+  html:
+    code-fold: true
+    code-tools: 
+      source: https://github.com/engganolang/digitised-holle-list
+    toc: true
+    toc-location: right
+    theme:
+      - default
+    mainfont: "Palatino"
+    citations-hover: true
+    footnotes-hover: true
+bibliography: references.bib
+keywords: "Holle List, Word List, Language Documentation, Lexical Database, Indonesian languages, Digital Humanities"
+search: true
+csl: unified-style-sheet-for-linguistics.csl
+---
+
+<br>[![](file-oxweb-logo.gif){width="84"}](https://www.ox.ac.uk/) [![](file-lingphil.png){width="83"}](https://www.ling-phil.ox.ac.uk/) [![Arts and Humanities Research Council](file-ahrc.png){width="325"}](https://www.ukri.org/councils/ahrc/) <br><br>[![DOI](https://img.shields.io/badge/doi-10.25446/oxford.23205173-blue.svg?style=flat&labelColor=whitesmoke&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAB8AAAAfCAYAAAAfrhY5AAAJsklEQVR42qWXd1DTaRrHf%2BiB2Hdt5zhrAUKz4IKEYu9IGiGFFJJQ0gkJCAKiWFDWBRdFhCQUF3UVdeVcRQEBxUI3yY9iEnQHb3bdW1fPubnyz%2F11M7lvEHfOQee2ZOYzPyDv%2B3yf9%2Fk95YX4fx%2BltfUt08GcFEuPR4U9hDDZ%2FVngIlhb%2FSiI6InkTgLzgDcgfvtnovhH4BzoVlrbwr55QnhCtBW4QHXnFrZbPBaQoBh4%2FSYH2EnpBEtqcDMVzB93wA%2F8AFwa23XFGcc8CkT3mxz%2BfXWtq9T9IQlLIXYEuHojudb%2BCM7Hgdq8ydi%2FAHiBXyY%2BLjwFlAEnS6Jnar%2FvnQVhvdzasad0eKvWZKe8hvDB2ofLZ%2FZEcWsh%2BhyIuyO5Bxs2iZIE4nRv7NWAb0EO8AC%2FWPxjYAWuOEX2MSXZVgPxzmRL3xKz3ScGpx6p6QnOx4mDIFqO0w6Q4fEhO5IzwxlSwyD2FYHzwAW%2BAZ4fEsf74gCumykwNHskLM7taQxLYjjIyy8MUtraGhTWdkfhkFJqtvuVl%2F9l2ZquDfEyrH8B0W06nnpH3JtIyRGpH1iJ6SfxDIHjRXHJmdQjLpfHeN54gnfFx4W9QRnovx%2FN20aXZeTD2J84hn3%2BqoF2Tqr14VqTPUCIcP%2B5%2Fly4qC%2BUL3sYxSvNj1NwsVYPsWdMUfomsdkYm3Tj0nbV0N1wRKwFe1MgKACDIBdMAhPE%2FwicwNWxll8Ag40w%2BFfhibJkGHmutjYeQ8gVlaN%2BjO51nDysa9TwNUFMqaGbKdRJZFfOJSp6mkRKsv0rRIpEVWjAvyFkxNOEpwvcAVPfEe%2Bl8ojeNTx3nXLBcWRrYGxSRjDEk0VlpxYrbe1ZmaQ5xuT0u3r%2B2qe5j0J5uytiZPGsRL2Jm32AldpxPUNJ3jmmsN4x62z1cXrbedXBQf2yvIFCeZrtyicZZG2U2nrrBJzYorI2EXLrvTfCSB43s41PKEvbZDEfQby6L4JTj%2FfIwam%2B4%2BwucBu%2BDgNK05Nle1rSt9HvR%2FKPC4U6LTfvUIaip1mjIa8fPzykii23h2eanT57zQ7fsyYH5QjywwlooAUcAdOh5QumgTHx6aAO7%2FL52eaQNEShrxfhL6albEDmfhGflrsT4tps8gTHNOJbeDeBlt0WJWDHSgxs6cW6lQqyg1FpD5ZVDfhn1HYFF1y4Eiaqa18pQf3zzYMBhcanlBjYfgWNayAf%2FASOgklu8bmgD7hADrk4cRlOL7NSOewEcbqSmaivT33QuFdHXj5sdvjlN5yMDrAECmdgDWG2L8P%2BAKLs9ZLZ7dJda%2BB4Xl84t7QvnKfvpXJv9obz2KgK8dXyqISyV0sXGZ0U47hOA%2FAiigbEMECJxC9aoKp86re5O5prxOlHkcksutSQJzxZRlPZmrOKhsQBF5zEZKybUC0vVjG8PqOnhOq46qyDTDnj5gZBriWCk4DvXrudQnXQmnXblebhAC2cCB6zIbM4PYgGl0elPSgIf3iFEA21aLdHYLHUQuVkpgi02SxFdrG862Y8ymYGMvXDzUmiX8DS5vKZyZlGmsSgQqfLub5RyLNS4zfDiZc9Edzh%2FtCE%2BX8j9k%2FqWB071rcZyMImne1SLkL4GRw4UPHMV3jjwEYpPG5uW5fAEot0aTSJnsGAwHJi2nvF1Y5OIqWziVCQd5NT7t6Q8guOSpgS%2Fa1dSRn8JGGaCD3BPXDyQRG4Bqhu8XrgAp0yy8DMSvvyVXDgJcJTcr1wQ2BvFKf65jqhvmxXUuDpGBlRvV36XvGjQzLi8KAKT2lYOnmxQPGorURSV0NhyTIuIyqOmKTMhQ%2BieEsgOgpc4KBbfDM4B3SIgFljvfHF6cef7qpyLBXAiQcXvg5l3Iunp%2FWv4dH6qFziO%2BL9PbrimQ9RY6MQphEfGUpOmma7KkGzuS8sPUFnCtIYcKCaI9EXo4HlQLgGrBjbiK5EqMj2AKWt9QWcIFMtnVvQVDQV9lXJJqdPVtUQpbh6gCI2Ov1nvZts7yYdsnvRgxiWFOtNJcOMVLn1vgptVi6qrNiFOfEjHCDB3J%2BHDLqUB77YgQGwX%2Fb1eYna3hGKdlqJKIyiE4nSbV8VFgxmxR4b5mVkkeUhMgs5YTi4ja2XZ009xJRHdkfwMi%2BfocaancuO7h%2FMlcLOa0V%2FSw6Dq47CumRQAKhgbOP8t%2BMTjuxjJGhXCY6XpmDDFqWlVYbQ1aDJ5Cptdw4oLbf3Ck%2BdWkVP0LpH7s9XLPXI%2FQX8ws%2Bj2In63IcRvOOo%2BTTjiN%2BlssfRsanW%2B3REVKoavBOAPTXABW4AL7e4NygHdpAKBscmlDh9Jysp4wxbnUNna3L3xBvyE1jyrGIkUHaqQMuxhHElV6oj1picvgL1QEuS5PyZTEaivqh5vUCKJqOuIgPFGESns8kyFk7%2FDxyima3cYxi%2FYOQCj%2F%2B9Ms2Ll%2Bhn4FmKnl7JkGXQGDKDAz9rUGL1TIlBpuJr9Be2JjK6qPzyDg495UxXYF7JY1qKimw9jWjF0iV6DRIqE%2B%2FeWG0J2ofmZTk0mLYVd4GLiFCOoKR0Cg727tWq981InYynvCuKW43aXgEjofVbxIqrm0VL76zlH3gQzWP3R3Bv9oXxclrlO7VVtgBRpSP4hMFWJ8BrUSBCJXC07l40X4jWuvtc42ofNCxtlX2JH6bdeojXgTh5TxOBKEyY5wvBE%2BACh8BtOPNPkApjoxi5h%2B%2FFMQQNpWvZaMH7MKFu5Ax8HoCQdmGkJrtnOiLHwD3uS5y8%2F2xTSDrE%2F4PT1yqtt6vGe8ldMBVMEPd6KwqiYECHDlfbvzphcWP%2BJiZuL5swoWQYlS%2Br7Yu5mNUiGD2retxBi9fl6RDGn4Ti9B1oyYy%2BMP5G87D%2FCpRlvdnuy0PY6RC8BzTA40NXqckQ9TaOUDywkYsudxJzPgyDoAWn%2BB6nEFbaVxxC6UXjJiuDkW9TWq7uRBOJocky9iMfUhGpv%2FdQuVVIuGjYqACbXf8aa%2BPeYNIHZsM7l4s5gAQuUAzRUoT51hnH3EWofXf2vkD5HJJ33vwE%2FaEWp36GHr6GpMaH4AAPuqM5eabH%2FhfG9zcCz4nN6cPinuAw6IHwtvyB%2FdO1toZciBaPh25U0ducR2PI3Zl7mokyLWKkSnEDOg1x5fCsJE9EKhH7HwFNhWMGMS7%2BqxyYsbHHRUDUH4I%2FAheQY7wujJNnFUH4KdCju83riuQeHU9WEqNzjsJFuF%2FdTDAZ%2FK7%2F1WaAU%2BAWymT59pVMT4g2AxcwNa0XEBDdBDpAPvgDIH73R25teeuAF5ime2Ul0OUIiG4GpSAEJeYW9wDTf43wfwHgHLKJoPznkwAAAABJRU5ErkJggg%3D%3D)](http://dx.doi.org/10.25446/oxford.23205173) <a href="https://doi.org/10.5281/zenodo.8207711" target="_blank"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.8207711.svg" alt="DOI"/></a> <br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
+## Introduction {#sec-intro}
+
+The Holle List (hereafter HL) consists of approximately 1000 lexical items designed by K. F. Holle (1829-1896), an "eminent authority and lover of the Netherlands Indies and their people" [@holleli1980, 1]. The HL was prepared to be dispersed across the Indonesian archipelago to gather knowledge about the linguistic situation of Indonesia, the then Dutch colony.
+
+The HL exists in three variants (versions 1894, 1904/1911, and 1931) differing slightly in content and the order of the items. The HL in the [`engganolang`](https://github.com/engganolang/digitised-holle-list) GitHub repository and in the [Oxford University Research Archive (ORA)](https://ora.ox.ac.uk/objects/uuid:a511951b-86fb-4019-94d4-280efa83de02) [@Rajeg_Holle_2023] is the "new basic list (NBL)" set up by Stokhof [-@holleli1980, 17, 22-72] "to facilitate comparative work" across the three different variants of the HL (see @fig-table for the interactive version and the [raw file here](https://github.com/engganolang/digitised-holle-list/blob/main/data/digitised-holle-list-in-stokhof-1980.tsv)). The NBL captures all lexical items appearing in the three variants of the HL, except those items "which never or hardly ever appeared to be filled in by the researchers" [@holleli1980, 17]. These exception items appear as footnotes in the word list of each target language.
+
+## The rationale for the digitisation of the Holle List {#sec-rational}
+
+The publication of the three variants of the Holle List as the new basic list (NBL) in Stokhof [-@holleli1980] is available as an [open-access PDF](https://core.ac.uk/reader/159464813) file under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license (license provided in the footer of the cover page in the PDF file). While the PDF itself is searchable via the basic find functionality in a PDF viewer, the list is obviously not manipulatable (e.g., when we want to filter certain items). It also cannot facilitate computational processing to automatically match the IDs of the list with the ID of the vocabulary in the target languages.
+
+Given that the CC-BY license allows us to copy, adapt and build upon the material for any purpose, as long as we provide attribution (i.e., citation) to the original material, we decided to digitise the NBL into a fully searchable, portable format (i.e., a UTF-8 encoded, tab-separated plain text) (see @fig-table for the interactive version). The digitisation is conducted in conjunction with an [AHRC-funded research](https://gtr.ukri.org/projects?ref=AH%2FW007290%2F1) titled "Lexical resources for Enggano, a threatened language of Indonesia" (cf. the [main webpage](https://enggano.ling-phil.ox.ac.uk/)). The research, amongst others, aims at bringing together a host of historical, paper-born resources available for Enggano into a diachronic lexical database, namely *EnoLEX* [cf. @krause_enolex_2024; @rajeg_enolex_2024; @rajeg_r_2025]. The Enggano vocabularies in the Holle List is one of the oldest from the late 19^th^ century [collected in 1895 by Abs vd Noord: see @stokhof-1987, 189]; this late 19^th^ century word list of Enggano has also been digitised and deposited on [GitHub](https://github.com/engganolang/holle-list-enggano-1895), the [Oxford Research Archive (ORA)](https://ora.ox.ac.uk/objects/uuid:070e5dd2-512f-4c2b-812d-f24bb944a81f), and [Zenodo](https://doi.org/10.5281/zenodo.8038974) [@rajeg2023a].
+
+### Update!
+
+This Holle List/NBL has been considered to be included in the [Concepticon](https://concepticon.clld.org/) database [@list] (cf. the note [here](https://github.com/concepticon/concepticon-data/issues/1324)).
+
+## Content of the digitised Holle List {#sec-content}
+
+The digitised, NBL Holle List (HL) preserves the original columns. The columns containing the years for the three versions of the Holle List were renamed so that these columns do not begin with numbers. Note that the first four columns are not labelled in the original PDF. These columns are the `Index`, `Dutch`, `English`, and `Indonesian`. The Indonesian glosses were taken from the 1931 version of the HL [@holleli1980, 18]. It is the values in the `Index` column that can be computationally matched with the Index in the (also digitised) word lists of the target languages (published as subsequent volumes after Stokhof [-@holleli1980]); a use case of this computational matching is performed in preparing the Enggano word list that is part of the HL [see @rajeg2023a].
+
+The values of the `English` column in @fig-table are hyperlinked to the [Concept sets](https://concepticon.clld.org/parameters) in the [Concepticon](https://concepticon.clld.org/) catalogue [@list]. The initial mapping of the English glosses to the Concepticon Concept sets was programmatically performed using [pyconcepticon](https://pypi.org/project/pyconcepticon/ "pyconcepticon") [@forkel2022], a Python package to access and curate the Concepticon data, following the tutorial in Tjuka [-@tjuka2020]. The output of the mapping has also been manually curated and checked (track the changes [here](https://github.com/engganolang/digitised-holle-list/commits/main/data/concepticon-mapping.tsv)). However, there are cases where the English glosses cannot be linked to the relevant Concept sets because they are not yet mapped in the Concepticon data. For this case, the glosses are not hyperlinked.
+
+We added several new columns after the version years columns. One of these is the `Swadesh` columns (Boolean `true`/`false`), indicating whether the entries are part of the Swadesh items (`true`) or not (`false`)[^1] [see @holleli1980, 141-143]. From this table, it is then possible to easily filter out the Swadesh items, something that is not possible in the PDF version, since the NBL table does not directly include a column marking which items are from the Swadesh list; we then hand-coded this Swadesh column based on the index numbers provided by Stokhof [-@holleli1980, 141-143].
+
+[^1]: There are also Swadesh items that do not have number index in the NBL. These items are marked with "`--`" in the PDF [@holleli1980, 141-143]; they can be viewed and downloaded [here](https://github.com/engganolang/digitised-holle-list/blob/main/data/swadesh-unindexed-in-NBL.txt)
+
+An additional column after the `Swadesh` column is the `Swadesh_orig` column. It lists the English forms/labels given in the Swadesh appendix [@holleli1980, 141-143], which could be phrased differently in the `English` column in the NBL. When the forms in the `Swadesh` and the `English` columns are exact matches, the `Swadesh_orig` column is left empty. Moreover, typo corrections were done for the entries of the three language columns (either typo from the original PDF or typo due to the first-pass OCR error) (listed in the `Remark` column). 
+
+Next, there are two additional tables (to the right panel of @fig-table). These contain phrases and clauses from the 1904/1911 ([raw file](https://github.com/engganolang/digitised-holle-list/blob/main/data/digitised-holle-list-in-stokhof-1980-add-1904_1911.tsv)) and the 1931 ([raw file](https://github.com/engganolang/digitised-holle-list/blob/main/data/digitised-holle-list-in-stokhof-1980-add-1931.tsv)) editions of the HL.
+
+Finally, @fig-transcription provides the transcription table for each edition of the HL, including the approximate phonetic symbols [@holleli1980, 75-77, §6.2].
+
+We hope that the digitised NBL of the Holle List can be helpful for, and escalate the workflow of, other researchers with computational orientation. Readers/users are also encouraged to check the original PDF list in Stokhof [-@holleli1980].
+
+```{r}
+#| message: false
+#| warning: false
+#| echo: false
+
+# code to process the digitised Holle's list in Stokhof and Almanar (1987)
+# load the package =====
+library(tidyverse)
+library(readxl)
+library(reactable)
+library(tippy)
+```
+
+::: column-page
+::: panel-tabset
+### The new basic list (NBL)
+
+```{r}
+#| fig-cap: The digitised, new basic list of the Holle List in Stokhof [-@holleli1980, 22-72]
+#| label: fig-table
+#| message: false
+#| warning: false
+
+# read the concepticon mapping
+concepticon <- read_tsv("data/concepticon-mapping.tsv") |> 
+  rename(Index = NUMBER, 
+         English = GLOSS,
+         Concepticon_Gloss = CONCEPTICON_GLOSS) |> 
+  select(-SIMILARITY) |> 
+  mutate(concept_url = paste("https://concepticon.clld.org/parameters/",
+                             CONCEPTICON_ID,
+                             sep = ""))
+concepticon_checked <- concepticon |> 
+  filter(CHECKED == "y") |> 
+  select(English, Index, Concepticon_Gloss, concept_url) |> 
+  mutate(Index = as.character(Index))
+
+holle_tb <- read_tsv("data/digitised-holle-list-in-stokhof-1980.tsv")
+holle_tb <- holle_tb |> 
+  # merge with the checked concepticon mapping
+  left_join(concepticon_checked, by = join_by(Index, English)) |> 
+  mutate(English = replace(English, is.na(English), ""))
+url_eng <- '<a href="%s" target="_blank">%s</a>'
+holle_tb |> 
+  reactable(style = list(fontFamily = "Canela Text"),
+            elementId = "digitised-holle-list",
+            filterable = TRUE,
+            highlight = TRUE,
+            resizable = TRUE,
+            bordered = TRUE,
+            borderless = TRUE,
+            defaultPageSize = 20,
+            wrap = FALSE,
+            columns = list(
+              Index = colDef(align = "center",
+                             sticky = "left"),
+              Dutch = colDef(minWidth = 150,
+                             cell = function(value, index, name) {tippy(text = value, tooltip = value)}),
+              English = colDef(minWidth = 150,
+                               cell = function(value, index, name) {tippy(text = if_else(!is.na(holle_tb$Concepticon_Gloss[index]),
+                                                                                         sprintf(url_eng, 
+                                                                                                 holle_tb$concept_url[index], 
+                                                                                                 value), 
+                                                                                    value), 
+                                                                          tooltip = value)}),
+              Indonesian = colDef(minWidth = 150,
+                                  cell = function(value, index, name) {tippy(text = value, tooltip = value)}),
+              v1894 = colDef(align = "center"),
+              `v1904/1911` = colDef(align = "center"),
+              v1931 = colDef(align = "center"),
+              Swadesh = colDef(align = "center"),
+              Swadesh_orig = colDef(minWidth = 150),
+              Concepticon_Gloss = colDef(show = FALSE),
+              concept_url = colDef(show = FALSE)
+            ))
+
+```
+
+### Additional list (1904/1911 edition)
+
+```{r}
+#| fig-cap: The additional list from the 1904/1911 edition [@holleli1980, 73-74]
+#| label: fig-1904
+#| message: false
+#| warning: false
+
+holle_1904_tb <- read_tsv("data/digitised-holle-list-in-stokhof-1980-add-1904_1911.tsv")
+
+holle_1904_tb |> 
+  reactable(style = list(fontFamily = "Canela Text"),
+            elementId = "1904-edition",
+            filterable = TRUE,
+            highlight = TRUE,
+            resizable = TRUE,
+            bordered = TRUE,
+            borderless = TRUE,
+            defaultPageSize = 10,
+            wrap = FALSE,
+            columns = list(
+              Index = colDef(align = "center",
+                             sticky = "left"),
+              Dutch = colDef(minWidth = 150,
+                             cell = function(value, index, name) {tippy(text = value, tooltip = value)}),
+              English = colDef(minWidth = 150,
+                               cell = function(value, index, name) {tippy(text = value, tooltip = value)}),
+              Indonesian = colDef(minWidth = 150,
+                                  cell = function(value, index, name) {tippy(text = value, tooltip = value)})
+            ))
+
+```
+
+### Additional list (1931 edition)
+
+```{r}
+#| fig-cap: The additional list from the 1931 edition [@holleli1980, 72-73]
+#| label: fig-1931
+#| message: false
+#| warning: false
+
+
+holle_1931_tb <- read_tsv("data/digitised-holle-list-in-stokhof-1980-add-1931.tsv")
+
+holle_1931_tb |> 
+  reactable(style = list(fontFamily = "Canela Text"),
+            elementId = "1931-edition",
+            filterable = TRUE,
+            highlight = TRUE,
+            resizable = TRUE,
+            bordered = TRUE,
+            borderless = TRUE,
+            defaultPageSize = 10,
+            wrap = FALSE,
+            columns = list(
+              Index = colDef(align = "center",
+                             sticky = "left"),
+              Dutch = colDef(minWidth = 150,
+                             cell = function(value, index, name) {tippy(text = value, tooltip = value)}),
+              English = colDef(minWidth = 150,
+                               cell = function(value, index, name) {tippy(text = value, tooltip = value)}),
+              Indonesian = colDef(minWidth = 150,
+                                  cell = function(value, index, name) {tippy(text = value, tooltip = value)})
+            ))
+
+```
+
+### Transcription Symbols
+
+```{r}
+#| fig-cap: The resume of transcription symbols and notes for each edition [@holleli1980, 75-77, §6.2]
+#| label: fig-transcription
+#| message: false
+#| warning: false
+
+nbl_transcript <- read_csv("data/nbl_transcription_table.csv", na = "") |> 
+  mutate(across(where(is.character), ~replace_na(., "")))
+
+nbl_transcript |> 
+  reactable(style = list(fontFamily = "Canela Text"),
+            elementId = "nbl-transcript",
+            filterable = TRUE,
+            highlight = TRUE,
+            resizable = TRUE,
+            bordered = TRUE,
+            borderless = TRUE,
+            defaultPageSize = 20,
+            wrap = FALSE,
+            columns = list(
+              `v1894/1901/1911` = colDef(align = "center"),
+              v1931 = colDef(align = "center"),
+              `Approx. Phonetic Sym.` = colDef(align = "center"),
+              `Example/Remarks` = colDef(minWidth = 150,
+                             cell = function(value, index, name) {tippy(text = value, tooltip = value)}),
+              My_notes = colDef(show = FALSE,
+                                cell = function(value, index, name) {tippy(text = value, tooltip = value)})
+            ))
+
+```
+:::
+:::
