@@ -1,7 +1,7 @@
 # This CITATION.cff file was generated with cffinit.
 # Visit https://bit.ly/cffinit to generate yours today!
 
-cff-version: 1.3.0
+cff-version: 1.4.1
 title: 'Digitised, searchable Holle List in Stokhof (1980)'
 message: 'If you use this dataset, please cite it as shown below'
 type: dataset
@@ -9,12 +9,11 @@ authors:
   - family-names: Rajeg
     given-names: Gede Primahadi Wijaya
     affiliation: >-
-      University of Oxford, UK & Universitas Udayana,
-      Indonesia
+      University of Oxford & Universitas Udayana
     orcid: 'https://orcid.org/0000-0002-2047-8621'
 identifiers:
   - type: doi
-    value: 10.5281/zenodo.7972273
+    value: 10.25446/oxford.23205173
     description: The DOI for all versions
 repository-code: 'https://github.com/engganolang/digitised-holle-list'
 url: 'https://engganolang.github.io/digitised-holle-list/'
@@ -25,5 +24,5 @@ keywords:
   - language-documentation
   - lexical-database
 license: CC-BY-SA-4.0
-version: 1.3.0
-date-released: '2023-06-14'
+version: 1.4.1
+date-released: '2025-02-03'
