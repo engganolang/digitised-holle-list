@@ -66,7 +66,7 @@ The HL exists in three variants (versions 1894, 1904/1911, and 1931) differing s
 
 The publication of the three variants of the Holle List as the new basic list (NBL) in Stokhof [-@holleli1980] is available as an [open-access PDF](https://core.ac.uk/reader/159464813) file under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license (license provided in the footer of the cover page in the PDF file). While the PDF itself is searchable via the basic find functionality in a PDF viewer, the list is obviously not manipulatable (e.g., when we want to filter certain items). It also cannot facilitate computational processing to automatically match the IDs of the list with the ID of the vocabulary in the target languages.
 
-Given that the CC-BY license allows us to copy, adapt and build upon the material for any purpose, as long as we provide attribution (i.e., citation) to the original material, we decided to digitise the NBL into a fully searchable, portable format (i.e., a UTF-8 encoded, tab-separated plain text) (see @fig-table for the interactive version). The digitisation is conducted in conjunction with an [AHRC-funded research](https://gtr.ukri.org/projects?ref=AH%2FW007290%2F1) titled "Lexical resources for Enggano, a threatened language of Indonesia" (cf. the [main webpage](https://enggano.ling-phil.ox.ac.uk/)). The research, amongst others, aims at bringing together a host of historical, paper-born resources available for Enggano into a diachronic lexical database, namely *EnoLEX* [cf. @krause_enolex_2024; @rajeg_enolex_2024; @rajeg_r_2025]. The Enggano vocabularies in the Holle List is one of the oldest from the late 19^th^ century [collected in 1895 by Abs vd Noord: see @stokhof-1987, 189]; this late 19^th^ century word list of Enggano has also been digitised and deposited on [GitHub](https://github.com/engganolang/holle-list-enggano-1895), the [Oxford Research Archive (ORA)](https://ora.ox.ac.uk/objects/uuid:070e5dd2-512f-4c2b-812d-f24bb944a81f), and [Zenodo](https://doi.org/10.5281/zenodo.8038974) [@rajeg2023a].
+Given that the CC-BY license allows us to copy, adapt and build upon the material for any purpose, as long as we provide attribution (i.e., citation) to the original material, we decided to digitise the NBL into a fully searchable, portable format (i.e., a UTF-8 encoded, tab-separated plain text) (see @fig-table for the interactive version). The digitisation is conducted in conjunction with an [AHRC-funded research](https://gtr.ukri.org/projects?ref=AH%2FW007290%2F1) titled "Lexical resources for Enggano, a threatened language of Indonesia" (cf. the [main webpage](https://enggano.ling-phil.ox.ac.uk/)). The research, amongst others, aims at bringing together a host of historical, paper-born resources available for Enggano into a diachronic lexical database, namely *EnoLEX* [cf. @krause_enolex_2024; @rajeg_enolex_2024; @rajeg_r_2025]. The Enggano vocabularies in the Holle List is one of the oldest from the late 19^th^ century [collected in 1895 by Abs vd Noord: see @stokhof-1987, 189]; this late 19^th^ century word list of Enggano has also been digitised and deposited on [GitHub](https://github.com/engganolang/holle-list-enggano-1895), the [Oxford Research Archive (ORA)](https://ora.ox.ac.uk/objects/uuid:070e5dd2-512f-4c2b-812d-f24bb944a81f), the University of Oxford's [Sustainable Digital Scholarship (SDS)](https://doi.org/10.25446/oxford.23515788) repository, and [Zenodo](https://doi.org/10.5281/zenodo.8038974) [@rajeg2023a].
 
 ### Update!
 
@@ -103,8 +103,8 @@ library(reactable)
 library(tippy)
 ```
 
-::: column-page
-::: panel-tabset
+::: {.column-page}
+::: {.panel-tabset}
 ### The new basic list (NBL)
 
 ```{r}
@@ -135,12 +135,13 @@ holle_tb <- holle_tb |>
 url_eng <- '<a href="%s" target="_blank">%s</a>'
 holle_tb |> 
   reactable(style = list(fontFamily = "Canela Text"),
+            searchable = TRUE,
             elementId = "digitised-holle-list",
             filterable = TRUE,
             highlight = TRUE,
             resizable = TRUE,
             bordered = TRUE,
-            borderless = TRUE,
+            borderless = FALSE,
             defaultPageSize = 20,
             wrap = FALSE,
             columns = list(
@@ -181,11 +182,12 @@ holle_1904_tb <- read_tsv("data/digitised-holle-list-in-stokhof-1980-add-1904_19
 holle_1904_tb |> 
   reactable(style = list(fontFamily = "Canela Text"),
             elementId = "1904-edition",
+            searchable = TRUE,
             filterable = TRUE,
             highlight = TRUE,
             resizable = TRUE,
             bordered = TRUE,
-            borderless = TRUE,
+            borderless = FALSE,
             defaultPageSize = 10,
             wrap = FALSE,
             columns = list(
@@ -215,11 +217,12 @@ holle_1931_tb <- read_tsv("data/digitised-holle-list-in-stokhof-1980-add-1931.ts
 holle_1931_tb |> 
   reactable(style = list(fontFamily = "Canela Text"),
             elementId = "1931-edition",
+            searchable = TRUE,
             filterable = TRUE,
             highlight = TRUE,
             resizable = TRUE,
             bordered = TRUE,
-            borderless = TRUE,
+            borderless = FALSE,
             defaultPageSize = 10,
             wrap = FALSE,
             columns = list(
@@ -249,11 +252,12 @@ nbl_transcript <- read_csv("data/nbl_transcription_table.csv", na = "") |>
 nbl_transcript |> 
   reactable(style = list(fontFamily = "Canela Text"),
             elementId = "nbl-transcript",
+            searchable = TRUE,
             filterable = TRUE,
             highlight = TRUE,
             resizable = TRUE,
             bordered = TRUE,
-            borderless = TRUE,
+            borderless = FALSE,
             defaultPageSize = 20,
             wrap = FALSE,
             columns = list(
@@ -267,5 +271,6 @@ nbl_transcript |>
             ))
 
 ```
+
 :::
 :::
