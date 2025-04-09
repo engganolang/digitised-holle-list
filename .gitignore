@@ -6,3 +6,5 @@
 /.quarto/
 testing*
 myenv*
+*.pdf
+*.DS_Store
