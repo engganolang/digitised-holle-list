@@ -36,15 +36,18 @@ appendix-cite-as: display
 license: "CC BY-SA"
 doi: 10.25446/oxford.23205173
 cap-location: top
+include-in-header:
+  - text: |
+     <link rel = "shortcut icon" href = "favicon.ico" />
 format: 
   html:
-    code-fold: true
+    code-fold: false
     code-tools: 
       source: https://github.com/engganolang/digitised-holle-list
     toc: true
     toc-location: right
     theme:
-      - default
+      - litera
     mainfont: "Palatino"
     citations-hover: true
     footnotes-hover: true
@@ -105,6 +108,7 @@ library(tippy)
 
 ::: {.column-page}
 ::: {.panel-tabset}
+
 ### The new basic list (NBL)
 
 ```{r}
@@ -112,6 +116,7 @@ library(tippy)
 #| label: fig-table
 #| message: false
 #| warning: false
+#| echo: false
 
 # read the concepticon mapping
 concepticon <- read_tsv("data/concepticon-mapping.tsv") |> 
@@ -176,6 +181,7 @@ holle_tb |>
 #| label: fig-1904
 #| message: false
 #| warning: false
+#| echo: false
 
 holle_1904_tb <- read_tsv("data/digitised-holle-list-in-stokhof-1980-add-1904_1911.tsv")
 
@@ -210,6 +216,7 @@ holle_1904_tb |>
 #| label: fig-1931
 #| message: false
 #| warning: false
+#| echo: false
 
 
 holle_1931_tb <- read_tsv("data/digitised-holle-list-in-stokhof-1980-add-1931.tsv")
@@ -245,6 +252,7 @@ holle_1931_tb |>
 #| label: fig-transcription
 #| message: false
 #| warning: false
+#| echo: false
 
 nbl_transcript <- read_csv("data/nbl_transcription_table.csv", na = "") |> 
   mutate(across(where(is.character), ~replace_na(., "")))

@@ -1,6 +1,8 @@
 /*-- scss:defaults --*/
-$link-color: #4169e1 !default;
+$link-color: royalblue !default;
 $link-decoration: none !default;
 $link-shade-percentage: 30% !default;
-$link-hover-color: shift-color(#c6940b, $link-shade-percentage), !default;
+$link-hover-color: shift-color(gold, $link-shade-percentage), !default;
 $link-hover-decoration: underline !default;
+$nav-tabs-border-color: royalblue;
+$nav-tabs-link-active-color: gold;
