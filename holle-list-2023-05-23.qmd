@@ -61,9 +61,9 @@ csl: unified-style-sheet-for-linguistics.csl
 
 ## Introduction {#sec-intro}
 
-The Holle List (hereafter HL) consists of approximately 1000 lexical items designed by [Karel Frederik Holle](https://en.wikipedia.org/wiki/Karel_Holle) (1829-1896), an "eminent authority and lover of the Netherlands Indies and their people" [@holleli1980, 1]. The HL was prepared to be dispersed across the Indonesian archipelago to gather knowledge about the linguistic situation of Indonesia, the then Dutch colony.
+The Holle List (hereafter HL) consists of approximately 1000 lexical items designed by [Karel Frederik Holle](https://en.wikipedia.org/wiki/Karel_Holle) (1829-1896) [@holle_blanco_1894], an "eminent authority and lover of the Netherlands Indies and their people" [@holleli1980, 1]. The HL was prepared to be dispersed across the Indonesian archipelago to gather knowledge about the linguistic situation of [Indonesia](https://en.wikipedia.org/wiki/Indonesia), the then [Dutch East Indies](https://en.wikipedia.org/wiki/Dutch_East_Indies).
 
-The HL exists in three variants (versions 1894, 1904/1911, and 1931) differing slightly in content and the order of the items. The HL in the [`engganolang`](https://github.com/engganolang/digitised-holle-list) GitHub repository and in the [Oxford University Research Archive (ORA)](https://ora.ox.ac.uk/objects/uuid:a511951b-86fb-4019-94d4-280efa83de02) [@Rajeg_Holle_2023] is the "new basic list (NBL)" set up by Stokhof [-@holleli1980, 17, 22-72] "to facilitate comparative work" across the three different variants of the HL (see @fig-table for the interactive version and the [raw file here](https://github.com/engganolang/digitised-holle-list/blob/main/data/digitised-holle-list-in-stokhof-1980.tsv)). The NBL captures all lexical items appearing in the three variants of the HL, except those items "which never or hardly ever appeared to be filled in by the researchers" [@holleli1980, 17]. These exception items appear as footnotes in the word list of each target language.
+The HL exists in three variants: versions 1894 [@holle_blanco_1894], 1904/1911, and 1931. They differ slightly in content and the order of the items. The HL in the [`engganolang`](https://github.com/engganolang/digitised-holle-list) GitHub repository and in the [Oxford University Research Archive (ORA)](https://ora.ox.ac.uk/objects/uuid:a511951b-86fb-4019-94d4-280efa83de02) [@Rajeg_Holle_2023] is the "new basic list (NBL)" set up by Stokhof [-@holleli1980, 17, 22-72, in collaboration with Lia Saleh-Bronkhorst] "to facilitate comparative work" across the three different variants of the HL (see @fig-table for the interactive version). The NBL captures all lexical items appearing in the three variants of the HL, except those items "which never or hardly ever appeared to be filled in by the researchers" [@holleli1980, 17]. These exception items appear as footnotes in the word list of each target language.
 
 ## The rationale for the digitisation of the Holle List {#sec-rational}
 
@@ -71,9 +71,11 @@ The publication of the three variants of the Holle List as the new basic list (N
 
 Given that the CC-BY license allows us to copy, adapt and build upon the material for any purpose, as long as we provide attribution (i.e., citation) to the original material, we decided to digitise the NBL into a fully searchable, portable format (i.e., a UTF-8 encoded, tab-separated plain text) (see @fig-table for the interactive version). The digitisation is conducted in conjunction with an [AHRC-funded research](https://gtr.ukri.org/projects?ref=AH%2FW007290%2F1) titled "Lexical resources for Enggano, a threatened language of Indonesia" (cf. the [main webpage](https://enggano.ling-phil.ox.ac.uk/)). The research, amongst others, aims at bringing together a host of historical, paper-born resources available for Enggano into a diachronic lexical database, namely *EnoLEX* [cf. @krause_enolex_2024; @rajeg_enolex_2024; @rajeg_r_2025]. The Enggano vocabularies in the Holle List is one of the oldest from the late 19^th^ century [collected in 1895 by Abs vd Noord: see @stokhof-1987, 189]; this late 19^th^ century word list of Enggano has also been digitised and deposited on [GitHub](https://github.com/engganolang/holle-list-enggano-1895), the [Oxford Research Archive (ORA)](https://ora.ox.ac.uk/objects/uuid:070e5dd2-512f-4c2b-812d-f24bb944a81f), the University of Oxford's [Sustainable Digital Scholarship (SDS)](https://doi.org/10.25446/oxford.23515788) repository, and [Zenodo](https://doi.org/10.5281/zenodo.8038974) [@rajeg2023a].
 
-### Update!
+### Updates!
 
-This Holle List/NBL has been considered to be included in the [Concepticon](https://concepticon.clld.org/) database [@list] (cf. the note [here](https://github.com/concepticon/concepticon-data/issues/1324)).
+1. The online Master Holle List/the NBL here has been considered to be included in the [Concepticon](https://concepticon.clld.org/) database [@list] (cf. the note [here](https://github.com/concepticon/concepticon-data/issues/1324)).
+
+1. The project on the [Enggano Holle List](https://doi.org/10.25446/oxford.23515788) continues with the digitalisation of the [Holle List of the other Barrier Islands Languages](https://github.com/complexico/holle-list-barrier-islands) (cf. [our presentation](https://doi.org/10.25446/oxford.29625407)) as well as other languages in other volumes (visit the [Holle List GitHub repository](https://github.com/Holle-List) and the [Discussions](https://github.com/orgs/Holle-List/discussions) for updates)
 
 ## Content of the digitised Holle List {#sec-content}
 
@@ -87,9 +89,9 @@ We added several new columns after the version years columns. One of these is th
 
 An additional column after the `Swadesh` column is the `Swadesh_orig` column. It lists the English forms/labels given in the Swadesh appendix [@holleli1980, 141-143], which could be phrased differently in the `English` column in the NBL. When the forms in the `Swadesh` and the `English` columns are exact matches, the `Swadesh_orig` column is left empty. Moreover, typo corrections were done for the entries of the three language columns (either typo from the original PDF or typo due to the first-pass OCR error) (listed in the `Remark` column). 
 
-Next, there are two additional tables (to the right panel of @fig-table). These contain phrases and clauses from the 1904/1911 ([raw file](https://github.com/engganolang/digitised-holle-list/blob/main/data/digitised-holle-list-in-stokhof-1980-add-1904_1911.tsv)) and the 1931 ([raw file](https://github.com/engganolang/digitised-holle-list/blob/main/data/digitised-holle-list-in-stokhof-1980-add-1931.tsv)) editions of the HL.
+Next, there are two additional tables (to the right panel of @fig-table). These contain phrases and clauses from the 1904/1911 and the 1931 editions of the HL.
 
-Finally, @fig-transcription provides the transcription table for each edition of the HL, including the approximate phonetic symbols [@holleli1980, 75-77, §6.2].
+Finally, @fig-transcription (`Transcription Symbols`) provides the transcription table for each edition of the HL, including the approximate phonetic symbols [@holleli1980, 75-77, §6.2].
 
 We hope that the digitised NBL of the Holle List can be helpful for, and escalate the workflow of, other researchers with computational orientation. Readers/users are also encouraged to check the original PDF list in Stokhof [-@holleli1980].
 
@@ -282,3 +284,5 @@ nbl_transcript |>
 
 :::
 :::
+
+## References {-}
