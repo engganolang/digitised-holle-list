@@ -90,7 +90,11 @@ holle_tb <- holle_tb_all2 |>
                                      Concepticon_Gloss_2,
                                      Concepticon_Gloss)) |> 
   select(-Concepticon_ID_2, -Concepticon_Gloss_2) |> 
-  distinct()
+  distinct() |> 
+  ### trim whitespace in unspecified marker <unsp.> in the Dutch glosses
+  mutate(Dutch = str_replace_all(Dutch, "(\\<)\\s(?=unsp)", "\\1")) |> 
+  mutate(Dutch = str_replace_all(Dutch, "\\s\\>", ">"))
+
 
 # split the Dutch and Indonesian lists
 holle_tb_nl <- holle_tb |> 
