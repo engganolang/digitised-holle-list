@@ -14,7 +14,7 @@
 	"dc:license": "https://creativecommons.org/licenses/by-sa/4.0/",
 	"dc:description": "Digitised, searchable New Basic List (NBL) of the three versions of the Holle List.",
     "dc:title": "Digitised, searchable Holle List in Stokhof (1980) by Gede Primahadi Wijaya Rajeg",
-	"dc:bibliographicCitation": "Rajeg, Gede Primahadi Wijaya. (2023). Digitised, searchable Holle List in Stokhof (1980) (1.2.0). Zenodo. https://doi.org/10.5281/zenodo.8028568. (Available online at https://engganolang.github.io/digitised-holle-list/)",
+	"dc:bibliographicCitation": "Rajeg, Gede Primahadi Wijaya. (2023). Digitised, searchable Holle List in Stokhof (1980) (Version 1.4.1). Zenodo. https://doi.org/10.5281/zenodo.14794542. (Available online at https://engganolang.github.io/digitised-holle-list/)",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "prov:wasDerivedFrom": [
         {
@@ -38,7 +38,7 @@
         {
             "url": "forms.csv",
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 2972,
+            "dc:extent": 3718,
             "tableSchema": {
                 "columns": [
                     {
@@ -97,6 +97,14 @@
 					},
 					{
 						"name": "Swadesh",
+						"datatype": "string"
+					},
+					{
+						"name": "Collapsed_Holle_ID_Being_Separated",
+						"datatype": "string"
+					},
+					{
+						"name": "Dutch_in_Single_Holle_ID",
 						"datatype": "string"
 					},
                     {
@@ -207,7 +215,7 @@
         {
             "url": "parameters.csv",
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 1486,
+            "dc:extent": 3718,
             "tableSchema": {
                 "columns": [
                     {

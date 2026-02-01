@@ -14,37 +14,117 @@ concepticon <- read_tsv("data/concepticon-mapping.tsv") |>
          Concepticon_ID = CONCEPTICON_ID) |> 
   select(-SIMILARITY, -CHECKED)
 
+# join the concepticon into the HNBL table
+holle_tb_all <- holle_tb |> 
+  left_join(concepticon)
+
+# processing the glosses for the unspecified Dutch glosses
+nogloss <- holle_tb_all |> 
+  filter(str_detect(Index, "\\/|\\-")) |> 
+  mutate(Index2 = Index) |>  
+  separate_longer_delim(Index2, "/") |> 
+  mutate(Index2 = str_replace(Index2, "-", ":"))
+
+seq_gloss <- str_which(nogloss$Index2, ":")
+
+for (i in seq_along(seq_gloss)) {
+  
+  gloss_range <- eval(parse(text = nogloss$Index2[seq_gloss[i]]))
+  
+  nogloss$Index2[seq_gloss[i]] <- str_c(gloss_range, collapse = ",")
+  
+  cat(seq_gloss[i], sep = "\n")
+  
+}
+
+nogloss1 <- nogloss |> 
+  separate_longer_delim(Index2, ",")
+
+holle_tb_all2 <- holle_tb_all |> 
+  rename(Index2 = Index,
+         Dutch2 = Dutch,
+         English2 = English,
+         Indonesian2 = Indonesian) |> 
+  select(Index2, Dutch2, English2, Indonesian2)
+
+nogloss2 <- nogloss1 |> 
+  left_join(holle_tb_all2) |> 
+  # group_by(Index) |> 
+  # mutate(English = str_c(str_c(English2, " [ID_", Index2, "]", sep = ""), collapse = "; "), 
+  #        Indonesian = str_c(str_c(Indonesian2, " [ID_", Index2, "]", sep = ""), collapse = "; ")) |> 
+  # ungroup()
+  mutate(Indonesian = Indonesian2,
+         English = English2)
+rm(holle_tb_all2)
+
+nogloss3 <- nogloss2 |> 
+  select(Index, Dutch3 = Dutch2, English3 = English, Indonesian3 = Indonesian,
+         Combined_Index_Being_Separated = Index2) |> 
+  distinct()
+
+holle_tb_all2 <- holle_tb_all |> 
+  left_join(nogloss3) |> 
+  distinct() |> 
+  mutate(English = if_else(str_detect(Index, "(\\/|\\-)"),
+                           English3,
+                           English),
+         Indonesian = if_else(str_detect(Index, "(\\/|\\-)"),
+                           Indonesian3,
+                           Indonesian)) |> 
+  rename(Dutch_in_single_ID = Dutch3) |> 
+  select(-English3, -Indonesian3)
+
+## Add the concepticon for the unspecified glosses from the component concepticon gloss (if available)
+concepts_tb <- concepticon |> 
+  filter(Index %in% holle_tb_all2$Combined_Index_Being_Separated[!is.na(holle_tb_all2$Combined_Index_Being_Separated)]) |> 
+  rename(Combined_Index_Being_Separated = Index,
+         Concepticon_ID_2 = Concepticon_ID,
+         Concepticon_Gloss_2 = Concepticon_Gloss)
+
+holle_tb <- holle_tb_all2 |> 
+  left_join(concepts_tb) |> 
+  mutate(Concepticon_ID = if_else(!is.na(Combined_Index_Being_Separated),
+                                  Concepticon_ID_2,
+                                  Concepticon_ID),
+         Concepticon_Gloss = if_else(!is.na(Combined_Index_Being_Separated),
+                                     Concepticon_Gloss_2,
+                                     Concepticon_Gloss)) |> 
+  select(-Concepticon_ID_2, -Concepticon_Gloss_2) |> 
+  distinct()
+
 # split the Dutch and Indonesian lists
 holle_tb_nl <- holle_tb |> 
-  select(Index, Dutch, English, Swadesh) |> 
+  select(Holle_ID = Index, Form = Dutch, English, Swadesh, Concepticon_ID, Concepticon_Gloss, Combined_Index_Being_Separated, Dutch_in_single_ID) |> 
   mutate(Language_ID = "nl")
 holle_tb_id <- holle_tb |> 
-  select(Index, Indonesian, English, Swadesh) |> 
+  select(Holle_ID = Index, Form = Indonesian, English, Swadesh, Concepticon_ID, Concepticon_Gloss, Combined_Index_Being_Separated, Dutch_in_single_ID) |> 
   mutate(Language_ID = "id")
-
-# combine the Concepticon with the Dutch and Indonesian lists
-holle_tb_nl <- holle_tb_nl |> 
-  filter(!is.na(English)) |> 
-  left_join(concepticon |> select(-English), by = "Index") |> 
-  rename(Holle_ID = Index,
-         Form = Dutch)
-holle_tb_id <- holle_tb_id |> 
-  filter(!is.na(English)) |> 
-  left_join(concepticon |> select(-English), by = "Index") |> 
-  rename(Holle_ID = Index,
-         Form = Indonesian)
 
 # combine the Dutch and Indonesian lists
 holle_tb_all <- bind_rows(holle_tb_id, holle_tb_nl) |> 
-  mutate(Source = "holleli1980")
+  mutate(Source = "holleli1980") |> 
+  distinct()
 holle_tb_all <- holle_tb_all |> 
   mutate(ID = 1:nrow(holle_tb_all),
-         Parameter_ID = paste(Holle_ID, "-", Concepticon_Gloss,
-                              sep = ""))
+         Parameter_ID = paste(ID, "_", Holle_ID, "_", Concepticon_Gloss,
+                              sep = "")) |> 
+  relocate(ID, .before = Holle_ID)
 
 # CLDF - create the FormTable
 cldf_form <- holle_tb_all |> 
-  select(ID, Holle_ID, Language_ID, Parameter_ID, Form, English, Swadesh, Source)
+  select(ID, Holle_ID, Language_ID, Parameter_ID, Form, English, 
+         
+         # this column (Collapsed_Holle_ID_Being_Separated) records the Indexes of the Holle's New Basic List that are
+         # originally collapsed into the format such as ID-ID or ID/ID in Stokhof (1980), that are
+         # in this CLDF database are splitted to carry the Glosses of the Individual, un-collapsed IDs
+         Collapsed_Holle_ID_Being_Separated = Combined_Index_Being_Separated, 
+         
+         # this column (Dutch_in_Single_Holle_ID) records the individual Dutch glosses
+         # that are part of the collapsed glosses and Indexes in Stokhof (1980)
+         Dutch_in_Single_Holle_ID = Dutch_in_single_ID, 
+         
+         Swadesh, Source) |> 
+  distinct()
 nrow(cldf_form)
 cldf_form |> write_excel_csv("cldf/forms.csv")
 
