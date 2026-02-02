@@ -6,6 +6,7 @@ Rajeg](https://www.ling-phil.ox.ac.uk/people/gede-rajeg)
 of Oxford/Udayana University
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
+
 <!-- badges: start -->
 
 [<img
@@ -67,7 +68,7 @@ Stokhof, W. A. L. (ed.). 1980. *Holle Lists, vocabularies in languages
 of Indonesia, Vol. 1: Introductory Volume*. Vol. Materials in Languages
 of Indonesia. Canberra, A.C.T., Australia: Dept. of Linguistics,
 Research School of Pacific Studies, The Australian National University.
-<https://core.ac.uk/reader/159464813>.
+<http://hdl.handle.net/1885/144430>.
 
 </div>
 
