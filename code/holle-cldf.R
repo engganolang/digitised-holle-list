@@ -107,12 +107,17 @@ holle_tb_id <- holle_tb |>
 # combine the Dutch and Indonesian lists
 holle_tb_all <- bind_rows(holle_tb_id, holle_tb_nl) |> 
   mutate(Source = "holleli1980") |> 
-  distinct()
+  distinct() |> 
+  mutate(Form = str_replace_all(Form, "\\s{2,}", " ")) |> 
+  mutate(Dutch_in_single_ID = str_replace_all(Dutch_in_single_ID, "\\s{2,}", " "))
 holle_tb_all <- holle_tb_all |> 
   mutate(ID = 1:nrow(holle_tb_all),
-         Parameter_ID = paste(ID, "_", Holle_ID, "_", Concepticon_Gloss,
+         Parameter_ID2 = Combined_Index_Being_Separated,
+         Parameter_ID2 = if_else(is.na(Parameter_ID2), Holle_ID, Parameter_ID2),
+         Parameter_ID = paste(Parameter_ID2, "_", Concepticon_Gloss,
                               sep = "")) |> 
-  relocate(ID, .before = Holle_ID)
+  relocate(ID, .before = Holle_ID) |> 
+  select(-Parameter_ID2)
 
 # CLDF - create the FormTable
 cldf_form <- holle_tb_all |> 
