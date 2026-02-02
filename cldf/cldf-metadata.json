@@ -215,7 +215,7 @@
         {
             "url": "parameters.csv",
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 3718,
+            "dc:extent": 1486,
             "tableSchema": {
                 "columns": [
                     {
